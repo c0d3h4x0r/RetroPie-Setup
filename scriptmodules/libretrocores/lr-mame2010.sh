@@ -16,7 +16,7 @@ rp_module_licence="NONCOM https://raw.githubusercontent.com/libretro/mame2010-li
 rp_module_section="opt"
 
 function sources_lr-mame2010() {
-    gitPullOrClone "$md_build" https://github.com/libretro/mame2010-libretro.git
+    gitPullOrClone "$md_build" https://github.com/c0d3h4x0r/mame2010-libretro.git
 }
 
 function build_lr-mame2010() {
