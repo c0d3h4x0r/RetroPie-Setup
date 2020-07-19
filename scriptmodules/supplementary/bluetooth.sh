@@ -54,38 +54,120 @@ function depends_bluetooth() {
     getDepends "${depends[@]}"
 }
 
-function _bluetoothctl_slowecho_bluetooth() {
-    local line
+function _bluetoothctl_cmds_bluetooth() {
+    local -n _commands=$1
+    local -n _responses=$2
+    local _commands=("" "${_commands[@]}")
+    local _responses=("Agent registered" "${_responses[@]}")
 
-    IFS=$'\n'
-    for line in $(echo -e "${1}"); do
-        echo -e "$line"
-        sleep 1
-    done
-    unset IFS
-}
+    local capability
+    if _is_keyboard_attached_bluetooth; then
+        capability='KeyboardDisplay'
+    elif _is_joystick_attached_bluetooth; then
+        capability='DisplayYesNo'
+    else
+        capability='DisplayOnly'
+    fi
 
-function bluetoothctl_cmd_bluetooth() {
-    # create a named pipe & fd for input for bluetoothctl
+    # create a named pipe & fd for sending input to bluetoothctl
     local fifo="$(mktemp -u)"
     mkfifo "$fifo"
     exec 3<>"$fifo"
-    local line
-    while true; do
-        _bluetoothctl_slowecho_bluetooth "$1" >&3
-        # collect output for specified amount of time, then echo it
-        while read -r line; do
-            printf '%s\n' "$line"
-            # (slow) reply to any optional challenges
-            if [[ -n "$3" && "$line" =~ $3 ]]; then
-                _bluetoothctl_slowecho_bluetooth "$4" >&3
+
+    # issue commands, look for responses, quit on error or when done
+    local command_number=0
+    local max_command_number="$(expr ${#_commands[@]} - 1)"
+    local response_seen=0
+    local eof_seen=0
+    local line=''
+    local error=''
+    local next_command_time=0
+    # read from bluetoothctl one char at a time, without buffering
+    while [[ "$eof_seen" != '1' ]]; do
+        read -N 1 -t 0.25 -r char
+        local retval=$?
+        if [[ $retval != 0 ]]; then
+            if [[ $retval -lt 128 ]]; then
+                eof_seen=1
+                continue
             fi
-        done
-        _bluetoothctl_slowecho_bluetooth "quit\n" >&3
-        break
-    # read from bluetoothctl buffered line by line
-    done < <(timeout "$2" stdbuf -oL bluetoothctl --agent=NoInputNoOutput <&3)
+        fi
+
+        printf "$char"
+        [[ "$char" != $'\n' ]] && line="$line$char"
+
+        if [[ "$char" == 'K' ]] && [[ "${#line}" -ge 4 ]] && [[ "${line: -4}" == '[K' ]]; then
+            # bluetoothctl uses the above escape sequence to overwrite its own prompt
+            # with each output line
+            line=''
+            continue
+        elif [[ "$char" == 'm' ]]; then
+            local size_to_test=0
+            [[ "${#line}" -ge 9 ]] && size_to_test=9
+            if [[ "${line: -$size_to_test}" =~ \[([0-9]{1,3}(;[0-9]{1,2})?)?m$ ]]; then
+                # strip out color codes so our subsequent string comparisons will work
+                line="${line: 0: -${#BASH_REMATCH[0]}}"
+            fi
+        fi
+        
+        if [[ "$char" != $'\n' ]]; then
+            if [[ "$line" =~ ^\[.+\]#\ $ ]]; then
+                if [[ -n "$error" ]]; then
+                    echo "quit" >&3
+                elif [[ "$response_seen" == '1' ]] && [[ "$(date +%s)" -ge "$next_command_time" ]]; then
+                    # bluetoothctl is ready for the next command
+                    if [[ "$command_number" -ge "$max_command_number" ]]; then
+                        echo "quit" >&3
+                    else
+                        command_number="$(expr $command_number + 1)"
+                        if [[ "${_commands[$command_number]}" =~ ^sleep\ [[:digit:]\.]+$ ]]; then
+                            local duration="$( grep -oP '(?<=^sleep )[[:digit:].]+' <<< "${_commands[$command_number]}" )"
+                            next_command_time="$(expr $(date +%s) + $duration)"
+                        else
+                            echo "${_commands[$command_number]}" >&3
+                            [[ -z "${_responses[$command_number]}" ]] && response_seen=1 || response_seen=0
+                        fi
+                    fi
+                fi
+            elif [[ "$line" =~ ^\[agent\]\ Authorize\ service\ [0-9a-fA-F\-]+\ \(yes/no\):\ $ ]]; then
+                echo "yes" >&3
+            elif [[ "$line" =~ ^\[agent\]\ Confirm\ passkey\ [0-9]{6}\ \(yes/no\):\ $ ]]; then
+                echo "yes" >&3
+            elif [[ "$line" =~ ^\[agent\]\ PIN\ code:\ ([[:digit:]]{4,6})$ ]]; then
+                local pin="${BASH_REMATCH[1]}"
+                printMsgs "info" "Please enter PIN $pin (and press ENTER) on your Bluetooth device now."
+            elif [[ "$line" =~ ^\[agent\]\ Enter\ PIN\ code:\ $ ]]; then
+                local cmd=(dialog --nocancel --backtitle "$__backtitle" --menu "Which PIN do you want to use?" 22 76 16)
+                local options=(
+                    1 "0000"
+                    2 "Enter your own"
+                )
+                local choice=$("${cmd[@]}" "${options[@]}" 2>&1 >/dev/tty)
+                local pin="0000"
+                if [[ "$choice" == "2" ]]; then
+                    pin=$(dialog --backtitle "$__backtitle" --inputbox "Please enter a pin" 10 60 2>&1 >/dev/tty)
+                fi
+                printMsgs "info" "Please enter PIN $pin (and press ENTER) on your Bluetooth device now."
+                echo "$pin" >&3
+            fi
+        else
+            if [[ "$response_seen" == "0" ]] && [[ "$line" == "${_responses[$command_number]}" ]]; then
+                response_seen=1
+            elif [[ "$line" =~ (^|[^[:alnum:]_])(ERROR|Error|error|FAILED|Failed|failed)([^[:alnum:]_]|$) ]]; then
+                error="$line"
+            fi
+            line=''
+        fi
+    done < <(stdbuf -o0 bluetoothctl --agent="$capability" <&3 2>&1)
+
+    # clean up
     exec 3>&-
+    rm -f "$fifo"
+
+    if [[ -n "$error" ]]; then
+        printf "$error" >&2
+        return 1
+    fi
 }
 
 function _raw_list_known_devices_with_regex_bluetooth() {
@@ -105,14 +187,14 @@ function _raw_list_known_devices_with_regex_bluetooth() {
     done < <(bt-device --list)
 }
 
-function _list_paired_devices_bluetooth() {
+function _list_paired_connected_trusted_devices_bluetooth() {
     local line
     while read line; do
         if [[ "$line" =~ ^(.+)\ \((.+)\)$ ]]; then
             echo "${BASH_REMATCH[2]}"
             echo "${BASH_REMATCH[1]}"
         fi
-    done < <(_raw_list_known_devices_with_regex_bluetooth '(?s)^(?=.*\bPaired: 1\b).*$')
+    done < <(_raw_list_known_devices_with_regex_bluetooth '(?s)^(?=.*\b(Paired|Connected|Trusted): 1\b).*$')
 }
 
 function _list_connected_devices_bluetooth() {
@@ -122,10 +204,8 @@ function _list_connected_devices_bluetooth() {
             echo "${BASH_REMATCH[2]}"
             echo "${BASH_REMATCH[1]}"
         fi
-    # NOTE: PS3 (sixaxis) controllers don't show as paired even when connected, so we
-    # explicitly do NOT scope this to only Paired-and-Connected devices, but look for
-    # Trusted-and-Connected devices instead.
-    done < <(_raw_list_known_devices_with_regex_bluetooth '(?s)^(?=.*\bTrusted: 1\b)(?=.*\bConnected: 1\b).*$')
+    # PS3 (sixaxis) controllers never show as paired, so ignore Paired state
+    done < <(_raw_list_known_devices_with_regex_bluetooth '(?s)^(?=.*\bConnected: 1\b).*$')
 }
 
 function _list_disconnected_devices_bluetooth() {
@@ -135,8 +215,8 @@ function _list_disconnected_devices_bluetooth() {
             echo "${BASH_REMATCH[2]}"
             echo "${BASH_REMATCH[1]}"
         fi
-    # See note in list_connected_devices_bluetooth
-    done < <(_raw_list_known_devices_with_regex_bluetooth '(?s)^(?=.*\bTrusted: 1\b)(?=.*\bConnected: 0\b).*$')
+    # PS3 (sixaxis) controllers never show as paired, so include Trusted+Disconnected
+    done < <(_raw_list_known_devices_with_regex_bluetooth '(?s)^(?=.*\b(Paired|Trusted): 1\b)(?=.*\bConnected: 0\b).*$')
 }
 
 function list_unpaired_devices_bluetooth() {
@@ -150,17 +230,32 @@ function list_unpaired_devices_bluetooth() {
     # get an asc array of paired mac addresses
     while read mac_address; read device_name; do
         paired+=(["$mac_address"]="$device_name")
-    done < <(_list_paired_devices_bluetooth)
+    done < <(_list_paired_connected_trusted_devices_bluetooth)
 
     # sixaxis: add USB pairing information
-    [[ -n "$(lsmod | grep hid_sony)" ]] && info_text="$info_text\n\nDualShock registration: while this text is visible, unplug the controller, press the PS/SHARE button, and then replug the controller."
-
+    [[ -n "$(lsmod | grep hid_sony)" ]] && info_text="$info_text\n\nPS3 sixaxis detection: while this text is visible, unplug the controller, press the pinhole reset button, then replug the controller."
     printMsgs "info" "$info_text"
+
     if hasPackage bluez 5; then
-        # sixaxis: reply to authorization challenge on USB cable connect
+        local commands=(
+            "default-agent"
+            "scan on"
+            "sleep 15"
+            "scan off"
+            "devices"
+            )
+
+        local responses=(
+            "Default agent request successful"
+            "Discovery started"
+            ""
+            "Discovery stopped"
+            ""
+            )
+
         while read mac_address; read device_name; do
             found+=(["$mac_address"]="$device_name")
-        done < <(bluetoothctl_cmd_bluetooth "default-agent\nscan on" "15" "Authorize service$" "yes" >/dev/null; bluetoothctl_cmd_bluetooth "devices" "3" | grep "^Device " | cut -d" " -f2,3- | sed 's/ /\n/')
+        done < <(_bluetoothctl_cmds_bluetooth commands responses | grep "^Device " | cut -d" " -f2,3- | sed 's/ /\n/')
     else
         while read; read mac_address; read device_name; do
             found+=(["$mac_address"]="$device_name")
@@ -204,13 +299,13 @@ function remove_paired_device_bluetooth() {
     while read mac_address; read device_name; do
         mac_addresses+=(["$mac_address"]="$device_name")
         options+=("$mac_address" "$device_name")
-    done < <(_list_paired_devices_bluetooth)
+    done < <(_list_paired_connected_trusted_devices_bluetooth)
 
     if [[ ${#mac_addresses[@]} -eq 0 ]] ; then
         printMsgs "dialog" "There are no devices to remove."
     else
         local cmd=(dialog --backtitle "$__backtitle" --menu "Which Bluetooth device do you want to remove?" 22 76 16)
-        choice=$("${cmd[@]}" "${options[@]}" 2>&1 >/dev/tty)
+        local choice=$("${cmd[@]}" "${options[@]}" 2>&1 >/dev/tty)
         [[ -z "$choice" ]] && return
 
         printMsgs "info" "Removing..."
@@ -220,6 +315,15 @@ function remove_paired_device_bluetooth() {
         else
             printMsgs "dialog" "Error removing device:\n\n$out"
         fi
+    fi
+}
+
+function _is_ps3_controller_bluetooth() {
+    local device_name="$1"
+    if [[ "$device_name" =~ PLAYSTATION\(R\)3\ Controller ]]; then
+        return 0
+    else
+        return 1
     fi
 }
 
@@ -240,7 +344,7 @@ function pair_device_bluetooth() {
     fi
 
     local cmd=(dialog --backtitle "$__backtitle" --menu "Which Bluetooth device do you want to pair?" 22 76 16)
-    choice=$("${cmd[@]}" "${options[@]}" 2>&1 >/dev/tty)
+    local choice=$("${cmd[@]}" "${options[@]}" 2>&1 >/dev/tty)
     [[ -z "$choice" ]] && return
 
     mac_address="$choice"
@@ -248,84 +352,46 @@ function pair_device_bluetooth() {
 
     printMsgs "info" "Pairing..."
 
-    if [[ "$device_name" =~ "PLAYSTATION(R)3 Controller" ]]; then
-        bt-device --disconnect="$mac_address" >/dev/null
-        bt-device --set "$mac_address" Trusted 1 >/dev/null
-        if [[ "$?" -eq 0 ]]; then
-            printMsgs "dialog" "Successfully authenticated $device_name ($mac_address).\n\nYou can now remove the USB cable."
+    local commands=(
+        "default-agent"
+        "disconnect $mac_address"
+        "unblock $mac_address"
+        "trust $mac_address"
+        )
+
+    local responses=(
+        "Default agent request successful"
+        "Successful disconnected"
+        "Changing $mac_address unblock succeeded"
+        "Changing $mac_address trust succeeded"
+        )
+
+    if ! _is_ps3_controller_bluetooth "$device_name"; then
+        commands+=(
+            "pair $mac_address"
+            "connect $mac_address"
+            )
+    
+        responses+=(
+            "Pairing successful"
+            "Connection successful"
+            )
+    fi
+    
+    local errfile="$(mktemp)"
+    if _bluetoothctl_cmds_bluetooth commands responses 1>/dev/null 2>"$errfile"; then
+        if _is_ps3_controller_bluetooth "$device_name"; then
+            printMsgs "dialog" "Successfully paired $device_name ($mac_address).\n\nUnplug it now and press the PS button to connect it wirelessly."
         else
-            printMsgs "dialog" "Unable to authenticate $device_name ($mac_address).\n\nPlease try to pair the device again, making sure to follow the on-screen steps exactly."
+            printMsgs "dialog" "Successfully paired and connected to $device_name ($mac_address)."
         fi
-        return
-    fi
-
-    local capability
-    if _is_keyboard_attached_bluetooth; then
-        capability='KeyboardDisplay'
-    elif _is_joystick_attached_bluetooth; then
-        capability='DisplayYesNo'
     else
-        capability='DisplayOnly'
-    fi
-
-    # create a named pipe & fd for input for pair-device
-    local fifo="$(mktemp -u)"
-    mkfifo "$fifo"
-    exec 3<>"$fifo"
-    local line
-    local pin
-    local passkey
-    local error=""
-    # read from pair-device buffered line by line
-    while read -r line; do
-        if [ -z "$error" ] && printf "$line" | grep -qiP '\b(error|failed)\b'; then
-            error="$line"
-            continue
-        elif [ -n "$error" ]; then
-            error="$error\n$line"
-            continue
-        fi
-        case "$line" in
-            "RequestPinCode"*)
-                cmd=(dialog --nocancel --backtitle "$__backtitle" --menu "Which PIN do you want to use?" 22 76 16)
-                options=(
-                    1 "Pin 0000"
-                    2 "Enter own Pin"
-                )
-                choice=$("${cmd[@]}" "${options[@]}" 2>&1 >/dev/tty)
-                pin="0000"
-                if [[ "$choice" == "2" ]]; then
-                    pin=$(dialog --backtitle "$__backtitle" --inputbox "Please enter a pin" 10 60 2>&1 >/dev/tty)
-                fi
-                printMsgs "info" "Please enter PIN $pin (and press ENTER) on your Bluetooth device now."
-                echo "$pin" >&3
-                # read "Enter PIN Code:"
-                read -n 15 line
-                ;;
-            "RequestConfirmation"*)
-                # read "Confirm passkey (yes/no): "
-                echo "yes" >&3
-                read -n 26 line
-                break
-                ;;
-            "DisplayPasskey"*|"DisplayPinCode"*)
-                # extract key from end of line
-                [[ "$line" =~ ,\ (.+)\) ]] && passkey=${BASH_REMATCH[1]}
-                printMsgs "info" "Please enter $passkey (and press ENTER) on your Bluetooth device now."
-                ;;
-        esac
-    done < <(stdbuf -oL "$md_data/pair-device" -c "$capability" -i hci0 "$mac_address" <&3)
-    exec 3>&-
-    rm -f "$fifo"
-
-    if [[ -n "$error" ]]; then
-        local msg="An error occurred while pairing and connecting to $mac_address $device_name:\n\n$error"
+        local error; error="$(<"$errfile")"
+        rm "$errfile"
+        local msg="An error occurred while trying to pair $device_name ($mac_address):\n\n$error"
         msg="$msg\n\nPlease try pairing with the command line tool 'bluetoothctl' instead."
         printMsgs "dialog" "$msg"
         return 1
-    else
-        printMsgs "dialog" "Successfully paired and connected to $mac_address $device_name."
-        return 0
     fi
 }
 
@@ -337,7 +403,7 @@ function setup_joypad_udev_rule_bluetooth() {
     while read mac_address; read device_name; do
         mac_addresses+=(["$mac_address"]="$device_name")
         options+=("$mac_address" "$device_name")
-    done < <(_list_paired_devices_bluetooth)
+    done < <(_list_paired_connected_trusted_devices_bluetooth)
 
     if [[ ${#mac_addresses[@]} -eq 0 ]] ; then
         printMsgs "dialog" "There are no paired bluetooth devices."
