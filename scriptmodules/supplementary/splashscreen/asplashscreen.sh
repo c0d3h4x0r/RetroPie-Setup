@@ -43,7 +43,11 @@ do_start () {
         while ! pgrep "dbus" >/dev/null; do
             sleep 1
         done
-        omxplayer --no-osd -o both -b --layer 10000 "$line"
+
+        # Default volume is 100%, check if configured otherwise
+        [ -z "$VOLUME" ] && VOLUME=100
+
+        omxplayer --vol $(expr -1000 \+ $VOLUME \* 1000) --no-osd -o both -b --layer 10000 "$line"
     elif $(echo "$line" | grep -q "$REGEX_IMAGE"); then
         if [ "$RANDOMIZE" = "disabled" ]; then
             local count=$(wc -l <"$config")

@@ -303,6 +303,14 @@ function gui_splashscreen() {
         options+=(
             A "Configure image splashscreen duration ($duration sec)"
             )
+
+        iniGet "VOLUME"
+        # default splashscreen volume is 100
+        local volume=${ini_value:-100}
+        options+=(
+            B "Configure video splashscreen volume ($volume percent)"
+            )
+
         local choice=$("${cmd[@]}" "${options[@]}" 2>&1 >/dev/tty)
         if [[ -n "$choice" ]]; then
             case "$choice" in
@@ -351,6 +359,12 @@ function gui_splashscreen() {
                     duration=$(dialog --title "Splashscreen duration" --clear --rangebox "Configure how many seconds the splashscreen is active" 0 60 5 100 $duration 2>&1 >/dev/tty)
                     if [[ -n "$duration" ]]; then
                         iniSet "DURATION" "${duration//[^[:digit:]]/}"
+                    fi
+                    ;;
+                B)
+                    volume-$(dialog --title "Splashscreen volume" --clear --rangebox "Configure video splashscreen volume (percentage)" 0 60 0 100 $volume 2>&1 >/dev/tty)
+                    if [[ -n "$volume" ]]; then
+                        iniSet "VOLUME" "${volume//[^[:digit:]]/}"
                     fi
                     ;;
             esac
