@@ -1,14 +1,23 @@
 RetroPie-Setup (c0d3h4x0r fork)
 ===============================
-This public fork of RetroPie-Setup is for users who dislike jerks and need fixes for annoying bugs.
+This public fork of RetroPie-Setup is for users who need fixes *now* for annoying problems/shortcomings that the mainline RetroPie maintainer isn't willing to do anything about.
 
-The maintainer of the mainline RetroPie-Setup repo has proven difficult (at best) to impossible (at worst) to try to work with for making contributions back to mainline, so I've opted to make this public fork available for the benefit of users everywhere.  Hopefully the RetroPie maintainers will eventually fix these issues in mainline in their own way (or by finally choosing to take some of the changes I've made in this fork).
+The main advantages this fork offers are:
 
-The main things that motivated this fork were:
+* Rewritten Bluetooth configurator for more reliable device scanning, pairing, connecting, and display.  It uses `bluetoothctl` under the hood to do all scanning, pairing, connecting, trusting, etc.  It has been self-tested against a variety of Bluetooth devices, including PS3 sixaxis/DualShock controllers, and verified to work better with all of them.
 
-* Horrible reliability and usability problems with Bluetooth device management and pairing.  This has been fixed via a totally rewritten bluetooth.sh script that leverages bluetoothctl under the hood to do all scanning and pairing work.  These changes have been self-tested against a variety of Bluetooth devices, including PS3 sixaxis/DualShock controllers, and verified to work better with all of them.
+* Better gamepad button mappings for the joy2key script used to drive the RetroPie-Setup and runcommand textual menus with a gamepad.  The changes in this fork make the gamepad button mappings match those used in EmulationStation, including using the L/R shoulder buttons for PageUp/PageDown.  NOTE: You'll need to run `retropie_setup.sh` and use its package manager to re-install the 'runcommand' package from "prebuilt binaries" to get the runcommand dialog to pick up the fix.
 
-* Just plain stupid gamepad button mappings in the joy2key layer used to drive the RetroPie-Setup and runcommand textual menus usng a gamepad.  The changes in this fork make the gamepad button mappings match those used in EmulationStation, including using the L/R shoulder buttons for PageUp/PageDown.  NOTE: You'll need to re-install (or manually copy over to the `/opt/` folder area) the updated 'runcommand' script in order for the emulator launching dialogs to pick up the fixes. 
+* Added ability to `splashscreen` module to configure the playback volume of a video splashscreen.  NOTE: You'll need to run `retropie_setup.sh` and use its package manager to re-install the `splashscreen` package from "prebuilt binaries" to get the splashscreen to pick up this new setting.
+
+How to install
+--------------
+```shell
+cd ~/RetroPie-Setup
+git remote add c0d3h4x0r https://github.com/c0d3h4x0r/RetroPie-Setup.git
+git branch --set-upstream-to=c0d3h4x0r/master
+git pull
+```
 
 General Usage
 -------------
