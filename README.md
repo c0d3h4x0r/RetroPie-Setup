@@ -12,6 +12,8 @@ The main advantages this fork offers are:
 * Added ability to `splashscreen` module to configure the playback volume of a video splashscreen.
   * **NOTE**: You'll need to run `retropie_setup.sh` and use its package manager to re-install the `splashscreen` package from "prebuilt binaries" to get the splashscreen to pick up this new setting.
 
+* Greatly improved `joy2key` script used to drive the `retropie_setup.sh` and `runcommand` textual menus with a gamepad.  The changes in this fork make the gamepad control of these menus far more responsive and reliable.
+
 How to install
 --------------
 ```shell
