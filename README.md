@@ -1,6 +1,6 @@
 RetroPie-Setup (c0d3h4x0r fork)
 ===============================
-This public fork of RetroPie-Setup is for users who need fixes *now* for annoying problems/shortcomings that the mainline RetroPie maintainer isn't willing to do anything about.
+This public fork of RetroPie-Setup is for users who need fixes *now* for annoying problems/shortcomings that the mainline RetroPie maintainer isn't willing to do anything about or accept fixes for.
 
 The main advantages this fork offers are:
 
