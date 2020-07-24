@@ -6,9 +6,11 @@ The main advantages this fork offers are:
 
 * Rewritten Bluetooth configurator for more reliable device scanning, pairing, connecting, and display.  It uses `bluetoothctl` under the hood to do all scanning, pairing, connecting, trusting, etc.  It has been self-tested against a variety of Bluetooth devices, including PS3 sixaxis/DualShock controllers, and verified to work better with all of them.
 
-* Better gamepad button mappings for the joy2key script used to drive the RetroPie-Setup and runcommand textual menus with a gamepad.  The changes in this fork make the gamepad button mappings match those used in EmulationStation, including using the L/R shoulder buttons for PageUp/PageDown.  NOTE: You'll need to run `retropie_setup.sh` and use its package manager to re-install the 'runcommand' package from "prebuilt binaries" to get the runcommand dialog to pick up the fix.
+* Better gamepad button mappings for the joy2key script used to drive the RetroPie-Setup and runcommand textual menus with a gamepad.  The changes in this fork make the gamepad button mappings match those used in EmulationStation, including using the L/R shoulder buttons for PageUp/PageDown.
+  * **NOTE**: You'll need to run `retropie_setup.sh` and use its package manager to re-install the 'runcommand' package from "prebuilt binaries" to get the runcommand dialog to pick up the fix.
 
-* Added ability to `splashscreen` module to configure the playback volume of a video splashscreen.  NOTE: You'll need to run `retropie_setup.sh` and use its package manager to re-install the `splashscreen` package from "prebuilt binaries" to get the splashscreen to pick up this new setting.
+* Added ability to `splashscreen` module to configure the playback volume of a video splashscreen.
+  * **NOTE**: You'll need to run `retropie_setup.sh` and use its package manager to re-install the `splashscreen` package from "prebuilt binaries" to get the splashscreen to pick up this new setting.
 
 How to install
 --------------
