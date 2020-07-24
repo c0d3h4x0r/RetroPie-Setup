@@ -9,6 +9,8 @@
 # at https://raw.githubusercontent.com/RetroPie/RetroPie-Setup/master/LICENSE.md
 #
 
+export ESCDELAY=100
+
 ## @file supplementary/runcommand/runcommand.sh
 ## @brief runcommand launching script
 ## @copyright GPLv3

@@ -13,6 +13,8 @@
 ## @brief RetroPie helpers library
 ## @copyright GPLv3
 
+export ESCDELAY=100
+
 ## @fn printMsgs()
 ## @param type style of display to use - dialog, console or heading
 ## @param message string or array of messages to display
