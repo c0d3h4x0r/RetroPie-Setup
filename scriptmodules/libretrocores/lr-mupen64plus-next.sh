@@ -31,15 +31,20 @@ function sources_lr-mupen64plus-next() {
 
 function build_lr-mupen64plus-next() {
     local params=()
-    if isPlatform "videocore"; then
-        params+=(platform="$__platform")
-    elif isPlatform "mesa"; then
-        params+=(platform="$__platform-mesa")
-    elif isPlatform "mali"; then
-        params+=(platform="odroid")
-    else
-        isPlatform "arm" && params+=(WITH_DYNAREC=arm)
-        isPlatform "neon" && params+=(HAVE_NEON=1)
+    if isPlatform "arm"; then
+        if isPlatform "videocore"; then
+            params+=(platform="$__platform")
+        elif isPlatform "mesa"; then
+            params+=(platform="$__platform-mesa")
+        elif isPlatform "mali"; then
+            params+=(platform="odroid")
+        fi
+        if isPlatform "neon"; then
+            params+=(HAVE_NEON=1)
+        else
+            # force disabling HAVE_NEON on armv6 as makefile sets it for all rpi targets
+            params+=(HAVE_NEON=0)
+        fi
     fi
     if isPlatform "gles3"; then
         params+=(FORCE_GLES3=1)
@@ -72,6 +77,16 @@ function install_lr-mupen64plus-next() {
 function configure_lr-mupen64plus-next() {
     mkRomDir "n64"
     ensureSystemretroconfig "n64"
+
+    if isPlatform "rpi"; then
+        # Disable hybrid upscaling filter (needs better GPU)
+        setRetroArchCoreOption "mupen64plus-next-HybridFilter" "False"
+        # Disable overscan/VI emulation (slight performance drain)
+        setRetroArchCoreOption "mupen64plus-next-EnableOverscan" "Disabled"
+        # Enable Threaded GL calls
+        setRetroArchCoreOption "mupen64plus-next-ThreadedRenderer" "True"
+    fi
+    setRetroArchCoreOption "mupen64plus-next-EnableNativeResFactor" "1"
 
     addEmulator 1 "$md_id" "n64" "$md_inst/mupen64plus_next_libretro.so"
     addSystem "n64"

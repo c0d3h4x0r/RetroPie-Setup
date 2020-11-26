@@ -66,7 +66,7 @@ function build_ffmpeg_ppsspp() {
             arch="x86";
         fi
     elif isPlatform "aarch64"; then
-        arch="arm64"
+        arch="aarch64"
     fi
     isPlatform "vero4k" && local extra_params='--arch=arm'
 
@@ -135,6 +135,9 @@ function build_ppsspp() {
         params+=(-DUSING_GLES2=ON -DUSING_EGL=OFF)
     elif isPlatform "mali"; then
         params+=(-DUSING_GLES2=ON -DUSING_FBDEV=ON)
+        # remove -DGL_GLEXT_PROTOTYPES on odroid-xu/tinker to avoid errors due to header prototype differences
+        params+=(-DCMAKE_C_FLAGS="${CFLAGS/-DGL_GLEXT_PROTOTYPES/}")
+        params+=(-DCMAKE_CXX_FLAGS="${CXXFLAGS/-DGL_GLEXT_PROTOTYPES/}")
     elif isPlatform "tinker"; then
         params+=(-DCMAKE_TOOLCHAIN_FILE="$md_data/tinker.armv7.cmake")
     elif isPlatform "vero4k"; then

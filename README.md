@@ -26,3 +26,23 @@ git pull
 Mainline documentation
 ----------------------
 Please refer to the [mainline readme](https://githubcom/RetroPie/RetroPie-Setup.git).
+=======
+When you first run the script it may install some additional packages that are needed.
+
+Binaries and Sources
+--------------------
+
+On the Raspberry Pi, RetroPie Setup offers the possibility to install from binaries or source. For other supported platforms only a source install is available. Installing from binary is recommended on a Raspberry Pi as building everything from source can take a long time.
+
+For more information, visit the site at https://retropie.org.uk or the repository at https://github.com/RetroPie/RetroPie-Setup.
+
+Docs
+----
+
+You can find useful information about several components and answers to frequently asked questions in the [RetroPie Docs](https://retropie.org.uk/docs/). If you think that there is something missing, you are invited to submit a pull request to the [RetroPie-Docs repository](https://github.com/RetroPie/RetroPie-Docs).
+
+
+Thanks
+------
+
+This script just simplifies the usage of the great works of many other people that enjoy the spirit of retrogaming. Many thanks go to them!

@@ -35,7 +35,7 @@ function rps_logInit() {
 function rps_logStart() {
     echo -e "Log started at: $(date -d @$time_start)\n"
     echo "RetroPie-Setup version: $__version ($(git -C "$scriptdir" log -1 --pretty=format:%h))"
-    echo "System: $__os_desc - $(uname -a)"
+    echo "System: $__platform ($__platform_arch) - $__os_desc - $(uname -a)"
 }
 
 function rps_logEnd() {
@@ -74,8 +74,16 @@ function depends_setup() {
         printMsgs "dialog" "WARNING: You have the experimental desktop GL driver enabled. This is NOT supported by RetroPie, and Emulation Station as well as emulators may fail to launch.\n\nPlease disable the experimental desktop GL driver from the raspi-config 'Advanced Options' menu."
     fi
 
+    if isPlatform "rpi" && isPlatform "64bit"; then
+        printMsgs "dialog" "WARNING: 64bit support on the Raspberry Pi is not yet officially supported, although the main emulator package selection should work ok."
+    fi
+
     if [[ "$__os_debian_ver" -eq 8 ]]; then
         printMsgs "dialog" "Raspbian/Debian Jessie and versions of Ubuntu below 18.04 are no longer supported.\n\nPlease install RetroPie from a fresh image (or if running Ubuntu, upgrade your OS)."
+    fi
+
+    if [[ "$__os_debian_ver" -eq 9 ]] && [[ "$__has_binaries" -eq 1 ]]; then
+        printMsgs "dialog" "You are currently running RetroPie on a Raspbian Stretch based distribution.\n\nWe will soon stop building binaries for your system, and recommend you switch to a newer RetroPie image.\n\nYou will still be able to update packages from source when binaries are no longer available, but due to the age of Raspbian Stretch we can't guarantee all software included will work."
     fi
 
     # make sure user has the correct group permissions
@@ -363,10 +371,10 @@ function section_gui_setup() {
                         # if we are updating, skip packages that are not installed
                         if [[ "$mode" == "update" ]]; then
                             if rp_isInstalled "$idx"; then
-                                rp_installModule "$idx" "_update_" || break
+                                rp_installModule "$idx" "_update_"
                             fi
                         else
-                            rp_installModule "$idx" "_auto_" || break
+                            rp_installModule "$idx" "_auto_"
                         fi
                     done
                     rps_logEnd
@@ -482,7 +490,7 @@ function update_packages_gui_setup() {
 function basic_install_setup() {
     local idx
     for idx in $(rp_getSectionIds core) $(rp_getSectionIds main); do
-        rp_installModule "$idx" || return 1
+        rp_installModule "$idx"
     done
     return 0
 }
@@ -550,7 +558,7 @@ function gui_setup() {
     while true; do
         local commit=$(git -C "$scriptdir" log -1 --pretty=format:"%cr (%h)")
 
-        cmd=(dialog --backtitle "$__backtitle" --title "RetroPie-Setup Script" --cancel-label "Exit" --item-help --help-button --default-item "$default" --menu "Version: $__version ($__platform - running on $__os_desc)\nLast Commit: $commit" 22 76 16)
+        cmd=(dialog --backtitle "$__backtitle" --title "RetroPie-Setup Script" --cancel-label "Exit" --item-help --help-button --default-item "$default" --menu "Version: $__version - Last Commit: $commit\nSystem: $__platform ($__platform_arch) - running on $__os_desc" 22 76 16)
         options=(
             I "Basic install" "I This will install all packages from Core and Main which gives a basic RetroPie install. Further packages can then be installed later from the Optional and Experimental sections. If binaries are available they will be used, alternatively packages will be built from source - which will take longer."
 

@@ -73,6 +73,11 @@ function conf_binary_vars() {
     __binary_url="$__binary_base_url/$__binary_path"
 
     __archive_url="https://files.retropie.org.uk/archives"
+
+    [[ -z "$__gpg_signing_key" ]] && __gpg_signing_key="retropieproject@gmail.com"
+    if ! gpg --list-keys "$__gpg_signing_key" &>/dev/null; then
+        gpg --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys DC9D77FF8208FFC51D8F50CCF1B030906A3B0D31
+    fi
 }
 
 function conf_build_vars() {
@@ -105,7 +110,7 @@ function conf_build_vars() {
     [[ -z "$__cpu_flags" ]] && __cpu_flags="$__default_cpu_flags"
 
     # if default cxxflags is empty, use our default cflags
-    [[ -z "$__default_cxxflags" ]] && __default_cxx_flags="$__default_cflags"
+    [[ -z "$__default_cxxflags" ]] && __default_cxxflags="$__default_cflags"
 
     # add our cpu and optimisation flags
     __default_cflags+=" $__cpu_flags $__opt_flags"
@@ -166,18 +171,26 @@ function get_os_version() {
                 error="You need Raspbian/Debian Stretch or newer"
             fi
 
+            # 64bit Raspberry Pi OS identifies as Debian, but functions (currently) as Raspbian
+            # we will check package sources and set to Raspbian
+            if isPlatform "aarch64" && apt-cache policy | grep -q "archive.raspberrypi.org"; then
+                __os_id="Raspbian"
+            fi
+
             # set a platform flag for osmc
             if grep -q "ID=osmc" /etc/os-release; then
-                __platform_flags+=" osmc"
+                __platform_flags+=(osmc)
             fi
 
             # and for xbian
             if grep -q "NAME=XBian" /etc/os-release; then
-                __platform_flags+=" xbian"
+                __platform_flags+=(xbian)
             fi
 
             # we provide binaries for RPI on Raspbian 9/10
-            if isPlatform "rpi" && compareVersions "$__os_debian_ver" gt 8 && compareVersions "$__os_debian_ver" lt 11; then
+            if isPlatform "rpi" && \
+               isPlatform "32bit" && \
+               compareVersions "$__os_debian_ver" gt 8 && compareVersions "$__os_debian_ver" lt 11; then
                # only set __has_binaries if not already set
                [[ -z "$__has_binaries" ]] && __has_binaries=1
             fi
@@ -268,15 +281,12 @@ function get_os_version() {
 
     [[ -n "$error" ]] && fatalError "$error\n\n$(lsb_release -idrc)"
 
-    # add 32bit/64bit to platform flags
-    __platform_flags+=" $(getconf LONG_BIT)bit"
-
     # configure Raspberry Pi graphics stack
     isPlatform "rpi" && get_rpi_video
 }
 
 function get_retropie_depends() {
-    local depends=(git dialog wget gcc g++ build-essential unzip xmlstarlet python3-pyudev ca-certificates)
+    local depends=(git dialog wget gcc g++ build-essential unzip xmlstarlet python3-pyudev ca-certificates dirmngr)
 
     [[ -n "$DISTCC_HOSTS" ]] && depends+=(distcc)
 
@@ -301,10 +311,16 @@ function get_rpi_video() {
     fi
 
     if [[ "$__has_kms" -eq 1 ]]; then
-        __platform_flags+=" mesa kms"
-        [[ "$(ls -A /sys/bus/platform/drivers/vc4_firmware_kms/*.firmwarekms 2>/dev/null)" ]] && __platform_flags+=" dispmanx"
+        __platform_flags+=(mesa kms)
+        if [[ -z "$__has_dispmanx" ]]; then
+            # in a chroot, unless __has_dispmanx is set, default to fkms (adding dispmanx flag)
+            [[ "$__chroot" -eq 1 ]] && __has_dispmanx=1
+            # if running fkms driver, add dispmanx flag
+            [[ "$(ls -A /sys/bus/platform/drivers/vc4_firmware_kms/*.firmwarekms 2>/dev/null)" ]] && __has_dispmanx=1
+        fi
+        [[ "$__has_dispmanx" -eq 1 ]] && __platform_flags+=(dispmanx)
     else
-        __platform_flags+=" videocore dispmanx"
+        __platform_flags+=(videocore dispmanx)
     fi
 
     # delete legacy pkgconfig that conflicts with Mesa (may be installed via rpi-update)
@@ -366,11 +382,26 @@ function get_platform() {
                 __platform="armv7-mali"
                 ;;
             *)
-                case $architecture in
-                    i686|x86_64|amd64)
-                        __platform="x86"
-                        ;;
-                esac
+                # jetson nano and tegra x1 can be identified via /sys/firmware/devicetree/base/model
+                local model_path="/sys/firmware/devicetree/base/model"
+                if [[ -f "$model_path" ]]; then
+                    # ignore end null to avoid bash warning
+                    local model=$(tr -d '\0' <$model_path)
+                    case "$model" in
+                        "NVIDIA Jetson Nano Developer Kit")
+                            __platform="jetson-nano"
+                            ;;
+                        icosa)
+                            __platform="tegra-x1"
+                            ;;
+                    esac
+                else
+                    case $architecture in
+                        i686|x86_64|amd64)
+                            __platform="x86"
+                            ;;
+                    esac
+                fi
                 ;;
         esac
     fi
@@ -393,72 +424,98 @@ function get_platform() {
 
 function set_platform_defaults() {
     __default_opt_flags="-O2"
+
+    # add platform name and 32bit/64bit to platform flags
+    __platform_flags=("$__platform" "$(getconf LONG_BIT)bit")
+    __platform_arch=$(uname -m)
 }
 
 function platform_rpi1() {
-    __default_cpu_flags="-mcpu=arm1176jzf-s -mfpu=vfp -mfloat-abi=hard"
-    __platform_flags="arm armv6 rpi gles"
+    __default_cpu_flags="-mcpu=arm1176jzf-s -mfpu=vfp"
+    __platform_flags+=(arm armv6 rpi gles)
     # if building in a chroot, what cpu should be set by qemu
     # make chroot identify as arm6l
     __qemu_cpu=arm1176
 }
 
 function platform_rpi2() {
-    __default_cpu_flags="-mcpu=cortex-a7 -mfpu=neon-vfpv4 -mfloat-abi=hard"
-    __platform_flags="arm armv7 neon rpi gles"
+    __default_cpu_flags="-mcpu=cortex-a7 -mfpu=neon-vfpv4"
+    __platform_flags+=(arm armv7 neon rpi gles)
     __qemu_cpu=cortex-a7
 }
 
 # note the rpi3 currently uses the rpi2 binaries - for ease of maintenance - rebuilding from source
 # could improve performance with the compiler options below but needs further testing
 function platform_rpi3() {
-    __default_cpu_flags="-march=armv8-a+crc -mtune=cortex-a53 -mfpu=neon-fp-armv8 -mfloat-abi=hard"
-    __platform_flags="arm armv8 neon rpi gles"
+    if isPlatform "32bit"; then
+        __default_cpu_flags="-mcpu=cortex-a53 -mfpu=neon-fp-armv8"
+        __platform_flags+=(arm armv8 neon)
+    else
+        __default_cpu_flags="-mcpu=cortex-a53"
+        __platform_flags+=(aarch64)
+    fi
+    __platform_flags+=(rpi gles)
     __qemu_cpu=cortex-a53
 }
 
 function platform_rpi4() {
-    __default_cpu_flags="-march=armv8-a+crc -mtune=cortex-a72 -mfpu=neon-fp-armv8 -mfloat-abi=hard"
-    __platform_flags="arm armv8 neon rpi gles gles3"
+    if isPlatform "32bit"; then
+        __default_cpu_flags="-mcpu=cortex-a72 -mfpu=neon-fp-armv8"
+        __platform_flags+=(arm armv8 neon)
+    else
+        __default_cpu_flags="-mcpu=cortex-a72"
+        __platform_flags+=(aarch64)
+    fi
+    __platform_flags+=(rpi gles gles3)
 }
 
 function platform_odroid-c1() {
-    __default_cpu_flags="-mcpu=cortex-a5 -mfpu=neon-vfpv4 -mfloat-abi=hard"
-    __platform_flags="arm armv7 neon mali gles"
+    __default_cpu_flags="-marm -mcpu=cortex-a5 -mfpu=neon-vfpv4"
+    __platform_flags+=(arm armv7 neon mali gles)
     __qemu_cpu=cortex-a9
 }
 
 function platform_odroid-c2() {
-    if [[ "$(getconf LONG_BIT)" -eq 32 ]]; then
-        __default_cpu_flags="-march=armv8-a+crc -mtune=cortex-a53 -mfpu=neon-fp-armv8"
-        __platform_flags="arm armv8 neon mali gles"
+    if isPlatform "32bit"; then
+        __default_cpu_flags="-marm -mcpu=cortex-a53 -mfpu=neon-fp-armv8"
+        __platform_flags+=(arm armv8 neon)
     else
-        __default_cpu_flags="-march=native"
-        __platform_flags="aarch64 mali gles"
+        __default_cpu_flags="-mcpu=cortex-a53"
+        __platform_flags+=(aarch64)
     fi
+    __platform_flags+=(mali gles)
 }
 
 function platform_odroid-xu() {
-    __default_cpu_flags="-mcpu=cortex-a7 -mfpu=neon-vfpv4 -mfloat-abi=hard"
+    __default_cpu_flags="-marm -mcpu=cortex-a7 -mfpu=neon-vfpv4"
     # required for mali-fbdev headers to define GL functions
-    __default_cflags=" -DGL_GLEXT_PROTOTYPES"
-    __platform_flags="arm armv7 neon mali gles"
+    __default_cflags="-DGL_GLEXT_PROTOTYPES"
+    __platform_flags+=(arm armv7 neon mali gles)
+}
+
+function platform_tegra-x1() {
+    __default_cpu_flags="-mcpu=cortex-a57"
+    __platform_flags+=(aarch64 x11 gl)
+}
+
+function platform_jetson-nano() {
+    platform_tegra-x1
 }
 
 function platform_tinker() {
-    __default_cpu_flags="-marm -march=armv7-a -mtune=cortex-a17 -mfpu=neon-vfpv4 -mfloat-abi=hard"
+    __default_cpu_flags="-marm -mcpu=cortex-a17 -mfpu=neon-vfpv4"
     # required for mali headers to define GL functions
-    __default_cflags=" -DGL_GLEXT_PROTOTYPES"
-    __platform_flags="arm armv7 neon kms gles"
+    __default_cflags="-DGL_GLEXT_PROTOTYPES"
+    __platform_flags+=(arm armv7 neon kms gles)
 }
 
 function platform_x86() {
     __default_cpu_flags="-march=native"
-    __platform_flags="gl"
+    __platform_flags+=(gl)
     if [[ "$__has_kms" -eq 1 ]]; then
-        __platform_flags+=" kms"
+        __platform_flags+=(kms)
     else
-        __platform_flags+=" x11"
+        __platform_flags+=(x11)
     fi
 }
 
@@ -467,17 +524,17 @@ function platform_generic-x11() {
 }
 
 function platform_armv7-mali() {
-    __default_cpu_flags="-march=armv7-a -mfpu=neon-vfpv4 -mfloat-abi=hard"
-    __platform_flags="arm armv7 neon mali gles"
+    __default_cpu_flags="-march=armv7-a -mfpu=neon-vfpv4"
+    __platform_flags+=(arm armv7 neon mali gles)
 }
 
 function platform_imx6() {
-    __default_cpu_flags="-march=armv7-a -mfpu=neon -mtune=cortex-a9 -mfloat-abi=hard"
-    __platform_flags="arm armv7 neon"
+    __default_cpu_flags="-march=armv7-a -mfpu=neon -mtune=cortex-a9"
+    __platform_flags+=(arm armv7 neon)
 }
 
 function platform_vero4k() {
     __default_cpu_flags="-mcpu=cortex-a7 -mfpu=neon-vfpv4"
     __default_cflags="-I/opt/vero3/include -L/opt/vero3/lib"
-    __platform_flags="arm armv7 neon mali gles"
+    __platform_flags+=(arm armv7 neon mali gles)
 }
