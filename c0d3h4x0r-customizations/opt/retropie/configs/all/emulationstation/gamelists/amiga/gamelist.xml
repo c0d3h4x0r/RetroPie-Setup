@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./A1200 PAL.sh</path>
+		<name>A1200 PAL</name>
+		<playcount>4</playcount>
+		<lastplayed>20190511T011641</lastplayed>
+	</game>
+	<game>
+		<path>./+A1200 PAL.sh</path>
+		<name>+A1200 PAL</name>
+		<playcount>5</playcount>
+		<lastplayed>20190511T013356</lastplayed>
+	</game>
+	<game>
+		<path>./+Start Amiberry.sh</path>
+		<name>+Start Amiberry</name>
+		<playcount>23</playcount>
+		<lastplayed>20190511T013715</lastplayed>
+	</game>
+	<game>
+		<path>./+Start Amiberry-a1200.sh</path>
+		<name>+Start Amiberry-a1200</name>
+		<playcount>1</playcount>
+		<lastplayed>20190511T014237</lastplayed>
+	</game>
+	<game>
+		<path>./+A1200 NTSC.sh</path>
+		<name>+A1200 NTSC</name>
+		<playcount>1</playcount>
+		<lastplayed>20190511T015328</lastplayed>
+	</game>
+	<game>
+		<path>./+Start Amiberry-A1200-PAL.sh</path>
+		<name>+Start Amiberry-A1200-PAL</name>
+		<playcount>7</playcount>
+		<lastplayed>20190511T015257</lastplayed>
+	</game>
+	<game>
+		<path>./A1200 (NTSC).sh</path>
+		<name>A1200 (NTSC)</name>
+		<playcount>4</playcount>
+		<lastplayed>20190511T020601</lastplayed>
+	</game>
+	<game>
+		<path>./A1200 (PAL).sh</path>
+		<name>A1200 (PAL)</name>
+		<playcount>5</playcount>
+		<lastplayed>20190511T020509</lastplayed>
+	</game>
+	<game>
+		<path>./A500 (OCS) (PAL).sh</path>
+		<name>A500 (OCS) (PAL)</name>
+		<playcount>4</playcount>
+		<lastplayed>20190511T023849</lastplayed>
+	</game>
+	<game>
+		<path>./A1200 (AGA) (NTSC).sh</path>
+		<name>A1200 (AGA) (NTSC)</name>
+		<playcount>1</playcount>
+		<lastplayed>20190511T025329</lastplayed>
+	</game>
+	<game>
+		<path>./A1200 (AGA) (PAL).sh</path>
+		<name>A1200 (AGA) (PAL)</name>
+		<playcount>1</playcount>
+		<lastplayed>20190511T025048</lastplayed>
+	</game>
+	<game>
+		<path>./A1200 (AGA) (PAL).adf</path>
+		<name>A1200 (AGA) (PAL)</name>
+		<playcount>1</playcount>
+		<lastplayed>20190511T025647</lastplayed>
+	</game>
+	<game>
+		<path>./A1200 (AGA) (PAL).uae</path>
+		<name>A1200 (AGA) (PAL)</name>
+		<playcount>3</playcount>
+		<lastplayed>20191224T164415</lastplayed>
+	</game>
+	<game>
+		<path>./A1200 (OCS) (PAL).uae</path>
+		<name>A1200 (OCS) (PAL)</name>
+		<playcount>5</playcount>
+		<lastplayed>20191224T164137</lastplayed>
+	</game>
+</gameList>

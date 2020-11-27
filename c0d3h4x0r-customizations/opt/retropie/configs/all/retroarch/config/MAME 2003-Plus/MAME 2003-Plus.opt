@@ -1,0 +1,7 @@
+mame-external_hiscore = "disabled"
+mame2003-plus_dcs-speedhack = "enabled"
+mame2003-plus_samples = "enabled"
+mame2003-plus_skip_disclaimer = "enabled"
+mame2003_dcs-speedhack = "enabled"
+mame2003_samples = "enabled"
+mame2003_skip_disclaimer = "enabled"

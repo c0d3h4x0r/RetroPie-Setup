@@ -1,0 +1,9 @@
+#!/bin/sh -e
+
+if iwconfig 2>&1 | grep -qF "wlan0"; then
+    # reduce wifi transmitter power to reduce interference with bluetooth
+    sudo iwconfig wlan0 txpower 10dBm
+
+    # disable wifi transmitter power saving
+    sudo iwconfig wlan0 power off
+fi

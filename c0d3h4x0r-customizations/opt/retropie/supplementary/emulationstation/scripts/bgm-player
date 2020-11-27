@@ -1,0 +1,53 @@
+#!/bin/bash -e
+
+# This script depends upon mpg123, which can be installed via the following command:
+#
+#   sudo apt-get install -y mpg123
+#
+
+script_dir="$( cd "$( dirname "$0" )" && pwd )"
+script_path="${script_dir}/$( basename "$0" )"
+bgm_dir="$HOME/.emulationstation/bgm"
+gain="$( cat "$HOME/.emulationstation/es_bgmvolume.cfg" )"
+
+while pgrep omxplayer; do
+    echo "Waiting for omxplayer to finish"
+    sleep 1
+done
+
+echo "Waiting for es to start"
+es_pid=''
+while [ -z "$es_pid" ]; do
+    es_pid="$( pgrep -f 'emulationstation/emulationstation($| )' || printf '' )"
+done
+
+echo "Sleeping while es boots"
+sleep 4 
+
+echo "Starting playback"
+find "$bgm_dir" -maxdepth 1 -iname "*.mp3" | shuf > "$bgm_dir/playlist.txt"
+mpg123 --quiet --scale $(expr $gain \* 32768 / 100) --loop -1 -@ "$bgm_dir/playlist.txt" >/dev/null 2>&1 &
+playback_pid=$!
+
+echo "Starting main loop"
+had_subproc=0
+[ ! -f /tmp/es_bgm_stop ] || rm -f /tmp/es_bgm_stop
+while [ ! -f /tmp/es_bgm_stop ]; do
+    subproc_pids="$( pgrep -P $es_pid || printf '' )"
+    [ -n "$subproc_pids" ] && has_subproc=1 || has_subproc=0
+    if [ $has_subproc != $had_subproc ]; then
+        if [ $has_subproc = 1 ]; then
+            echo "Pausing playback"
+            /bin/kill --signal STOP $playback_pid
+        else
+            echo "Resuming playback"
+            /bin/kill --signal CONT $playback_pid
+        fi
+    fi
+    had_subproc=$has_subproc
+    sleep 1
+done
+rm -f /tmp/es_bgm_stop
+
+echo "Stopping playback"
+/bin/kill --signal KILL $playback_pid

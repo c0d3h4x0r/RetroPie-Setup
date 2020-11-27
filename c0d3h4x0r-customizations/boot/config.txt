@@ -1,0 +1,120 @@
+# For more options and information see
+# http://rpf.io/configtxt
+# Some settings may impact device functionality. See link above for details
+
+# uncomment if you get no picture on HDMI for a default "safe" mode
+#hdmi_safe=1
+
+# uncomment this if your display has a black border of unused pixels visible
+# and your display can output without overscan
+disable_overscan=1
+
+# uncomment this to force the GPU to scale all its layers so as to apply the
+# same overscan as the framebuffer.
+#overscan_scale=1
+
+# uncomment the following to adjust overscan. Use positive numbers if console
+# goes off screen, and negative if there is too much border
+#overscan_left=16
+#overscan_right=16
+#overscan_top=16
+#overscan_bottom=16
+
+# uncomment to force a console size. By default it will be display's size minus
+# overscan.
+#framebuffer_width=1280
+#framebuffer_height=720
+
+# uncomment if hdmi display is not detected and composite is being output
+hdmi_force_hotplug=1
+
+# 0 = Auto-detect from EDID
+# 1 = CEA (HDMI / TVS)
+# 2 = DMT (DVI / VGA / Monitors)
+#hdmi_group=1
+
+# for hdmi_group=1:
+#   4 = 720p @ 60Hz
+#   16 = 1080p @ 60Hz
+#   19 = 720p @ 50Hz
+#   31 = 1080p @ 50Hz
+#hdmi_mode=4
+
+# 0 = default (RGB limited for CEA/HDMI, RGB full for DMT/DVI/VGA)
+# 1 = RGB limited (16-235)
+# 2 = RGB full (0-255)
+# 3 = YCbCr limited (16-235)
+# 4 = YCbCr full (0-255)
+hdmi_pixel_encoding=2
+
+# 4 = EDID_ContentType_Game
+edid_content_type=4
+
+# uncomment to force a HDMI mode rather than DVI. This can make audio work in
+# DMT (computer monitor) modes
+hdmi_drive=2
+
+# Uncomment to increase signal to HDMI.  Only use if you encounter loss of
+# sync/signal, noisy/speckled image, etc.
+# Valid values are 0 through 11.
+#  0 = minimum (not recommended)
+#  2 = default (Model A/B)
+#  5 = default (Model B+)
+#  7 = recommended boost
+# 11 = maximum (not recommended)
+#config_hdmi_boost=7
+
+# uncomment for composite PAL
+#sdtv_mode=2
+
+# Uncomment to disable dynamic overlocking and force full overlocking.
+force_turbo=1
+
+# Uncomment to overclock the arm. 1400 MHz is the default for Pi 3B+.
+#arm_freq=1500
+
+# Uncomment to manually raise the arm cpu voltage.  0 is the default.
+#over_voltage=7
+
+# Uncomment to overclock the GPU.  400 MHz is the default for Pi 3B+.
+#gpu_freq=500
+
+# Uncomment to overclock the SDRAM.  400MHz is the default for Pi 3B+.
+#sdram_freq=450
+
+# Temperature at which the CPU clock speed throttling system activates.
+# At this temperature, the clock speed is reduced to 1200MHz.
+# Default is 60, can be raised to a maximum of 70, but this may cause
+# instability.
+#temp_soft_limit=70
+
+# Temperature at which the clocks and voltages auto-revert to default
+# for overheat protection.  Values over 85 are clamped to 85.
+#temp_limit=75
+
+# Uncomment some or all of these to enable the optional hardware interfaces
+dtparam=i2c_arm=on
+#dtparam=i2s=on
+#dtparam=spi=on
+
+# Uncomment this to enable the lirc-rpi module
+#dtoverlay=lirc-rpi
+
+# Additional overlays and parameters are documented /boot/overlays/README
+
+# Enable audio (loads snd_bcm2835)
+dtparam=audio=on
+
+# define how many MB of RAM to allocate to the GPU
+gpu_mem=256
+
+# Disable the color gradient GPU self-test screen on boot.
+disable_splash=1
+
+# Disable on-board Bluetooth (piss-poor reception)
+dtoverlay=pi3-disable-bt
+
+# Disable on-board WiFi (interferes with Bluetooth)
+#dtoverlay=pi3-disable-wifi
+
+enable_uart=1

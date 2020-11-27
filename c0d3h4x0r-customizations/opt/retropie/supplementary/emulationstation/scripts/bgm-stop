@@ -1,0 +1,3 @@
+#!/bin/sh
+
+touch /tmp/es_bgm_stop

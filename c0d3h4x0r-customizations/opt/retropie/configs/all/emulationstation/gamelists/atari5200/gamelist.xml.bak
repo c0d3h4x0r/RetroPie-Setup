@@ -1,0 +1,1312 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="34466" source="theGamesDB.net">
+		<path>./Asteroids (1983) (Atari) (Prototype) [!].zip</path>
+		<name>Asteroids</name>
+		<desc>Trapped in space somewhere between the planets Ortanus and Earth, your ship is suddenly surrounded by a field of massive asteroids. And, as if that weren't enough excitement for one day, a group of alien saucers stage a surprise attack. Quickly you take over the controls to save your ship from imminent doom. You must thrust away from the path of the oncoming asteroids. Put up shields to protect the ship. Hyperspace into thin air. Flip over and get the asteroids attacking from behind. It's all in your hands now. Good luck!
+
+Thought to have been planned to be a launch title for the Atari 5200 system due to the catalog number of CX5201. However it was never officially released but the prototype was found eventually. It's very similar to the Atari 8-Bit version of the game but unfortunately the controls are pretty poor with the 5200 joystick. There was an official controller that was planned to be released along with the game but sadly this was not to be.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Asteroids (1983) (Atari) (Prototype) [!]-image.jpg</image>
+		<releasedate>19820511T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players>4</players>
+	</game>
+	<game id="5126" source="theGamesDB.net">
+		<path>./Astro Chase (1982) (Parker Bros-First Star Software).zip</path>
+		<name>Astro Chase</name>
+		<desc>As pilot of a spaceship, your job is to save the planet Earth! Eight mega mines are slowly homing in, and you need to destroy them all before they reach Earth. Trying to stop you are a variety of flying saucers which will constantly be chasing you around the planet. Your ship is equipped with lasers which can be used to destroy enemy saucers and the mega mines. Located throughout the space around Earth are eight shield depots; if you fly through one of these, you will temporarily become invincible. Your spaceship also has a limited energy supply; if you get too low on energy, it can be resupplied at one of the generators located in the four corners of the play area. When all of the mega mines have been destroyed, you will move on to the next, faster chase!</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Astro Chase (1982) (Parker Bros-First Star Software)-image.jpg</image>
+		<releasedate>19820101T000000</releasedate>
+		<developer>First Star Software</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game id="37033" source="theGamesDB.net">
+		<path>./Barroom Baseball (1983) (Atari) (Prototype).zip</path>
+		<name>Barroom Baseball</name>
+		<desc>Barroom Baseball was a prototype game coded by Atari in 1983 for use within Atari 5200 arcade machines but it was never released. The game itself is essentially RealSports Baseball modified to remove some of the game options. It was also intended to be a timed game, requiring additional coins or tokens in order to continue with the game. As with RealSports Baseball, Barroom Baseball includes steals, nine different pitch types, hit-and-run plays, synthesized speech, a detailed scoreboard, tag-ups, dirt-colored base paths, the ability to control the speed of pitches and swings of the bat, and other such bells, whistles, and necessities</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Barroom Baseball (1983) (Atari) (Prototype)-image.png</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game id="5150" source="theGamesDB.net">
+		<path>./Activision Decathlon, The (1984) (Activision).zip</path>
+		<name>The Activision Decathlon</name>
+		<desc>Up to four players compete in the ten different events of a real-life decathlon, either in sequence or individually. The events are -
+
+
+100-Meter Dash
+Long Jump
+Shot Put
+High Jump
+400-Meter Race
+110-Meter Hurdles
+Discus Throw
+Pole Vault
+Javelin Throw
+1500-Meter Race</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Activision Decathlon, The (1984) (Activision)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19830313T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+	</game>
+	<game id="34468" source="theGamesDB.net">
+		<path>./AE (1984) (Atari) (Prototype).zip</path>
+		<name>A.E.</name>
+		<desc>A port of the classic computer game, A.E. (Which stands for Anti Environmental) is a most unusual 5200 prototype.  It was never announced by Atari nor was it mentioned in any internal documents. A.E. is an arcade style shooting game in which you have to shoot down waves of evil flying mechanical stingrays in order to save your planet.
+
+The Atari 5200 version only has four levels as opposed to ten that the computer versions boast. The loading times for the levels are also longer due to hardware constraints of the Atari 5200.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/AE (1984) (Atari) (Prototype)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19840104T000000</releasedate>
+		<developer>Broderbund</developer>
+		<publisher>Broderbund</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game id="5129" source="theGamesDB.net">
+		<path>./Ballblazer (1984) (Atari-Lucasfilm Games).zip</path>
+		<name>Ballblazer</name>
+		<desc>Ballblazer is a simple one-on-one sports-style game bearing similarities to basketball and soccer. Each side is represented by a craft called a "rotofoil", which can be controlled by either a human player or a computer-controlled "droid" with ten levels of difficulty. (The game allows for human vs. human, human vs. droid, and droid vs. droid matches.) The basic objective of the game is to score points by either firing or carrying a floating ball into the opponent's goal. The game takes place on a flat, checkerboard playfield, and each player's half of the screen is presented in a first-person perspective.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Ballblazer (1984) (Atari-Lucasfilm Games)-image.jpg</image>
+		<releasedate>19840301T000000</releasedate>
+		<developer>Lucasfilm</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game id="32353" source="theGamesDB.net">
+		<path>./Black Belt (1982) (Atari) (Prototype).zip</path>
+		<name>Black Belt</name>
+		<desc>This unreleased, unfinished game is similar to Broderbund's famous game, Karateka. Select your black belt level (difficulty level) and fight your way through eight rooms. The keypad is used to execute a variety of karate moves, although the game has no collision detection so you can't really fight your enemies. While the game looks promising, you cannot progress beyond eight rooms because you can't defeat your enemies.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Black Belt (1982) (Atari) (Prototype)-image.png</image>
+		<releasedate />
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Fighting</genre>
+		<players>1</players>
+	</game>
+	<game id="34467" source="theGamesDB.net">
+		<path>./Battlezone (1983) (Atari) (Prototype).zip</path>
+		<name>Battlezone</name>
+		<desc>A port of the arcade game Battlezone for Atari 5200. Like the arcade game you drive a tank around and shoot enemy tanks while trying to avoid their fire in a 3d environment. It was unfortunately never released and only exists in prototype form. The prototype seems mostly finished but the hit detection seems off at times and not perfected. It also replaces some of the vector based graphics of the arcade with raster likely due to limitations of the Atari 5200. You can also play this with two joysticks which is said to help with controlling the game versus single if you get used to it.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Battlezone (1983) (Atari) (Prototype)-image.jpg</image>
+		<releasedate>19830915T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="5131" source="theGamesDB.net">
+		<path>./Beamrider (1984) (Activision).zip</path>
+		<name>Beamrider</name>
+		<desc>A beam matrix of iridescent blue engulfs the distant blackness of Earth-Space. You stand watching. First mesmerized, you now realize the beams carry weapons. Frightening creations in endless configurations. Intriguing to watch, but will you--yes you, dear reader--take action? You will??!! Then roll up your sleeves, mount these beams and...ride!!</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Beamrider (1984) (Activision)-image.jpg</image>
+		<rating>0.3</rating>
+		<releasedate>19830715T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game id="37034" source="theGamesDB.net">
+		<path>./Boogie Demo (1982) (Atari) (Prototype).zip</path>
+		<name>Boogie</name>
+		<desc>Boogie was a demo was coded by Atari for internal use as a demonstration of the audio capabilities of the Atari 5200. The cartridge plays an impressive little boogie, then repeats. There is no game or graphics here, just the title screen and the musical score</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Boogie Demo (1982) (Atari) (Prototype)-image.png</image>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Music</genre>
+		<players>1</players>
+	</game>
+	<game id="5138" source="theGamesDB.net">
+		<path>./Buck Rogers - Planet of Zoom (1983) (Sega).zip</path>
+		<name>Buck Rogers: Planet of Zoom</name>
+		<desc>Fast and furious racing game taking place on a futuristic racetrack. Guide your spaceship between the pylons and shoot down other enemy racers.
+
+Based on the arcade game (which is even more loosely based on the Buck Rogers comic strips).</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Buck Rogers - Planet of Zoom (1983) (Sega)-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate />
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre />
+	</game>
+	<game id="22376" source="theGamesDB.net">
+		<path>./Castle Blast (Philly Classic 4) (2002) (Ronen Habot).zip</path>
+		<name>Castle Blast</name>
+		<desc>Castle Blast is shoot'em up based on the 5th screen of Atari's 2600 Phoenix where you take on the mothership. Castle Blast is Ronen Habot's first foray into programming the Atari 5200. Ronen used this experience as a means to write a tutorial on Atari 5200 programming to assist others who might want to write games for the system.
+
+Castle Blast made its debut at the 2002 Classic Gaming Expo, where it was sold with a box, manual and cart. AtariAge held a Castle Blast Label Contest in April, 2002. Castle Blast may be ordered directly from the author, Ronen Habot, by visiting the Castle Blast Development Page.
+
+The object of this game is to destroy the Castle on the Mothership. You fire Vertical Trajectory Missiles, or VTMs, at the shield on the bottom of the Mothership. When you penetrate the shield, then blast the Castle. To score extra points, you can also shoot the enemy spaceships flying overhead.
+
+If you destroy the Castle, you advance to the next level, where you will need to contend with Focused Energy Beams, or FEBs, fired from the Mothership. There will also be stars appearing in the sky, making it harder to target the spaceships.
+
+If you manage to obliterate the Castle again, you will proceed to the next level, which adds ground-based tanks assaulting you. You have Horizontal Trajectory Missiles, or HTMs, to deal with this new enemy but do not lose sight of your primary goal.
+
+Your joystick moves you left or right. The lower button fires VTMs, the upper button fires HTMs.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Castle Blast (Philly Classic 4) (2002) (Ronen Habot)-image.jpg</image>
+		<releasedate>20020810T000000</releasedate>
+		<developer>Ronen Habot</developer>
+		<publisher>Self-Published</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="5147" source="theGamesDB.net">
+		<path>./Congo Bongo (1983) (Sega) [a1].zip</path>
+		<name>Congo Bongo</name>
+		<desc>In the first of three screens, you must climb the cliffs of Jungle Mountain in order to get to Congo Bongo, the jungle gorilla. You must also cross a bridge and jump a chasm. Along the way, Congo will throw coconuts at you, and monkeys will try to jump on your back. The monkeys slow you down tremendously, but a couple of jumps will send them scurrying.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Congo Bongo (1983) (Sega) [a1]-image.jpg</image>
+		<releasedate />
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre />
+	</game>
+	<game id="5134" source="theGamesDB.net">
+		<path>./Blueprint (1982) (CBS).zip</path>
+		<name>Blueprint</name>
+		<desc>Your girlfriend Daisy is in trouble! Ollie Org is chasing her across the top of the screen, and you need to come to the rescue. To stop Ollie before time runs out, you need to construct a machine. The blue print for the machine is at the bottom of the screen, so all you need to do is locate the parts which are hidden in the numerous houses in a maze like town. When you locate a part, drag it back and place it on the blue print. When all parts have been located, press the start button and the machine is ready to go! To make your task more difficult, there are several obstacles that get in the way. If you enter a house which doesn't contain a part, you will instead be stuck with a bomb. You will need to hurry and diffuse any bombs in the bomb pit before they explode! From time to time, a flower pot will fall from above and then hop off the screen. Get hit by a flower pot, and you lose a life. You also need to be careful of Fuzzy Wuzzy, who wanders around the neighborhood randomly. An encounter with Fuzzy Wuzzy will also be deadly! Hiding in the bomb pit is Sneaky Pete; while he isn't deadly, he will occasionally appear and press the start button before your machine is complete. If this happens, you will need to drag Pete back to the bomb pit and reassemble all of the machine parts.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Blueprint (1982) (CBS)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>CBS Electronics</publisher>
+		<genre />
+		<players>1</players>
+	</game>
+	<game id="207" source="theGamesDB.net">
+		<path>./Dig Dug (1983) (Atari) [b2].zip</path>
+		<name>DigDug</name>
+		<desc>The objective of Dig Dug is to eliminate underground-dwelling monsters. This can be done by inflating them until they pop or by dropping rocks on them. There are two kinds of enemies in the game: Pookas, round red monsters (said to be modeled after tomatoes) who wear yellow goggles, and Fygars, green dragons who can breathe fire. The player's character is Dig Dug, dressed in white and blue, and able to dig tunnels. Dig Dug is killed if he is caught by either Pooka or Fygar, burned by a Fygar's fire, or crushed by a rock.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Dig Dug (1983) (Atari) [b2]-image.jpg</image>
+		<rating>0.35</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game id="5225" source="theGamesDB.net">
+		<path>./Dreadnaught Factor, The (1983) (Atari).zip</path>
+		<name>The Dreadnaught Factor</name>
+		<desc>"Oh dear."
+The scene: Space. The cosmic edge. Never deeper, never darker.
+The Home Team: A Stargate. A squadron of Hyperfighters. A glittering, pulsating sea of unstable energy. (Please--no quick or sudden movements.)
+The Challengers: Dreadnaughts. We're talkin' size LARGE. Behemoths. Invincible. Or so some say.
+You succeed: Universal applause. Life in the fast lane. Early retirement. Endorsements. You name it, it's yours.
+You fail: Not a viable alternative. You want I should draw you a picture? Distinctly unpretty. The Big Zip. Kaput. Finito. Capice?</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Dreadnaught Factor, The (1983) (Atari)-image.jpg</image>
+		<releasedate>19840405T000000</releasedate>
+		<developer>Cheshire Engineering</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="34471" source="theGamesDB.net">
+		<path>./Final Legacy (1982) (Atari) (Prototype).zip</path>
+		<name>Final Legacy</name>
+		<desc>This is a battle on three fronts. You are the captain of the ship Legacy. Your ultimate goal is to destroy the Warmongers' missile bases but you must also protect your cities.
+
+You begin the game in command mode. You select your other modes with the joystick. Up for navigation, down for torpedo, left for sea-to-air and right for sea-to-land.
+
+Navigation
+In navigation mode, you will see an overhead map of the world. You will note that there is a black dot in a black circle. This is you and the circle represents your effective range. You move the circle about the screen to target ships or known missile bases or to refuel at a city. You use fuel only when you are in navigation mode. When you are within range, or if an enemy ships comes within your range, press the space bar to return to the command mode then change to the desired mode.
+
+Torpedo
+If you are within range of an enemy ship, switch to torpedo mode. In this mode, you will use the scanner at the bottom to line up your target. Move out of line to avoid a direct hit. Beware of war ship as they will chase you and have the most firepower. Hunter ships will also chase you. While their firepower is not as high as war ships, it is still fairly good. Intelligence ships have the weakest firepower and will not chase you. They can be found on the right side of the screen. If one is destroyed and there are any hidden missile bases, there is a eighty percent chance a hidden base will be revealed.
+
+Sea-to-land
+If you want to destroy a missile base or refuel, enter sea-to-land mode. To refuel, get near a city then enter this mode. When you are in sea-to-land mode, you will know you are within range if you see "Dock for refueling" on the screen. You then place the cross hairs on the base of the city and wait for refueling to complete, unless you or a city are under attack. Do not use the fire button to exit or you will fire on your city. To destroy a missile base, position your cross hairs using the scanner on the screen until you are on a missile launcher then fire. Be advised that when you fire on a missile base, they will shoot missiles at a city.
+
+Sea-to-air
+If a city is under attach, switch to this mode. You will control a weapons satellite. Use you joystick, or the trak-ball , if you plugged one into port 2, to aim at an incoming missile and press fire to blast it. If it gets past you but has not reached your city, you get a "Refocusing" message and the view switches to a short range view where you will get one more try.
+
+Be warned that ships can attack you no matter what mode you are in. On the easiest level, there are no hidden bases nor do you use fuel.
+
+The Atari 5200 version of this game was never released but is however mostly identical to the Atari 8-Bit version that was released.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Final Legacy (1982) (Atari) (Prototype)-image.jpg</image>
+		<releasedate />
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Flight Simulator</genre>
+		<players>1</players>
+	</game>
+	<game id="34472" source="theGamesDB.net">
+		<path>./Frisky Tom (1982) (Atari) (Prototype).zip</path>
+		<name>Frisky Tom</name>
+		<desc>A prototype game that was never officially released for the Atari 5200, Frisky Tom is a port of the obscure Nichibutsu coin-op of the same name in which you play a plumber who must climb up and fix broken pipes to keep a steady stream of water flowing from the tank at the top of the screen to the reservoir at the bottom.  Unfortunately this house is infested with mice which roam the screen, gnawing through pipes and generally causing problems for our man Tom.
+
+Once a mouse gnaws through a pipe, you'll see the flow of water stop and a pipe piece will fall to the ground.  To repair the pipe Tom must pick up the fallen piece (you can hold two pieces a time), and put it back into the hole.  To get to where the holes are, Tom must carefully climb up and navigate the maze of pipes.  Although Tom can cross short gaps in the pipes, he'll need to go around the larger ones.  While climbing around on the pipes, Tom will run across several different kinds of mice. Each mouse has its own color and purpose.
+
+When the flow of water is interrupted, the timer in the reservoir will begin to count downward from 5000 at the rate of 100 points per second.  The only way to stop this countdown is to restore the water flow by fixing the pipes.  If the timer reaches zero, Tom will lose a life and play the current level over again.  If Tom is able to get enough water into the reservoir (keeping the timer above 1500), he'll be rewarded with a bonus intermission showing a woman taking a shower.
+
+- Excerpt from www.atariprotos.com</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Frisky Tom (1982) (Atari) (Prototype)-image.jpg</image>
+		<releasedate>19830704T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="5156" source="theGamesDB.net">
+		<path>./Frogger (1983) (Parker Bros).zip</path>
+		<name>Frogger</name>
+		<desc>Your task in this arcade conversion is to guide a frog across a treacherous road and river, and to safety at the top of the screen. Both these sections are fraught with a variety of hazards, each of which will kill the frog and cost you a life if contact is made.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Frogger (1983) (Parker Bros)-image.jpg</image>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game id="5157" source="theGamesDB.net">
+		<path>./Frogger 2 - Threedeep! (1984) (Parker Bros).zip</path>
+		<name>Frogger II: Threeedeep!</name>
+		<desc>In Frogger II, you need to guide your frog to safety in three different locations. Starting out underwater, reach the top of the pond while avoiding dangerous alligators and fish (you can ride a turtle for safety!). Once on top of the pond, hop across logs, birds, and even a whale to the life preserver trailing behind a tugboat. In the third location you have to hop across a flock of birds to reach a cloud at the top of the screen. Each frog has a time limit to safely reach one of the homes on each of the three screens. You move on to the next level when a frog has safely reached each of the homes on all screens.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Frogger 2 - Threedeep! (1984) (Parker Bros)-image.jpg</image>
+		<releasedate />
+		<developer>Parker Brothers</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Action</genre>
+	</game>
+	<game id="5160" source="theGamesDB.net">
+		<path>./Gorf (1982) (CBS).zip</path>
+		<name>Gorf</name>
+		<desc>The game itself consists of four levels:
+•The first level has you behind a defensive shield, defending against an alien attack. The level is a top-down view, with your ship &amp; shield on one side and the aliens on the other side;
+
+•The second level is similar to the first, only your defensive shield is gone, and the enemies tend to swoop down over the level as opposed to those row formations. Bonus ships also tend to appear in this level;
+
+•The third level is a change, and has you entering hyperspace. Your only goal is to survive to the end of your journey. The viewpoint switches from a top-down view to a behind-the-ship view and in effect you are heading "towards" your destination. Alien vessels flying in circular formation try to stop you;
+
+•The fourth and final level is similar to the first again, with some key differences. You do not fight a wave of enemies, but a single one. A mothership with a glowing weak spot. Hitting the weak spot will instantly destroy it. The mothership also has that same shield that was yours in the first level.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Gorf (1982) (CBS)-image.jpg</image>
+		<releasedate />
+		<developer>Bally Midway</developer>
+		<publisher>CBS</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game id="5162" source="theGamesDB.net">
+		<path>./Gyruss (1982) (Parker Bros).zip</path>
+		<name>Gyruss</name>
+		<desc>Three billion miles is a long way from home. But there's no shorter route from outer Neptune to Earth. As if that weren't enough...it's got to be a shoot-out all the way. You alone in your rapid-firing spaceship, swirling in a circular flight pattern...orbiting to the right...arcing to the left...trying to mow down wave after wave of enemy plane formations, rocketing meteors and run-away satellites. Stops at Uranus, Saturn, Jupiter, and Mars will mark your progression towards Earth. Each one's a short visit, though. Then it's off again to the next planet--and the next wave of enemies. Reach Earth in one piece and maybe you'll think twice about leaving home. Then again...maybe not!</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Gyruss (1982) (Parker Bros)-image.jpg</image>
+		<releasedate />
+		<developer>Parker Bros</developer>
+		<publisher>Parker Bros</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game id="5161" source="theGamesDB.net">
+		<path>./Gremlins (1984) (Atari).zip</path>
+		<name>Gremlins</name>
+		<desc>Atari developed Gremlins video game tie-ins for both of its contemporary consoles, the Atari 2600 and the Atari 5200. Though both were produced by the same company and were based on the same film, differences in the two consoles resulted in two considerably different games. Atari intended to release both along with the film in 1984, but the company stopped shipment of all its games after its reorganization that year.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Gremlins (1984) (Atari)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19860501T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher />
+		<genre>Adventure</genre>
+	</game>
+	<game id="5164" source="theGamesDB.net">
+		<path>./H.E.R.O. (1984) (Activision).zip</path>
+		<name>HERO</name>
+		<desc>There is trouble in the mines! Volcanic activity has trapped numerous miners, and it is your job to save them. As Roderick Hero, you need to make your way through the dangerous mineshaft avoiding the dangerous creatures and lava, and find out where the miners are located before you run out of energy. To help on your mission, Roderick Hero has several useful types of equipment. A prop pack will allow you to hover and fly around the mineshaft and (hopefully) avoid the many dangers within. Your helmet features a short range microlaser beam which can be used to destroy the bats, spiders, snakes, and other creatures you'll encounter in the mines. From time to time, your path through the mine may be blocked by stone or lava walls. You begin each mission with six sticks of dynamite which can be used to destroy these obstacles (be careful you don't blow yourself up, though!) If you run out of dynamite, your laser beam can also be used to destroy the walls, though this will take longer and use up more energy. As the levels progress, the mine shaft will become longer and more maze-like, creatures will more frequently block the path, and lava walls and pools will appear which are dangerous to the touch.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/H.E.R.O. (1984) (Activision)-image.jpg</image>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="5165" source="theGamesDB.net">
+		<path>./James Bond 007 (1983) (Parker Bros).zip</path>
+		<name>James Bond 007</name>
+		<desc>When it comes to fast-paced action and intrigue, nobody does it better than Bond. James Bond.
+But you can try when you reenact scenes from four great James Bond movie classics.
+007's specially designed vehicle will take you on the ride of your life--over land, in the air, and under the sea! Through it all you must avoid obstacles, avert enemies, and accomplish four different missions!</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/James Bond 007 (1983) (Parker Bros)-image.jpg</image>
+		<releasedate>19841102T000000</releasedate>
+		<developer>Parker Bros</developer>
+		<publisher>Parker Bros</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="5167" source="theGamesDB.net">
+		<path>./Joust (1984) (Atari).zip</path>
+		<name>Joust</name>
+		<desc>Joust is a platforming game where the player controls a yellow knight riding a flying ostrich from a third-person perspective. The player navigates the protagonist around the game world, which consists of rock platforms floating above a flat island surrounded by lava.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Joust (1984) (Atari)-image.jpg</image>
+		<releasedate />
+		<developer>Williams</developer>
+		<publisher>Williams</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game id="34473" source="theGamesDB.net">
+		<path>./Jr Pac-Man (1984) (Atari) [a1].zip</path>
+		<name>Jr. Pac-Man</name>
+		<desc>Jr.Pac-Man was never released for the Atari 5200, however a prototype does exist. In this Pac-man spin off you now take control of junior who has to contend with much more than his parents did! The mazes are so large now they require the screen to scroll. On top of that the items that appear will cause the dots to enlarge. This gives Junior more points when he eats them but also slows him down a bit making it difficult to avoid the ghosts. What's worse is if they hit a power pellet they will destroy it!
+
+Like other Pac-Man games intermissions are shown between levels. They mainly have to do with Junior and a ghost girl falling in love despite their parents disapproval.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Jr Pac-Man (1984) (Atari) [a1]-image.jpg</image>
+		<releasedate>19840228T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+	</game>
+	<game id="5169" source="theGamesDB.net">
+		<path>./Jungle Hunt (1983) (Atari).zip</path>
+		<name>Jungle Hunt</name>
+		<desc>Jungle Hunt offers four unique adventure experiences, which repeat with greater difficulty once all four have been survived. If you don't survive these adventures, you will not only lose your own life but that of the lovely Penelope, who has been captured by cannibals!
+
+The first part challenges your Tarzan skills - can you swing on the vines without plummeting to your doom? The second part pits you against a whole bunch of nasty crocodiles in a mighty river. Fortunately, you have a knife to fight back with. Don't forget to go up for air! In the third part, you face a battle against oncoming boulders of varying sizes and physics. Once you've cleared all these treacherous hazards, you still must confront the dreaded cannibal, who is armed with a wicked spear. Can you get past him and save the lovely Penelope?</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Jungle Hunt (1983) (Atari)-image.jpg</image>
+		<releasedate>19820715T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+	</game>
+	<game id="5176" source="theGamesDB.net">
+		<path>./K-razy Shoot-Out (1982) (CBS).zip</path>
+		<name>K-Razy Shoot-Out</name>
+		<desc>K-Razy Shoot-Out is a clone of the arcade game Berzerk developed by K-Byte, a division of Kay Enterprises, and released for the Atari 8-bit family in 1981. The game was written by Torre Meeder and Dr. Keith Dreyer. An Atari 5200 version followed in 1983.
+
+The game is part of a series of titles with the "K-" prefix, including K-Razy Kritters and K-Star Patrol. All of them were published on cartridge. The K-Byte games were later published by CBS Software, including the Atari 5200 port of K-Razy Shoot-Out]</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/K-razy Shoot-Out (1982) (CBS)-image.jpg</image>
+		<releasedate>19830504T000000</releasedate>
+		<developer>CBS Electronics</developer>
+		<publisher />
+		<genre>Shooter</genre>
+	</game>
+	<game id="5170" source="theGamesDB.net">
+		<path>./KABOOM! (1983) (Activision).zip</path>
+		<name>Kaboom!</name>
+		<desc>Kaboom! is an Activision published in 1981 for Atari 2600 that was designed by Larry Kaplan. It was well-received and successful commercially, selling over one million cartridges by 1983.[citation needed]
+
+Kaboom! is an unauthorized adaptation of the 1978 Atari coin-op Avalanche.[1] The gameplay of both games is fundamentally the same, but Kaboom! was re-themed to be about a mad bomber instead of falling rocks. As an ex-Atari programmer, Larry Kaplan, originally wanted to port Avalanche to the Atari 2600. In Avalanche all the boulders are lined up at the top which is difficult to accomplish on the 2600, hence the shift to the Mad Bomber. David Crane coded the overlaid sprites for the Mad Bomber.[2]</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/KABOOM! (1983) (Activision)-image.jpg</image>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="5171" source="theGamesDB.net">
+		<path>./Kangaroo (1982) (Atari).zip</path>
+		<name>Kangaroo</name>
+		<desc>Kangaroo (Japanese: カンガルー?) is arcade game that was released in 1982. It was manufactured by Sun Electronics and distributed by Atari. The gameplay and plot of Kangaroo resemble that of Donkey Kong. The player takes the role of a mother kangaroo wearing boxing gloves, who is trying to rescue her son from fruit-throwing monkeys.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Kangaroo (1982) (Atari)-image.jpg</image>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre>Platform</genre>
+	</game>
+	<game id="5172" source="theGamesDB.net">
+		<path>./Keystone Kapers (1984) (Activision).zip</path>
+		<name>Keystone Kapers</name>
+		<desc>Keystone Kapers is a video game published by Activision for the Atari 2600 in 1983, and later ported to the Atari 5200, Atari 8-bit family, ColecoVision, and MSX. Inspired by Mack Sennett's slapstick Keystone Cops series of silent films, the object of the game is for Officer Keystone Kelly (the player) to catch Harry Hooligan before he can escape from a department store.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Keystone Kapers (1984) (Activision)-image.jpg</image>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="5175" source="theGamesDB.net">
+		<path>./Koffi - Yellow Kopter Demo-Feb 24 (2002) (Ron Lloyd).zip</path>
+		<name>Koffi Yellow Copter</name>
+		<desc />
+		<image>~/.emulationstation/downloaded_images/atari5200/Koffi - Yellow Kopter Demo-Feb 24 (2002) (Ron Lloyd)-image.jpg</image>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="32354" source="theGamesDB.net">
+		<path>./Last Starfighter, The (1984) (Atari).zip</path>
+		<name>The Last Starfighter</name>
+		<desc>"Greetings Starfighter. You have been recruited by the Star League to defend the Frontier against Xur and the Ko-Dan armada."
+
+It's not just a tag line, it's also the instructions!  Yes, you've been recruited to help the Star League destroy Xur and his forces once and for all.  To accomplish this, you'll have to travel to the Procyon system and destroy the Ko-Dan in their own galaxy.  However, while you're off playing cowboy in a distant galaxy, the Ko-Dan armada are planning their own attack on your home system of Celos IV.  So not only must you defeat the whole Ko-Dan empire single handed, you must also defend your galaxy at the same time.  Accomplishing both tasks at once is all about strategy, sharp shooting, and a little luck. 
+
+The Last Starfighter is based on the 80s movie. Unfortunately despite being finished it wasn't released for the Atari 5200. However it does exist in prototype form and was eventually officially released for the Atari XE/XL as Star Raiders II with some minor changes. Also an arcade version was supposed to be released but was canned as well. On top of all that this game wasn't even originally The Last Starfighter and instead was originally called Orbiter that was retooled. Quite a history for a prototype!</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Last Starfighter, The (1984) (Atari)-image.jpg</image>
+		<releasedate>19840508T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Flight Simulator</genre>
+	</game>
+	<game id="32355" source="theGamesDB.net">
+		<path>./Looney Tunes Hotel (1983) (Atari) (Prototype).zip</path>
+		<name>Looney Tunes Hotel</name>
+		<desc>Looney Tunes Hotel was a nearly completed video game that was going to be released for the Atari 5200. Players were to play on a set of hotels, but Atari never got to finishing the game.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Looney Tunes Hotel (1983) (Atari) (Prototype)-image.jpg</image>
+		<releasedate />
+		<developer>Atari</developer>
+		<publisher />
+		<genre>Platform</genre>
+	</game>
+	<game id="5178" source="theGamesDB.net">
+		<path>./Mario Brothers (1983) (Atari).zip</path>
+		<name>Mario Bros.</name>
+		<desc>Mario the carpenter and his brother Luigi are hopping mad! The water pipes in their house are blocked with nests of crawling creatures. If the two brothers can't get rid of them they'll never take a bath again!
+
+Your task is to help Mario and Luigi knock the pipe pests off floors and into a puddle of water below. Each time a pest is knocked off, you earn points; when all the pests are knocked off, the next round begins. You start the game with five lives, and earn additional lives every 20,000 points.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Mario Brothers (1983) (Atari)-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19830324T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game id="34485" source="theGamesDB.net">
+		<path>./Meebzork (1983) (Atari).zip</path>
+		<name>Meebzork</name>
+		<desc>An unfinished prototype game that was originally planned as a shooter but the last available version ends up being more an action/adventure game. There is an early build available of the shooter as well.
+
+You are a warrior named Meebzork who can practice or play through 6 different levels (not including another level that was going to be after you completed a board and would allow you to choose a next one). All 6 levels are different in what they require. While unfinished and unpolished you can see a lot of potential.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Meebzork (1983) (Atari)-image.jpg</image>
+		<releasedate>19831116T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game id="5179" source="theGamesDB.net">
+		<path>./Megamania (1983) (Activision).zip</path>
+		<name>Megamania</name>
+		<desc>Megamania gameplay resembles that of Astro Blaster, but rather than being aliens or spaceships the enemies in are various objects such as hamburgers, bow ties, and steam irons. The object is to shoot them down before the energy bar at the bottom of screen is depleted, all while avoiding the oncoming enemies and their own projectile attacks. Each of the enemies fly in select patterns and as soon as they hit the bottom of the screen, they re-appear at the top until shot by the player. The player's spacecraft depicted in the game is a cross between the U.S.S. Enterprise and Klingon battlecruiser from the Star Trek universe.
+
+If a player exceeds a score of 999,999 the game ends.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Megamania (1983) (Activision)-image.jpg</image>
+		<releasedate>19830502T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher />
+		<genre>Adventure</genre>
+	</game>
+	<game id="5180" source="theGamesDB.net">
+		<path>./Meteorites (1983) (Electra Concepts).zip</path>
+		<name>Meteorites</name>
+		<desc>Atari 5200 Meteorites was originally called Disasteroids but the name was changed under pressure from Atari.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Meteorites (1983) (Electra Concepts)-image.jpg</image>
+		<releasedate>19830504T000000</releasedate>
+		<developer>Electra Concepts</developer>
+		<publisher />
+		<genre>Shooter</genre>
+	</game>
+	<game id="34487" source="theGamesDB.net">
+		<path>./Millipede (1984) (Atari).zip</path>
+		<name>Millipede</name>
+		<desc>An unreleased prototype conversion of the arcade game Millipede. It was completed but never released due to Atari abandoning the 5200 near it's completion.
+
+The goal is to survive wave after wave of various insects while trying to destroy a Millipede that makes its way down the screen towards your player. While very similar to Centipede it adds quite a few new quirks such as new insects to contend with and DDT bombs that when shot will destroy what is around them.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Millipede (1984) (Atari)-image.jpg</image>
+		<releasedate>19840131T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game id="34486" source="theGamesDB.net">
+		<path>./Microgammon SB (1983) (Atari) (Prototype).zip</path>
+		<name>Microgammon SB</name>
+		<desc>Microgammon SB originally started out as an Apple IIe game.  According to programmer Steve Baker, he had originally developed the game for the Apple when he decided to port it to the Atari 5200.  Since the 5200 possessed a high resolution mode that was on par with the Apple's, the conversion was pretty straightforward.  However one side effect of using the 5200's high-res mode was that the graphics were in black &amp; white only.  However most players find that this really doesn't distract much from the game since it uses black and white pieces anyway.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Microgammon SB (1983) (Atari) (Prototype)-image.png</image>
+		<releasedate>19830815T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Strategy</genre>
+		<players>2</players>
+	</game>
+	<game id="5181" source="theGamesDB.net">
+		<path>./Miner 2049 (1983) (Big Five Software).zip</path>
+		<name>Miner 2049er</name>
+		<desc>Miner 2049er is a platform video game created by Bill Hogue that was released in 1982 by Big Five Software. It was developed for the Atari 8-bit family and widely ported to other systems. The game was licensed in conjunction with International Computer Group.[citation needed] At the time of its release, Miner 2049er was notable for having ten different screens, which was a large number for a platform game.[1][2] For comparison, the Donkey Kong arcade game had four screens, and many home ports didn't include all of them. The title "Miner 2049er" evoked a 21st-century take on the California Gold Rush of around 1849, in which the gold miners and prospectors were nicknamed "49ers."[3]
+
+Unlike most of the home computer versions, Miner 2049er for the Atari 8-bit family was released on 16K ROM cartridge with the high price, for 1982, of US$49.95.[4]</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Miner 2049 (1983) (Big Five Software)-image.jpg</image>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="34488" source="theGamesDB.net">
+		<path>./Miniature Golf (1983) (Atari).zip</path>
+		<name>Miniature Golf</name>
+		<desc>Unreleased prototype game by Steve Baker for the Atari 5200. However it was completed and is fully playable. Due to the Hi-Res mode used the game has some odd choices for colors but other than that is quite well done and simulates Miniature Golf very well. 
+
+Control is handled entirely by the keypad, so the non-centering 5200 joystick doesn't hinder the gameplay.  Pushing the # and * keys changes the direction the ball will be hit (represented by an arrow) and the 1-9 keys are used to indicate the power of the swing (1=lowest and 9=highest).</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Miniature Golf (1983) (Atari)-image.jpg</image>
+		<releasedate>19830210T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game id="5182" source="theGamesDB.net">
+		<path>./Missile Command (1983) (Atari).zip</path>
+		<name>Missile Command</name>
+		<desc>The game is played by moving a crosshair across the sky background  and launch a counter-missile from the appropriate battery. Counter-missiles explode upon reaching the crosshair, leaving a fireball that persists for several seconds and destroys any enemy missiles that enter it. There are three batteries, each with ten missiles; a missile battery becomes useless when all its missiles are fired, or if the battery is destroyed by enemy fire. The missiles of the central battery fly to their targets at much greater speed; only these missiles can effectively kill a smart bomb at a distance.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Missile Command (1983) (Atari)-image.jpg</image>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game id="5183" source="theGamesDB.net">
+		<path>./Montezuma's Revenge (1984) (Parker Bros).zip</path>
+		<name>Montezuma's Revenge</name>
+		<desc>The player controls a on-screen character called Panama Joe, moving him from room to room in the labyrinthine underground of the 16th century Aztec temple of emperor Montezuma II, filled with enemies, obstacles, traps, and dangers. The objective is to score points by gathering jewels along the way. Panama Joe must find keys to open doors, collect and use equipment such as torches, swords, amulets, etc. without losing his life. Obstacles are laser gates, conveyor belts, disappearing floors and fire pits.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Montezuma's Revenge (1984) (Parker Bros)-image.jpg</image>
+		<rating>0.55</rating>
+		<releasedate>19840701T000000</releasedate>
+		<developer>Utopia</developer>
+		<publisher>Parker Bros.</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game id="5184" source="theGamesDB.net">
+		<path>./Moon Patrol (1983) (Atari).zip</path>
+		<name>Moon Patrol</name>
+		<desc>Hop into your Moon Buggy and test yourself on a lunar obstacle course. You'll fight off hostile aliens, jump over huge craters and landmines , and blast moonrocks from your path. And as if that weren't enough, you'll encounter alien tanks and missiles that'll blow you into moondust if you aren't careful!</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Moon Patrol (1983) (Atari)-image.jpg</image>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game id="5185" source="theGamesDB.net">
+		<path>./Mountain King (1984) (Sunrise Software).zip</path>
+		<name>Mountain King</name>
+		<desc>Plunder diamond-laden caverns and follow haunting melodies in pursuit of Mountain King's Golden Crown of the Temple!
+
+Deep in the heart of a mysterious mountain lies a rare golden crown enshrined within an ancient Temple. Guarded by the ominous Skull Spirit, only those who possess the power of the Flame Spirit may gain entrance.
+
+To release the elusive Flame Spirit, pluck 1,000 diamonds from the cavern walls as you descend deeper and deeper into the abyss. Its eerie music and ghostly flashes lure you. Grab it and race to the Temple! At last—you're inside! Seize the crown and speed to the mountaintop before the rampaging Cave Bats steal back your treasure!
+
+Simple, right? Wait. Cave Bats can also steal back the Flame Spirit. And lurking within the depths of the mountain is a Giant Spider waiting to trap you in its web.
+
+Armed with only a flashlight and a thirst for adventure, you'll need nerves of granite to become Mountain King. C'mon—you're going down under!</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Mountain King (1984) (Sunrise Software)-image.jpg</image>
+		<releasedate>19830707T000000</releasedate>
+		<developer>E.F. Dreyer</developer>
+		<publisher>CBS Electronics</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="5187" source="theGamesDB.net">
+		<path>./Mr. Do's Castle (1984) (Parker Bros).zip</path>
+		<name>Mr. Do's Castle</name>
+		<desc>Mr. Do's Castle is an arcade game created by Universal in September 1983. The Asian title of the game is Mr. Do! versus Unicorns. Though marketed as a sequel to the original Mr. Do! released one year earlier, the game bears a far closer resemblance to Space Panic. It is the second of the Mr. Do series of video games, although it wasn't intended to be. It began life as a game called "Knights vs. Unicorns", but the U.S. division of Universal persuaded the Japanese arm to modify the graphics into a Mr. Do! game, taking into account the first game's popularity.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Mr. Do's Castle (1984) (Parker Bros)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="5188" source="theGamesDB.net">
+		<path>./Ms. Pac-Man (1982) (Atari).zip</path>
+		<name>Ms. Pac-Man</name>
+		<desc>The gameplay of Ms. Pac-Man is largely identical to that of the original Pac-Man. The player gathers points by eating dots and avoiding ghosts (contact with one loses a life). Power-pellets or energizers change the ghosts, which reverse their course and can be eaten for bonus points. Fruit bonuses can be consumed for increasing point values, twice per level.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Ms. Pac-Man (1982) (Atari)-image.jpg</image>
+		<releasedate>19830504T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game id="5191" source="theGamesDB.net">
+		<path>./Pengo (1983) (Atari).zip</path>
+		<name>Pengo</name>
+		<desc>The player uses a joystick and a single button as controls. Pressing the button while pushing the joystick will cause Pengo to push forward the ice block he is facing, which will slide until it hits a wall or another ice block, crushing any intervening Sno-Bees. Crushing more than one Sno-Bee at once will increase the number of points awarded. There are a total of sixteen levels, which repeat in order starting on the seventeenth round.
+As the player crushes those on patrol, new Sno-Bees hatch from eggs located within ice blocks. At the start of each level, blocks that contain these eggs are briefly identified by flashing the color of that level's Sno-Bees. Eggs can be eliminated by crushing the ice blocks that contain them. If Pengo pushes a side wall the water "vibrates", any adjacent Sno-Bees will be briefly stunned, and are eliminated (for 100 points) if Pengo walks over them in this state. Eliminating all Sno-Bees in a round will progress the player to the next.
+Diamond blocks are unbreakable; when connected in a horizontal or vertical line the player earns bonus points: 10,000 points if aligned without being against a wall or if only one diamond block is touching a wall, 5,000 points if all three are against the wall. Alignment will also temporarily stun all Sno-Bees.
+After 60 seconds elapse in a round without a death, the game enters into sudden death mode; the music tempo and movement of the Sno-Bees accelerates. If a single Sno-Bee remains in the round, a jingle plays and the Sno-Bee accelerates in an attempt to reach a corner where it safely fades away.
+The game will always start with the same maze on power up. Once the game has gone through the attract mode, the maze will change.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Pengo (1983) (Atari)-image.jpg</image>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="5193" source="theGamesDB.net">
+		<path>./Pitfall II - The Lost Caverns (1984) (Activision).zip</path>
+		<name>Pitfall II: Lost Caverns</name>
+		<desc>Pitfall Harry has unlimited time and lives, making it impossible to "lose" the game; when Harry touches a dangerous creature, he simply loses points as he floats back to the last continue point (marked with a red cross) he touched.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Pitfall II - The Lost Caverns (1984) (Activision)-image.jpg</image>
+		<releasedate />
+		<developer>David Crane</developer>
+		<publisher>Activision</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game id="5192" source="theGamesDB.net">
+		<path>./Pitfall! (1982) (Activision).zip</path>
+		<name>Pitfall!</name>
+		<desc>”Let me introduce myself. I’m Pitfall Harry, veteran jungle explorer. Fortune hunting’s my game, and yours, too, if you’re daring enough to take this trip with me. Don’t be nervous; I’ll be your guide through the jungle, and I’m one of the best.
+
+“Untold riches are waiting for us there, but so are dangers a dozen times over. We’ll be swinging on vines over bottomless tarpits. We’ll be hopping across swamps, using crocodile heads like stepping stones. We’ll be searching underground through dark passageways crawling with killer scorpions.
+
+“So pack up your backpack and meet me at the jungle at dawn – and we’ll be off to seek a king’s ransom in gold, diamonds and lost treasures – in Pitfall Harry’s Jungle Adventure.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Pitfall! (1982) (Activision)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19830302T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="5194" source="theGamesDB.net">
+		<path>./Pole Position (1983) (Atari).zip</path>
+		<name>Pole Position</name>
+		<desc>Get set for a thrilling new sensation! With REAL MOTION GRAPHICS. Atari puts you behind the wheel of a sleek Formula 1 racer. You go for the number one starting spot, the Pole Position. Then it's flat out to win the Grand Prix. Pass cars like they're standing still, but watch those curves! One mistake and you could go up in flames.
+LOOKS AND PLAYS LIKE THE ARCADE GAME.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Pole Position (1983) (Atari)-image.jpg</image>
+		<releasedate>19830908T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+	</game>
+	<game id="5195" source="theGamesDB.net">
+		<path>./Popeye (1983) (Parker Bros).zip</path>
+		<name>Popeye</name>
+		<desc>Put yourself in Popeye's place. You've got a daffy girlfriend who goes by the name of Olive Oyl. Right now, she's got you running in circles, chasing hearts and notes all over the place. (Well, blow me down!)
+
+Then, there's that blubber-brain, Brutus, who's out to get you. (He's meaner than mean!!) While you're dashing around, he's taking shots to knock you overboard.
+
+And if that's not bad enough--you've got that nasty ol' biddy, the Sea Hag, pelting you with bottles. And vultures diving right for your head. (Yikes!)
+
+Now you'd think with all this going on, you could rely on your spinach. NO CHANCE! It's there one second--gone the next. (When you do grab it, Brutus is in big trouble!)
+
+So go ahead, put yourself in Popeye's place--if you think you can handle all the action!</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Popeye (1983) (Parker Bros)-image.jpg</image>
+		<releasedate>19840510T000000</releasedate>
+		<developer>Parker Brothers</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="5196" source="theGamesDB.net">
+		<path>./Q-bert (1983) (Parker Bros).zip</path>
+		<name>Q*bert</name>
+		<desc>Q*bert is an isometric platform game with puzzle elements where the player controls the titular protagonist from a third-person perspective. Q*bert starts each game at the top of a pyramid of cubes, and moves by jumping diagonally from cube to cube. Landing on a cube causes it to change color, and changing every cube to the target color allows the player to progress to the next stage.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Q-bert (1983) (Parker Bros)-image.jpg</image>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre>Platform</genre>
+	</game>
+	<game id="5190" source="theGamesDB.net">
+		<path>./Pac-Man (1982) (Atari).zip</path>
+		<name>Pac-Man</name>
+		<desc>The player controls Pac-Man through a maze, eating pac-dots. When all dots are eaten, Pac-Man is taken to the next stage, between some stages one of three intermission animations plays. Four enemies (Blinky, Pinky, Inky and Clyde) roam the maze, trying to catch Pac-Man. If an enemy touches Pac-Man, a life is lost. When all lives have been lost, the game ends.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Pac-Man (1982) (Atari)-image.jpg</image>
+		<releasedate>19820501T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game id="5197" source="theGamesDB.net">
+		<path>./QIX (1982) (Atari).zip</path>
+		<name>QIX</name>
+		<desc>Think quick! Draw Stix. But watch out for Super Sparx⁵ and crackling Fuses. The colorful QIX strikes like a bolt of lightning! Can you draw the line?</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/QIX (1982) (Atari)-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game id="5198" source="theGamesDB.net">
+		<path>./Quest for Quintana Roo (1984) (Sunrise Software).zip</path>
+		<name>Quest for Quintana Roo</name>
+		<desc>You are Yucatan Sam on a quest to explore the temple of Quintana Roo. Your goal is to find the vault which is hidden somewhere within and return with the treasure that is inside. You begin your quest outside the temple; climb your way up the side of the temple in order to get inside. Poisonous snakes and deadly lightning bolts will block your progress here. Once inside the temple, you have a limited air supply so you need to explore quickly. 
+
+Hidden in various rooms of the temple are numerous keys which are needed to unlock the vault. The keys and some other useful items are hidden in secret rooms which you need to locate by using your trusty pick axe or the flasks of acid you carry. To help figure out which rooms may contain hidden objects, you carry a geiger counter with you; the higher the reading, the closer you are to something of interest.
+
+The rooms you'll be exploring are guarded by snakes, spiders, and even mummies. To deal with these enemies you carry a gun, and you can also use the acid flasks against them (ammo is limited, so use it wisely). If you are successful in your mission, you may receive a secret code which can be used to begin the game at later levels.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Quest for Quintana Roo (1984) (Sunrise Software)-image.jpg</image>
+		<releasedate>19840501T000000</releasedate>
+		<developer>Sunrise Software</developer>
+		<publisher />
+		<genre>Adventure</genre>
+	</game>
+	<game id="5200" source="theGamesDB.net">
+		<path>./Realsports Baseball (1983) (Atari).zip</path>
+		<name>RealSports Baseball</name>
+		<desc>You smell the freshly cut grass as you walk out of the dark, cool tunnel into the hot afternoon sun. You hear the crack of leather on wood as the team's power hitter takes batting practice. Today's the day -- you're starting in the big leagues. After warming up in the bullpen, you're ready to take the mound. You get a few last-minute instructions from the pitching coach, and then it's time. Slowly you walk to the center of the diamond. The batter steps in, and you're ready to play ball!</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Realsports Baseball (1983) (Atari)-image.jpg</image>
+		<releasedate>19820505T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher />
+		<genre>Sports</genre>
+	</game>
+	<game id="22377" source="theGamesDB.net">
+		<path>./Realsports Basketball (1983) (Atari).zip</path>
+		<name>RealSports Basketball</name>
+		<desc>There are two significantly different versions of Realsports Basketball for the Atari 5200, both programmed by Patrick Bass. This version is what would become the final version of the game, which seems fairly complete, including easter eggs. However, like the Atari 2600 game of the same name, Realsports Basketball was never released for sale. It's unknown why Atari programmed two different versions of the game.
+
+Sadly, Patrick Bass died in an automobile crash in 1998. Patrick's brother, Ben Bass, worked with Ken Van Mersbergen to ensure this final version of the game would be shared with the public.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Realsports Basketball (1983) (Atari)-image.jpg</image>
+		<releasedate>19830527T000000</releasedate>
+		<developer>Patrick Bass</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game id="5205" source="theGamesDB.net">
+		<path>./Realsports Football (1982) (Atari).zip</path>
+		<name>RealSports Football</name>
+		<desc>RealSports Football is a 1982 football video game made by Atari for the Atari 2600, Atari 5200 and Atari 8-bit computer platforms.
+
+RealSports Football presents a greatly simplified version of football for play. Players in the game cannot go out of bounds or fumble the football, and there are no penalties in the game. Also, touchdowns automatically score 7 points; there is no kicking for extra points.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Realsports Football (1982) (Atari)-image.jpg</image>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="5206" source="theGamesDB.net">
+		<path>./Realsports Soccer (1982) (Atari).zip</path>
+		<name>RealSports Soccer</name>
+		<desc>RealSports Soccer is Atari's second attempt at a soccer game for the Atari 2600. You can choose from one of 12 different games, and play either solo or against a friend as you pass and shoot your way to victory (or defeat).
+
+Each team has three players with a specific area of the field to cover. A game lasts five or nine minutes and can be played on one of three difficulty levels, with each increasing the speed of gameplay and skill of the computer players.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Realsports Soccer (1982) (Atari)-image.jpg</image>
+		<releasedate>19820506T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher />
+		<genre>Sports</genre>
+	</game>
+	<game id="5207" source="theGamesDB.net">
+		<path>./Realsports Tennis (1982) (Atari).zip</path>
+		<name>RealSports Tennis</name>
+		<desc>Realsports Tennis is a tennis game for two players or one player against the computer. The game follows standard tennis rules, and allows you to hit forehand or backhand shots to all areas of the court as well as serves and lobs. You can play a game of singles or doubles, and multiple skill levels are included.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Realsports Tennis (1982) (Atari)-image.jpg</image>
+		<releasedate>19820504T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher />
+		<genre>Sports</genre>
+	</game>
+	<game id="5208" source="theGamesDB.net">
+		<path>./Rescue on Fractalus (1984) (Atari-Lucasfilm Games).zip</path>
+		<name>Rescue on Fractalus!</name>
+		<desc>The game utilizes fractal technology to create the craggy mountains of an alien planet, where the visilibility was drastically reduced by the dense atmosphere. The player controls a fictional "Valkyrie" space fighter[2] (converted for search and rescue duty) from a first-person view, attempting to land and pick up downed Ethercorps pilots. Some of these mountains hold anti-aircraft guns, which have to be avoided or destroyed. Due to the varied terrain, the direction finder has to be used to locate the pilots, whose visual beacons are often masked by mountain ridges.
+
+At higher levels, the enemy Jaggis begin flying kamikaze saucers. The mission area also moves into day/night boundaries. Night missions are particularly difficult, requiring diligent use of the altimeter to avoid crashing.
+
+Flying consumes fuel. The way to replenish this supply is to rescue downed pilots who bring their remaining fuel supplies on board.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Rescue on Fractalus (1984) (Atari-Lucasfilm Games)-image.jpg</image>
+		<releasedate />
+		<developer>LucasFilm Games</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="5209" source="theGamesDB.net">
+		<path>./River Raid (1983) (Activision).zip</path>
+		<name>River Raid</name>
+		<desc>The player controls an airplane in a top-down view over a river and gets points for shooting down enemy planes, helicopters, ships and balloons (for versions after the Atari 2600). By flying over fuel-stations, the plane's tank can be refilled. The player can shift side to side and change the speed of the plane. Sections of the river are marked by bridges.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/River Raid (1983) (Activision)-image.jpg</image>
+		<releasedate />
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game id="34489" source="theGamesDB.net">
+		<path>./Roadrunner (1982) (Atari).zip</path>
+		<name>Road Runner</name>
+		<desc>An unreleased prototype game staring the popular Road Runner cartoon character. Thought to have been based on perhaps a port of the arcade game Locomotion before being re skinned with Roadrunner and Wiley E Coyote.
+
+At the start of each level a birdseed truck will weave its way through the maze dropping off piles of birdseed as it goes.  The goal of Roadrunner is to move the tiles around so Wiley Coyote eats as much birdseed as he can before the Roadrunner gets it.  Each tile contains a portion of the road which Wiley and the Roadrunner walk on, by sliding the tiles around you can make paths leading to the piles of birdseed or to the tunnels on the side of the board.  The tunnels connect one side of the screen to the other, and can be useful for warping across the screen.  Unfortunately some of these tunnel entrances are really just painted on, so if Wiley attempts to enter one he'll knock himself out.  The only way to tell if a tunnel is real is to watch the Roadrunner and see which tunnels he takes.
+
+Wiley can die if he either runs off the end of the tile or runs into a false tunnel.  The Roadrunner appears to be able to back up from dead end track pieces and tunnels so he is impossible to kill, but you can trap him on two dead end pieces and complete the level at your leisure.  Once all the birdseed is gone the game moves to the next level.  If you happen to run into the Roadrunner you will score 10 points, and you the Roadrunner will be transported back to your starting points.  Wiley also scores 35 points for each tile he crosses, and 50 points for each pile of birdseed he collects.
+
+- Excerpt from AtariProtos.com</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Roadrunner (1982) (Atari)-image.jpg</image>
+		<releasedate>19830603T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="5213" source="theGamesDB.net">
+		<path>./Space Dungeon (1983) (Atari).zip</path>
+		<name>Space Dungeon</name>
+		<desc>In Space Dungeon for the Atari 5200, you are the commander of a space archaeological expedition, gathering up the scant remains of a distant planet. Your mission is to collect these treasures, which hold the key to the planet's destruction, and take them to a crystal-powered computer. Scientists believe that the information garnered from the cosmic chunks could save Earth from a fate similar to that of the destroyed planet.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Space Dungeon (1983) (Atari)-image.jpg</image>
+		<releasedate />
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game id="5210" source="theGamesDB.net">
+		<path>./Robotron 2084 (1983) (Atari).zip</path>
+		<name>Robotron: 2084</name>
+		<desc>You are a mutant human, who by some freak of nature has the ability to shoot energy pulses from his body in eight different directions! Your job is simple: save humanity from their own creation -- the ROBOTRONS! The gameplay is pretty unique for the time. You can move and fire in any of eight directions. You get thrown in a room with various evil baddies strewn about, you've got to kill all the robots while at the same time finding some way to grab humans and avoid death.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Robotron 2084 (1983) (Atari)-image.jpg</image>
+		<releasedate />
+		<developer>Williams</developer>
+		<publisher>Atari</publisher>
+		<genre />
+	</game>
+	<game id="5214" source="theGamesDB.net">
+		<path>./Space Invaders (1982) (Atari).zip</path>
+		<name>Space Invaders</name>
+		<desc>Space Invaders is a game in which the player controls a laser cannon by moving it horizontally across the bottom of the screen and firing at descending aliens. 
+The aim is to defeat five rows of eleven aliens—some versions feature different numbers—that move horizontally back and forth across the screen as they advance towards the bottom of the screen. The player defeats an alien, and earns points, by shooting it with the laser cannon. As more aliens are defeated, the aliens' movement and the game's music both speed up.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Space Invaders (1982) (Atari)-image.jpg</image>
+		<releasedate />
+		<developer>Taito</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game id="5215" source="theGamesDB.net">
+		<path>./Space Shuttle - A Journey Into Space (1983) (Activision).zip</path>
+		<name>Space Shuttle: A Journey into Space</name>
+		<desc>In Space Shuttle, you're the entire crew of America's pride and joy, the shuttle Orbiter. Climb into the cockpit, wait for the countdown, and follow the flight path precisely when you launch (and don't forget to separate the solid booster rockets and external tank on your way to orbit). Locate and rendezvous with a satellite in need of repair and re-launch it to the correct orbit, then make a fiery reentry through the atmosphere to return safely to Earth. 
+
+Originally released for the Atari 2600, Activision's intricate Space Shuttle simulator fares much better on the Atari 5200 for one simple reason: the controller keypad. The 2600 edition required players to memorize a bewildering array of alternate uses for every switch and toggle on the console except the power switch, whereas those functions -- although still cryptically named in NASA-speak -- are much easier to access with the keypad and overlay.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Space Shuttle - A Journey Into Space (1983) (Activision)-image.jpg</image>
+		<releasedate />
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre />
+	</game>
+	<game id="37037" source="theGamesDB.net">
+		<path>./Spitfire (1984) (Atari) (Prototype).zip</path>
+		<name>Spitfire</name>
+		<desc>Of all the prototypes that have passed through my hands over the years, Spitfire is definitely one of the strangest.  Part Zaxxon and part Star Raiders, Spitfire appears to have been Atari's first attempt into the realm of 3D shooters.  While the current known prototype may not be very complete (approx. 50%), it shows that the 5200 was indeed capable of 3D graphics.
+
+According to the dictionary, a Spitfire is a plane from World War II.  From the name of the game one would expect at WWII simulation game, but instead Spitfire is actually a Zaxxon style game with some elements of Star Raiders thrown in.  From the first screen it's obvious that the programmer was keen on 3D as all the text is in the same 3D style.  After selecting a skill level (0-2) with the * key, you are presented with the game map.
+
+The game map appears as a grid of 20x13 octagons (that's 260 octagons!).  While this may look a bit overwhelming, only the first three rows of octagons are ever used.  While the units may be spaced out over the map, this doesn't make any difference since your target is selected with the * key (perhaps you may have had to fly to your target in later versions?).  After selecting a target its statistics will be displayed in the status bar at the bottom of the screen.  In addition to the size of the target (Very Small, Small, Large, or Very Large), the status bar displays the possible elements on that target.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Spitfire (1984) (Atari) (Prototype)-image.png</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game id="34490" source="theGamesDB.net">
+		<path>./Sport Goofy (1983) (Atari) (Prototype).zip</path>
+		<name>Sports Goofy</name>
+		<desc>An unreleased prototype for the Atari 5200. You take control of goofy as he competes in two events, the Marathon Dive and the Pogo Pop.
+
+The Marathon Dive is a game in which you must guide Goofy up a series of platforms so he can reach the diving platform and jump off before the timer runs out.  As Goofy climbs up the platforms he must avoid little armored tanks, which will chase Goofy around.  Thankfully these tanks can't jump, reverse direction, or use the ladders, so they can be avoided by jumping over them or leading them into a hole (which will cause them to fall down to the next level).  Also hindering Goofy's progress are large gaps in the platforms which must be carefully jumped over.  If Goofy falls through a hole he'll fall down one level but is otherwise unharmed, however if he is hit by a tank he'll loose a life.
+ 
+If Goofy makes it to the top of the platform he will run off the end, making it about halfway across the screen before realizing that he's running in mid-air.  Now Goofy will begin to fall, and you must guide him down to the little floating platform below.  However the floating platform is constantly moving in an erratic fashion, so hitting it can be tough.  If you successfully reach the platform, Goofy will smash into it and have his parachute open a second too late (in typical cartoon fashion).  If you miss the platform Goofy will fall into the water and drown (I guess he doesn't know how to swim).  As the levels progress the tanks will begin to move faster and faster, the diving platform has more holes in it, and the floating platform moves more erratically.  Eventually the difficulty will wrap around however, and the game will get very easy again.
+
+Pogo Pop takes place on a series of squares where Goofy bounces up and down on a pogo stick in an effort to touch every tile.  This may sound easy but there's a catch, every time you jump one of the tiles disappears, so the tile that was below you may not be there when you land.  As the levels progress the frequency of the tiles disappearing increases, making it harder and harder not to fall through the floor.  
+ 
+While you're jumping on tiles you can attempt to pop the Mickey Mouse balloons floating above you for extra points.  The balloons come in several different colors and are worth a varying amount of points.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Sport Goofy (1983) (Atari) (Prototype)-image.jpg</image>
+		<releasedate>19830615T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game id="5217" source="theGamesDB.net">
+		<path>./Star Raiders (1982) (Atari).zip</path>
+		<name>Star Raiders</name>
+		<desc>"The code name for this operation is WIPEOUT. Seek out and destroy the Zylons." These are the orders you have been given by Commander Champion of the Star Raiders. This first-person style space combat sim tests your nerve and stamina as you seek to destroy all the Zylons in the galaxy before they destroy the Federation starbases.
+
+The game may be played at four different difficulty levels. The difficulty level varies the number of starbases you must protect and the number of enemy ships that must be defeated. At higher difficulty levels, your starship is more susceptible to damage and more difficult to control.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Star Raiders (1982) (Atari)-image.jpg</image>
+		<releasedate />
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre />
+	</game>
+	<game id="5218" source="theGamesDB.net">
+		<path>./Star Trek - Strategic Operations Simulator (1983) (Sega).zip</path>
+		<name>Star Trek: Strategic Operations Simulator</name>
+		<desc>Star Trek: Strategic Operations Simulator is an arcade action game where you take control of the Starship Enterprise. Your mission is to save the Federation from NOMAD! Before you get a chance at destroying NOMAD, you'll have to battle your way through ten levels (each consisting of multiple rounds). In each round you may encounter Klingon fighters, deadly anti-matter saucers, asteroid fields, and deadly meteors, all of which are capable of depleting the Enterprises energy. The game ends when your energy supply has completely run out. To fight these dangers, the Enterprise is equipped with an unlimited supply of phasers and a limited supply of photon torpedoes. Each round also contains one or more starbases; if you dock at a starbase, some of your supplies (such as energy and torpedoes) will be replenished. The game is played from two points of view; the top of the screen contains a third person view of the Enterprise (along with the ships gauges), and on the bottom of the screen is a first person point of view</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Star Trek - Strategic Operations Simulator (1983) (Sega)-image.jpg</image>
+		<releasedate />
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre />
+	</game>
+	<game id="5220" source="theGamesDB.net">
+		<path>./Star Wars - The Arcade Game (1983) (Parker Bros).zip</path>
+		<name>Star Wars: The Arcade Game</name>
+		<desc>Remember the exhilaration you felt near the end of Star Wars when Luke Skywalker destroyed the Death Star? With Star Wars: The Arcade Game for the Atari 5200, you can enjoy the experience all over again, but this time you get to take Skywalker's place at the helm of the X-wing Fighter!
+
+Your spaceship, which you see as though you were sitting in its cockpit, is equipped with a maximum of nine energy shields. Each time you run into an obstacle (fireball, tower or catwalk) you will lose a shield, but you can earn extra shields by destroying the Death Star. If you get hit when your shield count is zero, the game will end.
+
+Prior to taking a shot at the Death Star, you must battle wave after wave of Imperial TIE Fighter patrol ships that are swarming around the artificial planet. You must destroy the entire fleet while shooting at and avoiding a barrage of fireballs. Next, you must fly through a maze of laser towers that stretch from the Death Star up into the blackness of outer space. The fireballs make a return engagement, and you can shoot the tops off the towers for bonus points.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Star Wars - The Arcade Game (1983) (Parker Bros)-image.jpg</image>
+		<releasedate />
+		<developer>Parker Brothers</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game id="5221" source="theGamesDB.net">
+		<path>./Super Breakout (1982) (Atari).zip</path>
+		<name>Super Breakout</name>
+		<desc>In Super Breakout, there are three different and more advanced game types from which the player can choose:
+
+Double gives the player control of two bats at the same time—one placed above the other—and two balls. Losing a life occurs only when both balls go out of play, and points are doubled while the player is able to juggle both balls without losing either.
+Cavity retains the single bat and ball of Breakout, but two other balls are enclosed on the other side of the wall, which the player must free before they, too, can be used to destroy additional bricks. Points are increased for this, but triple points are available if the player can keep all three balls in play.
+Progressive also has the single bat and ball, but as the ball hits the paddle, the entire wall gradually advances downwards step by step, gaining in speed the longer the ball lasts in play.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Super Breakout (1982) (Atari)-image.jpg</image>
+		<releasedate />
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game id="34491" source="theGamesDB.net">
+		<path>./Stargate (1984) (Atari).zip</path>
+		<name>Stargate</name>
+		<desc>An unreleased prototype port of the popular Williams game Stargate.
+
+The sequel to Defender and much like the arcade game you fly around blasting aliens and trying to survive long enough to save humanoids. You also have a Hyperspace button that can teleport you to a random area which can be good or bad. Also new in Stargate was an Inviso button that would cloak your fighter for a limited time.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Stargate (1984) (Atari)-image.jpg</image>
+		<releasedate>19840105T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game id="35937" source="theGamesDB.net">
+		<path>./Star Wars - ROTJ - Death Star Battle (1983) (Parker Bros).zip</path>
+		<name>Star Wars Return of the Jedi Death Star Battle</name>
+		<desc>In the game, the player controls the Millennium Falcon with the aim of destroying the second Death Star. The game is split into two stages. In the first, the player must shoot enemy TIE fighters while waiting for an opportunity to pass through an energy shield. In the second stage, the player must shoot at parts of the Death Star until there is a clear path to the reactor. Once the reactor has been destroyed, the player must survive the resultant explosion.
+
+Once these objectives are completed, the game begins again in a new round with greater difficulty.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Star Wars - ROTJ - Death Star Battle (1983) (Parker Bros)-image.jpg</image>
+		<releasedate />
+		<developer>Parker Brothers</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre />
+		<players>1</players>
+	</game>
+	<game id="5222" source="theGamesDB.net">
+		<path>./Super Cobra (1983) (Parker Bros).zip</path>
+		<name>Super Cobra</name>
+		<desc>The player controls a helicopter and has to guide it across a scrolling terrain, battling obstacles along the way. The player uses a joystick to accelerate, decelerate, move up, and move down. The ship uses a laser and bomb to destroy defenders, tanks, and UFO's while infiletrating 10 Super Cobra defense systems.
+The ship has a limited fuel supply, which is depleted over time. More fuel can be acquired by destroying fuel tanks in the game.
+The game is divided into ten sections, plus a finale, each with a different style of terrain and different obstacles. Players navigate through ten levels and a base, where they must safely make it through the level and safely remove the booty. The levels are described as follows,
+Player must maneuver the chopper over mountainous terrain against fast and slow firing rockets.
+Chopper faces Arcing missiles over a mountain terrain.
+Smart Bombs flying in groups of four over mountainous terrain. Rockets appear, but do not fire.
+Single Smart Bombs over mountainous terrain. Again, Rockets appear, but do not fire.
+Chopper flies through a cavern-like terrain against falling mines.
+Rapidly firing, roving tanks over mountainous terrain. Rockets appear, but do not fire.
+Maneuver through a field of meteors which explode when hit with bombs or 3 times with laser, plus a single, green, shadow meteor directly in front of chopper which explodes when hit five times with laser. Rockets appear but do not fire.
+Chopper flies over mountainous terrain against rapidly firing UFOs. Tanks and rockets appear, but do not fire.
+Chopper faces arcing missiles over tall buildings.
+Firing rockets in a building maze.
+Base: Player must maneuver the chopper over tall buildings against arcing missiles and rapidly firing tanks to reach the Booty and safely carry it away.
+There is no intermission between each section; the game simply scrolls into the new terrain. If the player destroys the booty on the final level, they must start back at the beginning of the level.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Super Cobra (1983) (Parker Bros)-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19830204T000000</releasedate>
+		<developer>Parker Bros</developer>
+		<publisher>Parker Bros</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game id="5223" source="theGamesDB.net">
+		<path>./Super Pac-Man (1982) (Atari) (Prototype).zip</path>
+		<name>Super Pac-Man</name>
+		<desc>In a very good adaptation of one of the lesser-known Pac-Man sequels, Super Pac-Man for the Atari 5200 speeds up the action -- and drastically shortens the effectiveness of the power pills and super power pills gobbled up by Pac-Man. If you think you've mastered the original arcade version -- either with the benefit of a lot of quarters or Namco Museum -- this version of Super Pac-Man may yet humble you with its faster pace. Graphically, this is a better translation of its source material than the original Pac-Man for the 5200 was, and the sound is almost a dead-ringer for the arcade game.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Super Pac-Man (1982) (Atari) (Prototype)-image.jpg</image>
+		<releasedate />
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre />
+	</game>
+	<game id="5224" source="theGamesDB.net">
+		<path>./Tempest (1983) (Atari) (Prototype) [!].zip</path>
+		<name>Tempest</name>
+		<desc>Tempest is a shooter using wire-frame graphics. Each Wireway is taken on in turn, and has a network of lines guiding the movement paths of both yourself and the aliens. You remain on the outside and keep shooting as the aliens move towards you. Any that reach the outside are fatal to touch, thus limiting your range of movement greatly if 2 or more achieve this. Some aliens move sideways - in dealing with these, plan ahead allowing for the time your shots to take to travel.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Tempest (1983) (Atari) (Prototype) [!]-image.jpg</image>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+	</game>
+	<game id="34492" source="theGamesDB.net">
+		<path>./Track and Field (1984) (Atari).zip</path>
+		<name>Track and Field</name>
+		<desc>An unreleased prototype game for the Atari 5200 based on the popular arcade game. While it went unreleased it was ported and released for the Atari 8-Bit computers. Players take part in 6 events.
+
+100 Meter Dash – Running by quickly alternating button presses.
+
+Long jump – Running by alternating button press and correct timing for jump. Hold jump button to set angle (42 degrees is optimal).
+
+Javelin throw – Running by alternating button presses and then using action button correct timing for angle (43 degrees is optimal).
+
+110 Meter Hurdles – Running by alternating button presses and using action button to time hurdles
+
+Hammer throw – Spinning initiated by pressing a run button once and then correctly timed press of action button to choose angle (45 is optimal).
+
+High jump – Running (speed set by computer) and then action button must be held down to determine angle of jump. Once in the air, the run button can be rapidly pressed for additional height.
+
+Gameplay screenshot of the long jump event.
+
+In each event, there is a qualifying time or level that the player must achieve to advance to the next event; failing to qualify (in one heat for running events or three tries in the other events) will reduce the player's number of lives by one, but if none are present in his/her disposal, the game will end.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Track and Field (1984) (Atari)-image.jpg</image>
+		<releasedate>19840510T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game id="5226" source="theGamesDB.net">
+		<path>./Vanguard (1983) (Atari).zip</path>
+		<name>Vanguard</name>
+		<desc>Fight your way through the tunnels of Aterria to the City of Mystery and destroy the great Gond. Now you can play this popular video arcade game at home. Fun for the whole family.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Vanguard (1983) (Atari)-image.png</image>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game id="5227" source="theGamesDB.net">
+		<path>./Wizard of Wor (1982) (CBS).zip</path>
+		<name>Wizard of Wor</name>
+		<desc>Outwit the Wizard and his mysterious minions in the dreaded dungeons of Wor!
+
+Trapped within the diabolical dungeons of the wicked Wizard, your elite squadron of Worriors must defeat his legion of weird Worlings!
+
+First come the fiendish Burwors. Then, the devilish Garwors and Thorwors, creatures who seem to vanish and reappear at will. If you're expert with your Laser Blaster and use your Radar Screen, you just might manage to stay alive long enough to get a shot at the winged Worluk and maybe even the Wizard himself! But beware, Worrior--his is a fight to the finish!
+
+Deeper and deeper into the Wizard's labyrinthine mazes you'll descend... into the Arena and maybe even the Worlord Dungeons! Prove yourself worthy of that honor and you may make it into the Pit, the Wizard's most deadly dungeon with no place to hide!
+
+Accept the challenge, Worrior, and let the battle begin!</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Wizard of Wor (1982) (CBS)-image.jpg</image>
+		<rating>0.55</rating>
+		<releasedate>19830817T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>CBS</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game id="34494" source="theGamesDB.net">
+		<path>./Xari Arena (1983) (Atari) (Prototype).zip</path>
+		<name>Xari Arena</name>
+		<desc>An unreleased prototype game for the Atari 5200.
+
+Your goal is to destroy all the Xari's that come out of the well in the center of the screen before they can destroy all your blocks. You can use the joystick or the trackball controller.
+ 
+Each player resembles a hollow paddle (like a capsule), which you can move around your side of the screen.  Your paddle can catch and hold up to three fireballs (the little star looking things that the Xari's shoot), and each stored fireball allows you to destroy one Xari by running into it.  If you hit a Xari without any fireballs stored in your paddle, it is temporarily stunned and you cannot catch or deflect any shots for a few seconds.  If you already have three fireballs stored up, your paddle will start reflecting the fireballs back at the Xari's (a great tactic for those hard to reach guys that won't come near you) and at your partner (which is not so good).  You can choose to reflect shots even if you don't have three fireballs stored up by pressing the bottom controller button.
+ 
+If things start to get out of control you can activate your fire extinguisher (using the top controller button) to temporarily protect your blocks.  The fire extinguisher coats your blocks with foam and will destroy any shots that touch it.  the foam moves quickly down your blocks and only lasts for a few seconds so you have to use it wisely (like when fireballs get behind your blocks).  You get one new fire extinguisher each level, which can be stored for later use.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Xari Arena (1983) (Atari) (Prototype)-image.jpg</image>
+		<releasedate>19830920T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game id="34495" source="theGamesDB.net">
+		<path>./Xevious (1984) (Atari) (Prototype).zip</path>
+		<name>Xevious</name>
+		<desc>An unreleased prototype based on the popular Namco shooting game.
+
+It's a nightmare, but it's true.  Scientific research has determined that we are the actual aliens on Earth and the evil Xevions are the original inhabitants.  Now the Xevions want Earth back. minus the humans! Earth's last hope is an experimental fighter plane known as the Solvalou.  The mission is dangerous, success isn't guaranteed, and odds are this is a one-way trip.  But at this point it's do or die!
+
+As Earth's last hope, you must successfully defeat the Xevion assault fleet before they reclaim earth.  However this won't be an easy task, the Xevions have had over a millennia to develop the biggest, nastiest, and most destructive ships Earth has ever seen.  Thankfully the Solvalou is armed with the latest in weapons technology which will cut through the Xevion hordes like a hot knife through butter.  The Solvalou has two main weapons, a laser blaster for taking out air targets, and a photon bomber for destroying ground targets.  Over the course of the game you'll run into numerous enemy types which can only be destroyed using the appropriate weapon, so mastering the dual shot (air and ground) technique is vital.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Xevious (1984) (Atari) (Prototype)-image.jpg</image>
+		<releasedate>19840104T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game id="37036" source="theGamesDB.net">
+		<path>./Yellow Submarine Demo (1982) (Atari) (Prototype).zip</path>
+		<name>Yellow Submarine</name>
+		<desc>Yellow Submarine was a prototype coded by an unknown Atari programmer to demonstrate directional control and the ability to move off one side of the screen and reappear on the opposite side. The Beatles yellow submarine graphic was not used in any Atari 5200 video game and was perhaps nothing more than an inspiration by the original programmer. There is no game here only the ability to control the yellow submarine on and around the screen</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Yellow Submarine Demo (1982) (Atari) (Prototype)-image.png</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="5229" source="theGamesDB.net">
+		<path>./Zaxxon (1984) (Sega).zip</path>
+		<name>Zaxxon</name>
+		<desc>ZAXXON thrusts you into the depths of outer space. Test your pilot skills as you strap into the command position. Prepare for an action-packed challenge of space survival.
+ Score points as you dive, climb, and swoop down to destroy the enemy's floating fortress. Dodge deadly laser barriers, enemy missiles, and rapid gunfire! Destroy enemy fuel tanks and your own supply is replenished. Survive the enemy's fighter fleet attack and face the ultimate challenge...the powerful, armored ZAXXON ROBOT.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Zaxxon (1984) (Sega)-image.jpg</image>
+		<releasedate />
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game id="5230" source="theGamesDB.net">
+		<path>./Zenji (1984) (Atari).zip</path>
+		<name>Zenji</name>
+		<desc>Let us call the "Many" the "Elements." Then let us see that in the vast blackness, beyond the beyond, the Elements assemble around the Source. Some are connected, some are not. Those united with the Source are green with energy, while the disconnected ones are an empty grey. The seeker must connect the Many to the One, thus turning all the Elements green with the power of the Source. In that instant, Zenji occurs.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Zenji (1984) (Atari)-image.jpg</image>
+		<releasedate>19840401T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Jr Pac-Man (1984) (Atari).zip</path>
+		<name>Jr. Pac-Man</name>
+		<desc>Jr.Pac-Man was never released for the Atari 5200, however a prototype does exist. In this Pac-man spin off you now take control of junior who has to contend with much more than his parents did! The mazes are so large now they require the screen to scroll. On top of that the items that appear will cause the dots to enlarge. This gives Junior more points when he eats them but also slows him down a bit making it difficult to avoid the ghosts. What's worse is if they hit a power pellet they will destroy it!
+
+Like other Pac-Man games intermissions are shown between levels. They mainly have to do with Junior and a ghost girl falling in love despite their parents disapproval.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/atari5200/Jr Pac-Man (1984) (Atari)-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19840228T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>/home/pi/RetroPie/roms/atari5200/PAM SALT V1.02 (1982) (Atari).zip</path>
+		<name>PAM SALT V1.02 (1982) (Atari)</name>
+		<playcount>1</playcount>
+		<lastplayed>20181208T214107</lastplayed>
+	</game>
+	<game>
+		<path>./Choplifter (1984) (Atari).zip</path>
+		<name>Choplifter</name>
+		<desc>In Choplifter, the player assumes the role of a combat helicopter pilot. The player attempts to save hostages being held in prisoner of war camps in territory ruled by the evil Bungeling Empire. The player must collect the hostages and transport them safely to the nearby friendly base, all the while fighting off hostile tanks and other enemy combatants.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/atari5200/Choplifter (1984) (Atari)-image.jpg</image>
+		<releasedate>19820701T000000</releasedate>
+		<developer>Dan Gorlin</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<playcount>4</playcount>
+		<lastplayed>20181208T222945</lastplayed>
+	</game>
+	<game>
+		<path>./Countermeasure (1983) (Atari).zip</path>
+		<name>Countermeasure</name>
+		<desc>We've just received word that terrorists have seized one of our missile silo complexes and are threatening to blow up Washington, D.C. These lunatics aren't fooling!
+
+They've wired the missiles to a silo computer and started the launch sequence timer. In just 10 minutes the missiles will lift off for Washington... unless YOU stop them. Destroy all the silos in the complex with your long-range turret gun before the timer runs out. If you complete this mission, you'll win the Congressional Medal of Honor... along with 10,000 bonus points and a bonus life.
+
+If the timer runs out before you destroy all the silos, you still have a chance to prevent disaster. In the seconds before impact, dock your supertank at a silo, enter the War Room, and guess the fail-safe code that disarms the missiles: The code is some combination of the letters L, E, and O... for example, ELL, OOO, or OLE. Succeed and you win 10,000 bonus points and a bonus life. Fail and... well, you'll find out.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/atari5200/Countermeasure (1983) (Atari)-image.jpg</image>
+		<releasedate>19820101T000000</releasedate>
+		<developer />
+		<publisher>Atari</publisher>
+		<genre />
+		<playcount>2</playcount>
+		<lastplayed>20181208T215358</lastplayed>
+	</game>
+	<game>
+		<path>./Zone Ranger (1984) (Activision).zip</path>
+		<name>Zone Ranger</name>
+		<desc>Over 30 seperate zones of indescribable danger. Pitting you against a devastatingly evil minefield of destruction. Not to mention countless horrible enemies. Strike them and they only multiply.
+ Detonate the deadly mines that litter your cosmos or you'll be sorry. Find an elusive, mysterious superportal and you'll get even. It's intense multiscreen action. Which loosely translated, simply means, it's awesome fun.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/atari5200/Zone Ranger (1984) (Activision)-image.jpg</image>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20181221T013131</lastplayed>
+	</game>
+	<game>
+		<path>./Congo Bongo (1983) (Sega).zip</path>
+		<name>Congo Bongo</name>
+		<desc>In the first of three screens, you must climb the cliffs of Jungle Mountain in order to get to Congo Bongo, the jungle gorilla. You must also cross a bridge and jump a chasm. Along the way, Congo will throw coconuts at you, and monkeys will try to jump on your back. The monkeys slow you down tremendously, but a couple of jumps will send them scurrying.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Congo Bongo (1983) (Sega)-image.jpg</image>
+		<rating>0</rating>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre />
+		<players />
+		<playcount>19</playcount>
+		<lastplayed>20190720T234621</lastplayed>
+	</game>
+	<game>
+		<path>./Defender (1982) (Atari).zip</path>
+		<name>Defender</name>
+		<desc>Defender is a two-dimensional, side-scrolling shooting game set on the surface of an unnamed planet. The player controls a space ship as it navigates the terrain, flying either to the left or right. A joystick controls the ship's elevation, and five buttons control its horizontal direction and weapons. The object is to destroy alien invaders, while protecting astronauts on the landscape from abduction. Humans that are successfully abducted return as mutants that attack the ship. Defeating the aliens allows the player to progress to the next level. Failing to protect the astronauts, however, causes the planet to explode and the level to become populated with mutants. Surviving the waves of mutants results in the restoration of the planet. Players are allotted three chances (lives) to progress through the game and are able to earn more by reaching certain scoring benchmarks.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Defender (1982) (Atari)-image.jpg</image>
+		<releasedate />
+		<developer>Williams</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<playcount>11</playcount>
+		<lastplayed>20190720T234800</lastplayed>
+	</game>
+	<game>
+		<path>./Dig Dug (1983) (Atari).zip</path>
+		<name>Dig Dug</name>
+		<desc>The objective of Dig Dug is to eliminate underground-dwelling monsters by inflating them until they pop, or by dropping rocks on them. There are two kinds of enemies in the game:
+Pookas - A race of round red monsters (said to be modeled after tomatoes) who wear yellow goggles.
+Fygars - A race of green dragons who can breathe fire.
+The player's character is Dig Dug, dressed in white and blue, and able to dig tunnels through destructible environments. Dig Dug is killed if he is caught by either Pooka or Fygar, burned by a Fygar's fire, or crushed by a rock.
+A partially inflated monster will gradually deflate and recover after a few seconds, during which time the player can pass safely through it. The monsters normally crawl through the tunnels in the dirt but can turn into ghostly eyes and travel slowly through the dirt. The last enemy on a level will try to escape off the top left of the screen.
+More points are awarded for popping an enemy further down in the dirt (the levels are color-coded). In addition, Fygars are worth double points if exploded horizontally, since they can only breathe fire horizontally in the direction they are facing. Extra points are also awarded for dropping rocks on enemies in order to eliminate them rather than inflating them. If one enemy is killed by the rock, it is worth 1000 points. The next two add 1500 points each, and any after that add 2000. The act of digging is itself worth points, giving 10 points for each block dug, so some players do as much of it as possible in situations where the threat from the remaining monsters is minimal.
+After the player drops two rocks, fruits and vegetables and other edible bonus items, such as Galaxian flagships appear in the center of the play field, and can be collected for points if the player is able to reach them before they disappear. These edible bonus items will appear even if the rocks fail to hit any enemies. In some versions of the game, the most points attainable from a single bonus fruit is 8,000 from the pineapple.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Dig Dug (1983) (Atari)-image.jpg</image>
+		<releasedate>19830505T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher />
+		<genre>Strategy</genre>
+		<playcount>1</playcount>
+		<lastplayed>20190721T003146</lastplayed>
+	</game>
+	<game>
+		<path>./Galaxian (1982) (Atari).zip</path>
+		<name>Galaxian</name>
+		<desc>Galaxian expanded on the formula pioneered by Space Invaders. As in the earlier game, Galaxian featured a horde of attacking aliens that exchanged shots with the player. In contrast to Space Invaders, Galaxian added an element of drama by having the aliens periodically make kamikaze-like dives at the player's ship, the Galaxip.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Galaxian (1982) (Atari)-image.jpg</image>
+		<releasedate />
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<playcount>4</playcount>
+		<lastplayed>20190720T234214</lastplayed>
+	</game>
+	<game>
+		<path>./Centipede (1982) (Atari).zip</path>
+		<name>Centipede</name>
+		<desc>The player moves the character about the bottom area of the screen and fires laser shots at a centipede advancing from the top of the screen down through a field of mushrooms. Shooting any section of the centipede creates a mushroom; shooting one of the middle segments splits the centipede into two pieces at that point. Each piece then continues independently on its way down the board, with the first section of the rear piece becoming a new head. If the head is destroyed, the section behind it becomes the next head.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Centipede (1982) (Atari)-image.jpg</image>
+		<releasedate />
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<playcount>9</playcount>
+		<lastplayed>20200516T000359</lastplayed>
+	</game>
+	<game>
+		<path>./Berzerk (1983) (Atari).zip</path>
+		<name>Berzerk</name>
+		<desc>After a routine space exploration mission goes awry, you find yourself marooned on the planet Mazeon. To add insult to injury, the robotic residents are out to kill you. Now you're forced to fend off these relentless robots as you move through endless mazelike environments. In Berzerk, the goal is to make your way past the electrified walls forming each screen while using your laser gun to blast the hostile threats known as Automazeons. Firing your weapon involves pointing the joystick in one of eight directions and pressing a button. You can also lead robots into walls and even into their own shots to defeat them.</desc>
+		<image>~/.emulationstation/downloaded_images/atari5200/Berzerk (1983) (Atari)-image.jpg</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Stern Electronics</developer>
+		<publisher>Stern Electronics</publisher>
+		<genre>Platform</genre>
+		<playcount>10</playcount>
+		<lastplayed>20200516T004729</lastplayed>
+	</game>
+</gameList>
