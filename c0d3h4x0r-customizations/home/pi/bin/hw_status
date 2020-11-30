@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+
+function print_system_status()
+{
+    cpuFreqHz=$(cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq)
+    cpuFreqMhz=$(bc <<< "scale = 0; $cpuFreqHz / 1000")
+    cpuTemp=$(cat /sys/class/thermal/thermal_zone0/temp)
+    cpuTempC=$(bc <<< "scale = 1; $cpuTemp / 1000")
+    gpuTempC=$(vcgencmd measure_temp)
+    gpuTempC=${gpuTempC:5:-2}
+    cpuV=$(vcgencmd measure_volts core)
+    cpuV=${cpuV:5:-1}
+    gpuV=${cpuV}
+    sdram_cV=$(vcgencmd measure_volts sdram_c)
+    sdram_cV=${sdram_cV:5:-1}
+    sdram_iV=$(vcgencmd measure_volts sdram_i)
+    sdram_iV=${sdram_iV:5:-1}
+    sdram_pV=$(vcgencmd measure_volts sdram_p)
+    sdram_pV=${sdram_pV:5:-1}
+    BEGIN='[ \033[1;37m'
+    END=' \033[0m]'
+    echo -e cpu:${BEGIN}${cpuTempC}\'C, ${cpuV}V, ${cpuFreqMhz}MHz ${END}, gpu:${BEGIN}${gpuTempC}\'C, ${gpuV}V${END}, sdram:${BEGIN}controller=${sdram_cV}V, i/o=${sdram_iV}V, physical=${sdram_pV}V${END}
+}
+
+print_system_status

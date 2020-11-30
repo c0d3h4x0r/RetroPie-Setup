@@ -1,0 +1,49 @@
+#!/usr/bin/env bash
+
+function print_system_status()
+{
+    cpuFreqHz=$(cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq)
+    cpuFreqMhz=$(bc <<< "scale = 0; $cpuFreqHz / 1000")
+    cpuTemp=$(cat /sys/class/thermal/thermal_zone0/temp)
+    cpuTempC=$(bc <<< "scale = 1; $cpuTemp / 1000")
+    gpuFreqHz=$(vcgencmd measure_clock core)
+    gpuFreqHz=${gpuFreqHz:13}
+    gpuFreqMhz=$(bc <<< "scale = 0; $gpuFreqHz / 1000000")
+    gpuTempC=$(vcgencmd measure_temp)
+    gpuTempC=${gpuTempC:5:-2}
+    cpuV=$(vcgencmd measure_volts core)
+    cpuV=${cpuV:5:-1}
+    gpuV=${cpuV}
+    sdramFreqMhz=$(vcgencmd get_config sdram_freq)
+    sdramFreqMhz=${sdramFreqMhz:11}
+    sdram_cV=$(vcgencmd measure_volts sdram_c)
+    sdram_cV=${sdram_cV:5:-1}
+    sdram_iV=$(vcgencmd measure_volts sdram_i)
+    sdram_iV=${sdram_iV:5:-1}
+    sdram_pV=$(vcgencmd measure_volts sdram_p)
+    sdram_pV=${sdram_pV:5:-1}
+    BEGIN='[ \033[1;37m'
+    END=' \033[0m]'
+    echo -e cpu:${BEGIN}${cpuFreqMhz}MHz, ${cpuV}V, ${cpuTempC}\'C${END}
+    echo -e gpu:${BEGIN}${gpuFreqMhz}MHz, ${gpuV}V, ${gpuTempC}\'C${END}
+    echo -e sdram \(physical\):${BEGIN}${sdramFreqMhz}MHz, ${sdram_pV}V${END}
+    echo -e sdram \(i/o\):${BEGIN}${sdramFreqMhz}MHz, ${sdram_iV}V${END}
+    echo -e sdram \(controller\):${BEGIN}${sdramFreqMhz}MHz, ${sdram_cV}V${END}
+}
+
+function run_sysbench_silently()
+{
+    sysbench --test=cpu --cpu-max-prime=$1 --num-threads=4 run >/dev/null 2>&1
+}
+
+function run_sysbench_and_report()
+{
+    echo Running sysbench with primes up to "$1" to "$2"...
+    TIMEFORMAT="sysbench completed in %R seconds."
+    time run_sysbench_silently "$1"
+    print_system_status
+}
+
+print_system_status
+#run_sysbench_and_report "1000" "force CPU to ramp up to Turbo speed"
+#run_sysbench_and_report "50000" "test stability and thermals"
