@@ -11,3 +11,5 @@ sudo cp $COPY_OPTIONS "./boot.$1"/* /boot/
 sudo cp $COPY_OPTIONS ./etc/* /etc/
 cp $COPY_OPTIONS ./home/pi/* /home/pi/
 sudo cp $COPY_OPTIONS ./opt/* /opt/
+sudo chown -R pi:pi /opt/retropie/configs/all/emulationstation
+

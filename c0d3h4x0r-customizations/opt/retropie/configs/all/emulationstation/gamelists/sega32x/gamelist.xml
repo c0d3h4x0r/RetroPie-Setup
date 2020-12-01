@@ -1,313 +1,97 @@
 <?xml version="1.0"?>
 <gameList>
-	<game>
-		<path>./Space Harrier (32X) (JU) [!].zip</path>
-		<name>Space Harrier (32X) (JU) [!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181119T101142</lastplayed>
-	</game>
-	<game>
-		<path>./Virtua Racing Deluxe (32X) (J) [!].zip</path>
-		<name>Virtua Racing Deluxe (32X) (J) [!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181119T101218</lastplayed>
-	</game>
-	<game>
-		<path>./Primal Rage (32X) (W) [!].zip</path>
-		<name>Primal Rage (32X) (W) [!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181122T020148</lastplayed>
-	</game>
-	<game>
-		<path>./Virtua Racing Deluxe (32X) (U) [!].zip</path>
-		<name>Virtua Racing Deluxe (32X) (U) [!]</name>
-		<playcount>2</playcount>
-		<lastplayed>20181122T020321</lastplayed>
-	</game>
-	<game>
-		<path>./After Burner Complete (32X) (JU) [!].zip</path>
-		<name>After Burner Complete (32X) (JU) [!]</name>
-		<playcount>3</playcount>
-		<lastplayed>20181123T142908</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/Tempo (32X) (JU) [!].zip</path>
-		<name>Tempo (32X) (JU) [!]</name>
-		<playcount>24</playcount>
-		<lastplayed>20181126T010100</lastplayed>
-	</game>
-	<game>
-		<path>./Space Harrier (JU) (32X) [!].32x</path>
-		<name>Space Harrier (JU) (32X) [!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181129T080708</lastplayed>
-	</game>
-	<game>
-		<path>./Knuckles' Chaotix (JU) (32X) [!].32x</path>
-		<name>Knuckles' Chaotix (JU) (32X) [!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181130T074838</lastplayed>
-	</game>
-	<game>
-		<path>./Primal Rage (W) (32X) [!].32x</path>
-		<name>Primal Rage (W) (32X) [!]</name>
-		<playcount>4</playcount>
-		<lastplayed>20181130T075127</lastplayed>
-	</game>
-	<game>
-		<path>./Virtua Fighter (JU) (32X) [!].32x</path>
-		<name>Virtua Fighter (JU) (32X) [!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181130T075023</lastplayed>
-	</game>
-	<game>
-		<path>./Virtua Racing Deluxe (U) (32X) [!].32x</path>
-		<name>Virtua Racing Deluxe (U) (32X) [!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181130T074924</lastplayed>
-	</game>
-	<game>
-		<path>./After Burner Complete (E) (32X) [!].32x</path>
-		<name>After Burner Complete (E) (32X) [!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181201T182602</lastplayed>
-	</game>
-	<game>
-		<path>./After Burner Complete (JU) (32X) [!].32x</path>
-		<name>After Burner Complete (JU) (32X) [!]</name>
-		<playcount>2</playcount>
-		<lastplayed>20181201T193338</lastplayed>
-	</game>
-	<game>
-		<path>./Tempo (JU) (32X) [!] (2).bin</path>
-		<name>Tempo (JU) (32X) [!] (2)</name>
-		<playcount>1</playcount>
-		<lastplayed>20181201T194127</lastplayed>
-	</game>
-	<game>
-		<path>./Tempo (JU) (32X) [!].32x</path>
-		<name>Tempo (JU) (32X) [!]</name>
-		<playcount>20</playcount>
-		<lastplayed>20181203T013834</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/36 Great Holes Starring Fred Couples (32X) (JU) [!].zip</path>
-		<name>36 Great Holes Starring Fred Couples (32X) (JU) [!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181203T051923</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/BC Racers (32X) (W) [c][!].zip</path>
-		<name>BC Racers (32X) (W) [c][!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181203T052125</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/Blackthorne (32X) (U) [!].zip</path>
-		<name>Blackthorne (32X) (U) [!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181203T052602</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/Brutal Unleashed - Above the Claw (32X) (U) [!].zip</path>
-		<name>Brutal Unleashed - Above the Claw (32X) (U) [!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181203T052624</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/Darxide (32X) (E) (M4) [!].zip</path>
-		<name>Darxide (32X) (E) (M4) [!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181203T055334</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/Doom (32X) (JU) [!].zip</path>
-		<name>Doom (32X) (JU) [!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181203T052841</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/FIFA International Soccer 96 (32X) (UE) (M6) [c][!].zip</path>
-		<name>FIFA International Soccer 96 (32X) (UE) (M6) [c][!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181203T053030</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/Kolibri (32X) (W) [!].zip</path>
-		<name>Kolibri (32X) (W) [!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181203T053334</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/Metal Head (32X) (JU) (M2) [!].zip</path>
-		<name>Metal Head (32X) (JU) (M2) [!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181203T053434</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/Mortal Kombat II (32X) (W) (Jan 1995) [!].zip</path>
-		<name>Mortal Kombat II (32X) (W) (Jan 1995) [!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181203T053658</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/Motocross Championship (32X) (JU) [!].zip</path>
-		<name>Motocross Championship (32X) (JU) [!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181203T053724</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/NBA Jam Tournament Edition (32X) (W) [!].zip</path>
-		<name>NBA Jam Tournament Edition (32X) (W) [!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181203T053744</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/NFL Quarterback Club (32X) (W) [!].zip</path>
-		<name>NFL Quarterback Club (32X) (W) [!]</name>
-		<playcount>3</playcount>
-		<lastplayed>20181203T053847</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/RBI Baseball 95 (32X) (U) [!].zip</path>
-		<name>RBI Baseball 95 (32X) (U) [!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181203T053857</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/Sangokushi IV (32X) (J) [!].zip</path>
-		<name>Sangokushi IV (32X) (J) [!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181203T053913</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/Shadow Squadron (32X) (UE) [!].zip</path>
-		<name>Shadow Squadron (32X) (UE) [!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181203T053936</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/Star Trek - Starfleet Academy Bridge Simulator (32X) (U) [!].zip</path>
-		<name>Star Trek - Starfleet Academy Bridge Simulator (32X) (U) [!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181203T053956</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/World Series Baseball '95 (32X) (U) [!].zip</path>
-		<name>World Series Baseball '95 (32X) (U) [!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181203T054006</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/WWF RAW (32X) (W) [!].zip</path>
-		<name>WWF RAW (32X) (W) [!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181203T054134</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/WWF Wrestlemania Arcade (32X) (W) [!].zip</path>
-		<name>WWF Wrestlemania Arcade (32X) (W) [!]</name>
-		<playcount>1</playcount>
-		<lastplayed>20181203T054144</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/Zaxxon's Motherbase 2000 (32X) (JU) [!].zip</path>
-		<name>Zaxxon's Motherbase 2000 (32X) (JU) [!]</name>
-		<playcount>2</playcount>
-		<lastplayed>20181203T054159</lastplayed>
-	</game>
-	<game>
-		<path>./BC Racers (32X) (W) [c][!].zip</path>
-		<name>BC Racers</name>
-		<desc>It’s pre-hysterical!  Millionaire playboy caveman Millstone Rockafella arranges a wild n’ wacky BC bike race, the winner of which receives the ultimate boulderdash bike.  Cool n’ crazy Cliff Ace has had his sunglasses set on a boulderdash bike since he was knee-high, so he signs up for the race - taking his cave-babe Roxy along for the ride!  The 32X pushes graphics to the limit with 256 colors for in-game graphics and full 24-bit for static display.  The stone-age never looked better!</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/BC Racers (32X) (W) [c][!]-image.jpg</image>
-		<rating>0.3</rating>
-		<releasedate>19951019T000000</releasedate>
-		<developer>Core Design</developer>
-		<publisher>Front Street</publisher>
-		<genre>Racing</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Blackthorne (32X) (U) [!].zip</path>
-		<name>Blackthorne</name>
-		<desc>Through the dark vastness of space, exiled prince Kyle Blackthorne returns to Tuul to avenge his murdered father and restore the shattered Lightstone.  The conqueror Sarlac opposes his vicious troops against the enraged prince.  But the evil lord will soon find out… an army is not enough against a single fierce fighter with a vengeance!</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/Blackthorne (32X) (U) [!]-image.jpg</image>
-		<rating>0.6</rating>
-		<releasedate>19950824T000000</releasedate>
-		<developer>Blizzard</developer>
-		<publisher>Interplay</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Brutal Unleashed - Above the Claw (32X) (U) [!].zip</path>
-		<name>Brutal: Above the Claw</name>
-		<desc>Under the watchful eye of the great master Dali Llama, the worlds greatest martial artists would return to a place they knew well… Brutal Island.  Each will use their own unique mental and physical martial arts style and training, in a tournament to prove the worlds one true champion.
+  <game>
+    <path>./BC Racers (32X) (W) [c][!].zip</path>
+    <name>BC Racers</name>
+    <desc>It&#x2019;s pre-hysterical!  Millionaire playboy caveman Millstone Rockafella arranges a wild n&#x2019; wacky BC bike race, the winner of which receives the ultimate boulderdash bike.  Cool n&#x2019; crazy Cliff Ace has had his sunglasses set on a boulderdash bike since he was knee-high, so he signs up for the race - taking his cave-babe Roxy along for the ride!  The 32X pushes graphics to the limit with 256 colors for in-game graphics and full 24-bit for static display.  The stone-age never looked better!</desc>
+    <image>/home/pi/.emulationstation/downloaded_images/sega32x/BC Racers (32X) (W) [c][!]-image.jpg</image>
+    <rating>0.3</rating>
+    <releasedate>19951019T000000</releasedate>
+    <developer>Core Design</developer>
+    <publisher>Front Street</publisher>
+    <genre>Racing</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>./Blackthorne (32X) (U) [!].zip</path>
+    <name>Blackthorne</name>
+    <desc>Through the dark vastness of space, exiled prince Kyle Blackthorne returns to Tuul to avenge his murdered father and restore the shattered Lightstone.  The conqueror Sarlac opposes his vicious troops against the enraged prince.  But the evil lord will soon find out&#x2026; an army is not enough against a single fierce fighter with a vengeance!</desc>
+    <image>/home/pi/.emulationstation/downloaded_images/sega32x/Blackthorne (32X) (U) [!]-image.jpg</image>
+    <rating>0.6</rating>
+    <releasedate>19950824T000000</releasedate>
+    <developer>Blizzard</developer>
+    <publisher>Interplay</publisher>
+    <genre>Action</genre>
+  </game>
+  <game>
+    <path>./Brutal Unleashed - Above the Claw (32X) (U) [!].zip</path>
+    <name>Brutal: Above the Claw</name>
+    <desc>Under the watchful eye of the great master Dali Llama, the worlds greatest martial artists would return to a place they knew well&#x2026; Brutal Island.  Each will use their own unique mental and physical martial arts style and training, in a tournament to prove the worlds one true champion.
 
 Brutal, Above the Claw, is a brilliantly rendered game of humorous cartoon style combat, combined with depth, philosophy, and an attention to detail not found in any other fighting game.
 
-Go ahead and Unleash the Animal, it’s time to get Brutal.</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/Brutal Unleashed - Above the Claw (32X) (U) [!]-image.jpg</image>
-		<releasedate>19950101T000000</releasedate>
-		<developer>GameTek</developer>
-		<publisher>GameTek</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Doom (32X) (JU) [!].zip</path>
-		<name>Doom</name>
-		<desc>All Hell has run amok!  Monstrous demons from another dimension use their gruesome talents to turn your space station into a blood-splattered slaughterhouse.
+Go ahead and Unleash the Animal, it&#x2019;s time to get Brutal.</desc>
+    <image>/home/pi/.emulationstation/downloaded_images/sega32x/Brutal Unleashed - Above the Claw (32X) (U) [!]-image.jpg</image>
+    <releasedate>19950101T000000</releasedate>
+    <developer>GameTek</developer>
+    <publisher>GameTek</publisher>
+    <genre>Fighting</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>./Doom (32X) (JU) [!].zip</path>
+    <name>Doom</name>
+    <desc>All Hell has run amok!  Monstrous demons from another dimension use their gruesome talents to turn your space station into a blood-splattered slaughterhouse.
 
 They got black magic.  You got firepower.  Fireballs and lost souls face shotguns, chainsaws, and rocket launchers!
 
-Butcher the hordes of Hell.  Or get butchered, if you don’t have the skill and pure guts to save your skin!</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/Doom (32X) (JU) [!]-image.jpg</image>
-		<releasedate>19940101T000000</releasedate>
-		<developer>id Software</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter</genre>
-		<players />
-	</game>
-	<game>
-		<path>./FIFA International Soccer 96 (32X) (UE) (M6) [c][!].zip</path>
-		<name>FIFA Soccer 96</name>
-		<desc>FIFA Soccer '96 (ＦＩＦＡサッカー'９６) is an entry to the FIFA series of video games, and was developed by Extended Play Productions and published by Electronic Arts. Though it was not the first FIFA game (both FIFA Soccer '95 and FIFA International Soccer had come before it), FIFA 96 is often considered the first truly successful FIFA game, and opened the doors to annual sequels that continue to this day. It was released for the Sega Mega Drive, Sega 32X and Sega Game Gear, with a different version of the game being released on the Sega Saturn.</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/FIFA International Soccer 96 (32X) (UE) (M6) [c][!]-image.jpg</image>
-		<rating>0.8</rating>
-		<releasedate>19951130T000000</releasedate>
-		<developer>Electronic Arts</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./36 Great Holes Starring Fred Couples (32X) (JU) [!].zip</path>
-		<name>Golf Magazine: 36 Great Holes Starring Fred Couples</name>
-		<desc>There are seven different modes (Stroke Play, Tournament, Skins, Shoot-out, Scramble, Practice and Match Play) and three different types of golf club heads including wood, metal and graphite. There is a battery back-up to keep track of 16 different categories of stats and does feature the voice of Fred Couples, even though he is not a playable character.</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/36 Great Holes Starring Fred Couples (32X) (JU) [!]-image.jpg</image>
-		<rating>0.5</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Flashpoint</developer>
-		<publisher>SEGA</publisher>
-		<genre>Sports</genre>
-		<players />
-	</game>
-	<game>
-		<path>./Kolibri (32X) (W) [!].zip</path>
-		<name>Kolibri</name>
-		<desc>Deep in the Earth, a powerful ancient crystal hums, fueling the balance of nature. But when its toxic twin plummets to Earth, nature totters on the edge of extinction! Only one hope survives - Kolibri. Though small and alone, the hummingbird must battle the invasive mutation in all its malignant form to restore Earth. But at what cost?</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/Kolibri (32X) (W) [!]-image.png</image>
-		<rating>0.8</rating>
-		<releasedate>19950908T000000</releasedate>
-		<developer>Novotrade</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter</genre>
-	</game>
-	<game>
-		<path>./Metal Head (32X) (JU) (M2) [!].zip</path>
-		<name>Metal Head</name>
-		<desc>Bullets fly and circuits try in heavy-duty cyborg techno-slaughter. You control Metal Head, the ultimate cyborg warrior, patrolling the charred urban destruction of the great war. And a murderous mecha-force is gunning for you!
+Butcher the hordes of Hell.  Or get butchered, if you don&#x2019;t have the skill and pure guts to save your skin!</desc>
+    <image>/home/pi/.emulationstation/downloaded_images/sega32x/Doom (32X) (JU) [!]-image.jpg</image>
+    <releasedate>19940101T000000</releasedate>
+    <developer>id Software</developer>
+    <publisher>Sega</publisher>
+    <genre>Shooter</genre>
+    <players/>
+  </game>
+  <game>
+    <path>./FIFA International Soccer 96 (32X) (UE) (M6) [c][!].zip</path>
+    <name>FIFA Soccer 96</name>
+    <desc>FIFA Soccer '96 (&#xFF26;&#xFF29;&#xFF26;&#xFF21;&#x30B5;&#x30C3;&#x30AB;&#x30FC;'&#xFF19;&#xFF16;) is an entry to the FIFA series of video games, and was developed by Extended Play Productions and published by Electronic Arts. Though it was not the first FIFA game (both FIFA Soccer '95 and FIFA International Soccer had come before it), FIFA 96 is often considered the first truly successful FIFA game, and opened the doors to annual sequels that continue to this day. It was released for the Sega Mega Drive, Sega 32X and Sega Game Gear, with a different version of the game being released on the Sega Saturn.</desc>
+    <image>/home/pi/.emulationstation/downloaded_images/sega32x/FIFA International Soccer 96 (32X) (UE) (M6) [c][!]-image.jpg</image>
+    <rating>0.8</rating>
+    <releasedate>19951130T000000</releasedate>
+    <developer>Electronic Arts</developer>
+    <publisher>Electronic Arts</publisher>
+    <genre>Sports</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>./36 Great Holes Starring Fred Couples (32X) (JU) [!].zip</path>
+    <name>Golf Magazine: 36 Great Holes Starring Fred Couples</name>
+    <desc>There are seven different modes (Stroke Play, Tournament, Skins, Shoot-out, Scramble, Practice and Match Play) and three different types of golf club heads including wood, metal and graphite. There is a battery back-up to keep track of 16 different categories of stats and does feature the voice of Fred Couples, even though he is not a playable character.</desc>
+    <image>/home/pi/.emulationstation/downloaded_images/sega32x/36 Great Holes Starring Fred Couples (32X) (JU) [!]-image.jpg</image>
+    <rating>0.5</rating>
+    <releasedate>19940101T000000</releasedate>
+    <developer>Flashpoint</developer>
+    <publisher>SEGA</publisher>
+    <genre>Sports</genre>
+    <players/>
+  </game>
+  <game>
+    <path>./Kolibri (32X) (W) [!].zip</path>
+    <name>Kolibri</name>
+    <desc>Deep in the Earth, a powerful ancient crystal hums, fueling the balance of nature. But when its toxic twin plummets to Earth, nature totters on the edge of extinction! Only one hope survives - Kolibri. Though small and alone, the hummingbird must battle the invasive mutation in all its malignant form to restore Earth. But at what cost?</desc>
+    <image>/home/pi/.emulationstation/downloaded_images/sega32x/Kolibri (32X) (W) [!]-image.png</image>
+    <rating>0.8</rating>
+    <releasedate>19950908T000000</releasedate>
+    <developer>Novotrade</developer>
+    <publisher>Sega</publisher>
+    <genre>Shooter</genre>
+  </game>
+  <game>
+    <path>./Metal Head (32X) (JU) (M2) [!].zip</path>
+    <name>Metal Head</name>
+    <desc>Bullets fly and circuits try in heavy-duty cyborg techno-slaughter. You control Metal Head, the ultimate cyborg warrior, patrolling the charred urban destruction of the great war. And a murderous mecha-force is gunning for you!
 
 INCREDIBLE 3-D textured polygon graphics engulf Metal Head in searing firefights as cyber troops, hover craft and ground attack vehicles annihilate the planet!
 
@@ -316,591 +100,478 @@ You are the ultimate tech-destroyer - with chain guns, missiles, radar tracking 
 Head-banging heavy-metal music amps you up for pure warfare!
 
 24 megs of cyber-combat rock through war torn urban streets, bombed out farmland, scorched forests and bullet-riddled 'burbs!</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/Metal Head (32X) (JU) (M2) [!]-image.jpg</image>
-		<rating>0.6</rating>
-		<releasedate>19950224T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Mortal Kombat II (32X) (W) (Jan 1995) [!].zip</path>
-		<name>Mortal Kombat II</name>
-		<desc>Following his failure to defeat Liu Kang in the first Mortal Kombat game, the evil sorcerer Shang Tsung begs his master, Shao Kahn, to spare his life. He tells Shao Kahn that the invitation for Mortal Kombat cannot be turned down, and if they hold it in Outworld, the Earthrealm warriors must attend. Kahn agrees to this plan, and even restores Tsung's youth. He then extends the invitation to Raiden, who gathers his warriors and takes them into Outworld. The new tournament is much more dangerous, as Shao Kahn has the home field advantage, and an Outworld victory will allow him to subdue Earthrealm.</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/Mortal Kombat II (32X) (W) (Jan 1995) [!]-image.jpg</image>
-		<rating>1</rating>
-		<releasedate>19941204T000000</releasedate>
-		<developer>Acclaim</developer>
-		<publisher>Midway</publisher>
-		<genre>Fighting</genre>
-		<players />
-	</game>
-	<game>
-		<path>./NBA Jam Tournament Edition (32X) (W) [!].zip</path>
-		<name>NBA Jam Tournament Edition</name>
-		<desc>Up to four human players can take part, each always controlling a single player for their team, and AI for missing players. This allows for four players to face each other in teams of two, or for two players to team up against a third player with a CPU team-mate.
+    <image>/home/pi/.emulationstation/downloaded_images/sega32x/Metal Head (32X) (JU) (M2) [!]-image.jpg</image>
+    <rating>0.6</rating>
+    <releasedate>19950224T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+  </game>
+  <game>
+    <path>./Mortal Kombat II (32X) (W) (Jan 1995) [!].zip</path>
+    <name>Mortal Kombat II</name>
+    <desc>Following his failure to defeat Liu Kang in the first Mortal Kombat game, the evil sorcerer Shang Tsung begs his master, Shao Kahn, to spare his life. He tells Shao Kahn that the invitation for Mortal Kombat cannot be turned down, and if they hold it in Outworld, the Earthrealm warriors must attend. Kahn agrees to this plan, and even restores Tsung's youth. He then extends the invitation to Raiden, who gathers his warriors and takes them into Outworld. The new tournament is much more dangerous, as Shao Kahn has the home field advantage, and an Outworld victory will allow him to subdue Earthrealm.</desc>
+    <image>/home/pi/.emulationstation/downloaded_images/sega32x/Mortal Kombat II (32X) (W) (Jan 1995) [!]-image.jpg</image>
+    <rating>1</rating>
+    <releasedate>19941204T000000</releasedate>
+    <developer>Acclaim</developer>
+    <publisher>Midway</publisher>
+    <genre>Fighting</genre>
+    <players/>
+  </game>
+  <game>
+    <path>./NBA Jam Tournament Edition (32X) (W) [!].zip</path>
+    <name>NBA Jam Tournament Edition</name>
+    <desc>Up to four human players can take part, each always controlling a single player for their team, and AI for missing players. This allows for four players to face each other in teams of two, or for two players to team up against a third player with a CPU team-mate.
 
 The Tournament Edition ups each team's roster to three players, and allows for substitutions between quarters. Shoving players now results in injuries, which lower a player's stats; encouraging you to sub them out and let them recover. Aside from the usual secret characters and cheat modes, the T.E. also includes four new additions you can individually enable from the special options menu.</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/NBA Jam Tournament Edition (32X) (W) [!]-image.jpg</image>
-		<rating>1</rating>
-		<releasedate>19950501T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Acclaim</publisher>
-		<genre>Sports</genre>
-		<players>4+</players>
-	</game>
-	<game>
-		<path>./NFL Quarterback Club (32X) (W) [!].zip</path>
-		<name>NFL Quarterback Club</name>
-		<desc>NFL Quarterback Club, called NFL Quarterback Club '95 in Japan, is an American football game released for the Sega Mega Drive, Sega 32X and Sega Game Gear. It was the first in the NFL Quarterback Club series and was followed by NFL Quarterback Club 96.</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/NFL Quarterback Club (32X) (W) [!]-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Iguana Entertainment</developer>
-		<publisher>Acclaim</publisher>
-		<genre>Sports</genre>
-		<players>4+</players>
-	</game>
-	<game>
-		<path>./Pitfall (U) (32X) [!].zip</path>
-		<name>Pitfall: The Mayan Adventure</name>
-		<desc>Pitfall: The Mayan Adventure is a side-scrolling action game in which you play adventurer Pitfall Harry Jr in search of his father Pitfall Harry. You battle your way through the Mayan jungles, waterfalls, deserted mines and can bungee jump and boomerang your way to safety. There are 13 levels and the action is fast and gripping. You will need to be attentive—and quick. Or prepare to die.</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/Pitfall (U) (32X) [!]-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19951001T000000</releasedate>
-		<developer>Activision</developer>
-		<publisher>Activision</publisher>
-		<genre>Platform</genre>
-		<players />
-	</game>
-	<game>
-		<path>./RBI Baseball 95 (32X) (U) [!].zip</path>
-		<name>RBI Baseball '95</name>
-		<desc>This version is an updated follow-up to the R.B.I. series. Many of the same features from other baseball games are present and has three different game modes to choose from: exhibition, playoff, and home run derby, but what makes this version different from the others is a lack of MLB license, though it does feature a MLBPA license with top players of the time such as Roger Clemens, Otis Nixon, Bobby Larkin among many others.</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/RBI Baseball 95 (32X) (U) [!]-image.jpg</image>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Time Warner</developer>
-		<publisher>Time Warner</publisher>
-		<genre>Sports</genre>
-		<players />
-	</game>
-	<game>
-		<path>./Shadow Squadron (32X) (UE) [!].zip</path>
-		<name>Shadow Squadron</name>
-		<desc>Shadow Squadron is a 3D space combat shooter. The player controls a space fighter in a series of battles against huge enemy ships. There are 2 different types of ships to fly, and 6 different missions. In most missions, the player has to destroy several locations on a large ship in order to blow up the whole thing.
+    <image>/home/pi/.emulationstation/downloaded_images/sega32x/NBA Jam Tournament Edition (32X) (W) [!]-image.jpg</image>
+    <rating>1</rating>
+    <releasedate>19950501T000000</releasedate>
+    <developer>Midway</developer>
+    <publisher>Acclaim</publisher>
+    <genre>Sports</genre>
+    <players>4+</players>
+  </game>
+  <game>
+    <path>./NFL Quarterback Club (32X) (W) [!].zip</path>
+    <name>NFL Quarterback Club</name>
+    <desc>NFL Quarterback Club, called NFL Quarterback Club '95 in Japan, is an American football game released for the Sega Mega Drive, Sega 32X and Sega Game Gear. It was the first in the NFL Quarterback Club series and was followed by NFL Quarterback Club 96.</desc>
+    <image>/home/pi/.emulationstation/downloaded_images/sega32x/NFL Quarterback Club (32X) (W) [!]-image.jpg</image>
+    <rating>0.7</rating>
+    <releasedate>19950101T000000</releasedate>
+    <developer>Iguana Entertainment</developer>
+    <publisher>Acclaim</publisher>
+    <genre>Sports</genre>
+    <players>4+</players>
+  </game>
+  <game>
+    <path>./Pitfall (U) (32X) [!].zip</path>
+    <name>Pitfall: The Mayan Adventure</name>
+    <desc>Pitfall: The Mayan Adventure is a side-scrolling action game in which you play adventurer Pitfall Harry Jr in search of his father Pitfall Harry. You battle your way through the Mayan jungles, waterfalls, deserted mines and can bungee jump and boomerang your way to safety. There are 13 levels and the action is fast and gripping. You will need to be attentive&#x2014;and quick. Or prepare to die.</desc>
+    <image>/home/pi/.emulationstation/downloaded_images/sega32x/Pitfall (U) (32X) [!]-image.jpg</image>
+    <rating>0.7</rating>
+    <releasedate>19951001T000000</releasedate>
+    <developer>Activision</developer>
+    <publisher>Activision</publisher>
+    <genre>Platform</genre>
+    <players/>
+  </game>
+  <game>
+    <path>./RBI Baseball 95 (32X) (U) [!].zip</path>
+    <name>RBI Baseball '95</name>
+    <desc>This version is an updated follow-up to the R.B.I. series. Many of the same features from other baseball games are present and has three different game modes to choose from: exhibition, playoff, and home run derby, but what makes this version different from the others is a lack of MLB license, though it does feature a MLBPA license with top players of the time such as Roger Clemens, Otis Nixon, Bobby Larkin among many others.</desc>
+    <image>/home/pi/.emulationstation/downloaded_images/sega32x/RBI Baseball 95 (32X) (U) [!]-image.jpg</image>
+    <releasedate>19950101T000000</releasedate>
+    <developer>Time Warner</developer>
+    <publisher>Time Warner</publisher>
+    <genre>Sports</genre>
+    <players/>
+  </game>
+  <game>
+    <path>./Shadow Squadron (32X) (UE) [!].zip</path>
+    <name>Shadow Squadron</name>
+    <desc>Shadow Squadron is a 3D space combat shooter. The player controls a space fighter in a series of battles against huge enemy ships. There are 2 different types of ships to fly, and 6 different missions. In most missions, the player has to destroy several locations on a large ship in order to blow up the whole thing.
 
 There are two ways to play the game. First, one can directly control the ship and maneuver it around the 3D polygon environments. Second, the player can let the 32X do the flying, and simply control a gun turret.</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/Shadow Squadron (32X) (UE) [!]-image.jpg</image>
-		<rating>0.4</rating>
-		<releasedate>19950525T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20181203T060627</lastplayed>
-	</game>
-	<game>
-		<path>./Space Harrier (JU) (32X) [!].zip</path>
-		<name>Space Harrier</name>
-		<desc>Space Harrier is set in the "Fantasy Zone", a surreal world composed of bright colors and a checkerboard-styled ground. The enemies are also unique, featuring prehistoric animals, Chinese dragons, and alien pods. The player is forced along the levels, running or flying around enemy fire, while shooting back with fireballs via the character's under-arm cannon (which doubles as a rocket-esque device allowing the character to fly).</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/Space Harrier (JU) (32X) [!]-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19941203T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter</genre>
-	</game>
-	<game>
-		<path>./Star Trek - Starfleet Academy Bridge Simulator (32X) (U) [!].zip</path>
-		<name>Star Trek: Starfleet Academy - Starship Bridge Simulator</name>
-		<desc>The game is viewed from the bridge of your vessel (there are 5 different ones in total), with polygons used to display the action. Information on the world situation at the time of the game is supplied within the game. There are quick missions bringing scenes from Star Trek movies to life.</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/Star Trek - Starfleet Academy Bridge Simulator (32X) (U) [!]-image.jpg</image>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Interplay</developer>
-		<publisher>Interplay</publisher>
-		<genre>Flight Simulator</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Star Wars Arcade (U) (32X) [!].zip</path>
-		<name>Star Wars Arcade</name>
-		<desc>Launch your X-wing fighter for the final Death Star assault! The Force is with you as you pursue Darth Vader through an exploding galaxy! You are the last hope for the Rebel Alliance!
+    <image>/home/pi/.emulationstation/downloaded_images/sega32x/Shadow Squadron (32X) (UE) [!]-image.jpg</image>
+    <rating>0.4</rating>
+    <releasedate>19950525T000000</releasedate>
+    <developer>SEGA</developer>
+    <publisher>Sega</publisher>
+    <genre>Shooter</genre>
+    <players>2</players>
+    <playcount>1</playcount>
+    <lastplayed>20181203T060627</lastplayed>
+  </game>
+  <game>
+    <path>./Space Harrier (JU) (32X) [!].zip</path>
+    <name>Space Harrier</name>
+    <desc>Space Harrier is set in the "Fantasy Zone", a surreal world composed of bright colors and a checkerboard-styled ground. The enemies are also unique, featuring prehistoric animals, Chinese dragons, and alien pods. The player is forced along the levels, running or flying around enemy fire, while shooting back with fireballs via the character's under-arm cannon (which doubles as a rocket-esque device allowing the character to fly).</desc>
+    <image>/home/pi/.emulationstation/downloaded_images/sega32x/Space Harrier (JU) (32X) [!]-image.jpg</image>
+    <rating>0.7</rating>
+    <releasedate>19941203T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Shooter</genre>
+  </game>
+  <game>
+    <path>./Star Trek - Starfleet Academy Bridge Simulator (32X) (U) [!].zip</path>
+    <name>Star Trek: Starfleet Academy - Starship Bridge Simulator</name>
+    <desc>The game is viewed from the bridge of your vessel (there are 5 different ones in total), with polygons used to display the action. Information on the world situation at the time of the game is supplied within the game. There are quick missions bringing scenes from Star Trek movies to life.</desc>
+    <image>/home/pi/.emulationstation/downloaded_images/sega32x/Star Trek - Starfleet Academy Bridge Simulator (32X) (U) [!]-image.jpg</image>
+    <releasedate>19950101T000000</releasedate>
+    <developer>Interplay</developer>
+    <publisher>Interplay</publisher>
+    <genre>Flight Simulator</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>./Star Wars Arcade (U) (32X) [!].zip</path>
+    <name>Star Wars Arcade</name>
+    <desc>Launch your X-wing fighter for the final Death Star assault! The Force is with you as you pursue Darth Vader through an exploding galaxy! You are the last hope for the Rebel Alliance!
 
 -2 Flight Views: "Cockpit" surrounds you with HUD, target info and videocom. "Bird'sEye" tracks the X-wing as it slingshots into battle!
 -8 Levels of staggering space warfare straight from the Star Wars trilogy. Astounding 3-D graphics and digitized sound!
 -Pilot the X-wing alone or draft a Gunner for 2 Player mode.</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/Star Wars Arcade (U) (32X) [!]-image.png</image>
-		<rating>0.8</rating>
-		<releasedate>19941202T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Spider-Man - Web of Fire (W) (32X) [!].zip</path>
-		<name>The Amazing Spider-Man: Web of Fire</name>
-		<desc>A massive electrical plasma grid has shrouded New York City in a blanket of hysteria and destruction. Skyscrapers are crumbling. Civilians are frying. It's only a matter of time before The Big Apple becomes the Baked Apple.
+    <image>/home/pi/.emulationstation/downloaded_images/sega32x/Star Wars Arcade (U) (32X) [!]-image.png</image>
+    <rating>0.8</rating>
+    <releasedate>19941202T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>./Spider-Man - Web of Fire (W) (32X) [!].zip</path>
+    <name>The Amazing Spider-Man: Web of Fire</name>
+    <desc>A massive electrical plasma grid has shrouded New York City in a blanket of hysteria and destruction. Skyscrapers are crumbling. Civilians are frying. It's only a matter of time before The Big Apple becomes the Baked Apple.
 
 Who will prevail, The Net or The Web?</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/Spider-Man - Web of Fire (W) (32X) [!]-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19960426T000000</releasedate>
-		<developer>Bluesky</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Toughman Contest (W) (32X) [!].zip</path>
-		<name>Toughman Contest</name>
-		<desc>So you think you're ready for the TOUGHMAN CONTEST? Strap on the gloves and we'll find out. This is my big shot and I'm not going to be stopped. Not by you, not by NOBODY. I've been workin' 12 hours a day in a meat packing plant using my fists to break frozen bones. I can't wait to get my paws on you. I'm going to knock you out of the ring. You're dead MEAT!</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/Toughman Contest (W) (32X) [!]-image.jpg</image>
-		<releasedate>19950517T000000</releasedate>
-		<developer>High Score</developer>
-		<publisher>EA Sports</publisher>
-		<genre>Fighting</genre>
-	</game>
-	<game>
-		<path>./World Series Baseball '95 (32X) (U) [!].zip</path>
-		<name>World Series Baseball Starring Deion Sanders</name>
-		<desc>World Series Baseball Starring Deion Sanders is an entry in the World Series Baseball series, and was released exclusively on the Sega 32X in 1995. It was not released outside of North America.</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/World Series Baseball '95 (32X) (U) [!]-image.png</image>
-		<rating>0</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>BlueSky Software</developer>
-		<publisher>Sega</publisher>
-		<genre>Sports</genre>
-		<players />
-	</game>
-	<game>
-		<path>./WWF RAW (32X) (W) [!].zip</path>
-		<name>WWF RAW</name>
-		<desc>WWF RAW is a video game based on the television show of the same name produced by the World Wrestling Federation, released for the SNES, Sega 32X, Mega Drive/Genesis, and Game Boy in late 1994 and early 1995 by Acclaim Entertainment. It is the sequel to the WWF Royal Rumble game that was released in 1993, and is the final part of LJN's 16-bit WWF trilogy. Players can play either One-on-One, Tag Team, Bedlam, Survivor Series, Royal Rumble, or a Raw Endurance Match.
+    <image>/home/pi/.emulationstation/downloaded_images/sega32x/Spider-Man - Web of Fire (W) (32X) [!]-image.jpg</image>
+    <rating>0.7</rating>
+    <releasedate>19960426T000000</releasedate>
+    <developer>Bluesky</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+  </game>
+  <game>
+    <path>./Toughman Contest (W) (32X) [!].zip</path>
+    <name>Toughman Contest</name>
+    <desc>So you think you're ready for the TOUGHMAN CONTEST? Strap on the gloves and we'll find out. This is my big shot and I'm not going to be stopped. Not by you, not by NOBODY. I've been workin' 12 hours a day in a meat packing plant using my fists to break frozen bones. I can't wait to get my paws on you. I'm going to knock you out of the ring. You're dead MEAT!</desc>
+    <image>/home/pi/.emulationstation/downloaded_images/sega32x/Toughman Contest (W) (32X) [!]-image.jpg</image>
+    <releasedate>19950517T000000</releasedate>
+    <developer>High Score</developer>
+    <publisher>EA Sports</publisher>
+    <genre>Fighting</genre>
+  </game>
+  <game>
+    <path>./World Series Baseball '95 (32X) (U) [!].zip</path>
+    <name>World Series Baseball Starring Deion Sanders</name>
+    <desc>World Series Baseball Starring Deion Sanders is an entry in the World Series Baseball series, and was released exclusively on the Sega 32X in 1995. It was not released outside of North America.</desc>
+    <image>/home/pi/.emulationstation/downloaded_images/sega32x/World Series Baseball '95 (32X) (U) [!]-image.png</image>
+    <rating>0</rating>
+    <releasedate>19950101T000000</releasedate>
+    <developer>BlueSky Software</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports</genre>
+    <players/>
+  </game>
+  <game>
+    <path>./WWF RAW (32X) (W) [!].zip</path>
+    <name>WWF RAW</name>
+    <desc>WWF RAW is a video game based on the television show of the same name produced by the World Wrestling Federation, released for the SNES, Sega 32X, Mega Drive/Genesis, and Game Boy in late 1994 and early 1995 by Acclaim Entertainment. It is the sequel to the WWF Royal Rumble game that was released in 1993, and is the final part of LJN's 16-bit WWF trilogy. Players can play either One-on-One, Tag Team, Bedlam, Survivor Series, Royal Rumble, or a Raw Endurance Match.
 
 WWF RAW introduces differences between the characters in that they not only have their own signature moves, but differing move sets altogether (including new over-the-top "mega moves"). The game adds many moves not seen in the previous games, such as a DDT, a fallaway slam, and various types of suplexes. Additionally, wrestlers differ in attributes of speed, strength, stamina, and weight.</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/WWF RAW (32X) (W) [!]-image.png</image>
-		<rating>0.7</rating>
-		<releasedate>19950131T000000</releasedate>
-		<developer>Sculptured Software</developer>
-		<publisher>Acclaim</publisher>
-		<genre>Fighting</genre>
-		<players>4+</players>
-	</game>
-	<game>
-		<path>./WWF Wrestlemania Arcade (32X) (W) [!].zip</path>
-		<name>WWF WrestleMania: The Arcade Game</name>
-		<desc>Take on wrestling to the EXTREME with intense action straight from the arcade smash! It's in-your-face mayhem with punishing head-to-head and team matchups! No pain, no game!</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/WWF Wrestlemania Arcade (32X) (W) [!]-image.png</image>
-		<rating>0.7</rating>
-		<releasedate>19950721T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Zaxxon's Motherbase 2000 (32X) (JU) [!].zip</path>
-		<name>Zaxxon's Motherbase 2000</name>
-		<desc>Hit the boosters and make ready for deep-space combat and intense close-quarters warfare inside a drifting space colony. Snatch enemy weapons in heart-thumping precision docking moves and turn their missiles back at them as you cruise through this 3D alien battleground.</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/Zaxxon's Motherbase 2000 (32X) (JU) [!]-image.jpg</image>
-		<rating>0.6</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>CSK</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/Corpse Killer (32X) (U).zip</path>
-		<name>Corpse Killer (32X) (U)</name>
-		<playcount>2</playcount>
-		<lastplayed>20181209T001055</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/Corpse Killer (32X) (Sega CD) (U).bin</path>
-		<name>Corpse Killer (32X) (Sega CD) (U)</name>
-		<playcount>1</playcount>
-		<lastplayed>20181209T003011</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/Fahrenheit_Disc-1(US-Genesis-32x).bin</path>
-		<name>Fahrenheit_Disc-1(US-Genesis-32x)</name>
-		<playcount>3</playcount>
-		<lastplayed>20181209T004110</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/Night Trap (32X) (disc 1) (u).bin</path>
-		<name>Night Trap (32X) (disc 1) (u)</name>
-		<playcount>1</playcount>
-		<lastplayed>20181209T004204</lastplayed>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/sega32x/untested/Supreme Warrior (32X) (disc 1) (U).bin</path>
-		<name>Supreme Warrior (32X) (disc 1) (U)</name>
-		<playcount>1</playcount>
-		<lastplayed>20181209T004237</lastplayed>
-	</game>
-	<game>
-		<path>./Fahrenheit_Disc-1(US-Genesis-32x).bin</path>
-		<name>Fahrenheit (Disc 1/2)</name>
-		<desc>Fahrenheit is an interactive movie that puts players into the flame-resistant suit of a firefighter. You are the new guy in the firehouse. Last week, you saved three lives. But now, you're on a new squad, and have to prove yourself to them.
-
- Like most interactive movies, Fahrenheit is played entirely while watching a digitized video. At certain critical points in the video, players must press certain directions on the control pad or action buttons in order to progress in the game. Fahrenheit takes this a step further by providing several buildings in which the player has the ability to move from room to room in in a non-linear fashion. As players move from room to room, they have to locate victims and neutralize fire hazards.</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/Fahrenheit_Disc-1(US-Genesis-32x)-image.jpg</image>
-		<rating>0</rating>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Fahrenheit_Disc-2(US-32x-Genesis).bin</path>
-		<name>Fahrenheit (Disc 2/2)</name>
-		<desc>Fahrenheit is an interactive movie that puts players into the flame-resistant suit of a firefighter. You are the new guy in the firehouse. Last week, you saved three lives. But now, you're on a new squad, and have to prove yourself to them.
-
- Like most interactive movies, Fahrenheit is played entirely while watching a digitized video. At certain critical points in the video, players must press certain directions on the control pad or action buttons in order to progress in the game. Fahrenheit takes this a step further by providing several buildings in which the player has the ability to move from room to room in in a non-linear fashion. As players move from room to room, they have to locate victims and neutralize fire hazards.</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/Fahrenheit_Disc-2(US-32x-Genesis)-image.jpg</image>
-		<rating>0</rating>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Night Trap (32X) (disc 1) (u).bin</path>
-		<name>Night Trap (Disc 1/2)</name>
-		<desc>A group of young women are staying at Mr. and Mrs. Martin's house for the night. The Martin family seems like a normal American family; however, odd things have been occurring at this house. Five girls who previously stayed there had disappeared, so the "Sega Control Attack Team" ("Sega" changed to "Special" once the game was ported to other consoles) is called upon to protect the new guests and find out what happened. As the new wave of girls arrive for a slumber party (one of whom is undercover SCAT agent Kelly (or Kelli) Medd,[a] played by Dana Plato), the vampiric Augers begin to invade the Martin family house, and it's up to the player to save the girls.</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/Night Trap (32X) (disc 1) (u)-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19921015T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Sega</publisher>
-		<genre>Horror</genre>
-	</game>
-	<game>
-		<path>./Night Trap (32X) (disc 2) (u).bin</path>
-		<name>Night Trap (Disc 2/2)</name>
-		<desc>A group of young women are staying at Mr. and Mrs. Martin's house for the night. The Martin family seems like a normal American family; however, odd things have been occurring at this house. Five girls who previously stayed there had disappeared, so the "Sega Control Attack Team" ("Sega" changed to "Special" once the game was ported to other consoles) is called upon to protect the new guests and find out what happened. As the new wave of girls arrive for a slumber party (one of whom is undercover SCAT agent Kelly (or Kelli) Medd,[a] played by Dana Plato), the vampiric Augers begin to invade the Martin family house, and it's up to the player to save the girls.</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/Night Trap (32X) (disc 2) (u)-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19921015T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Sega</publisher>
-		<genre>Horror</genre>
-	</game>
-	<game>
-		<path>./Supreme Warrior (32X) (disc 1) (U).bin</path>
-		<name>Supreme Warrior (Disc 1/2)</name>
-		<desc>The game is set in China hundreds of years ago, where the player character is tasked with protecting half of a magical mask. The wearer of this mask will be granted untold power. The villainous Fang Tu has the other half of the mask, and wants the player character's half.</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/Supreme Warrior (32X) (disc 1) (U)-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Digital Pictures</publisher>
-		<genre>Fighting</genre>
-	</game>
-	<game>
-		<path>./Supreme Warrior (32X) (disc 2) (U).bin</path>
-		<name>Supreme Warrior (Disc 2/2)</name>
-		<desc>The game is set in China hundreds of years ago, where the player character is tasked with protecting half of a magical mask. The wearer of this mask will be granted untold power. The villainous Fang Tu has the other half of the mask, and wants the player character's half.</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/Supreme Warrior (32X) (disc 2) (U)-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Digital Pictures</publisher>
-		<genre>Fighting</genre>
-	</game>
-	<game>
-		<path>./Knuckles' Chaotix (JU) (32X) [!].zip</path>
-		<name>Knuckles' Chaotix</name>
-		<desc>A mysterious island rose from the sea shortly after the events of Sonic &amp; Knuckles. Dr. Robotnik discovered the island, and found a mysterious ring inscribed with descriptions of the Chaos Rings, ancient Rings infused with Chaos Emerald energy. In order to find these Rings, Robotnik built his base, the Newtrogic High Zone, on the island. Mighty the Armadillo, Espio the Chameleon, Vector the Crocodile, and Charmy Bee also arrived at the island, and ended up being captured by Robotnik and Metal Sonic, and placed in Robotnik's Combi Catcher machine. Knuckles, curious about the strange island, goes there as well, and manages to rescue Espio. The two then go on to stop Robotnik from getting the Chaos Rings.</desc>
-		<image>/home/pi/.emulationstation/downloaded_images/sega32x/Knuckles' Chaotix (JU) (32X) [!]-image.png</image>
-		<rating>0.7</rating>
-		<releasedate>19950421T000000</releasedate>
-		<developer>Sonic Team</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-		<playcount>2</playcount>
-		<lastplayed>20181222T234312</lastplayed>
-	</game>
-	<game>
-		<path>./Motocross Championship (32X) (JU) [!].zip</path>
-		<name>Motocross Championship</name>
-		<desc>Feel the horsepower as you rocket out of the gate and battle through the first turn! Charge down the back stretch, through the whoops and launch over the triples to the checkered flag! Do you have the guts and skills to win on the Motocross Championship circuit? If not, you'll be left in the dust!</desc>
-		<image>~/.emulationstation/downloaded_images/sega32x/Motocross Championship (32X) (JU) [!]-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Artech Digital Entertainment</developer>
-		<publisher>Sega</publisher>
-		<genre>Racing</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20190714T223349</lastplayed>
-	</game>
-	<game>
-		<path>./Primal Rage (W) (32X) [!].zip</path>
-		<name>Primal Rage</name>
-		<desc>Primal Rage is a one-on-one fighting game featuring dinosaurs and giant apes as the fighters. The graphics are done with digitized stop-motion animation. Gameplay is similar to Mortal Kombat in that it is viewed from a side perspective, and features deadly finishing moves at the end of the match.</desc>
-		<image>~/.emulationstation/downloaded_images/sega32x/Primal Rage (W) (32X) [!]-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Time Warner</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20190714T223913</lastplayed>
-	</game>
-	<game>
-		<path>./Virtua Racing Deluxe (U) (32X) [!].zip</path>
-		<name>Virtua Racing Deluxe</name>
-		<desc>Virtua Racing Deluxe is an enhanced arcade-to-console conversion of Sega's 3D racing game. This game is primarily an arcade-style affair; Players compete in a 5 lap race with timed checkpoints. It's also possible to play with 2 players in a split-screen mode.
+    <image>/home/pi/.emulationstation/downloaded_images/sega32x/WWF RAW (32X) (W) [!]-image.png</image>
+    <rating>0.7</rating>
+    <releasedate>19950131T000000</releasedate>
+    <developer>Sculptured Software</developer>
+    <publisher>Acclaim</publisher>
+    <genre>Fighting</genre>
+    <players>4+</players>
+  </game>
+  <game>
+    <path>./WWF Wrestlemania Arcade (32X) (W) [!].zip</path>
+    <name>WWF WrestleMania: The Arcade Game</name>
+    <desc>Take on wrestling to the EXTREME with intense action straight from the arcade smash! It's in-your-face mayhem with punishing head-to-head and team matchups! No pain, no game!</desc>
+    <image>/home/pi/.emulationstation/downloaded_images/sega32x/WWF Wrestlemania Arcade (32X) (W) [!]-image.png</image>
+    <rating>0.7</rating>
+    <releasedate>19950721T000000</releasedate>
+    <developer>Midway</developer>
+    <publisher>Midway</publisher>
+    <genre>Sports</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>./Zaxxon's Motherbase 2000 (32X) (JU) [!].zip</path>
+    <name>Zaxxon's Motherbase 2000</name>
+    <desc>Hit the boosters and make ready for deep-space combat and intense close-quarters warfare inside a drifting space colony. Snatch enemy weapons in heart-thumping precision docking moves and turn their missiles back at them as you cruise through this 3D alien battleground.</desc>
+    <image>/home/pi/.emulationstation/downloaded_images/sega32x/Zaxxon's Motherbase 2000 (32X) (JU) [!]-image.jpg</image>
+    <rating>0.6</rating>
+    <releasedate>19950101T000000</releasedate>
+    <developer>CSK</developer>
+    <publisher>Sega</publisher>
+    <genre>Shooter</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>./Knuckles' Chaotix (JU) (32X) [!].zip</path>
+    <name>Knuckles' Chaotix</name>
+    <desc>A mysterious island rose from the sea shortly after the events of Sonic &amp; Knuckles. Dr. Robotnik discovered the island, and found a mysterious ring inscribed with descriptions of the Chaos Rings, ancient Rings infused with Chaos Emerald energy. In order to find these Rings, Robotnik built his base, the Newtrogic High Zone, on the island. Mighty the Armadillo, Espio the Chameleon, Vector the Crocodile, and Charmy Bee also arrived at the island, and ended up being captured by Robotnik and Metal Sonic, and placed in Robotnik's Combi Catcher machine. Knuckles, curious about the strange island, goes there as well, and manages to rescue Espio. The two then go on to stop Robotnik from getting the Chaos Rings.</desc>
+    <image>/home/pi/.emulationstation/downloaded_images/sega32x/Knuckles' Chaotix (JU) (32X) [!]-image.png</image>
+    <rating>0.7</rating>
+    <releasedate>19950421T000000</releasedate>
+    <developer>Sonic Team</developer>
+    <publisher>Sega</publisher>
+    <genre>Platform</genre>
+    <playcount>2</playcount>
+    <lastplayed>20181222T234312</lastplayed>
+  </game>
+  <game>
+    <path>./Motocross Championship (32X) (JU) [!].zip</path>
+    <name>Motocross Championship</name>
+    <desc>Feel the horsepower as you rocket out of the gate and battle through the first turn! Charge down the back stretch, through the whoops and launch over the triples to the checkered flag! Do you have the guts and skills to win on the Motocross Championship circuit? If not, you'll be left in the dust!</desc>
+    <image>~/.emulationstation/downloaded_images/sega32x/Motocross Championship (32X) (JU) [!]-image.jpg</image>
+    <rating>0.7</rating>
+    <releasedate>19940101T000000</releasedate>
+    <developer>Artech Digital Entertainment</developer>
+    <publisher>Sega</publisher>
+    <genre>Racing</genre>
+    <players>2</players>
+    <playcount>1</playcount>
+    <lastplayed>20190714T223349</lastplayed>
+  </game>
+  <game>
+    <path>./Primal Rage (W) (32X) [!].zip</path>
+    <name>Primal Rage</name>
+    <desc>Primal Rage is a one-on-one fighting game featuring dinosaurs and giant apes as the fighters. The graphics are done with digitized stop-motion animation. Gameplay is similar to Mortal Kombat in that it is viewed from a side perspective, and features deadly finishing moves at the end of the match.</desc>
+    <image>~/.emulationstation/downloaded_images/sega32x/Primal Rage (W) (32X) [!]-image.jpg</image>
+    <rating>0.7</rating>
+    <releasedate>19950101T000000</releasedate>
+    <developer>Atari</developer>
+    <publisher>Time Warner</publisher>
+    <genre>Fighting</genre>
+    <players>2</players>
+    <playcount>1</playcount>
+    <lastplayed>20190714T223913</lastplayed>
+  </game>
+  <game>
+    <path>./Virtua Racing Deluxe (U) (32X) [!].zip</path>
+    <name>Virtua Racing Deluxe</name>
+    <desc>Virtua Racing Deluxe is an enhanced arcade-to-console conversion of Sega's 3D racing game. This game is primarily an arcade-style affair; Players compete in a 5 lap race with timed checkpoints. It's also possible to play with 2 players in a split-screen mode.
 
 The 32X version of Virtua Racing adds a couple of new features. There are now 3 different types of cars to drive, including a stock car and a prototype racer. Furthermore, there are two all-new tracks.</desc>
-		<image>~/.emulationstation/downloaded_images/sega32x/Virtua Racing Deluxe (U) (32X) [!]-image.jpg</image>
-		<rating>0.9</rating>
-		<releasedate>19940205T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>Sega</publisher>
-		<genre>Racing</genre>
-		<players>2</players>
-		<playcount>4</playcount>
-		<lastplayed>20200112T030521</lastplayed>
-	</game>
-	<game>
-		<path>./Virtua Fighter (JU) (32X) [!].zip</path>
-		<name>Virtua Fighter</name>
-		<desc>Virtua Fighter was the first of it's kind: A one-on-one fighting game featuring fully 3D environments and characters. The fighters and arenas are rendered in flat-shaded polygons. Unlike many fighting games, Virtua Fighter focuses on deep gameplay based on actual fighting styles, rather than outrageous special moves and story lines.
+    <image>~/.emulationstation/downloaded_images/sega32x/Virtua Racing Deluxe (U) (32X) [!]-image.jpg</image>
+    <rating>0.9</rating>
+    <releasedate>19940205T000000</releasedate>
+    <developer>SEGA</developer>
+    <publisher>Sega</publisher>
+    <genre>Racing</genre>
+    <players>2</players>
+    <playcount>4</playcount>
+    <lastplayed>20200112T030521</lastplayed>
+  </game>
+  <game>
+    <path>./Virtua Fighter (JU) (32X) [!].zip</path>
+    <name>Virtua Fighter</name>
+    <desc>Virtua Fighter was the first of it's kind: A one-on-one fighting game featuring fully 3D environments and characters. The fighters and arenas are rendered in flat-shaded polygons. Unlike many fighting games, Virtua Fighter focuses on deep gameplay based on actual fighting styles, rather than outrageous special moves and story lines.
 
 There are 8 fighters to choose from in Virtua Fighter, and an equal number of fighting backdrops in which to compete. Each fighter has a distinctive fighting style, and their own set of signature moves.</desc>
-		<image>~/.emulationstation/downloaded_images/sega32x/Virtua Fighter (JU) (32X) [!]-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>SEGA AM-2</developer>
-		<publisher>Sega</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<playcount>3</playcount>
-		<lastplayed>20200112T161726</lastplayed>
-	</game>
-	<game>
-		<path>./Corpse Killer (32X) (Sega CD) (U).bin</path>
-		<name>Corpse Killer</name>
-		<desc>Corpse Killer is a full-motion-video (FMV) shoot-'em up. It seems the evil genius Dr. Hellman has found a way to raise the dead and created an island of zombies. The player is an elite special forces soldier who has been parachuted onto the island; it is up to them to shoot their way through the undead hordes and stop Dr. Hellman.
-
-The game is played from a first-person perspective. Various zombies pop up in front of a video background and the player must shoot them down either by moving a mouse cursor on screen or by using a light gun.</desc>
-		<image>~/.emulationstation/downloaded_images/sega32x/Corpse Killer (32X) (Sega CD) (U)-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Digital Pictures</publisher>
-		<genre>Shooter</genre>
-		<playcount>2</playcount>
-		<lastplayed>20200112T171421</lastplayed>
-	</game>
-	<game>
-		<path>./Cosmic Carnage (JU) (32X) [!].zip</path>
-		<name>Cosmic Carnage</name>
-		<desc>What kind of un-be-leev-ably ugly monster is this? Chunks of armor fly off as you pound its body. This beefed-up, maxed-out monstrosity has jetted across the cosmos to beat your brains out! But is it the alien? Or is it YOU?</desc>
-		<image>~/.emulationstation/downloaded_images/sega32x/Cosmic Carnage (JU) (32X) [!]-image.png</image>
-		<releasedate>19940302T000000</releasedate>
-		<developer>Almanic</developer>
-		<publisher>Sega</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<playcount>2</playcount>
-		<lastplayed>20200112T171406</lastplayed>
-	</game>
-	<game>
-		<path>./Darxide (32X) (E) (M4) [!].zip</path>
-		<name>DarXide</name>
-		<desc>One of the last 32X games released (and exclusively in Europe), DarXide is a 3-D space shooter, inspired in part by the arcade gameplay of Asteroids. It is one of the few 32X games to used texture-mapped polygons.
+    <image>~/.emulationstation/downloaded_images/sega32x/Virtua Fighter (JU) (32X) [!]-image.jpg</image>
+    <rating>0.7</rating>
+    <releasedate>19950101T000000</releasedate>
+    <developer>SEGA AM-2</developer>
+    <publisher>Sega</publisher>
+    <genre>Fighting</genre>
+    <players>2</players>
+    <playcount>3</playcount>
+    <lastplayed>20200112T161726</lastplayed>
+  </game>
+  <game>
+    <path>./Cosmic Carnage (JU) (32X) [!].zip</path>
+    <name>Cosmic Carnage</name>
+    <desc>What kind of un-be-leev-ably ugly monster is this? Chunks of armor fly off as you pound its body. This beefed-up, maxed-out monstrosity has jetted across the cosmos to beat your brains out! But is it the alien? Or is it YOU?</desc>
+    <image>~/.emulationstation/downloaded_images/sega32x/Cosmic Carnage (JU) (32X) [!]-image.png</image>
+    <releasedate>19940302T000000</releasedate>
+    <developer>Almanic</developer>
+    <publisher>Sega</publisher>
+    <genre>Fighting</genre>
+    <players>2</players>
+    <playcount>2</playcount>
+    <lastplayed>20200112T171406</lastplayed>
+  </game>
+  <game>
+    <path>./Darxide (32X) (E) (M4) [!].zip</path>
+    <name>DarXide</name>
+    <desc>One of the last 32X games released (and exclusively in Europe), DarXide is a 3-D space shooter, inspired in part by the arcade gameplay of Asteroids. It is one of the few 32X games to used texture-mapped polygons.
 
 Players control a lone starship rushing to destroy oncoming asteroids and alien vessels before they annihilate defenseless human miners and colonies. Asteroids break apart into smaller rocks, which much also be hunted down and destroyed. Aliens likewise arrive in larger, more dangerous vessels.</desc>
-		<image>~/.emulationstation/downloaded_images/sega32x/Darxide (32X) (E) (M4) [!]-image.jpg</image>
-		<releasedate>19951201T000000</releasedate>
-		<developer>Frontier Developments</developer>
-		<publisher>SEGA</publisher>
-		<genre>Shooter</genre>
-		<players />
-		<playcount>17</playcount>
-		<lastplayed>20200112T171353</lastplayed>
-	</game>
-	<game>
-		<path>./Corpse Killer (32X) (U).bin</path>
-		<name>Corpse Killer</name>
-		<desc>Corpse Killer is a full-motion-video (FMV) shoot-'em up. It seems the evil genius Dr. Hellman has found a way to raise the dead and created an island of zombies. The player is an elite special forces soldier who has been parachuted onto the island; it is up to them to shoot their way through the undead hordes and stop Dr. Hellman.
+    <image>~/.emulationstation/downloaded_images/sega32x/Darxide (32X) (E) (M4) [!]-image.jpg</image>
+    <releasedate>19951201T000000</releasedate>
+    <developer>Frontier Developments</developer>
+    <publisher>SEGA</publisher>
+    <genre>Shooter</genre>
+    <players/>
+    <playcount>17</playcount>
+    <lastplayed>20200112T171353</lastplayed>
+  </game>
+  <game>
+    <path>./Corpse Killer (32X) (U).bin</path>
+    <name>Corpse Killer</name>
+    <desc>Corpse Killer is a full-motion-video (FMV) shoot-'em up. It seems the evil genius Dr. Hellman has found a way to raise the dead and created an island of zombies. The player is an elite special forces soldier who has been parachuted onto the island; it is up to them to shoot their way through the undead hordes and stop Dr. Hellman.
 
 The game is played from a first-person perspective. Various zombies pop up in front of a video background and the player must shoot them down either by moving a mouse cursor on screen or by using a light gun.</desc>
-		<image>~/.emulationstation/downloaded_images/sega32x/Corpse Killer (32X) (U)-image.jpg</image>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Digital Pictures, Inc.</publisher>
-		<genre>Shooter</genre>
-	</game>
-	<game>
-		<path>./Fahrenheit (32X) (U) [Disc 1 of 2].bin</path>
-		<name>Fahrenheit (Disc 1/2)</name>
-		<desc>Fahrenheit is an interactive movie that puts players into the flame-resistant suit of a firefighter. You are the new guy in the firehouse. Last week, you saved three lives. But now, you're on a new squad, and have to prove yourself to them.
+    <image>~/.emulationstation/downloaded_images/sega32x/Corpse Killer (32X) (U)-image.jpg</image>
+    <releasedate>19940101T000000</releasedate>
+    <developer>Digital Pictures</developer>
+    <publisher>Digital Pictures, Inc.</publisher>
+    <genre>Shooter</genre>
+  </game>
+  <game>
+    <path>./Fahrenheit (32X) (U) [Disc 1 of 2].bin</path>
+    <name>Fahrenheit (Disc 1/2)</name>
+    <desc>Fahrenheit is an interactive movie that puts players into the flame-resistant suit of a firefighter. You are the new guy in the firehouse. Last week, you saved three lives. But now, you're on a new squad, and have to prove yourself to them.
 
  Like most interactive movies, Fahrenheit is played entirely while watching a digitized video. At certain critical points in the video, players must press certain directions on the control pad or action buttons in order to progress in the game. Fahrenheit takes this a step further by providing several buildings in which the player has the ability to move from room to room in in a non-linear fashion. As players move from room to room, they have to locate victims and neutralize fire hazards.</desc>
-		<image>~/.emulationstation/downloaded_images/sega32x/Fahrenheit (32X) (U) [Disc 1 of 2]-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>19691231T160000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Fahrenheit (32X) (U) [Disc 2 of 2].bin</path>
-		<name>Fahrenheit (Disc 2/2)</name>
-		<desc>Fahrenheit is an interactive movie that puts players into the flame-resistant suit of a firefighter. You are the new guy in the firehouse. Last week, you saved three lives. But now, you're on a new squad, and have to prove yourself to them.
+    <image>~/.emulationstation/downloaded_images/sega32x/Fahrenheit (32X) (U) [Disc 1 of 2]-image.jpg</image>
+    <rating>0</rating>
+    <releasedate>19691231T160000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+  </game>
+  <game>
+    <path>./Fahrenheit (32X) (U) [Disc 2 of 2].bin</path>
+    <name>Fahrenheit (Disc 2/2)</name>
+    <desc>Fahrenheit is an interactive movie that puts players into the flame-resistant suit of a firefighter. You are the new guy in the firehouse. Last week, you saved three lives. But now, you're on a new squad, and have to prove yourself to them.
 
  Like most interactive movies, Fahrenheit is played entirely while watching a digitized video. At certain critical points in the video, players must press certain directions on the control pad or action buttons in order to progress in the game. Fahrenheit takes this a step further by providing several buildings in which the player has the ability to move from room to room in in a non-linear fashion. As players move from room to room, they have to locate victims and neutralize fire hazards.</desc>
-		<image>~/.emulationstation/downloaded_images/sega32x/Fahrenheit (32X) (U) [Disc 2 of 2]-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>19691231T160000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Night Trap (32X) (U) [Disc 1 of 2].bin</path>
-		<name>Night Trap (Disc 1/2)</name>
-		<desc>A group of young women are staying at Mr. and Mrs. Martin's house for the night. The Martin family seems like a normal American family; however, odd things have been occurring at this house. Five girls who previously stayed there had disappeared, so the "Sega Control Attack Team" ("Sega" changed to "Special" once the game was ported to other consoles) is called upon to protect the new guests and find out what happened. As the new wave of girls arrive for a slumber party (one of whom is undercover SCAT agent Kelly (or Kelli) Medd,[a] played by Dana Plato), the vampiric Augers begin to invade the Martin family house, and it's up to the player to save the girls.</desc>
-		<image>~/.emulationstation/downloaded_images/sega32x/Night Trap (32X) (U) [Disc 1 of 2]-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>19921015T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Sega</publisher>
-		<genre>Horror</genre>
-	</game>
-	<game>
-		<path>./Night Trap (32X) (U) [Disc 2 of 2].bin</path>
-		<name>Night Trap (Disc 2/2)</name>
-		<desc>A group of young women are staying at Mr. and Mrs. Martin's house for the night. The Martin family seems like a normal American family; however, odd things have been occurring at this house. Five girls who previously stayed there had disappeared, so the "Sega Control Attack Team" ("Sega" changed to "Special" once the game was ported to other consoles) is called upon to protect the new guests and find out what happened. As the new wave of girls arrive for a slumber party (one of whom is undercover SCAT agent Kelly (or Kelli) Medd,[a] played by Dana Plato), the vampiric Augers begin to invade the Martin family house, and it's up to the player to save the girls.</desc>
-		<image>~/.emulationstation/downloaded_images/sega32x/Night Trap (32X) (U) [Disc 2 of 2]-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>19921015T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Sega</publisher>
-		<genre>Horror</genre>
-	</game>
-	<game>
-		<path>./Slam City with Scottie Pippen (32X) (Fingers) (U) [Disc 1 of 4].bin</path>
-		<name>Slam City with Scottie Pippen (Disc 1/4) - "Fingers"</name>
-		<desc>A Sega 32X game published on CD and playable on Sega CD or compatible systems.
+    <image>~/.emulationstation/downloaded_images/sega32x/Fahrenheit (32X) (U) [Disc 2 of 2]-image.jpg</image>
+    <rating>0</rating>
+    <releasedate>19691231T160000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+  </game>
+  <game>
+    <path>./Night Trap (32X) (U) [Disc 1 of 2].bin</path>
+    <name>Night Trap (Disc 1/2)</name>
+    <desc>A group of young women are staying at Mr. and Mrs. Martin's house for the night. The Martin family seems like a normal American family; however, odd things have been occurring at this house. Five girls who previously stayed there had disappeared, so the "Sega Control Attack Team" ("Sega" changed to "Special" once the game was ported to other consoles) is called upon to protect the new guests and find out what happened. As the new wave of girls arrive for a slumber party (one of whom is undercover SCAT agent Kelly (or Kelli) Medd,[a] played by Dana Plato), the vampiric Augers begin to invade the Martin family house, and it's up to the player to save the girls.</desc>
+    <image>~/.emulationstation/downloaded_images/sega32x/Night Trap (32X) (U) [Disc 1 of 2]-image.jpg</image>
+    <rating>0</rating>
+    <releasedate>19921015T000000</releasedate>
+    <developer>Digital Pictures</developer>
+    <publisher>Sega</publisher>
+    <genre>Horror</genre>
+  </game>
+  <game>
+    <path>./Night Trap (32X) (U) [Disc 2 of 2].bin</path>
+    <name>Night Trap (Disc 2/2)</name>
+    <desc>A group of young women are staying at Mr. and Mrs. Martin's house for the night. The Martin family seems like a normal American family; however, odd things have been occurring at this house. Five girls who previously stayed there had disappeared, so the "Sega Control Attack Team" ("Sega" changed to "Special" once the game was ported to other consoles) is called upon to protect the new guests and find out what happened. As the new wave of girls arrive for a slumber party (one of whom is undercover SCAT agent Kelly (or Kelli) Medd,[a] played by Dana Plato), the vampiric Augers begin to invade the Martin family house, and it's up to the player to save the girls.</desc>
+    <image>~/.emulationstation/downloaded_images/sega32x/Night Trap (32X) (U) [Disc 2 of 2]-image.jpg</image>
+    <rating>0</rating>
+    <releasedate>19921015T000000</releasedate>
+    <developer>Digital Pictures</developer>
+    <publisher>Sega</publisher>
+    <genre>Horror</genre>
+  </game>
+  <game>
+    <path>./Slam City with Scottie Pippen (32X) (Fingers) (U) [Disc 1 of 4].bin</path>
+    <name>Slam City with Scottie Pippen (Disc 1/4) - "Fingers"</name>
+    <desc>A Sega 32X game published on CD and playable on Sega CD or compatible systems.
 
 Scottie Pippen is here in person to school you in this sports FMV game. Played in first-person mode, you'll go one-on-one in this single-player basketball game as you work the court to earn Respect points for defensive moves such as steals and blocks, then drive the lane and toss up your shots.</desc>
-		<image>~/.emulationstation/downloaded_images/sega32x/Slam City with Scottie Pippen (32X) (Fingers) (U) [Disc 1 of 4]-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>19950315T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Sega</publisher>
-		<genre>Sports</genre>
-	</game>
-	<game>
-		<path>./Slam City with Scottie Pippen (32X) (Juice) (U) [Disc 2 of 4].bin</path>
-		<name>Slam City with Scottie Pippen (Disc 2/4) - "Juice"</name>
-		<desc>A Sega 32X game published on CD and playable on Sega CD or compatible systems.
+    <image>~/.emulationstation/downloaded_images/sega32x/Slam City with Scottie Pippen (32X) (Fingers) (U) [Disc 1 of 4]-image.jpg</image>
+    <rating>0</rating>
+    <releasedate>19950315T000000</releasedate>
+    <developer>Digital Pictures</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports</genre>
+  </game>
+  <game>
+    <path>./Slam City with Scottie Pippen (32X) (Juice) (U) [Disc 2 of 4].bin</path>
+    <name>Slam City with Scottie Pippen (Disc 2/4) - "Juice"</name>
+    <desc>A Sega 32X game published on CD and playable on Sega CD or compatible systems.
 
 Scottie Pippen is here in person to school you in this sports FMV game. Played in first-person mode, you'll go one-on-one in this single-player basketball game as you work the court to earn Respect points for defensive moves such as steals and blocks, then drive the lane and toss up your shots.</desc>
-		<image>~/.emulationstation/downloaded_images/sega32x/Slam City with Scottie Pippen (32X) (Juice) (U) [Disc 2 of 4]-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>19950315T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Sega</publisher>
-		<genre>Sports</genre>
-	</game>
-	<game>
-		<path>./Slam City with Scottie Pippen (32X) (Mad Dog) (U) [Disc 3 of 4].bin</path>
-		<name>Slam City with Scottie Pippen (Disc 3/4) - "Mad Dog"</name>
-		<desc>A Sega 32X game published on CD and playable on Sega CD or compatible systems.
+    <image>~/.emulationstation/downloaded_images/sega32x/Slam City with Scottie Pippen (32X) (Juice) (U) [Disc 2 of 4]-image.jpg</image>
+    <rating>0</rating>
+    <releasedate>19950315T000000</releasedate>
+    <developer>Digital Pictures</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports</genre>
+  </game>
+  <game>
+    <path>./Slam City with Scottie Pippen (32X) (Mad Dog) (U) [Disc 3 of 4].bin</path>
+    <name>Slam City with Scottie Pippen (Disc 3/4) - "Mad Dog"</name>
+    <desc>A Sega 32X game published on CD and playable on Sega CD or compatible systems.
 
 Scottie Pippen is here in person to school you in this sports FMV game. Played in first-person mode, you'll go one-on-one in this single-player basketball game as you work the court to earn Respect points for defensive moves such as steals and blocks, then drive the lane and toss up your shots.</desc>
-		<image>~/.emulationstation/downloaded_images/sega32x/Slam City with Scottie Pippen (32X) (Mad Dog) (U) [Disc 3 of 4]-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>19950315T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Sega</publisher>
-		<genre>Sports</genre>
-	</game>
-	<game>
-		<path>./Slam City with Scottie Pippen (32X) (Smash) (U) [Disc 4 of 4].bin</path>
-		<name>Slam City with Scottie Pippen (Disc 4/4) - "Smash"</name>
-		<desc>A Sega 32X game published on CD and playable on Sega CD or compatible systems.
+    <image>~/.emulationstation/downloaded_images/sega32x/Slam City with Scottie Pippen (32X) (Mad Dog) (U) [Disc 3 of 4]-image.jpg</image>
+    <rating>0</rating>
+    <releasedate>19950315T000000</releasedate>
+    <developer>Digital Pictures</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports</genre>
+  </game>
+  <game>
+    <path>./Slam City with Scottie Pippen (32X) (Smash) (U) [Disc 4 of 4].bin</path>
+    <name>Slam City with Scottie Pippen (Disc 4/4) - "Smash"</name>
+    <desc>A Sega 32X game published on CD and playable on Sega CD or compatible systems.
 
 Scottie Pippen is here in person to school you in this sports FMV game. Played in first-person mode, you'll go one-on-one in this single-player basketball game as you work the court to earn Respect points for defensive moves such as steals and blocks, then drive the lane and toss up your shots.</desc>
-		<image>~/.emulationstation/downloaded_images/sega32x/Slam City with Scottie Pippen (32X) (Smash) (U) [Disc 4 of 4]-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>19950315T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Sega</publisher>
-		<genre>Sports</genre>
-		<playcount>1</playcount>
-		<lastplayed>20200508T020020</lastplayed>
-	</game>
-	<game>
-		<path>./Supreme Warrior (32X) (U) [Disc 1 of 2].bin</path>
-		<name>Supreme Warrior (Disc 1/2)</name>
-		<desc>The game is set in China hundreds of years ago, where the player character is tasked with protecting half of a magical mask. The wearer of this mask will be granted untold power. The villainous Fang Tu has the other half of the mask, and wants the player character's half.</desc>
-		<image>~/.emulationstation/downloaded_images/sega32x/Supreme Warrior (32X) (U) [Disc 1 of 2]-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Digital Pictures, Inc.</publisher>
-		<genre>Fighting</genre>
-	</game>
-	<game>
-		<path>./Supreme Warrior (32X) (U) [Disc 2 of 2].bin</path>
-		<name>Supreme Warrior (Disc 2/2)</name>
-		<desc>The game is set in China hundreds of years ago, where the player character is tasked with protecting half of a magical mask. The wearer of this mask will be granted untold power. The villainous Fang Tu has the other half of the mask, and wants the player character's half.</desc>
-		<image>~/.emulationstation/downloaded_images/sega32x/Supreme Warrior (32X) (U) [Disc 2 of 2]-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Digital Pictures, Inc.</publisher>
-		<genre>Fighting</genre>
-	</game>
-	<game>
-		<path>./T-MEK (W) (32X) [!].zip</path>
-		<name>T-Mek</name>
-		<desc>T-Mek is essentially an updated Battlezone. You are a warrior battling in the T-Mek competition, a hugely popular event in the future. You control a hovercraft and try to blow up everyone else.
+    <image>~/.emulationstation/downloaded_images/sega32x/Slam City with Scottie Pippen (32X) (Smash) (U) [Disc 4 of 4]-image.jpg</image>
+    <rating>0</rating>
+    <releasedate>19950315T000000</releasedate>
+    <developer>Digital Pictures</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports</genre>
+    <playcount>1</playcount>
+    <lastplayed>20200508T020020</lastplayed>
+  </game>
+  <game>
+    <path>./Supreme Warrior (32X) (U) [Disc 1 of 2].bin</path>
+    <name>Supreme Warrior (Disc 1/2)</name>
+    <desc>The game is set in China hundreds of years ago, where the player character is tasked with protecting half of a magical mask. The wearer of this mask will be granted untold power. The villainous Fang Tu has the other half of the mask, and wants the player character's half.</desc>
+    <image>~/.emulationstation/downloaded_images/sega32x/Supreme Warrior (32X) (U) [Disc 1 of 2]-image.jpg</image>
+    <rating>0</rating>
+    <releasedate>19940101T000000</releasedate>
+    <developer>Digital Pictures</developer>
+    <publisher>Digital Pictures, Inc.</publisher>
+    <genre>Fighting</genre>
+  </game>
+  <game>
+    <path>./Supreme Warrior (32X) (U) [Disc 2 of 2].bin</path>
+    <name>Supreme Warrior (Disc 2/2)</name>
+    <desc>The game is set in China hundreds of years ago, where the player character is tasked with protecting half of a magical mask. The wearer of this mask will be granted untold power. The villainous Fang Tu has the other half of the mask, and wants the player character's half.</desc>
+    <image>~/.emulationstation/downloaded_images/sega32x/Supreme Warrior (32X) (U) [Disc 2 of 2]-image.jpg</image>
+    <rating>0</rating>
+    <releasedate>19940101T000000</releasedate>
+    <developer>Digital Pictures</developer>
+    <publisher>Digital Pictures, Inc.</publisher>
+    <genre>Fighting</genre>
+  </game>
+  <game>
+    <path>./T-MEK (W) (32X) [!].zip</path>
+    <name>T-Mek</name>
+    <desc>T-Mek is essentially an updated Battlezone. You are a warrior battling in the T-Mek competition, a hugely popular event in the future. You control a hovercraft and try to blow up everyone else.
 
 The action is viewed from your perspective as you travel around the arena. You also have an overall view of where your opponents are. Terrain surfaces and characteristics vary in each battle. In most levels you need to reach a certain score to progress, however there are out-and-out one-off Deathmatch duels to deal with periodically.</desc>
-		<image>~/.emulationstation/downloaded_images/sega32x/T-MEK (W) (32X) [!]-image.jpg</image>
-		<rating>0.6</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Time Warner</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20200508T020102</lastplayed>
-	</game>
-	<game>
-		<path>./After Burner Complete (JU) (32X) [!].zip</path>
-		<name>After Burner</name>
-		<desc>The game allows the player to control a F-14 Tomcat jet, which must destroy a series of enemy jets throughout 18 stages. At the start of the game, the player takes off from an aircraft carrier called the SEGA Enterprise, which shares a similar name to the one used in the 1986 film Top Gun.</desc>
-		<image>~/.emulationstation/downloaded_images/sega32x/After Burner Complete (JU) (32X) [!]-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19950113T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-		<playcount>4</playcount>
-		<lastplayed>20200515T223650</lastplayed>
-	</game>
-	<game>
-		<path>./Tempo (JU) (32X) [!].zip</path>
-		<name>Tempo</name>
-		<desc>King Dirge is trying to steal the rhythm out of Planet Rhythmia! It is up to Tempo, the hyper groovin' grasshopper with special "Sound Energy" to save the world of music from the evil clutches of King Dirge.</desc>
-		<image>~/.emulationstation/downloaded_images/sega32x/Tempo (JU) (32X) [!]-image.png</image>
-		<rating>0.7</rating>
-		<releasedate>19950324T000000</releasedate>
-		<developer>Red Company</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-		<playcount>32</playcount>
-		<lastplayed>20200517T001747</lastplayed>
-	</game>
+    <image>~/.emulationstation/downloaded_images/sega32x/T-MEK (W) (32X) [!]-image.jpg</image>
+    <rating>0.6</rating>
+    <releasedate>19950101T000000</releasedate>
+    <developer>Atari</developer>
+    <publisher>Time Warner</publisher>
+    <genre>Action</genre>
+    <players>2</players>
+    <playcount>1</playcount>
+    <lastplayed>20200508T020102</lastplayed>
+  </game>
+  <game>
+    <path>./After Burner Complete (JU) (32X) [!].zip</path>
+    <name>After Burner</name>
+    <desc>The game allows the player to control a F-14 Tomcat jet, which must destroy a series of enemy jets throughout 18 stages. At the start of the game, the player takes off from an aircraft carrier called the SEGA Enterprise, which shares a similar name to the one used in the 1986 film Top Gun.</desc>
+    <image>~/.emulationstation/downloaded_images/sega32x/After Burner Complete (JU) (32X) [!]-image.jpg</image>
+    <rating>0.7</rating>
+    <releasedate>19950113T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <playcount>4</playcount>
+    <lastplayed>20200515T223650</lastplayed>
+  </game>
+  <game>
+    <path>./Tempo (JU) (32X) [!].zip</path>
+    <name>Tempo</name>
+    <desc>King Dirge is trying to steal the rhythm out of Planet Rhythmia! It is up to Tempo, the hyper groovin' grasshopper with special "Sound Energy" to save the world of music from the evil clutches of King Dirge.</desc>
+    <image>~/.emulationstation/downloaded_images/sega32x/Tempo (JU) (32X) [!]-image.png</image>
+    <rating>0.7</rating>
+    <releasedate>19950324T000000</releasedate>
+    <developer>Red Company</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <playcount>32</playcount>
+    <lastplayed>20200517T001747</lastplayed>
+  </game>
 </gameList>
