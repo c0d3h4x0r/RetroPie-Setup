@@ -1910,16 +1910,6 @@ The game features a 3/4 pseudo-3D perspective similar to that available on the S
     <publisher>Sega</publisher>
     <genre>Action</genre>
   </game>
-  <game id="20365" source="theGamesDB.net">
-    <path>./Disney Collection - Castle of Illusion &amp; Quack Shot (E) [!].zip</path>
-    <name>The Disney Collection</name>
-    <desc>The Disney Collection is a compilation released for the Sega Mega Drive in 1996, containing Castle of Illusion Starring Mickey Mouse and Quackshot Starring Donald Duck. It was only released in Europe.</desc>
-    <image>~/.emulationstation/downloaded_images/genesis/Disney Collection - Castle of Illusion &amp; Quack Shot (E) [!]-image.jpg</image>
-    <releasedate/>
-    <developer>Sega</developer>
-    <publisher>Sega</publisher>
-    <genre>Platform</genre>
-  </game>
   <game id="157" source="theGamesDB.net">
     <path>./Disney's Aladdin (U) [!].zip</path>
     <name>Disney's Aladdin</name>
@@ -2654,18 +2644,6 @@ mix 'n match: Sprites can be created by putting together different heads, torsi 
     <genre>Action</genre>
     <players>1</players>
   </game>
-  <game id="481" source="theGamesDB.net">
-    <path>./Funny World &amp; Balloon Boy (Unl) [!].zip</path>
-    <name>Funny World &amp; Balloon Boy</name>
-    <desc>Funny World is an action game where the player must shoot strange animals as they move across the screen. On each stage a set number of "funnys" will cross the screen, and the player must shoot a certain number of them before they can safely reach the other side. To make things harder, some will walk, some will run, and some will move erratically; from time to time a female funny will cross the screen, which if shot will cause the player to lose a life. They player also has a certain number of boulders they can drop, which will hit any funny on the screen that may be out of the player's range. If enough funnys are hit, the player moves on to the next stage.
-
-Balloon Boy is an action game where the player controls a boy at the bottom of the screen who must shoot at balloons floating across the top. When shot, the balloons will release either a trap or an item, and the boy must collect the items while avoiding the traps. If all the balloons are destroyed before the time runs out, the player moves on to the next stage.</desc>
-    <image>~/.emulationstation/downloaded_images/genesis/Funny World &amp; Balloon Boy (Unl) [!]-image.jpg</image>
-    <releasedate>19930101T000000</releasedate>
-    <developer>AV artisan</developer>
-    <publisher>Realtec</publisher>
-    <genre>Action</genre>
-  </game>
   <game id="4396" source="theGamesDB.net">
     <path>./G-LOC Air Battle (W) [c][!].zip</path>
     <name>G-LOC Air Battle</name>
@@ -3194,18 +3172,6 @@ Home Alone 2 is an action platform game based loosely on the 1992 film of the sa
     <publisher>GameTek</publisher>
     <genre>Puzzle</genre>
   </game>
-  <game id="139" source="theGamesDB.net">
-    <path>./I Love Mickey &amp; Donald - Fushigi na Magic Box (J).zip</path>
-    <name>World of Illusion Starring Mickey Mouse and Donald Duck</name>
-    <desc>Alakazam! Here's classic Disney fun with your favorites, Mickey Mouse and Donald Duck! Transported into a world of wonder, Mickey and Donald must perform amazing feats of magic to defeat a crafty Sorcerer and find their way back home!</desc>
-    <image>~/.emulationstation/downloaded_images/genesis/I Love Mickey &amp; Donald - Fushigi na Magic Box (J)-image.jpg</image>
-    <rating>0.7</rating>
-    <releasedate>19921218T000000</releasedate>
-    <developer>Sega</developer>
-    <publisher>Sega</publisher>
-    <genre>Adventure</genre>
-    <players>2</players>
-  </game>
   <game id="4454" source="theGamesDB.net">
     <path>./IMG International Tour Tennis (UE) [!].zip</path>
     <name>IMG International Tour Tennis</name>
@@ -3559,19 +3525,6 @@ The Genesis version features John Madden's digitized commentary speech and a bat
     <publisher>Electronic Arts</publisher>
     <genre>Sports</genre>
     <players>1</players>
-  </game>
-  <game id="20359" source="theGamesDB.net">
-    <path>./Joshua &amp; the Battle of Jericho (Unl) [!].zip</path>
-    <name>Joshua &amp; The Battle of Jericho</name>
-    <desc>Crystal Mines is a 1989 unlicensed puzzle game for the NES by Color Dreams. When they established Wisdom Tree, they repackaged the game twice: in 1991 as Exodus: Journey to the Promised Land and in 1992 as Joshua &amp; The Battle of Jericho, with Joshua labeled a sequel to Exodus. These two versions would be remade for the Sega Mega Drive in 1993 and 1994, respectively.
-Though the games do have a TMSS check, they will only do the $A14000 write if they detect the region of the console they are running on as US — therefore, the games will only boot on either any US Mega Drive or on any other Model 1 Mega Drive without TMSS (making that a partly useless form of region lockout).
-
-Gameplay of both versions is identical: you are the main character (Moses or Joshua, respectively) and you must collect all the bags with M on them (Joshua: coins with $ on them) scattered throughout each maze. A and C shoot; you can hold them down for rapidfire. Shooting destroys blockades and enemies. Once all the M bags are gathered, find the exit to move on to the next level. In between each level, you must answer a bunch of questions related to the story of the Bible of the game's theme; getting them wrong appears to be inconsequential to the outcome of the game (this needs investigation).</desc>
-    <image>~/.emulationstation/downloaded_images/genesis/Joshua &amp; the Battle of Jericho (Unl) [!]-image.jpg</image>
-    <releasedate/>
-    <developer>Wisdom Tree</developer>
-    <publisher>Wisdom Tree</publisher>
-    <genre>Puzzle</genre>
   </game>
   <game id="2650" source="theGamesDB.net">
     <path>./Journey From Darkness - Strider Returns (U) [c][!].zip</path>
@@ -4287,28 +4240,6 @@ You run through each of the 8 levels, which primarily scroll horizontally, shoot
     <publisher>Sega</publisher>
     <genre>Adventure</genre>
     <players>2</players>
-  </game>
-  <game id="4502" source="theGamesDB.net">
-    <path>./Mick &amp; Mack as the Global Gladiators (Beta).zip</path>
-    <name>Mick &amp; Mack as the Global Gladiators</name>
-    <desc>Global Gladiators is a platform game licensed from fast food chain McDonalds. While playing through the game's 12 levels you'll notice McDonalds logos, burgers and all sorts of family restaurant type stuff as you take Mick and Mack (the game's protagonists) on a journey to clean up "Monsters of Slime World", "Toxi-Town" and more.</desc>
-    <image>~/.emulationstation/downloaded_images/genesis/Mick &amp; Mack as the Global Gladiators (Beta)-image.jpg</image>
-    <rating>0.6</rating>
-    <releasedate>19920101T000000</releasedate>
-    <developer>Virgin Games</developer>
-    <publisher>Virgin Games</publisher>
-    <genre>Action</genre>
-  </game>
-  <game id="4502" source="theGamesDB.net">
-    <path>./Mick &amp; Mack as the Global Gladiators (E) [!].zip</path>
-    <name>Mick &amp; Mack as the Global Gladiators</name>
-    <desc>Global Gladiators is a platform game licensed from fast food chain McDonalds. While playing through the game's 12 levels you'll notice McDonalds logos, burgers and all sorts of family restaurant type stuff as you take Mick and Mack (the game's protagonists) on a journey to clean up "Monsters of Slime World", "Toxi-Town" and more.</desc>
-    <image>~/.emulationstation/downloaded_images/genesis/Mick &amp; Mack as the Global Gladiators (E) [!]-image.jpg</image>
-    <rating>0.6</rating>
-    <releasedate>19920101T000000</releasedate>
-    <developer>Virgin Games</developer>
-    <publisher>Virgin Games</publisher>
-    <genre>Action</genre>
   </game>
   <game id="4502" source="theGamesDB.net">
     <path>./Mick &amp; Mack as the Global Gladiators (U) [!].zip</path>
@@ -6235,34 +6166,6 @@ The areas include Earth, Mars, Venus and finally the Psykogenesis Planet, where 
     <genre>Fighting</genre>
     <players>2</players>
   </game>
-  <game id="20447" source="theGamesDB.net">
-    <path>./Snow Bros. - Nick &amp; Tom (J) [c][!].zip</path>
-    <name>Snow Bros.</name>
-    <desc>Snow Bros. (スノーブラザーズ) is a 1990 arcade game which was ported to the Sega Mega Drive in 1993. The game follows two snowmen named Nick and Tom, who must defeat all the on-screen enemies by creating giant snowballs. It is built similarly to Bubble Bobble.
-
-The Mega Drive version adds cutscenes to the game, as well as some more background music and several additional levels. This version was only released in Japan and Korea.</desc>
-    <image>~/.emulationstation/downloaded_images/genesis/Snow Bros. - Nick &amp; Tom (J) [c][!]-image.jpg</image>
-    <rating>0.6</rating>
-    <releasedate>19930528T000000</releasedate>
-    <developer>Toaplan</developer>
-    <publisher>Tengen</publisher>
-    <genre>Action</genre>
-    <players>2</players>
-  </game>
-  <game id="20447" source="theGamesDB.net">
-    <path>./Snow Bros. - Nick &amp; Tom (J) [h1C].zip</path>
-    <name>Snow Bros.</name>
-    <desc>Snow Bros. (スノーブラザーズ) is a 1990 arcade game which was ported to the Sega Mega Drive in 1993. The game follows two snowmen named Nick and Tom, who must defeat all the on-screen enemies by creating giant snowballs. It is built similarly to Bubble Bobble.
-
-The Mega Drive version adds cutscenes to the game, as well as some more background music and several additional levels. This version was only released in Japan and Korea.</desc>
-    <image>~/.emulationstation/downloaded_images/genesis/Snow Bros. - Nick &amp; Tom (J) [h1C]-image.jpg</image>
-    <rating>0.6</rating>
-    <releasedate>19930528T000000</releasedate>
-    <developer>Toaplan</developer>
-    <publisher>Tengen</publisher>
-    <genre>Action</genre>
-    <players>2</players>
-  </game>
   <game id="4621" source="theGamesDB.net">
     <path>./Sol-Deace (U) [!].zip</path>
     <name>Sol-Deace</name>
@@ -6971,18 +6874,6 @@ When Yuko was told of Vecanti’s great danger, a burning desire moved Yuko to a
     <players>1</players>
   </game>
   <game id="4650" source="theGamesDB.net">
-    <path>./Sylvester &amp; Tweety in Cagey Capers (Beta).zip</path>
-    <name>Sylvester &amp; Tweety in Cagey Capers</name>
-    <desc>This legendary Looney Tunes duo make their video game debut - and what a performance! The eyepopping, cartoon like animation and ribtickling shenanigans seem never ending as you twy, twy, twy and twy again to swipe the little Tweety - with cat-astrophic results!</desc>
-    <image>~/.emulationstation/downloaded_images/genesis/Sylvester &amp; Tweety in Cagey Capers (Beta)-image.jpg</image>
-    <rating>0.7</rating>
-    <releasedate>19930716T000000</releasedate>
-    <developer>Alexandria</developer>
-    <publisher>TecMagik</publisher>
-    <genre>Action</genre>
-    <players>1</players>
-  </game>
-  <game id="4650" source="theGamesDB.net">
     <path>./Sylvester &amp; Tweety in Cagey Capers (UE) [!].zip</path>
     <name>Sylvester &amp; Tweety in Cagey Capers</name>
     <desc>This legendary Looney Tunes duo make their video game debut - and what a performance! The eyepopping, cartoon like animation and ribtickling shenanigans seem never ending as you twy, twy, twy and twy again to swipe the little Tweety - with cat-astrophic results!</desc>
@@ -7385,74 +7276,6 @@ In the game's opening sequence, ToeJam explains that Earl's erratic piloting abi
     <image>~/.emulationstation/downloaded_images/genesis/Toejam &amp; Earl (U) (REV00) [!]-image.jpg</image>
     <rating>0.7</rating>
     <releasedate>19910101T000000</releasedate>
-    <developer>Johnson Voorsanger Productions</developer>
-    <publisher>Sega</publisher>
-    <genre>Action</genre>
-    <players>2</players>
-  </game>
-  <game id="2289" source="theGamesDB.net">
-    <path>./Toejam &amp; Earl (J) (REV02) [!].zip</path>
-    <name>ToeJam &amp; Earl</name>
-    <desc>ToeJam &amp; Earl has been called a surreal, comic satire, and a "daringly misanthropic commentary on Earthly life". The game's protagonists, ToeJam and Earl, have been described as a "three-legged red alien" and "fat orange alien", respectively. ToeJam wears a large gold medallion and a backwards baseball cap, while Earl is marked by high-tops and oversized sunglasses; both outfits are "over-the-top appropriations" of 1990s urban culture. Their speech features California slang. The game is set to a soundtrack which has been described both as jazz-funk, and as hip hop. For the game's unique sound, composer John Baker was inspired by Herbie Hancock and The Headhunters.
-
-In the game's opening sequence, ToeJam explains that Earl's erratic piloting abilities have resulted in a crash-landing on Earth. He says that they must find the pieces of their spacecraft's wreckage to return to their home planet, Funkotron. The player guides the characters as they avoid Earth's antagonistic inhabitants and search for the debris. Should the player succeed, the final sequence depicts ToeJam and Earl escaping the planet in their reconstructed spacecraft. Under the player's control, the characters proceed across a purple landscape that represents Funkotron, and are greeted by their friends and family.</desc>
-    <image>~/.emulationstation/downloaded_images/genesis/Toejam &amp; Earl (J) (REV02) [!]-image.jpg</image>
-    <rating>0.7</rating>
-    <releasedate>19910101T000000</releasedate>
-    <developer>Johnson Voorsanger Productions</developer>
-    <publisher>Sega</publisher>
-    <genre>Action</genre>
-    <players>2</players>
-  </game>
-  <game id="716" source="theGamesDB.net">
-    <path>./Toejam &amp; Earl in Panic on Funkotron (E) [!].zip</path>
-    <name>ToeJam &amp; Earl in Panic on Funkotron</name>
-    <desc>The plot of the game follows on from that of its predecessor, which followed the adventures of alien protagonists ToeJam and Earl after they crash landed on Earth. After escaping to their home planet of Funkotron, the characters discover that antagonistic Earthlings have stowed-away on the duo's spacecraft.
-
-A sub-plot involves ToeJam and Earl's attempt to lure Lamont the Funkapotamus back from the Funk Dimension, where he is hiding from the invading Earthlings.
-
-ToeJam and Earl must hunt down Earthling antagonists, which include a "pneumatic-drill-crazed construction worker, a camera-wielding tourist, our old friends the bogymen [sic], pea-shooter armed kids and a rather rotund woman with ankle-snapping poodles.
-
-Capturing Earthlings involves rummaging for them in bushes and trees, before pelting the antagonist with "jars" which imprison them. The player completes a level by catching all the at large Earthlings and sending them back to Earth via spacecraft.</desc>
-    <image>~/.emulationstation/downloaded_images/genesis/Toejam &amp; Earl in Panic on Funkotron (E) [!]-image.jpg</image>
-    <rating>0.7</rating>
-    <releasedate>19930401T000000</releasedate>
-    <developer>Johnson Voorsanger Productions</developer>
-    <publisher>Sega</publisher>
-    <genre>Action</genre>
-    <players>2</players>
-  </game>
-  <game id="716" source="theGamesDB.net">
-    <path>./Toejam &amp; Earl in Panic on Funkotron (G) [!].zip</path>
-    <name>ToeJam &amp; Earl in Panic on Funkotron</name>
-    <desc>The plot of the game follows on from that of its predecessor, which followed the adventures of alien protagonists ToeJam and Earl after they crash landed on Earth. After escaping to their home planet of Funkotron, the characters discover that antagonistic Earthlings have stowed-away on the duo's spacecraft.
-
-A sub-plot involves ToeJam and Earl's attempt to lure Lamont the Funkapotamus back from the Funk Dimension, where he is hiding from the invading Earthlings.
-
-ToeJam and Earl must hunt down Earthling antagonists, which include a "pneumatic-drill-crazed construction worker, a camera-wielding tourist, our old friends the bogymen [sic], pea-shooter armed kids and a rather rotund woman with ankle-snapping poodles.
-
-Capturing Earthlings involves rummaging for them in bushes and trees, before pelting the antagonist with "jars" which imprison them. The player completes a level by catching all the at large Earthlings and sending them back to Earth via spacecraft.</desc>
-    <image>~/.emulationstation/downloaded_images/genesis/Toejam &amp; Earl in Panic on Funkotron (G) [!]-image.jpg</image>
-    <rating>0.7</rating>
-    <releasedate>19930401T000000</releasedate>
-    <developer>Johnson Voorsanger Productions</developer>
-    <publisher>Sega</publisher>
-    <genre>Action</genre>
-    <players>2</players>
-  </game>
-  <game id="716" source="theGamesDB.net">
-    <path>./Toejam &amp; Earl in Panic on Funkotron (J) [!].zip</path>
-    <name>ToeJam &amp; Earl in Panic on Funkotron</name>
-    <desc>The plot of the game follows on from that of its predecessor, which followed the adventures of alien protagonists ToeJam and Earl after they crash landed on Earth. After escaping to their home planet of Funkotron, the characters discover that antagonistic Earthlings have stowed-away on the duo's spacecraft.
-
-A sub-plot involves ToeJam and Earl's attempt to lure Lamont the Funkapotamus back from the Funk Dimension, where he is hiding from the invading Earthlings.
-
-ToeJam and Earl must hunt down Earthling antagonists, which include a "pneumatic-drill-crazed construction worker, a camera-wielding tourist, our old friends the bogymen [sic], pea-shooter armed kids and a rather rotund woman with ankle-snapping poodles.
-
-Capturing Earthlings involves rummaging for them in bushes and trees, before pelting the antagonist with "jars" which imprison them. The player completes a level by catching all the at large Earthlings and sending them back to Earth via spacecraft.</desc>
-    <image>~/.emulationstation/downloaded_images/genesis/Toejam &amp; Earl in Panic on Funkotron (J) [!]-image.jpg</image>
-    <rating>0.7</rating>
-    <releasedate>19930401T000000</releasedate>
     <developer>Johnson Voorsanger Productions</developer>
     <publisher>Sega</publisher>
     <genre>Action</genre>
@@ -8371,34 +8194,10 @@ All the teams who were in contention for one of the 3 main European tournaments 
     <genre>Sports</genre>
   </game>
   <game id="139" source="theGamesDB.net">
-    <path>./World of Illusion Starring Mickey Mouse &amp; Donald Duck (Beta).zip</path>
-    <name>World of Illusion Starring Mickey Mouse and Donald Duck</name>
-    <desc>Alakazam! Here's classic Disney fun with your favorites, Mickey Mouse and Donald Duck! Transported into a world of wonder, Mickey and Donald must perform amazing feats of magic to defeat a crafty Sorcerer and find their way back home!</desc>
-    <image>~/.emulationstation/downloaded_images/genesis/World of Illusion Starring Mickey Mouse &amp; Donald Duck (Beta)-image.jpg</image>
-    <rating>0.7</rating>
-    <releasedate>19921218T000000</releasedate>
-    <developer>Sega</developer>
-    <publisher>Sega</publisher>
-    <genre>Adventure</genre>
-    <players>2</players>
-  </game>
-  <game id="139" source="theGamesDB.net">
     <path>./World of Illusion Starring Mickey Mouse &amp; Donald Duck (U) [!].zip</path>
     <name>World of Illusion Starring Mickey Mouse and Donald Duck</name>
     <desc>Alakazam! Here's classic Disney fun with your favorites, Mickey Mouse and Donald Duck! Transported into a world of wonder, Mickey and Donald must perform amazing feats of magic to defeat a crafty Sorcerer and find their way back home!</desc>
     <image>~/.emulationstation/downloaded_images/genesis/World of Illusion Starring Mickey Mouse &amp; Donald Duck (U) [!]-image.jpg</image>
-    <rating>0.7</rating>
-    <releasedate>19921218T000000</releasedate>
-    <developer>Sega</developer>
-    <publisher>Sega</publisher>
-    <genre>Adventure</genre>
-    <players>2</players>
-  </game>
-  <game id="139" source="theGamesDB.net">
-    <path>./World of Illusion Starring Mickey Mouse &amp; Donald Duck (E) [!].zip</path>
-    <name>World of Illusion Starring Mickey Mouse and Donald Duck</name>
-    <desc>Alakazam! Here's classic Disney fun with your favorites, Mickey Mouse and Donald Duck! Transported into a world of wonder, Mickey and Donald must perform amazing feats of magic to defeat a crafty Sorcerer and find their way back home!</desc>
-    <image>~/.emulationstation/downloaded_images/genesis/World of Illusion Starring Mickey Mouse &amp; Donald Duck (E) [!]-image.jpg</image>
     <rating>0.7</rating>
     <releasedate>19921218T000000</releasedate>
     <developer>Sega</developer>

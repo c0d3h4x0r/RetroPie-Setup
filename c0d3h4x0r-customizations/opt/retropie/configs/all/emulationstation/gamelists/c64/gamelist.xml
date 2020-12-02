@@ -209,7 +209,7 @@ The player could also hit logs and tree stumps in order to jump the buggy over o
   <game>
     <path>./ntsc/David's Midnight Magic.d64</path>
     <name>Davids Midnight Magic</name>
-    <desc>written by David Snider and released by Br&#xF8;derbund in 1982. The game was published in Europe by Ariolasoft.
+    <desc>written by David Snider and released by Br&amp;#xF8;derbund in 1982. The game was published in Europe by Ariolasoft.
 
 David's Midnight Magic is closely modeled after the popular real-life pinball table Black Knight, released by Williams in 1980.[citation needed] The computer simulation, unlike Black Knight, contains bright colors such as green, pink, and blue (depending somewhat on the version of the game) in contrast to Black Knight's darker medieval theme.These colors were used to great advantage by illustrator Marc Ericksen as he produced for Broderbund one of his earliest game art efforts showing a pinball player's face reflected on a floating chrome pinball, with the pinball game surface floating over a ghostly desert scene. The same art was used in the Atari 2600 version, but the reflection of the player was removed.. Atari released a pinball game called Midnight Magic for the Atari 2600 that plays differently from the similarly named David's Midnight Magic.</desc>
     <image>~/.emulationstation/downloaded_images/c64/David's Midnight Magic-image.jpg</image>
@@ -416,7 +416,7 @@ Shadow of the Beast was followed by two sequels, Shadow of the Beast II in 1990 
     <desc>The game gives the player the experience of flying a fighter craft through a fortress while shooting at enemy entities (missiles, enemy gunfire, etc.) The object of the game is to hit as many targets as possible without being shot down or running out of fuel - which can be replenished, paradoxically, by blowing up fuel drums.</desc>
     <image>~/.emulationstation/downloaded_images/c64/Zaxxon-image.jpg</image>
     <releasedate>19841205T000000</releasedate>
-    <developer>Synapse&#xC2; Software&#xC2; Corporation</developer>
+    <developer>Synapse&amp;#xC2; Software&amp;#xC2; Corporation</developer>
     <publisher>Sega</publisher>
     <genre>Shooter</genre>
     <players>2</players>
@@ -536,7 +536,7 @@ This is the cartridge version with less levels that the full disk version.</desc
   <game>
     <path>./ntsc/Crystal Castles.d64</path>
     <name>Crystal Castles</name>
-    <desc>Crystal Castles has nine levels with four castles each, and a tenth level which features a single castle &#x2014; the clearing of which ends the game. Each of the 37 trimetric-projected castles consists of a maze of hallways filled with gems and bonus objects, and also includes stairs, elevators and tunnels that the player can use as shortcuts. The three-letter initials of the player with the highest score are used to form the first level's castle structure. When all gems in a castle have been collected, the player moves on to the next castle. The player can also skip some castles and acquire additional lives and points by using secret warps activated by making Bentley Bear jump at special locations.</desc>
+    <desc>Crystal Castles has nine levels with four castles each, and a tenth level which features a single castle &amp;#x2014; the clearing of which ends the game. Each of the 37 trimetric-projected castles consists of a maze of hallways filled with gems and bonus objects, and also includes stairs, elevators and tunnels that the player can use as shortcuts. The three-letter initials of the player with the highest score are used to form the first level's castle structure. When all gems in a castle have been collected, the player moves on to the next castle. The player can also skip some castles and acquire additional lives and points by using secret warps activated by making Bentley Bear jump at special locations.</desc>
     <image>~/.emulationstation/downloaded_images/c64/Crystal Castles-image.jpg</image>
     <rating>0</rating>
     <releasedate>19830701T000000</releasedate>

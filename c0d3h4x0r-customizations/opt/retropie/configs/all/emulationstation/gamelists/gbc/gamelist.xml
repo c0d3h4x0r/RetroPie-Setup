@@ -15,9 +15,9 @@
     <name>007: The World Is Not Enough</name>
     <desc>Enter the sophisticated world of high-tech espionage as Her Majesty's greatest spy... James Bond. Experience all the intense action, spycraft, and state-of-the-art gadgetry synonymous with Bond. Work with helpful allies such as Dr. Christmas Jones and M to stop the treacherous villain Renard. Your mission: Save the world. Are you up to it? Of course you are. You're Bond. James Bond.
 
-&#x2022; Bond's Best Missions! Battle through 8 dangerous levels based on the hit movie.
-&#x2022; 14 Q-Lab Gadgets and Weapons! Bond's P2K, Night-Vision Glasses, Taser and many new surprises.
-&#x2022; New Power-Ups! 10 different power-ups, including access cards, grenade launcher ammunition, and health.</desc>
+&amp;#x2022; Bond's Best Missions! Battle through 8 dangerous levels based on the hit movie.
+&amp;#x2022; 14 Q-Lab Gadgets and Weapons! Bond's P2K, Night-Vision Glasses, Taser and many new surprises.
+&amp;#x2022; New Power-Ups! 10 different power-ups, including access cards, grenade launcher ammunition, and health.</desc>
     <image>~/.emulationstation/downloaded_images/gbc/007 - The World is Not Enough (U) [C][!]-image.jpg</image>
     <releasedate>20010901T000000</releasedate>
     <developer>2n Productions</developer>
@@ -28,7 +28,7 @@
   <game id="21871" source="theGamesDB.net">
     <path>./3-D Ultra Pinball - Thrillride (U) [C][!].zip</path>
     <name>3-D Ultra Pinball: Thrillride</name>
-    <desc>All the bells, whistles, and sirens of the pinball games of yesteryear come to the portable system with 3D ULTRA PINBALL: Thrill Ride. This colorful title takes all the fast action of pinball and combines it with features that only a videogame can provide. The full-sized table features multiple screens of action, with all of the staples of pinball intact. Bumpers, ramps, stoppers, and flippers litter the table, along with a variety of special bonus chutes that will take you to one of several special pinball challenges. 3D ULTRA PINBALL is highlighted by brightly colored graphics, with excellent detail on the board and its various parts. The game also features realistic ball physics and gameplay elements, so don&#x2019;t bump too hard or you&#x2019;ll get a "TILT"! 3D ULTRA PINBALL: Thrill Ride will test your skills and push your reflexes to their limits.</desc>
+    <desc>All the bells, whistles, and sirens of the pinball games of yesteryear come to the portable system with 3D ULTRA PINBALL: Thrill Ride. This colorful title takes all the fast action of pinball and combines it with features that only a videogame can provide. The full-sized table features multiple screens of action, with all of the staples of pinball intact. Bumpers, ramps, stoppers, and flippers litter the table, along with a variety of special bonus chutes that will take you to one of several special pinball challenges. 3D ULTRA PINBALL is highlighted by brightly colored graphics, with excellent detail on the board and its various parts. The game also features realistic ball physics and gameplay elements, so don&amp;#x2019;t bump too hard or you&amp;#x2019;ll get a "TILT"! 3D ULTRA PINBALL: Thrill Ride will test your skills and push your reflexes to their limits.</desc>
     <image>~/.emulationstation/downloaded_images/gbc/3-D Ultra Pinball - Thrillride (U) [C][!]-image.jpg</image>
     <releasedate>20001201T000000</releasedate>
     <developer>Left Field Productions</developer>
@@ -224,30 +224,6 @@ The adventure continues as Sarge and Vikki fight their way over pool tables, aro
     <publisher>3DO</publisher>
     <genre>Action</genre>
   </game>
-  <game id="33067" source="theGamesDB.net">
-    <path>./Asterix &amp; Obelix vs Caesar (E) (M5) [C][!].zip</path>
-    <name>Asterix &amp; Obelix Contre Cesar</name>
-    <desc>Relive the adventures of Asterix and Obelix. Take control of your favourite cartoon heroes of totally addictive action. Take on the ranks of leggionnaires, the formidable Roman catapults and the unforgettable finishing levels of ever increasing difficulty. Some magic potion will make you fly.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Asterix &amp; Obelix vs Caesar (E) (M5) [C][!]-image.jpg</image>
-    <releasedate>20001011T000000</releasedate>
-    <developer>Cryo Interactive</developer>
-    <publisher>Cryo Interactive</publisher>
-    <genre>Action</genre>
-    <players>1</players>
-  </game>
-  <game id="18290" source="theGamesDB.net">
-    <path>./Asteroids &amp; Missile Command (U) [S][!].zip</path>
-    <name>Arcade Classic 1: Asteroids / Missile Command</name>
-    <desc>This is a compilation of two classic arcade games on one pack:
-&#x2022;Asteroids
-&#x2022;Missile Command</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Asteroids &amp; Missile Command (U) [S][!]-image.jpg</image>
-    <releasedate>19981231T000000</releasedate>
-    <developer>Atari</developer>
-    <publisher>Nintendo of America</publisher>
-    <genre>Action</genre>
-    <players>1</players>
-  </game>
   <game id="25445" source="theGamesDB.net">
     <path>./Asteroids (U) [C][!].zip</path>
     <name>Asteroids</name>
@@ -395,32 +371,6 @@ The adventure continues as Sarge and Vikki fight their way over pool tables, aro
     <publisher>3DO</publisher>
     <genre>Action</genre>
   </game>
-  <game id="18300" source="theGamesDB.net">
-    <path>./Battle Zone &amp; Super Breakout (U) [S][!].zip</path>
-    <name>Arcade Classics: Battlezone / Super Breakout</name>
-    <desc>Battlezone:
- A standard enemy tank in the player's sights in the military training version The Bradley Trainer.
-Gameplay is on a plain with a mountainous horizon featuring a memorable erupting volcano, distant crescent moon, and various geometric solids (in vector outline) like pyramids and blocks. The player views the screen, which includes an overhead radar view to find and destroy the rather slow tanks, or the faster moving supertanks. Saucer-shaped UFOs and guided missiles occasionally appear for a bonus opportunity. The saucers differ from the tanks in that they do not fire upon the player, and do not appear on radar. The player can hide behind the solids or maneuver in rapid turns once fired on to buy time with which to fire himself. Common play in the US could run from 25 cents to a dollar per game, depending on machine setting. The typical setting is for 25 cent play, with three tanks.
-
-A standard enemy tank is worth 1,000 points, a supertank 3,000 points, and the flying saucer 5,000 points. The guided missile is worth 2,000 points when destroyed. Each of these targets can be destroyed with a single shot from the player's tank. An extra life is awarded when the player's score reaches 15,000 points, and a further tank is then awarded at 100,000 points. No additional tanks are awarded until the score counter rolls over at ten million, and additional bonus tanks are again awarded at indicated scores of 15,000 and 100,000. The game only includes one hostile enemy on the game board at all times; the player never has to battle two enemy tanks at once, or a tank and guided missile. The UFO can appear on the screen at the same time as an enemy tank, and it can occasionally be destroyed by enemy fire.
-
-The geometric solid obstacles are indestructible, and can block the movement of a player's tank. However, they are also useful as shields as they also block enemy fire as well.
-
-There was a bug in some machines which caused very high phony scores into the seven digits to be posted (after a player would enter his initials). Good players could actually reach this level after an hour or two of play.
-
-
-SUPER BREAKOUT:
-In Super Breakout, there are three different and more advanced game types from which the player can choose:
-Double gives the player control of two bats at the same time&#x2014;one placed above the other&#x2014;and two balls. Losing a life occurs only when both balls go out of play, and points are doubled while the player is able to juggle both balls without losing either.
-Cavity retains the single bat and ball of Breakout, but two other balls are enclosed on the other side of the wall, which the player must free before they, too, can be used to destroy additional bricks. Points are increased for this, but triple points are available if the player can keep all three balls in play.
-Progressive also has the single bat and ball, but as the ball hits the paddle, the entire wall gradually advances downwards step by step, gaining in speed the longer the ball lasts in play.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Battle Zone &amp; Super Breakout (U) [S][!]-image.jpg</image>
-    <releasedate>19961001T000000</releasedate>
-    <developer>Black Pearl</developer>
-    <publisher>Solid Software</publisher>
-    <genre>Action</genre>
-    <players>1</players>
-  </game>
   <game id="21863" source="theGamesDB.net">
     <path>./Battleship (U) [C][!].zip</path>
     <name>BattleShip</name>
@@ -450,19 +400,6 @@ Progressive also has the single bat and ball, but as the ball hits the paddle, t
     <developer>Left Field Productions</developer>
     <publisher>Nintendo</publisher>
     <genre>Strategy</genre>
-  </game>
-  <game id="18305" source="theGamesDB.net">
-    <path>./Bill &amp; Ted's Excellent Gameboy Adventure (UE) [!].zip</path>
-    <name>Bill &amp; Ted's Excellent Game Boy Adventure</name>
-    <desc>DeNomolos has hatched another plan to alter history in his favor. He has stolen special orbs called Time Fragments and scattered them all across time. Now Bill and Ted must travel across time to retrieve the time fragments to prevent the future from altering. But it won't be easy for the San Dimas duo. As DeNomolos has the aid of the evil robot Bill and Ted, plus he has brainwashed Death and some historical figures to stop them along the way.
-
-Each level takes place on a single screen. Players must collect scattered time fragments while jumping platforms, climbing ladders or ropes, and avoiding enemies. Because this is a Game Boy game, all sprites are very simplistic as both Bill and Ted have almost identical game sprites. In addition, enemies are only differentiated by their actions.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Bill &amp; Ted's Excellent Gameboy Adventure (UE) [!]-image.jpg</image>
-    <releasedate>19910801T000000</releasedate>
-    <developer>Beam Software</developer>
-    <publisher>LJN</publisher>
-    <genre>Action</genre>
-    <players>1</players>
   </game>
   <game id="21892" source="theGamesDB.net">
     <path>./Billy Bob's Huntin' 'n' Fishin' (U) [C][!].zip</path>
@@ -580,7 +517,7 @@ Each level takes place on a single screen. Players must collect scattered time f
   <game id="8600" source="theGamesDB.net">
     <path>./Bug's Life, A (U) [C][!].zip</path>
     <name>Disney/Pixar A Bug's Life</name>
-    <desc>A Bug's Life is a platform game with different goals in each of 15 levels. Most of the goals deal with getting the main character, Flik, to do events that match the storyline of the movie. When the player finishes a level, that player can proceed to the next level. Each new level starts with a new short animation from the movie. If the player collects all of the bonus items in a level, that player gets a bonus movie. Bonus items include 50 pieces of grain, four letters that spell F-L-I-K (like the Tarzan N64 game) and permanently finishing off each enemy bug. To guide the player through the levels there are little floating telescopes that will show the player areas where he is supposed to go. Throughout each level are a variety of types of seeds. Some seeds are partially buried in the ground. These seeds can be transformed by Flik into a specific kind of plant that can help him solve problems within the levels. Flik can increase the number of plants he can grow by collecting colored tokens scattered throughout the levels, with a token's color determining what type of plant can be grown with it. Some levels also included Flik&#x2019;s harvesting invention (hidden somewhere in the level) which can be used to collect grain and kill off enemy bugs.</desc>
+    <desc>A Bug's Life is a platform game with different goals in each of 15 levels. Most of the goals deal with getting the main character, Flik, to do events that match the storyline of the movie. When the player finishes a level, that player can proceed to the next level. Each new level starts with a new short animation from the movie. If the player collects all of the bonus items in a level, that player gets a bonus movie. Bonus items include 50 pieces of grain, four letters that spell F-L-I-K (like the Tarzan N64 game) and permanently finishing off each enemy bug. To guide the player through the levels there are little floating telescopes that will show the player areas where he is supposed to go. Throughout each level are a variety of types of seeds. Some seeds are partially buried in the ground. These seeds can be transformed by Flik into a specific kind of plant that can help him solve problems within the levels. Flik can increase the number of plants he can grow by collecting colored tokens scattered throughout the levels, with a token's color determining what type of plant can be grown with it. Some levels also included Flik&amp;#x2019;s harvesting invention (hidden somewhere in the level) which can be used to collect grain and kill off enemy bugs.</desc>
     <image>~/.emulationstation/downloaded_images/gbc/Bug's Life, A (U) [C][!]-image.jpg</image>
     <rating>0.7</rating>
     <releasedate>19981201T000000</releasedate>
@@ -594,16 +531,6 @@ Each level takes place on a single screen. Players must collect scattered time f
     <name>Looney Tunes: Carrot Crazy</name>
     <desc>Coming home after a long day at work, Bugs and Lola find their garden ransacked and all of their carrots stolen. Now the two must explore the Warner Bros. Lot to discover the identity of the carrot thief. You guide the bunnies through five worlds, collecting carrots that will allow the characters use special powers like the ability to walk on thin air and using their ears as a helicopter propeller. The two can also collect Super Carrots that will allow them to use their powers longer and Habanero Carrots that make them invincible. The player must switch between the Bugs and Lola to solve puzzles with each character's special skills. Try to find the carrot thief in Looney Tunes: Carrot Crazy.</desc>
     <image>~/.emulationstation/downloaded_images/gbc/Bugs Bunny &amp; Lola Bunny - Carrot Crazy (U) (M3) [C][!]-image.jpg</image>
-    <releasedate>19990101T000000</releasedate>
-    <developer>Infogrames</developer>
-    <publisher>Infogrames</publisher>
-    <genre>Platform</genre>
-  </game>
-  <game id="13701" source="theGamesDB.net">
-    <path>./Bugs Bunny &amp; Lola Bunny - Operation Carrots (E) (M6) [C][!].zip</path>
-    <name>Looney Tunes: Carrot Crazy</name>
-    <desc>Coming home after a long day at work, Bugs and Lola find their garden ransacked and all of their carrots stolen. Now the two must explore the Warner Bros. Lot to discover the identity of the carrot thief. You guide the bunnies through five worlds, collecting carrots that will allow the characters use special powers like the ability to walk on thin air and using their ears as a helicopter propeller. The two can also collect Super Carrots that will allow them to use their powers longer and Habanero Carrots that make them invincible. The player must switch between the Bugs and Lola to solve puzzles with each character's special skills. Try to find the carrot thief in Looney Tunes: Carrot Crazy.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Bugs Bunny &amp; Lola Bunny - Operation Carrots (E) (M6) [C][!]-image.jpg</image>
     <releasedate>19990101T000000</releasedate>
     <developer>Infogrames</developer>
     <publisher>Infogrames</publisher>
@@ -770,7 +697,7 @@ Each level takes place on a single screen. Players must collect scattered time f
   <game id="21936" source="theGamesDB.net">
     <path>./Chessmaster, The (U) [C][!].zip</path>
     <name>Chessmaster</name>
-    <desc>Prepare to challenge the longest running console chess series, THE CHESSMASTER. In this Game Boy version of the game, you can choose to play at any one of 16 different skill levels, ranging from beginner to expert. For those just learning to play chess, take advantage of the Teaching mode that will show you all of the best moves to make. This game has a variety of options for chess fans, as you can set up the board however you like to simulate classic chess situations and challenges. You can even make your opponent&#x2019;s pieces invisible for an added challenge. If you make a wrong move, the game will allow you to take back moves and try again. If you&#x2019;d rather just see the outcome, merely ask THE CHESSMASTER and he&#x2019;ll finish the game to checkmate. Play alone or against a friend through the use of the Game Boy Link Cable. You can also use the password function to resume a game already in progress.</desc>
+    <desc>Prepare to challenge the longest running console chess series, THE CHESSMASTER. In this Game Boy version of the game, you can choose to play at any one of 16 different skill levels, ranging from beginner to expert. For those just learning to play chess, take advantage of the Teaching mode that will show you all of the best moves to make. This game has a variety of options for chess fans, as you can set up the board however you like to simulate classic chess situations and challenges. You can even make your opponent&amp;#x2019;s pieces invisible for an added challenge. If you make a wrong move, the game will allow you to take back moves and try again. If you&amp;#x2019;d rather just see the outcome, merely ask THE CHESSMASTER and he&amp;#x2019;ll finish the game to checkmate. Play alone or against a friend through the use of the Game Boy Link Cable. You can also use the password function to resume a game already in progress.</desc>
     <image>~/.emulationstation/downloaded_images/gbc/Chessmaster, The (U) [C][!]-image.jpg</image>
     <releasedate>19991115T000000</releasedate>
     <developer>Park Place Productions</developer>
@@ -786,26 +713,6 @@ Each level takes place on a single screen. Players must collect scattered time f
     <developer>Blitz Games</developer>
     <publisher>THQ</publisher>
     <genre>Action</genre>
-  </game>
-  <game id="18584" source="theGamesDB.net">
-    <path>./Choplifter II - Rescue &amp; Survive (E) [!].zip</path>
-    <name>Choplifter II</name>
-    <desc>The gameplay revolves around piloting a rescue helicopter into hostile territory and rescuing hostages. Enemies like birds, fighter jets, and even ammunition fired from various weapons can harm the player's helicopter. Saving more hostages than the scenario requires will allow players to collect extra points. However, losing a lot of hostage will lead to a loss of continues; regardles of how many lives the player has during that time. This is to simulate a mission failure and/or becoming a SNAFU.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Choplifter II - Rescue &amp; Survive (E) [!]-image.jpg</image>
-    <releasedate>19910930T000000</releasedate>
-    <developer>Beam Software</developer>
-    <publisher>Victor Interactive Software</publisher>
-    <genre>Shooter</genre>
-  </game>
-  <game id="18584" source="theGamesDB.net">
-    <path>./Choplifter II - Rescue &amp; Survive (U) [!].zip</path>
-    <name>Choplifter II</name>
-    <desc>The gameplay revolves around piloting a rescue helicopter into hostile territory and rescuing hostages. Enemies like birds, fighter jets, and even ammunition fired from various weapons can harm the player's helicopter. Saving more hostages than the scenario requires will allow players to collect extra points. However, losing a lot of hostage will lead to a loss of continues; regardles of how many lives the player has during that time. This is to simulate a mission failure and/or becoming a SNAFU.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Choplifter II - Rescue &amp; Survive (U) [!]-image.jpg</image>
-    <releasedate>19910930T000000</releasedate>
-    <developer>Beam Software</developer>
-    <publisher>Victor Interactive Software</publisher>
-    <genre>Shooter</genre>
   </game>
   <game id="9102" source="theGamesDB.net">
     <path>./Commander Keen (U) [C][!].zip</path>
@@ -922,66 +829,6 @@ Each level takes place on a single screen. Players must collect scattered time f
     <developer>Morning Star Multimedia</developer>
     <publisher>Vatical Entertainment</publisher>
     <genre>Sports</genre>
-  </game>
-  <game id="21945" source="theGamesDB.net">
-    <path>./Deja Vu I &amp; II (E) (M2) (Eng-Fre) [C][!].zip</path>
-    <name>Deja Vu I &amp; II: The Casebooks of Ace Harding</name>
-    <desc>Take on two thrilling mysteries in one Game Pak!
-
-Life is never boring when you assume the role of Ace Harding, private detective. In Deja Vu I, you will scramble down the dark alleys of Chicago, searching for a cure for you amnesia and a killer who has framed you for a brutal murder. After solving the first case, you'll uncover a few loose strings that gradually unrabel into Deja Vu II. Trapped in the slimy town of Last Vegas, you find yourself dealing with a notorious mob leader who makes you an offer you can't refuse.
-
--Two detailed graphic adventure games in one Game Boy Color Game Pak!
--Detailed commands for interacting with anyone or anything!
--Return to the scene of the crime, or any of the other 140 locations!
--Sort out the real evidence from the red herrings and over 80 other items!
--Battery-backed save option for up to three save game files!</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Deja Vu I &amp; II (E) (M2) (Eng-Fre) [C][!]-image.jpg</image>
-    <rating>0.55</rating>
-    <releasedate>19991201T000000</releasedate>
-    <developer>Infinite Ventures</developer>
-    <publisher>Vatical Entertainment</publisher>
-    <genre>Adventure</genre>
-    <players>1</players>
-  </game>
-  <game id="21945" source="theGamesDB.net">
-    <path>./Deja Vu I &amp; II (J) [C][!].zip</path>
-    <name>Deja Vu I &amp; II: The Casebooks of Ace Harding</name>
-    <desc>Take on two thrilling mysteries in one Game Pak!
-
-Life is never boring when you assume the role of Ace Harding, private detective. In Deja Vu I, you will scramble down the dark alleys of Chicago, searching for a cure for you amnesia and a killer who has framed you for a brutal murder. After solving the first case, you'll uncover a few loose strings that gradually unrabel into Deja Vu II. Trapped in the slimy town of Last Vegas, you find yourself dealing with a notorious mob leader who makes you an offer you can't refuse.
-
--Two detailed graphic adventure games in one Game Boy Color Game Pak!
--Detailed commands for interacting with anyone or anything!
--Return to the scene of the crime, or any of the other 140 locations!
--Sort out the real evidence from the red herrings and over 80 other items!
--Battery-backed save option for up to three save game files!</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Deja Vu I &amp; II (J) [C][!]-image.jpg</image>
-    <rating>0.55</rating>
-    <releasedate>19991201T000000</releasedate>
-    <developer>Infinite Ventures</developer>
-    <publisher>Vatical Entertainment</publisher>
-    <genre>Adventure</genre>
-    <players>1</players>
-  </game>
-  <game id="21945" source="theGamesDB.net">
-    <path>./Deja Vu I &amp; II (E) (M2) (Ger-Fre) [C][!].zip</path>
-    <name>Deja Vu I &amp; II: The Casebooks of Ace Harding</name>
-    <desc>Take on two thrilling mysteries in one Game Pak!
-
-Life is never boring when you assume the role of Ace Harding, private detective. In Deja Vu I, you will scramble down the dark alleys of Chicago, searching for a cure for you amnesia and a killer who has framed you for a brutal murder. After solving the first case, you'll uncover a few loose strings that gradually unrabel into Deja Vu II. Trapped in the slimy town of Last Vegas, you find yourself dealing with a notorious mob leader who makes you an offer you can't refuse.
-
--Two detailed graphic adventure games in one Game Boy Color Game Pak!
--Detailed commands for interacting with anyone or anything!
--Return to the scene of the crime, or any of the other 140 locations!
--Sort out the real evidence from the red herrings and over 80 other items!
--Battery-backed save option for up to three save game files!</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Deja Vu I &amp; II (E) (M2) (Ger-Fre) [C][!]-image.jpg</image>
-    <rating>0.55</rating>
-    <releasedate>19991201T000000</releasedate>
-    <developer>Infinite Ventures</developer>
-    <publisher>Vatical Entertainment</publisher>
-    <genre>Adventure</genre>
-    <players>1</players>
   </game>
   <game id="21945" source="theGamesDB.net">
     <path>./Deja Vu I &amp; II (U) [C][!].zip</path>
@@ -1120,24 +967,12 @@ Life is never boring when you assume the role of Ace Harding, private detective.
   <game id="19198" source="theGamesDB.net">
     <path>./Dragon Ball Z - Legendary Super Warriors (U) [C][!].zip</path>
     <name>Dragon Ball Z: Legendary Super Warriors</name>
-    <desc>Dragon Ball Z: Legendary Super Warriors is a mixture of a card game and a turn-based fighting game for the Game Boy Color. The game is played with original in-game cards for attacks, techniques and support items and initially has only two modes trade and story. Legendary Super Warriors&#x2019; story spans from the Saiyan saga to the end of the Buu Saga. Once beaten, a battle mode is unlocked, allowing players to square off with random enemies. Once the game is beaten, any character is usable in any battle, such as Frieza vs. Cell.</desc>
+    <desc>Dragon Ball Z: Legendary Super Warriors is a mixture of a card game and a turn-based fighting game for the Game Boy Color. The game is played with original in-game cards for attacks, techniques and support items and initially has only two modes trade and story. Legendary Super Warriors&amp;#x2019; story spans from the Saiyan saga to the end of the Buu Saga. Once beaten, a battle mode is unlocked, allowing players to square off with random enemies. Once the game is beaten, any character is usable in any battle, such as Frieza vs. Cell.</desc>
     <image>~/.emulationstation/downloaded_images/gbc/Dragon Ball Z - Legendary Super Warriors (U) [C][!]-image.jpg</image>
     <releasedate>20020630T000000</releasedate>
     <developer>Banpresto Co., Ltd.</developer>
     <publisher>Banpresto Co., Ltd.</publisher>
     <genre>Fighting</genre>
-    <players>1</players>
-  </game>
-  <game id="8613" source="theGamesDB.net">
-    <path>./Dragon Quest I &amp; II (J) [C][!].zip</path>
-    <name>Dragon Warrior I &amp; II</name>
-    <desc>Step back into the wondrous land of Alefgard and defeat the evil DracoLord in the standard-setting Gragon Warrior I. Continue your amazing adventure and banish the foul Hargon in Dragon Warrior II. With tons of monsters to fight, treasures to find and mysteries to explore, you may never want to turn off your Game Boy Color again!</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Dragon Quest I &amp; II (J) [C][!]-image.jpg</image>
-    <rating>0.6</rating>
-    <releasedate>20000927T000000</releasedate>
-    <developer>TOSE</developer>
-    <publisher>Enix</publisher>
-    <genre>Role-Playing</genre>
     <players>1</players>
   </game>
   <game id="21953" source="theGamesDB.net">
@@ -1314,7 +1149,7 @@ All's fair in love and corporate lumberjack matches, though, so Acclaim pulled i
   <game id="21982" source="theGamesDB.net">
     <path>./ESPN International Track &amp; Field (U) [C][!].zip</path>
     <name>ESPN International Track &amp; Field</name>
-    <desc>ESPN INTERNATIONAL TRACK &amp; FIELD brings all the excitement of a real athletic contest to Game Boy Color. Try to win the gold medal in 12 different events including fencing, skeet shooting, the 100-meter dash, the long jump, the javelin toss, 100-meter freestyle swimming, 110-meter hurdles, the high jump, weightlifting, the pole vault, the gymnastics vault, and table tennis. Each event requires a mix of speed, stamina, and timing to succeed it&#x2019;s all about the button mashing! Can you win all the events and become the ultimate champion? Full-colored, detailed graphics bring the knuckle-busting action to life. Use the Game Boy Link Cable to hook up with a friend and challenge him or her to a two-player contest to see who can win the most medals. This game includes battery backup to save all your high scores and world records.</desc>
+    <desc>ESPN INTERNATIONAL TRACK &amp; FIELD brings all the excitement of a real athletic contest to Game Boy Color. Try to win the gold medal in 12 different events including fencing, skeet shooting, the 100-meter dash, the long jump, the javelin toss, 100-meter freestyle swimming, 110-meter hurdles, the high jump, weightlifting, the pole vault, the gymnastics vault, and table tennis. Each event requires a mix of speed, stamina, and timing to succeed it&amp;#x2019;s all about the button mashing! Can you win all the events and become the ultimate champion? Full-colored, detailed graphics bring the knuckle-busting action to life. Use the Game Boy Link Cable to hook up with a friend and challenge him or her to a two-player contest to see who can win the most medals. This game includes battery backup to save all your high scores and world records.</desc>
     <image>~/.emulationstation/downloaded_images/gbc/ESPN International Track &amp; Field (U) [C][!]-image.jpg</image>
     <releasedate>20001003T000000</releasedate>
     <developer>Konami</developer>
@@ -1453,28 +1288,6 @@ All's fair in love and corporate lumberjack matches, though, so Acclaim pulled i
     <publisher>THQ</publisher>
     <genre>Sports</genre>
   </game>
-  <game id="28665" source="theGamesDB.net">
-    <path>./Fix &amp; Foxi - Episode 1 Lupo (E) (M3) [C][!].zip</path>
-    <name>Fix &amp; Foxi: Episode 1 - Lupo</name>
-    <desc>In Fix &amp; Foxi - Episode 1 Lupo you must help the plucky and cool Lupo on his incredible adventure to make it through the enchanted lands and out the other side alive and in one piece! You only have a certain amount of lives to make it through each level so tread wisely and jump on all the enemies to eliminate them and collect the precious coins they leave behind!</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Fix &amp; Foxi - Episode 1 Lupo (E) (M3) [C][!]-image.jpg</image>
-    <releasedate>20000810T000000</releasedate>
-    <developer>Similis</developer>
-    <publisher>Ravensburger Interactive</publisher>
-    <genre>Platform</genre>
-    <players>1</players>
-  </game>
-  <game id="33074" source="theGamesDB.net">
-    <path>./Flipper &amp; Lopaka (E) (M10) [C][!].zip</path>
-    <name>Flipper &amp; Lopaka</name>
-    <desc>Flipper &amp; Lopaka is an Action game, developed by Planet Interactive and published by Ubisoft, which was released in Europe in 2001.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Flipper &amp; Lopaka (E) (M10) [C][!]-image.jpg</image>
-    <releasedate>20010316T000000</releasedate>
-    <developer>Planet Interactive</developer>
-    <publisher>Ubisoft</publisher>
-    <genre>Action</genre>
-    <players>1</players>
-  </game>
   <game id="21988" source="theGamesDB.net">
     <path>./Force 21 (U) (M3) [C][!].zip</path>
     <name>Force 21</name>
@@ -1517,45 +1330,6 @@ All's fair in love and corporate lumberjack matches, though, so Acclaim pulled i
     <genre>Action</genre>
     <players>1</players>
   </game>
-  <game id="18633" source="theGamesDB.net">
-    <path>./Galaga &amp; Galaxian (E) [S][!].zip</path>
-    <name>Arcade Classic 3: Galaga/Galaxian</name>
-    <desc>This is a compilation of two classic arcade games on one pack:
-&#x2022;Galaga
-&#x2022;Galaxian</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Galaga &amp; Galaxian (E) [S][!]-image.jpg</image>
-    <releasedate>19981231T000000</releasedate>
-    <developer>Nintendo</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Action</genre>
-    <players>1</players>
-  </game>
-  <game id="18633" source="theGamesDB.net">
-    <path>./Galaga &amp; Galaxian (J) [S].zip</path>
-    <name>Arcade Classic 3: Galaga/Galaxian</name>
-    <desc>This is a compilation of two classic arcade games on one pack:
-&#x2022;Galaga
-&#x2022;Galaxian</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Galaga &amp; Galaxian (J) [S]-image.jpg</image>
-    <releasedate>19981231T000000</releasedate>
-    <developer>Nintendo</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Action</genre>
-    <players>1</players>
-  </game>
-  <game id="18633" source="theGamesDB.net">
-    <path>./Galaga &amp; Galaxian (U) [S][!].zip</path>
-    <name>Arcade Classic 3: Galaga/Galaxian</name>
-    <desc>This is a compilation of two classic arcade games on one pack:
-&#x2022;Galaga
-&#x2022;Galaxian</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Galaga &amp; Galaxian (U) [S][!]-image.jpg</image>
-    <releasedate>19981231T000000</releasedate>
-    <developer>Nintendo</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Action</genre>
-    <players>1</players>
-  </game>
   <game id="17462" source="theGamesDB.net">
     <path>./Galaga - Destination Earth (U) [C][!].zip</path>
     <name>Galaga: Destination Earth</name>
@@ -1565,75 +1339,6 @@ All's fair in love and corporate lumberjack matches, though, so Acclaim pulled i
     <developer>Pipe Dream Interactive</developer>
     <publisher>Hasbro Interactive</publisher>
     <genre>Shooter</genre>
-  </game>
-  <game id="3186" source="theGamesDB.net">
-    <path>./Game &amp; Watch Gallery (U) (V1.0) [S][!].zip</path>
-    <name>Game &amp; Watch Gallery</name>
-    <desc>Original and updated versions of four Game &amp; Watch hand held games!
-
-Classic versions will take you back to the '80s and a simpler time in video games. Modern versions feature your favorite characters and will bring you to the present with improved play control and sound effects.
-
--Enjoy four different games!
-Manhole - Don't let pedestrians fall.
-Fire - Rescue the jumpers.
-Octopus - Retrive the sunken treasure.
-Oil Panic - Catch the dripping oil.
-
--New Interrupt Save feature lets you stop and restart anytime!
-
--Battery-backed memory saves all your scores!</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Game &amp; Watch Gallery (U) (V1.0) [S][!]-image.jpg</image>
-    <releasedate>19970201T000000</releasedate>
-    <developer>Nintendo</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Action</genre>
-    <players>1</players>
-  </game>
-  <game id="3186" source="theGamesDB.net">
-    <path>./Game &amp; Watch Gallery (E) [S][!].zip</path>
-    <name>Game &amp; Watch Gallery</name>
-    <desc>Original and updated versions of four Game &amp; Watch hand held games!
-
-Classic versions will take you back to the '80s and a simpler time in video games. Modern versions feature your favorite characters and will bring you to the present with improved play control and sound effects.
-
--Enjoy four different games!
-Manhole - Don't let pedestrians fall.
-Fire - Rescue the jumpers.
-Octopus - Retrive the sunken treasure.
-Oil Panic - Catch the dripping oil.
-
--New Interrupt Save feature lets you stop and restart anytime!
-
--Battery-backed memory saves all your scores!</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Game &amp; Watch Gallery (E) [S][!]-image.jpg</image>
-    <releasedate>19970201T000000</releasedate>
-    <developer>Nintendo</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Action</genre>
-    <players>1</players>
-  </game>
-  <game id="3186" source="theGamesDB.net">
-    <path>./Game &amp; Watch Gallery (U) (V1.1) [S][!].zip</path>
-    <name>Game &amp; Watch Gallery</name>
-    <desc>Original and updated versions of four Game &amp; Watch hand held games!
-
-Classic versions will take you back to the '80s and a simpler time in video games. Modern versions feature your favorite characters and will bring you to the present with improved play control and sound effects.
-
--Enjoy four different games!
-Manhole - Don't let pedestrians fall.
-Fire - Rescue the jumpers.
-Octopus - Retrive the sunken treasure.
-Oil Panic - Catch the dripping oil.
-
--New Interrupt Save feature lets you stop and restart anytime!
-
--Battery-backed memory saves all your scores!</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Game &amp; Watch Gallery (U) (V1.1) [S][!]-image.jpg</image>
-    <releasedate>19970201T000000</releasedate>
-    <developer>Nintendo</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Action</genre>
-    <players>1</players>
   </game>
   <game id="8618" source="theGamesDB.net">
     <path>./Game &amp; Watch Gallery 2 (UE) [C][!].zip</path>
@@ -1668,17 +1373,6 @@ Donkey Kong, JR. - Grab the key and free DK!
     <developer>Nintendo, TOSE</developer>
     <publisher>Nintendo</publisher>
     <genre>Action</genre>
-    <players>1</players>
-  </game>
-  <game id="22381" source="theGamesDB.net">
-    <path>./Game &amp; Watch Gallery 2 (J) [S].zip</path>
-    <name>Game Boy Gallery 2</name>
-    <desc>Game &amp; Watch Gallery 2 (known as Game Boy Gallery 2 in Japan, and Game Boy Gallery 3 in Australia) is the third of five games in the Game Boy Gallery/Game &amp; Watch Gallery series. It was released for the Game Boy in 1997 in Japan and 1998 in the US, and later for the Game Boy Color in 1998 in the US, Europe, and Australia. It features many games from the Game &amp; Watch series, and has both the classic version, and brand new Mario remakes, featuring characters, items, levels and more from the Mario video game series.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Game &amp; Watch Gallery 2 (J) [S]-image.jpg</image>
-    <releasedate>19981106T000000</releasedate>
-    <developer>Nintendo</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Puzzle</genre>
     <players>1</players>
   </game>
   <game id="25452" source="theGamesDB.net">
@@ -1724,7 +1418,7 @@ Donkey Kong, JR. - Grab the key and free DK!
   <game id="21836" source="theGamesDB.net">
     <path>./Godzilla - The Series - Monster Wars (U) (M3) [C][!].zip</path>
     <name>Godzilla the Series: Monster Wars</name>
-    <desc>Aliens are creating mutants on Earth, and it is up to Godzilla to save the planet from the giant monsters in GODZILLA THE SERIES: MONSTER WARS. You take control of the giant lizard in 10 levels of action that take place in deserts, cities, and underwater. Free-scrolling technology gives you total control of Godzilla, and new cross-hairs improve the accuracy of Godzilla&#x2019;s attacks that include fireball, tail whip, bite, claw, stomp, and flame breath. As an added bonus, all of the attacks can be linked together for unlimited combinations. And you are going to need those combinations to destroy the 16 types of enemies that Godzilla will face. Try to save the planet from giant monsters and aliens in GODZILLA THE SERIES: Monster Wars.</desc>
+    <desc>Aliens are creating mutants on Earth, and it is up to Godzilla to save the planet from the giant monsters in GODZILLA THE SERIES: MONSTER WARS. You take control of the giant lizard in 10 levels of action that take place in deserts, cities, and underwater. Free-scrolling technology gives you total control of Godzilla, and new cross-hairs improve the accuracy of Godzilla&amp;#x2019;s attacks that include fireball, tail whip, bite, claw, stomp, and flame breath. As an added bonus, all of the attacks can be linked together for unlimited combinations. And you are going to need those combinations to destroy the 16 types of enemies that Godzilla will face. Try to save the planet from giant monsters and aliens in GODZILLA THE SERIES: Monster Wars.</desc>
     <image>~/.emulationstation/downloaded_images/gbc/Godzilla - The Series - Monster Wars (U) (M3) [C][!]-image.jpg</image>
     <releasedate>20001120T000000</releasedate>
     <developer>Crawfish Interactive</developer>
@@ -1789,7 +1483,7 @@ Drive dozens of varied vehicles around three of America's toughest cities. Only 
   <game id="21996" source="theGamesDB.net">
     <path>./Harley-Davidson - Race Across America (U) [C][!].zip</path>
     <name>Harley Davidson: Race Across America</name>
-    <desc>Live the life of an easy rider in HARLEY DAVIDSON: Race Across America. There are four bikes to choose from, and they all of them have the classic Harley Davidson shape and sound. Each bike is rated in acceleration, top speed, and handling so you can pick one that fits your riding style. You can go for a high-speed, low-acceleration model, or if you prefer to burn rubber off of the line, you will want to choose a bike with monster acceleration. When you are ready to ride you will have the opportunity to race on four different tracks including the Arizona Desert, Deep South, Florida Everglades, and California Coast. On all of the tracks you will have to race from sunrise to sunset in order to emerge victorious. Get on your hog and cruise the good ol&#x2019; U.S. of A in HARLEY DAVIDSON: Race Across America.</desc>
+    <desc>Live the life of an easy rider in HARLEY DAVIDSON: Race Across America. There are four bikes to choose from, and they all of them have the classic Harley Davidson shape and sound. Each bike is rated in acceleration, top speed, and handling so you can pick one that fits your riding style. You can go for a high-speed, low-acceleration model, or if you prefer to burn rubber off of the line, you will want to choose a bike with monster acceleration. When you are ready to ride you will have the opportunity to race on four different tracks including the Arizona Desert, Deep South, Florida Everglades, and California Coast. On all of the tracks you will have to race from sunrise to sunset in order to emerge victorious. Get on your hog and cruise the good ol&amp;#x2019; U.S. of A in HARLEY DAVIDSON: Race Across America.</desc>
     <image>~/.emulationstation/downloaded_images/gbc/Harley-Davidson - Race Across America (U) [C][!]-image.jpg</image>
     <releasedate>20001222T000000</releasedate>
     <developer>Running Dog</developer>
@@ -1830,7 +1524,7 @@ Drive dozens of varied vehicles around three of America's toughest cities. Only 
   <game id="8622" source="theGamesDB.net">
     <path>./Harvest Moon 2 GBC (U) [C][!].zip</path>
     <name>Harvest Moon 2</name>
-    <desc>Rebuild the farm of your grandfather and start raising cows, chickens and sheep. Keep them happy and they&#x2019;ll make you rich! Discover the fantastic Harvest Moon world with cool friends ready to help you succeed in your mission.
+    <desc>Rebuild the farm of your grandfather and start raising cows, chickens and sheep. Keep them happy and they&amp;#x2019;ll make you rich! Discover the fantastic Harvest Moon world with cool friends ready to help you succeed in your mission.
 
 - The awaited Harvest Moon sequel for GBC with even more fun!
 - Choice of playing a boy or girl farmer
@@ -1977,17 +1671,6 @@ You are Hercules, son of Zeus, and you must prove you are a true God to mortal e
     <publisher>Sierra Entertainment</publisher>
     <genre>Strategy</genre>
   </game>
-  <game id="22006" source="theGamesDB.net">
-    <path>./Hyper Olympic Series - Track &amp; Field GB (J) [C][!].zip</path>
-    <name>International Track &amp; Field</name>
-    <desc>With International Track &amp; Field it takes a little bit more to be a champion. Ten grueling decathalon events put your stamina and your will power to the test as you battle it out with athletes from around the world. Heart-pumping gameplay and vibrant graphics truly capture the pageantry of International competition. Be careful not to get too caught up in the global spotlight - or you may find yourself missing from the victory podium!</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Hyper Olympic Series - Track &amp; Field GB (J) [C][!]-image.jpg</image>
-    <releasedate>20000119T000000</releasedate>
-    <developer>Konami Computer Entertainment Nagoya</developer>
-    <publisher>Konami</publisher>
-    <genre>Sports</genre>
-    <players>2</players>
-  </game>
   <game id="22004" source="theGamesDB.net">
     <path>./Indiana Jones and the Infernal Machine (U) (M3) [C][!].zip</path>
     <name>Indiana Jones and the Infernal Machine</name>
@@ -2039,17 +1722,6 @@ You are Hercules, son of Zeus, and you must prove you are a true God to mortal e
     <genre>Sports</genre>
   </game>
   <game id="22006" source="theGamesDB.net">
-    <path>./International Track &amp; Field (E) (M4) [C][!].zip</path>
-    <name>International Track &amp; Field</name>
-    <desc>With International Track &amp; Field it takes a little bit more to be a champion. Ten grueling decathalon events put your stamina and your will power to the test as you battle it out with athletes from around the world. Heart-pumping gameplay and vibrant graphics truly capture the pageantry of International competition. Be careful not to get too caught up in the global spotlight - or you may find yourself missing from the victory podium!</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/International Track &amp; Field (E) (M4) [C][!]-image.jpg</image>
-    <releasedate>20000119T000000</releasedate>
-    <developer>Konami Computer Entertainment Nagoya</developer>
-    <publisher>Konami</publisher>
-    <genre>Sports</genre>
-    <players>2</players>
-  </game>
-  <game id="22006" source="theGamesDB.net">
     <path>./International Track &amp; Field (U) [C][!].zip</path>
     <name>International Track &amp; Field</name>
     <desc>With International Track &amp; Field it takes a little bit more to be a champion. Ten grueling decathalon events put your stamina and your will power to the test as you battle it out with athletes from around the world. Heart-pumping gameplay and vibrant graphics truly capture the pageantry of International competition. Be careful not to get too caught up in the global spotlight - or you may find yourself missing from the victory podium!</desc>
@@ -2059,36 +1731,6 @@ You are Hercules, son of Zeus, and you must prove you are a true God to mortal e
     <publisher>Konami</publisher>
     <genre>Sports</genre>
     <players>2</players>
-  </game>
-  <game id="21982" source="theGamesDB.net">
-    <path>./International Track &amp; Field - Summer Games (E) [C][!].zip</path>
-    <name>ESPN International Track &amp; Field</name>
-    <desc>ESPN INTERNATIONAL TRACK &amp; FIELD brings all the excitement of a real athletic contest to Game Boy Color. Try to win the gold medal in 12 different events including fencing, skeet shooting, the 100-meter dash, the long jump, the javelin toss, 100-meter freestyle swimming, 110-meter hurdles, the high jump, weightlifting, the pole vault, the gymnastics vault, and table tennis. Each event requires a mix of speed, stamina, and timing to succeed it&#x2019;s all about the button mashing! Can you win all the events and become the ultimate champion? Full-colored, detailed graphics bring the knuckle-busting action to life. Use the Game Boy Link Cable to hook up with a friend and challenge him or her to a two-player contest to see who can win the most medals. This game includes battery backup to save all your high scores and world records.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/International Track &amp; Field - Summer Games (E) [C][!]-image.jpg</image>
-    <releasedate>20001003T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Konami</publisher>
-    <genre>Sports</genre>
-  </game>
-  <game id="18671" source="theGamesDB.net">
-    <path>./Itchy &amp; Scratchy - Miniature Golf Madness (U) [b1].zip</path>
-    <name>The Simpsons: Itchy &amp; Scratchy in Miniature Golf Madness</name>
-    <desc>Itchy &amp; Scratchy in Miniature Golf Madness is a miniature golf game released on the Game Boy in 1994, featuring the cat and mouse pair Itchy &amp; Scratchy from the television series The Simpsons. Developed by Beam Software, it was the first game to feature these characters. In the game, the player controls Scratchy as he plays through a miniature golf course of nine holes while at the same time avoiding Itchy's attacks. It received generally mixed to positive reviews from critics.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Itchy &amp; Scratchy - Miniature Golf Madness (U) [b1]-image.jpg</image>
-    <releasedate>19941109T000000</releasedate>
-    <developer>Acclaim</developer>
-    <publisher/>
-    <genre>Sports</genre>
-  </game>
-  <game id="18671" source="theGamesDB.net">
-    <path>./Itchy &amp; Scratchy - Miniature Golf Madness (U).zip</path>
-    <name>The Simpsons: Itchy &amp; Scratchy in Miniature Golf Madness</name>
-    <desc>Itchy &amp; Scratchy in Miniature Golf Madness is a miniature golf game released on the Game Boy in 1994, featuring the cat and mouse pair Itchy &amp; Scratchy from the television series The Simpsons. Developed by Beam Software, it was the first game to feature these characters. In the game, the player controls Scratchy as he plays through a miniature golf course of nine holes while at the same time avoiding Itchy's attacks. It received generally mixed to positive reviews from critics.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Itchy &amp; Scratchy - Miniature Golf Madness (U)-image.jpg</image>
-    <releasedate>19941109T000000</releasedate>
-    <developer>Acclaim</developer>
-    <publisher/>
-    <genre>Sports</genre>
   </game>
   <game id="21825" source="theGamesDB.net">
     <path>./Jeff Gordon XS Racing (U) [C][!].zip</path>
@@ -2109,28 +1751,6 @@ You are Hercules, son of Zeus, and you must prove you are a true God to mortal e
     <developer>M4 Limited</developer>
     <publisher>Acclaim</publisher>
     <genre>Racing</genre>
-  </game>
-  <game id="20477" source="theGamesDB.net">
-    <path>./Joe &amp; Mac (U) [!].zip</path>
-    <name>Joe &amp; Mac</name>
-    <desc>The objective of the game is to rescue group of girls who were kidnapped by a rival tribe of cavemen. The game features a health system by which the player loses health over a period of time, apart from during boss battles.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Joe &amp; Mac (U) [!]-image.jpg</image>
-    <releasedate>19911231T000000</releasedate>
-    <developer>Motivetime</developer>
-    <publisher>Data East</publisher>
-    <genre>Platform</genre>
-    <players>1</players>
-  </game>
-  <game id="20477" source="theGamesDB.net">
-    <path>./Joe &amp; Mac - Caveman Ninja (E) (M7) [!].zip</path>
-    <name>Joe &amp; Mac</name>
-    <desc>The objective of the game is to rescue group of girls who were kidnapped by a rival tribe of cavemen. The game features a health system by which the player loses health over a period of time, apart from during boss battles.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Joe &amp; Mac - Caveman Ninja (E) (M7) [!]-image.jpg</image>
-    <releasedate>19911231T000000</releasedate>
-    <developer>Motivetime</developer>
-    <publisher>Data East</publisher>
-    <genre>Platform</genre>
-    <players>1</players>
   </game>
   <game id="22007" source="theGamesDB.net">
     <path>./Joust &amp; Defender (U) [C][!].zip</path>
@@ -2285,14 +1905,14 @@ You are Hercules, son of Zeus, and you must prove you are a true God to mortal e
   <game id="8625" source="theGamesDB.net">
     <path>./Legend of Zelda, The - Link's Awakening DX (U) (V1.2) [C][!].zip</path>
     <name>The Legend of Zelda: Link's Awakening DX</name>
-    <desc>Link&#x2019;s latest challenge is set on the mysterious Koholint Island, a place where dreams and reality collide.  As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule.  This will not be an easy task.
+    <desc>Link&amp;#x2019;s latest challenge is set on the mysterious Koholint Island, a place where dreams and reality collide.  As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule.  This will not be an easy task.
 
-The island&#x2019;s inhabitants have no knowledge of the outside world.  One creature, a talking owl, may know the solution to Link&#x2019;s dilemma.  Link must first tackle eight dungeons full of treacherous monsters and tricky traps.  His goal: find the eight Instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.
+The island&amp;#x2019;s inhabitants have no knowledge of the outside world.  One creature, a talking owl, may know the solution to Link&amp;#x2019;s dilemma.  Link must first tackle eight dungeons full of treacherous monsters and tricky traps.  His goal: find the eight Instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.
 
-&#x2022; Experience the adventure in color!
-&#x2022; Journey through a new dungeon (can only be accessed on the Game Boy Color system)!
-&#x2022; Take pictures and print them using the Game Boy Printer (sold separately)!
-&#x2022; Battery-backed memory saves up to three separate game files!</desc>
+&amp;#x2022; Experience the adventure in color!
+&amp;#x2022; Journey through a new dungeon (can only be accessed on the Game Boy Color system)!
+&amp;#x2022; Take pictures and print them using the Game Boy Printer (sold separately)!
+&amp;#x2022; Battery-backed memory saves up to three separate game files!</desc>
     <image>~/.emulationstation/downloaded_images/gbc/Legend of Zelda, The - Link's Awakening DX (U) (V1.2) [C][!]-image.jpg</image>
     <rating>0.68889</rating>
     <releasedate>19981201T000000</releasedate>
@@ -2306,12 +1926,12 @@ The island&#x2019;s inhabitants have no knowledge of the outside world.  One cre
     <name>The Legend of Zelda: Oracle of Ages</name>
     <desc>A Hero for the Ages
 
-A pall of darkness has fallen over the land of Labrynna.  The Sorceress of Shadows, Veran, has captured the Oracle of Ages and is using her power for the ways of evil.  But hope is not lost... yet.  Link has been summoned to Labrynna by the Triforce, and he&#x2019;ll need to bend the very fabric of time to save the Oracle.  And he must hurry, for time is running out...
+A pall of darkness has fallen over the land of Labrynna.  The Sorceress of Shadows, Veran, has captured the Oracle of Ages and is using her power for the ways of evil.  But hope is not lost... yet.  Link has been summoned to Labrynna by the Triforce, and he&amp;#x2019;ll need to bend the very fabric of time to save the Oracle.  And he must hurry, for time is running out...
 
-&#x2022; Play the Harp of Ages!  Travel through time to affect events in both past and present!
-&#x2022; Use tons of items!  Link will master new items like Mystical Seeds and over 60 Magical Rings as well as classic tools like the Boomerang and Roc&#x2019;s Feather.
-&#x2022; Link gets reinforcements!  Fly, swim and jump to new heights with all-new characters like Moosh the winged bear, Ricky the marsupial, and Dimitri the Dodongo!
-&#x2022; Link with The Legend of Zelda: Oracle of Seasons! Friends and enemies will travel between the two games, passwords can upgrade or transport items, and only by linking can you discover the evil force behind the chaos.</desc>
+&amp;#x2022; Play the Harp of Ages!  Travel through time to affect events in both past and present!
+&amp;#x2022; Use tons of items!  Link will master new items like Mystical Seeds and over 60 Magical Rings as well as classic tools like the Boomerang and Roc&amp;#x2019;s Feather.
+&amp;#x2022; Link gets reinforcements!  Fly, swim and jump to new heights with all-new characters like Moosh the winged bear, Ricky the marsupial, and Dimitri the Dodongo!
+&amp;#x2022; Link with The Legend of Zelda: Oracle of Seasons! Friends and enemies will travel between the two games, passwords can upgrade or transport items, and only by linking can you discover the evil force behind the chaos.</desc>
     <image>~/.emulationstation/downloaded_images/gbc/Legend of Zelda, The - Oracle of Ages (U) [C][!]-image.jpg</image>
     <rating>0.7</rating>
     <releasedate>20010514T000000</releasedate>
@@ -2327,10 +1947,10 @@ A pall of darkness has fallen over the land of Labrynna.  The Sorceress of Shado
 
 The land of Holodrum is slowly withering. Onox, the General of Darkness, has imprisoned the Oracle of Seasons and is draining the very life out of the land. With the seasons in tumult and the forces of evil running rampant, the world looks for a hero... and finds Link. His quest won't be easy - he'll have to master the seasons themselves if he's to turn back the evil tide.
 
-&#x2022; Wield the Rod of Seasons! Changes in weather open new paths and reveal hidden mysteries!
-&#x2022; Use tons of items! Link will master new items like Mystical Seeds and over 60 Magical Rings as well as classic tools like Roc's Feather and the Power Bracelet.
-&#x2022; Link gets reinforcements! Fly, swim and jump to new heights with all-new characters like Moosh the winged bear, Ricky the marsupial, and Dimitri the Dodongo!
-&#x2022; Link with The Legend of Zelda: Oracle of Ages! Friends and enemies will travel between the two games, passwords can upgrade or transport items, and only by linking can you discover the evil force behind the chaos.</desc>
+&amp;#x2022; Wield the Rod of Seasons! Changes in weather open new paths and reveal hidden mysteries!
+&amp;#x2022; Use tons of items! Link will master new items like Mystical Seeds and over 60 Magical Rings as well as classic tools like Roc's Feather and the Power Bracelet.
+&amp;#x2022; Link gets reinforcements! Fly, swim and jump to new heights with all-new characters like Moosh the winged bear, Ricky the marsupial, and Dimitri the Dodongo!
+&amp;#x2022; Link with The Legend of Zelda: Oracle of Ages! Friends and enemies will travel between the two games, passwords can upgrade or transport items, and only by linking can you discover the evil force behind the chaos.</desc>
     <image>~/.emulationstation/downloaded_images/gbc/Legend of Zelda, The - Oracle of Seasons (U) [C][!]-image.jpg</image>
     <rating>0.78889</rating>
     <releasedate>20010514T000000</releasedate>
@@ -2466,40 +2086,10 @@ The land of Holodrum is slowly withering. Onox, the General of Darkness, has imp
     <players>1</players>
   </game>
   <game id="22019" source="theGamesDB.net">
-    <path>./M&amp;M's Minis Madness (E) [C].zip</path>
-    <name>M&amp;M's Minis Madness</name>
-    <desc>The Minis have escaped and are wreaking havoc on the M&amp;M factory. It is up to four intrepid heroes Red, Green, Yellow, and Blue to capture the Minis and return the factory to normal. You must choose the appropriate character for each situation the heroes encounter, as they each have a special skill. Blue can swim, Green has a deadly kiss attack, Yellow can bounce high into the air, and Red can use a spin attack to destroy enemies. If you encounter an area the current character is not able to get past, you can switch to another characters with the select button. Learning how and when to use these abilities is key to conquering all 12 levels in the game. So play M&amp;M MINI MADNESS and try to save the factory before the Minis destroy it.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/M&amp;M's Minis Madness (E) [C]-image.jpg</image>
-    <releasedate>20001208T000000</releasedate>
-    <developer>Pipe Dream Interactive</developer>
-    <publisher>Majesco Games</publisher>
-    <genre>Platform</genre>
-  </game>
-  <game id="22019" source="theGamesDB.net">
-    <path>./M&amp;M's Minis Madness (G) [C][!].zip</path>
-    <name>M&amp;M's Minis Madness</name>
-    <desc>The Minis have escaped and are wreaking havoc on the M&amp;M factory. It is up to four intrepid heroes Red, Green, Yellow, and Blue to capture the Minis and return the factory to normal. You must choose the appropriate character for each situation the heroes encounter, as they each have a special skill. Blue can swim, Green has a deadly kiss attack, Yellow can bounce high into the air, and Red can use a spin attack to destroy enemies. If you encounter an area the current character is not able to get past, you can switch to another characters with the select button. Learning how and when to use these abilities is key to conquering all 12 levels in the game. So play M&amp;M MINI MADNESS and try to save the factory before the Minis destroy it.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/M&amp;M's Minis Madness (G) [C][!]-image.jpg</image>
-    <releasedate>20001208T000000</releasedate>
-    <developer>Pipe Dream Interactive</developer>
-    <publisher>Majesco Games</publisher>
-    <genre>Platform</genre>
-  </game>
-  <game id="22019" source="theGamesDB.net">
     <path>./M&amp;M's Minis Madness (U) [C][!].zip</path>
     <name>M&amp;M's Minis Madness</name>
     <desc>The Minis have escaped and are wreaking havoc on the M&amp;M factory. It is up to four intrepid heroes Red, Green, Yellow, and Blue to capture the Minis and return the factory to normal. You must choose the appropriate character for each situation the heroes encounter, as they each have a special skill. Blue can swim, Green has a deadly kiss attack, Yellow can bounce high into the air, and Red can use a spin attack to destroy enemies. If you encounter an area the current character is not able to get past, you can switch to another characters with the select button. Learning how and when to use these abilities is key to conquering all 12 levels in the game. So play M&amp;M MINI MADNESS and try to save the factory before the Minis destroy it.</desc>
     <image>~/.emulationstation/downloaded_images/gbc/M&amp;M's Minis Madness (U) [C][!]-image.jpg</image>
-    <releasedate>20001208T000000</releasedate>
-    <developer>Pipe Dream Interactive</developer>
-    <publisher>Majesco Games</publisher>
-    <genre>Platform</genre>
-  </game>
-  <game id="22019" source="theGamesDB.net">
-    <path>./M&amp;M's Minis Madness Demo (U) [C][!].zip</path>
-    <name>M&amp;M's Minis Madness</name>
-    <desc>The Minis have escaped and are wreaking havoc on the M&amp;M factory. It is up to four intrepid heroes Red, Green, Yellow, and Blue to capture the Minis and return the factory to normal. You must choose the appropriate character for each situation the heroes encounter, as they each have a special skill. Blue can swim, Green has a deadly kiss attack, Yellow can bounce high into the air, and Red can use a spin attack to destroy enemies. If you encounter an area the current character is not able to get past, you can switch to another characters with the select button. Learning how and when to use these abilities is key to conquering all 12 levels in the game. So play M&amp;M MINI MADNESS and try to save the factory before the Minis destroy it.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/M&amp;M's Minis Madness Demo (U) [C][!]-image.jpg</image>
     <releasedate>20001208T000000</releasedate>
     <developer>Pipe Dream Interactive</developer>
     <publisher>Majesco Games</publisher>
@@ -2609,17 +2199,6 @@ The land of Holodrum is slowly withering. Onox, the General of Darkness, has imp
     <publisher>Midway</publisher>
     <genre>Action</genre>
   </game>
-  <game id="13129" source="theGamesDB.net">
-    <path>./Mario &amp; Yoshi (E) [!].zip</path>
-    <name>Yoshi</name>
-    <desc>In Yoshi, the player is tasked with clearing monsters from the on-screen playing field. The monsters fall in from the top of the screen to build vertical stacks; the player must prevent a stack from growing too high such that it exits the play field. In order to so, the player swaps and moves the stacks about such that falling monsters collide with identical monsters stationed atop the stacks, causing them to be removed from play.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Mario &amp; Yoshi (E) [!]-image.jpg</image>
-    <releasedate>19920701T000000</releasedate>
-    <developer>Game Freak</developer>
-    <publisher>Nintendo</publisher>
-    <genre>Puzzle</genre>
-    <players>1</players>
-  </game>
   <game id="8628" source="theGamesDB.net">
     <path>./Mario Golf (U) [C][!].zip</path>
     <name>Mario Golf</name>
@@ -2714,17 +2293,6 @@ The land of Holodrum is slowly withering. Onox, the General of Darkness, has imp
     <developer>Lucky Chicken</developer>
     <publisher>Mattel</publisher>
     <genre>Racing</genre>
-  </game>
-  <game id="28667" source="theGamesDB.net">
-    <path>./Maya the Bee &amp; Her Friends (E) (M3) [C][!].zip</path>
-    <name>Maya the Bee &amp; Her Friends</name>
-    <desc>A puzzle game based on the German cartoon.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Maya the Bee &amp; Her Friends (E) (M3) [C][!]-image.jpg</image>
-    <releasedate>20001231T000000</releasedate>
-    <developer>Crawfish Interactive</developer>
-    <publisher>Acclaim Entertainment</publisher>
-    <genre>Puzzle</genre>
-    <players>1</players>
   </game>
   <game id="8631" source="theGamesDB.net">
     <path>./Megaman Xtreme 2 (U) [C][!].zip</path>
@@ -2968,40 +2536,6 @@ It is said that the "disc stones" are almost impossible to find among the ancien
     <publisher>Midway</publisher>
     <genre>Fighting</genre>
     <players>2</players>
-  </game>
-  <game id="23337" source="theGamesDB.net">
-    <path>./Mortal Kombat I &amp; II (J).zip</path>
-    <name>Mortal Kombat &amp; Mortal Kombat II</name>
-    <desc>Mortal Kombat I
-PREPARE YOURSELF...
-
-The #1 arcade hit is here: from Sub-Zero, Rayden and your favorite Kombat Warriors to the grueling endurance and intense mirror matches! Execute bone-shattering combos and ferocious finishing moves! Defeat the half-human dragon Goro, and destroy the shape-changing Shang Tsung to become the Supreme Mortal Kombat Warrior!
-
-Mortal Kombat II
-Nothing, NOTHING can prepare you! The fierce kombatants of the #1 arcade smash gather for Mortal Kombat II, a battle to defeat the shape-shifting demon Shang Tsung and his ruthless master, Shao Kahn. Brutal special moves, Babalities, hidden surprises, outrageous finishing moves -- ALL yours to kommand. Let the Kombat Kontinue...</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Mortal Kombat I &amp; II (J)-image.jpg</image>
-    <releasedate>19971101T000000</releasedate>
-    <developer>Probe</developer>
-    <publisher>Acclaim</publisher>
-    <genre>Fighting</genre>
-    <players>1</players>
-  </game>
-  <game id="23337" source="theGamesDB.net">
-    <path>./Mortal Kombat I &amp; II (UE) [!].zip</path>
-    <name>Mortal Kombat &amp; Mortal Kombat II</name>
-    <desc>Mortal Kombat I
-PREPARE YOURSELF...
-
-The #1 arcade hit is here: from Sub-Zero, Rayden and your favorite Kombat Warriors to the grueling endurance and intense mirror matches! Execute bone-shattering combos and ferocious finishing moves! Defeat the half-human dragon Goro, and destroy the shape-changing Shang Tsung to become the Supreme Mortal Kombat Warrior!
-
-Mortal Kombat II
-Nothing, NOTHING can prepare you! The fierce kombatants of the #1 arcade smash gather for Mortal Kombat II, a battle to defeat the shape-shifting demon Shang Tsung and his ruthless master, Shao Kahn. Brutal special moves, Babalities, hidden surprises, outrageous finishing moves -- ALL yours to kommand. Let the Kombat Kontinue...</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Mortal Kombat I &amp; II (UE) [!]-image.jpg</image>
-    <releasedate>19971101T000000</releasedate>
-    <developer>Probe</developer>
-    <publisher>Acclaim</publisher>
-    <genre>Fighting</genre>
-    <players>1</players>
   </game>
   <game id="21481" source="theGamesDB.net">
     <path>./Motocross Maniacs 2 (U) [C][!].zip</path>
@@ -3275,17 +2809,6 @@ Nothing, NOTHING can prepare you! The fierce kombatants of the #1 arcade smash g
     <publisher>Majesco Games</publisher>
     <genre>Racing</genre>
   </game>
-  <game id="24079" source="theGamesDB.net">
-    <path>./On the Tiles - Franky, Joe &amp; Dirk (E) [!].zip</path>
-    <name>Franky, Joe &amp; Dirk... On the Tiles</name>
-    <desc>The Joe and Mac, Dragon's Lair and Dr. Franken franchises combine in this tile sliding puzzle game. A rather bizarre concept given the source material but does the gameplay stand on its own merits?</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/On the Tiles - Franky, Joe &amp; Dirk (E) [!]-image.jpg</image>
-    <releasedate>19930101T000000</releasedate>
-    <developer>Audio Visual Magic</developer>
-    <publisher>Elite Systems Ltd.</publisher>
-    <genre>Puzzle</genre>
-    <players>1</players>
-  </game>
   <game id="8637" source="theGamesDB.net">
     <path>./Pac-Man Special Color Edition (U) [C][!].zip</path>
     <name>Pac-Man: Special Color Edition</name>
@@ -3385,10 +2908,10 @@ Pocket Bomberman features gameplay that revolves around using bombs to box in en
   </game>
   <game id="2362" source="theGamesDB.net">
     <path>./Pokemon - Crystal Version (UE) (V1.1) [C][!].zip</path>
-    <name>Pok&#xE9;mon Crystal Version</name>
-    <desc>Pocket Monster mania continues with Nintendo's release of Pok&#xE9;mon Crystal for the Game Boy Color. Much as 1999's Pok&#xE9;mon Yellow offered gentle enhancements to the basic story and gameplay of the original Pok&#xE9;mon Red and Pok&#xE9;mon Blue games, Pok&#xE9;mon Crystal is based on the second-wave Pok&#xE9;mon Gold and Pok&#xE9;mon Silver releases.
+    <name>Pok&amp;#xE9;mon Crystal Version</name>
+    <desc>Pocket Monster mania continues with Nintendo's release of Pok&amp;#xE9;mon Crystal for the Game Boy Color. Much as 1999's Pok&amp;#xE9;mon Yellow offered gentle enhancements to the basic story and gameplay of the original Pok&amp;#xE9;mon Red and Pok&amp;#xE9;mon Blue games, Pok&amp;#xE9;mon Crystal is based on the second-wave Pok&amp;#xE9;mon Gold and Pok&amp;#xE9;mon Silver releases.
 
-Though it follows the same story told in the Gold and Silver versions, Pok&#xE9;mon Crystal has some new options and special features. For the first time, gamers have the choice to play as a female trainer in this version. Also, just as Pok&#xE9;mon Yellow included a special Pikachu, trainers are aided by an unusual Suicune in this release. Pok&#xE9;mon Crystal is designed to offer a complete Pok&#xE9;mon experience for those new to the ubiquitous phenomenon and additional challenges for seasoned trainers who simply have to catch 'em all.</desc>
+Though it follows the same story told in the Gold and Silver versions, Pok&amp;#xE9;mon Crystal has some new options and special features. For the first time, gamers have the choice to play as a female trainer in this version. Also, just as Pok&amp;#xE9;mon Yellow included a special Pikachu, trainers are aided by an unusual Suicune in this release. Pok&amp;#xE9;mon Crystal is designed to offer a complete Pok&amp;#xE9;mon experience for those new to the ubiquitous phenomenon and additional challenges for seasoned trainers who simply have to catch 'em all.</desc>
     <image>~/.emulationstation/downloaded_images/gbc/Pokemon - Crystal Version (UE) (V1.1) [C][!]-image.jpg</image>
     <rating>0.7</rating>
     <releasedate>20001214T000000</releasedate>
@@ -3399,13 +2922,13 @@ Though it follows the same story told in the Gold and Silver versions, Pok&#xE9;
   </game>
   <game id="2361" source="theGamesDB.net">
     <path>./Pokemon - Silver Version (UE) [C][!].zip</path>
-    <name>Pok&#xE9;mon Silver Version</name>
-    <desc>Enter a whole new world, with new Pok&#xE9;mon to capture, train and battle!  Meet Professor Elm and get the all-new Pok&#xE9; Gear, including map, radio, cell phone and clock.  Set the clock then watch as day turns to night and events take place in real time&#x2014;and be sure to keep an eye out for Pok&#xE9;mon that come out only at night!
+    <name>Pok&amp;#xE9;mon Silver Version</name>
+    <desc>Enter a whole new world, with new Pok&amp;#xE9;mon to capture, train and battle!  Meet Professor Elm and get the all-new Pok&amp;#xE9; Gear, including map, radio, cell phone and clock.  Set the clock then watch as day turns to night and events take place in real time&amp;#x2014;and be sure to keep an eye out for Pok&amp;#xE9;mon that come out only at night!
 
-&#x2022; Dozens of never-before-seen Pok&#xE9;mon!  Find new evolutions for some familiar Pok&#xE9;mon and discover whole new species.  Your Pok&#xE9;dex will even reveal genders of some Pok&#xE9;mon.
-&#x2022; A whole new world!  Explore Johto, where there are new gym leaders to beat and eight new badges to earn.
-&#x2022; Two new types!  Introducing Dark and Steel-type Pok&#xE9;mon.
-&#x2022; Trade with Gold, Red, Blue, and Yellow versions to catch &#x2018;em all!</desc>
+&amp;#x2022; Dozens of never-before-seen Pok&amp;#xE9;mon!  Find new evolutions for some familiar Pok&amp;#xE9;mon and discover whole new species.  Your Pok&amp;#xE9;dex will even reveal genders of some Pok&amp;#xE9;mon.
+&amp;#x2022; A whole new world!  Explore Johto, where there are new gym leaders to beat and eight new badges to earn.
+&amp;#x2022; Two new types!  Introducing Dark and Steel-type Pok&amp;#xE9;mon.
+&amp;#x2022; Trade with Gold, Red, Blue, and Yellow versions to catch &amp;#x2018;em all!</desc>
     <image>~/.emulationstation/downloaded_images/gbc/Pokemon - Silver Version (UE) [C][!]-image.jpg</image>
     <rating>0.6333300000000001</rating>
     <releasedate>19991121T000000</releasedate>
@@ -3416,12 +2939,12 @@ Though it follows the same story told in the Gold and Silver versions, Pok&#xE9;
   </game>
   <game id="2359" source="theGamesDB.net">
     <path>./Pokemon - Yellow Version (UE) [C][!].zip</path>
-    <name>Pok&#xE9;mon Yellow Version: Special Pikachu Edition</name>
-    <desc>You&#x2019;ve finally been granted your Pok&#xE9;mon trainer&#x2019;s license, and now you&#x2019;re on your way to becoming the world&#x2019;s greatest Pok&#xE9;mon trainer!  The shockingly-cute Pikachu tags along behind you as you search the enormous world for monsters to train and evolve.  Face off against Blastoise&#x2019;s torrential water gun.  Stand strong when facing Pidgeot&#x2019;s stormy Gust.  Develop the ultimate Pok&#xE9;mon strategy to defeat the eight GYM Leaders and become the greatest Pok&#xE9;mon Master of all time!
+    <name>Pok&amp;#xE9;mon Yellow Version: Special Pikachu Edition</name>
+    <desc>You&amp;#x2019;ve finally been granted your Pok&amp;#xE9;mon trainer&amp;#x2019;s license, and now you&amp;#x2019;re on your way to becoming the world&amp;#x2019;s greatest Pok&amp;#xE9;mon trainer!  The shockingly-cute Pikachu tags along behind you as you search the enormous world for monsters to train and evolve.  Face off against Blastoise&amp;#x2019;s torrential water gun.  Stand strong when facing Pidgeot&amp;#x2019;s stormy Gust.  Develop the ultimate Pok&amp;#xE9;mon strategy to defeat the eight GYM Leaders and become the greatest Pok&amp;#xE9;mon Master of all time!
 
-&#x2022; Battle a friend in the new Colosseum 2 for the Pika Cup, Petit Cup and Pok&#xE9; Cup titles.
-&#x2022; Print out your Pok&#xE9;dex data with a Game Boy Printer and a Game Link cable.
-&#x2022; Trade Pok&#xE9;mon with your friends using a Game Link cable.  You&#x2019;ll need to trade with both the Red and Blue versions to catch all 150 Pok&#xE9;mon and complete your Pok&#xE9;dex!</desc>
+&amp;#x2022; Battle a friend in the new Colosseum 2 for the Pika Cup, Petit Cup and Pok&amp;#xE9; Cup titles.
+&amp;#x2022; Print out your Pok&amp;#xE9;dex data with a Game Boy Printer and a Game Link cable.
+&amp;#x2022; Trade Pok&amp;#xE9;mon with your friends using a Game Link cable.  You&amp;#x2019;ll need to trade with both the Red and Blue versions to catch all 150 Pok&amp;#xE9;mon and complete your Pok&amp;#xE9;dex!</desc>
     <image>~/.emulationstation/downloaded_images/gbc/Pokemon - Yellow Version (UE) [C][!]-image.jpg</image>
     <rating>0.73333</rating>
     <releasedate>19980912T000000</releasedate>
@@ -3432,14 +2955,14 @@ Though it follows the same story told in the Gold and Silver versions, Pok&#xE9;
   </game>
   <game id="8639" source="theGamesDB.net">
     <path>./Pokemon Pinball (U) [C][!].zip</path>
-    <name>Pok&#xE9;mon Pinball</name>
+    <name>Pok&amp;#xE9;mon Pinball</name>
     <desc>There are two tables in the game, red and blue. Each table has its own details and gameplay elements.
 
-Each table has different "locations" that you play, which determine which Pok&#xE9;mon are available for capture. A subset of available locations are displayed slot-machine style in the beginning of a game, and pressing A will select your starting location and launch the first ball into play. After that, each table has its own mechanism for advancing to the next location, including the locations not available at the start of the game.
+Each table has different "locations" that you play, which determine which Pok&amp;#xE9;mon are available for capture. A subset of available locations are displayed slot-machine style in the beginning of a game, and pressing A will select your starting location and launch the first ball into play. After that, each table has its own mechanism for advancing to the next location, including the locations not available at the start of the game.
 
-"Catch Mode," when activated, starts a 2 minute window of opportunity where you can attempt to capture a Pok&#xE9;mon. Once you activate "catch mode," you must hit the pop bumpers 6 times. Each hit unlocks 1/6 of an image of the Pok&#xE9;mon currently up for capture. Once the image is complete, the Pok&#xE9;mon appears on the table, where it must be hit 4 times with the ball to capture it.
+"Catch Mode," when activated, starts a 2 minute window of opportunity where you can attempt to capture a Pok&amp;#xE9;mon. Once you activate "catch mode," you must hit the pop bumpers 6 times. Each hit unlocks 1/6 of an image of the Pok&amp;#xE9;mon currently up for capture. Once the image is complete, the Pok&amp;#xE9;mon appears on the table, where it must be hit 4 times with the ball to capture it.
 
-"Evolution Mode," when activated, starts a 2 minute window of opportunity where you select a captured Pok&#xE9;mon (from the current game in progress only) and attempt to evolve it into another form. This is the only way to add the evolved form to your Pok&#xE9;dex. Once you select a Pok&#xE9;mon, you must hit targets on the playfield. There are up to 6 targets, but only 3 of them have items in them you need to evolve a Pok&#xE9;mon. The others create a time-wasting sequence before you can hit targets again. If you hit a target with an item, the item appears on the playfield and must be collected with the ball. Once you've collected 3 items, the hole in the center of the board opens up. Sinking the ball in the hole successfully evolves the Pok&#xE9;mon.</desc>
+"Evolution Mode," when activated, starts a 2 minute window of opportunity where you select a captured Pok&amp;#xE9;mon (from the current game in progress only) and attempt to evolve it into another form. This is the only way to add the evolved form to your Pok&amp;#xE9;dex. Once you select a Pok&amp;#xE9;mon, you must hit targets on the playfield. There are up to 6 targets, but only 3 of them have items in them you need to evolve a Pok&amp;#xE9;mon. The others create a time-wasting sequence before you can hit targets again. If you hit a target with an item, the item appears on the playfield and must be collected with the ball. Once you've collected 3 items, the hole in the center of the board opens up. Sinking the ball in the hole successfully evolves the Pok&amp;#xE9;mon.</desc>
     <image>~/.emulationstation/downloaded_images/gbc/Pokemon Pinball (U) [C][!]-image.jpg</image>
     <releasedate>19990628T000000</releasedate>
     <developer>Jupiter</developer>
@@ -3449,7 +2972,7 @@ Each table has different "locations" that you play, which determine which Pok&#x
   </game>
   <game id="19067" source="theGamesDB.net">
     <path>./Pokemon Puzzle Challenge (U) [C][!].zip</path>
-    <name>Pok&#xE9;mon Puzzle Challenge</name>
+    <name>Pok&amp;#xE9;mon Puzzle Challenge</name>
     <desc>In a rising pit of colored blocks, it's your task to continuously eliminate these tiles by switching two tiles' positions on the horizontal row. When three or more tiles link up in a up/down or left/right fashion, they disappear. Gravity kicks in and settles the rest of the tiles into the bin ? this can cause a chain reaction to occur since other blocks of the same color can fall into place next to each other. It's up to you to continuously work the bin to wipe out tiles by making combination connections and chain reactions. That's the game in a nutshell, but there are several modes of play that'll keep your fingers busy. In the game's Challenge mode, for example, you're up against a computer opponent and you'll have to make combos and chain reactions to send garbage blocks to his unseen screen -- but keep in mind your opponent's doing the same to you.</desc>
     <image>~/.emulationstation/downloaded_images/gbc/Pokemon Puzzle Challenge (U) [C][!]-image.jpg</image>
     <releasedate>20001204T000000</releasedate>
@@ -3459,7 +2982,7 @@ Each table has different "locations" that you play, which determine which Pok&#x
   </game>
   <game id="8640" source="theGamesDB.net">
     <path>./Pokemon Trading Card Game (U) [C][!].zip</path>
-    <name>Pok&#xE9;mon Trading Card Game</name>
+    <name>Pok&amp;#xE9;mon Trading Card Game</name>
     <desc>Your goal in life is to become a Pokemon Card Master. In order to do that, you must pick a deck from three starter packs of cards based on Charmander, Squirtle, and Bulbasaur and travel to the eight card clubs and defeat their leaders. Along the way, you will challenge many players to collect new cards and the helpful Professor Mason will aid you by giving you cards as well. While becoming a card master is a laudable accomplishment, the real goal of the game is to collect all of the cards over 200 in all. If you want to collect all of the cards, you must play human opponents in the Pop mode to get a chance to earn rare cards. All of the complexity of the real-world game has been captured here. Play Pokemon Trading Card Game and become a Pokemon Card Master.</desc>
     <image>~/.emulationstation/downloaded_images/gbc/Pokemon Trading Card Game (U) [C][!]-image.jpg</image>
     <rating>0.73333</rating>
@@ -3684,36 +3207,6 @@ You can buy new parts for your Model which is how you gain experience throughout
     <genre>Shooter</genre>
     <players>1</players>
   </game>
-  <game id="21610" source="theGamesDB.net">
-    <path>./Race Days (Dirty Racing &amp; 4 Wheel Drive) (E) [b1].zip</path>
-    <name>Race Days</name>
-    <desc>Race Days is a Miscellaneous game, developed by Gremlin Interactive and published by GameTek, which was released in 1994.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Race Days (Dirty Racing &amp; 4 Wheel Drive) (E) [b1]-image.jpg</image>
-    <releasedate>19941101T000000</releasedate>
-    <developer>Gremlin Interactive</developer>
-    <publisher>GameTek</publisher>
-    <genre>Racing</genre>
-  </game>
-  <game id="21610" source="theGamesDB.net">
-    <path>./Race Days (Dirty Racing &amp; 4 Wheel Drive) (E).zip</path>
-    <name>Race Days</name>
-    <desc>Race Days is a Miscellaneous game, developed by Gremlin Interactive and published by GameTek, which was released in 1994.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Race Days (Dirty Racing &amp; 4 Wheel Drive) (E)-image.jpg</image>
-    <releasedate>19941101T000000</releasedate>
-    <developer>Gremlin Interactive</developer>
-    <publisher>GameTek</publisher>
-    <genre>Racing</genre>
-  </game>
-  <game id="21610" source="theGamesDB.net">
-    <path>./Race Days (Dirty Racing &amp; 4 Wheel Drive) (U) [!].zip</path>
-    <name>Race Days</name>
-    <desc>Race Days is a Miscellaneous game, developed by Gremlin Interactive and published by GameTek, which was released in 1994.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Race Days (Dirty Racing &amp; 4 Wheel Drive) (U) [!]-image.jpg</image>
-    <releasedate>19941101T000000</releasedate>
-    <developer>Gremlin Interactive</developer>
-    <publisher>GameTek</publisher>
-    <genre>Racing</genre>
-  </game>
   <game id="8646" source="theGamesDB.net">
     <path>./Rampage - World Tour (U) [C][!].zip</path>
     <name>Rampage: World Tour</name>
@@ -3797,27 +3290,6 @@ You can buy new parts for your Model which is how you gain experience throughout
     <developer>Crawfish Interactive</developer>
     <publisher>Midway</publisher>
     <genre>Sports</genre>
-  </game>
-  <game id="20549" source="theGamesDB.net">
-    <path>./Ren &amp; Stimpy Show, The - Space Cadet Adventures (U) [!].zip</path>
-    <name>The Ren &amp; Stimpy Show: Space Cadet Adventures</name>
-    <desc>The Ren &amp; Stimpy Show: Space Cadet Adventures is an Action game, developed by Imagineering Inc and published by THQ, which was released in 1992.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Ren &amp; Stimpy Show, The - Space Cadet Adventures (U) [!]-image.jpg</image>
-    <releasedate>19920101T000000</releasedate>
-    <developer>Imagineering, Inc.</developer>
-    <publisher>Thq</publisher>
-    <genre>Platform</genre>
-    <players>1</players>
-  </game>
-  <game id="21711" source="theGamesDB.net">
-    <path>./Ren &amp; Stimpy Show, The - Veediots! (U) [!].zip</path>
-    <name>The Ren &amp; Stimpy Show: Veediots!</name>
-    <desc>The Ren &amp; Stimpy Show: Veediots! is an Action game, developed and published by THQ, which was released in 1993.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Ren &amp; Stimpy Show, The - Veediots! (U) [!]-image.jpg</image>
-    <releasedate>19931001T000000</releasedate>
-    <developer>THQ</developer>
-    <publisher>THQ</publisher>
-    <genre>Platform</genre>
   </game>
   <game id="22063" source="theGamesDB.net">
     <path>./Rescue Heroes - Fire Frenzy (U) [C][!].zip</path>
@@ -3958,16 +3430,6 @@ A mysterious army has attacked the land of Koga and stolen an ancient and sacred
     <developer>Bit Managers</developer>
     <publisher>GT Interactive</publisher>
     <genre>Sports</genre>
-  </game>
-  <game id="21855" source="theGamesDB.net">
-    <path>./Roswell Conspiracies - Aliens, Myths &amp; Legends (E) (M3) [C][!].zip</path>
-    <name>Roswell Conspiracies: Aliens, Myths &amp; Legends</name>
-    <desc>Aliens have lived among mankind for centuries. However, man has known them as vampires, banshees, werewolves, and other mythical creatures. It is up to Global Alliance agent Nick Logan to stop these aliens from hunting humans and send them back to their home planets. Take control of Logan as he travels through 10 levels of action, spanning five exotic locations. In each level, Nick must master new technology to capture the aliens. If an alien tries to make a run for it, Logan can chase after it in a variety of vehicles, including a truck and a Humvee. In all of this action, he must avoid harming innocent human bystanders, who are unaware of the alien presence. Help Logan keep the aliens from feeding on humans in ROSWELL CONSPIRACIES: Aliens, Myths, &amp; Legends.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Roswell Conspiracies - Aliens, Myths &amp; Legends (E) (M3) [C][!]-image.jpg</image>
-    <releasedate>20010528T000000</releasedate>
-    <developer>Crawfish Interactive</developer>
-    <publisher>Red Storm Entertainment</publisher>
-    <genre>Action</genre>
   </game>
   <game id="21855" source="theGamesDB.net">
     <path>./Roswell Conspiracies - Aliens, Myths &amp; Legends (U) (M3) [C][!].zip</path>
@@ -4125,28 +3587,6 @@ A mysterious army has attacked the land of Koga and stolen an ancient and sacred
     <publisher>TDK Mediactive</publisher>
     <genre>Platform</genre>
   </game>
-  <game id="13058" source="theGamesDB.net">
-    <path>./Simpsons, The - Bart &amp; the Beanstalk (J).zip</path>
-    <name>The Simpsons: Bart &amp; the Beanstalk</name>
-    <desc>Once upon a time... Bart Simpson had a cow, man. He traded it for some magic beans which grew into a giant beanstalk. If he can scale the stalk, overcome giant bugs, mash monstrous mice, and grab the Giant's loot, he'll become a zillionaire faster than you could say "I DIDN'T DO IT!"</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Simpsons, The - Bart &amp; the Beanstalk (J)-image.jpg</image>
-    <releasedate>19940201T000000</releasedate>
-    <developer>Software Creations</developer>
-    <publisher>Acclaim</publisher>
-    <genre>Action</genre>
-    <players>1</players>
-  </game>
-  <game id="13058" source="theGamesDB.net">
-    <path>./Simpsons, The - Bart &amp; the Beanstalk (U).zip</path>
-    <name>The Simpsons: Bart &amp; the Beanstalk</name>
-    <desc>Once upon a time... Bart Simpson had a cow, man. He traded it for some magic beans which grew into a giant beanstalk. If he can scale the stalk, overcome giant bugs, mash monstrous mice, and grab the Giant's loot, he'll become a zillionaire faster than you could say "I DIDN'T DO IT!"</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Simpsons, The - Bart &amp; the Beanstalk (U)-image.jpg</image>
-    <releasedate>19940201T000000</releasedate>
-    <developer>Software Creations</developer>
-    <publisher>Acclaim</publisher>
-    <genre>Action</genre>
-    <players>1</players>
-  </game>
   <game id="22080" source="theGamesDB.net">
     <path>./Simpsons, The - Night of the Living Treehouse of Horror (U) [C][!].zip</path>
     <name>The Simpsons: Night of the Living Treehouse of Horror</name>
@@ -4252,16 +3692,6 @@ A mysterious army has attacked the land of Koga and stolen an ancient and sacred
     <developer>Vicarious Visions</developer>
     <publisher>THQ</publisher>
     <genre>Action</genre>
-  </game>
-  <game id="21594" source="theGamesDB.net">
-    <path>./Sports Illustrated - Football &amp; Baseball (U) [!].zip</path>
-    <name>Sports Illustrated: Championship Football &amp; Baseball</name>
-    <desc>Sports Illustrated: Championship Football &amp; Baseball is a Sports game, developed by Halestorm and published by Malibu, which was released in 1993.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Sports Illustrated - Football &amp; Baseball (U) [!]-image.jpg</image>
-    <releasedate>19931001T000000</releasedate>
-    <developer>Halestorm</developer>
-    <publisher>Malibu</publisher>
-    <genre>Sports</genre>
   </game>
   <game id="22088" source="theGamesDB.net">
     <path>./Spy vs. Spy (U) [C][!].zip</path>
@@ -4394,7 +3824,7 @@ A mysterious army has attacked the land of Koga and stolen an ancient and sacred
   <game id="22090" source="theGamesDB.net">
     <path>./Tech Deck Skateboarding (U) [C][!].zip</path>
     <name>Tech Deck Skateboarding</name>
-    <desc>The fingerboard frenzy makes its way (appropriately enough) to hand-held gaming. Featuring X Concepts' line of miniature skateboard decks, TECH DECK SKATEBOARDING challenges you to pull off the same tricks that regular skaters do just smaller. You play as the inimitable Thumb Guy, a lovable mascot who can pull off the fingerboard moves with the best of &#xBF;em. Featuring arcade-style play and animations, the game lets you whip out grinds, ollies, and flips with extreme flair. All of the licensed decks from real manufacturers are here, so you'll be skating in style on your Tony Hawk deck. You'll have access to a limited number of boards at the game's outset, but as you get further and further along the road to glory you'll be able to unlock more responsive outfits and other hidden goodies. With cool graphics, real decks, and totally original gameplay, it's hardcore skating for hardcore fans!</desc>
+    <desc>The fingerboard frenzy makes its way (appropriately enough) to hand-held gaming. Featuring X Concepts' line of miniature skateboard decks, TECH DECK SKATEBOARDING challenges you to pull off the same tricks that regular skaters do just smaller. You play as the inimitable Thumb Guy, a lovable mascot who can pull off the fingerboard moves with the best of &amp;#xBF;em. Featuring arcade-style play and animations, the game lets you whip out grinds, ollies, and flips with extreme flair. All of the licensed decks from real manufacturers are here, so you'll be skating in style on your Tony Hawk deck. You'll have access to a limited number of boards at the game's outset, but as you get further and further along the road to glory you'll be able to unlock more responsive outfits and other hidden goodies. With cool graphics, real decks, and totally original gameplay, it's hardcore skating for hardcore fans!</desc>
     <image>~/.emulationstation/downloaded_images/gbc/Tech Deck Skateboarding (U) [C][!]-image.jpg</image>
     <releasedate>20010325T000000</releasedate>
     <developer>Handheld Games</developer>
@@ -4455,7 +3885,7 @@ A mysterious army has attacked the land of Koga and stolen an ancient and sacred
     <path>./Tetris DX (JU) [C][!].zip</path>
     <name>Tetris DX</name>
     <desc>Puzzle fans rejoice! The all-time puzzle favorite has returned! Tetris DX has everything you need to satisfy your puzzle appetite. Play MARATHON, the classic Tetris game. Try your hand at ULTRA or 40 LINES, two Tetris games with a twist. The VS. game will have you playing for hours!
-It that's not enough, Tetris DX is fully compatible with the new Game Boy&#xAE; Color system! With the Game Link&#xAE; cable, you can exchange saved information from one system to another! That's right, battery-backed memory saves up to three game files. Now your high scores will live on forever!</desc>
+It that's not enough, Tetris DX is fully compatible with the new Game Boy&amp;#xAE; Color system! With the Game Link&amp;#xAE; cable, you can exchange saved information from one system to another! That's right, battery-backed memory saves up to three game files. Now your high scores will live on forever!</desc>
     <image>~/.emulationstation/downloaded_images/gbc/Tetris DX (JU) [C][!]-image.jpg</image>
     <rating>0.5</rating>
     <releasedate>19981101T000000</releasedate>
@@ -4537,7 +3967,7 @@ It that's not enough, Tetris DX is fully compatible with the new Game Boy&#xAE; 
   <game id="22095" source="theGamesDB.net">
     <path>./Tom and Jerry - Mouse Hunt (U) [C][!].zip</path>
     <name>Tom and Jerry: Mouse Hunt</name>
-    <desc>What is the world's favorite cat-and-mouse duo up to these days? Well, just about the same thing they've been up to for the last 60-odd years fighting. Join all of your favorite friends from the long-running cartoon series for an experience that's based entirely on the show. The story will be fairly familiar to anyone who's ever watched the cartoon; Jerry's na&#xEF;ve country cousins are in town for a visit, and Tom is hungry. It's up to Jerry to rescue his cousins from peril in scene after scene, foiling the plans of his starving counterpart. Play as either Tom or Jerry in this battle of wits and reflexes, trying to best your opponent throughout 20 show-themed levels of action. Familiar faces like Spike, Butch, and Ducky make appearances throughout, and there are countless obstacles and power-ups to keep things interesting. Cool cartoon graphics mark this GBC-only release. Play alone or link up and challenge a friend.</desc>
+    <desc>What is the world's favorite cat-and-mouse duo up to these days? Well, just about the same thing they've been up to for the last 60-odd years fighting. Join all of your favorite friends from the long-running cartoon series for an experience that's based entirely on the show. The story will be fairly familiar to anyone who's ever watched the cartoon; Jerry's na&amp;#xEF;ve country cousins are in town for a visit, and Tom is hungry. It's up to Jerry to rescue his cousins from peril in scene after scene, foiling the plans of his starving counterpart. Play as either Tom or Jerry in this battle of wits and reflexes, trying to best your opponent throughout 20 show-themed levels of action. Familiar faces like Spike, Butch, and Ducky make appearances throughout, and there are countless obstacles and power-ups to keep things interesting. Cool cartoon graphics mark this GBC-only release. Play alone or link up and challenge a friend.</desc>
     <image>~/.emulationstation/downloaded_images/gbc/Tom and Jerry - Mouse Hunt (U) [C][!]-image.jpg</image>
     <releasedate>20010314T000000</releasedate>
     <developer>Conspiracy Entertainment</developer>
@@ -4644,16 +4074,6 @@ It that's not enough, Tetris DX is fully compatible with the new Game Boy&#xAE; 
     <publisher>Vatical Entertainment</publisher>
     <genre>Racing</genre>
   </game>
-  <game id="21788" source="theGamesDB.net">
-    <path>./Top Gun - Guts &amp; Glory (U) [!].zip</path>
-    <name>Top Gun: Guts and Glory</name>
-    <desc>Top Gun: Guts and Glory is a modern jet flight simulation that was released in 1993 for the original Nintendo Game Boy in Europe and North America.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Top Gun - Guts &amp; Glory (U) [!]-image.jpg</image>
-    <releasedate>19930101T000000</releasedate>
-    <developer>Distinctive Software</developer>
-    <publisher>Konami</publisher>
-    <genre>Action</genre>
-  </game>
   <game id="22108" source="theGamesDB.net">
     <path>./Towers - Lord Baniff's Deceit (U) [C][!].zip</path>
     <name>Towers: Lord Baniff's Deceit</name>
@@ -4673,16 +4093,6 @@ It that's not enough, Tetris DX is fully compatible with the new Game Boy&#xAE; 
     <developer>Tiertex Design Studios</developer>
     <publisher>THQ</publisher>
     <genre>Action</genre>
-  </game>
-  <game id="21793" source="theGamesDB.net">
-    <path>./Track &amp; Field (U) [!].zip</path>
-    <name>Track &amp; Field</name>
-    <desc>This ain't no 20-minute workout. It's the ultimate in head-to-head competition, in 8 grueling events. 100 meter dash. Long jump. Hurdles. Javelin. Skeet shooting. Triple jump. Archery. And the high jump. No timeouts, no breathers, no water boys. Just you and your own exhaustion. So get psyched. Pick your level of competition and the opening event. Then block out the roar of the crowd and take a deep breath. Because it's not whether you win or lose. It's whether you survive!</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Track &amp; Field (U) [!]-image.jpg</image>
-    <releasedate>19920901T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Konami</publisher>
-    <genre>Sports</genre>
   </game>
   <game id="21835" source="theGamesDB.net">
     <path>./Toy Story Racer (U) [C][!].zip</path>
@@ -5005,17 +4415,6 @@ It that's not enough, Tetris DX is fully compatible with the new Game Boy&#xAE; 
     <genre>Action</genre>
     <players>1</players>
   </game>
-  <game id="13068" source="theGamesDB.net">
-    <path>./Wizards &amp; Warriors Chapter X - The Fortress of Fear (E) [!].zip</path>
-    <name>Wizards &amp; Warriors X: Fortress of Fear</name>
-    <desc>The incredible saga of Wizards and Warriors continues. As Kuros you'll enter the dreaded Fortress of Fear in your pursuit of the Evil Wizard, Malkil. Hundreds of enemy encounters await you. Deadly bats and other flying beasts attack from above. Scorching fireballs and arrows speed toward you. And skin crawling spiders and undead skeletons appear from the darkness. Defeat them all! Only those with the blackest of hearts dwell among the 18 levels of challenging game play. But the rewards are great, riches beyond belief, keys to long lost treasure and magic spells and potions. And what better reward could you seek than a final encounter with the Evil Wizard Malkil himself? Beware, Kuros. Others have journeyed into the Fortress of Fear, but none have returned alive.</desc>
-    <image>~/.emulationstation/downloaded_images/gbc/Wizards &amp; Warriors Chapter X - The Fortress of Fear (E) [!]-image.jpg</image>
-    <releasedate>19900118T000000</releasedate>
-    <developer>Rare</developer>
-    <publisher>Acclaim</publisher>
-    <genre>Action</genre>
-    <players>1</players>
-  </game>
   <game id="21828" source="theGamesDB.net">
     <path>./Woody Woodpecker Racing (U) [C][!].zip</path>
     <name>Woody Woodpecker Racing</name>
@@ -5207,13 +4606,13 @@ There are two modes available: Practice and Xtreme Island Adventure. In the form
   </game>
   <game>
     <path>./Pokemon - Gold Version (UE) [C][!].zip</path>
-    <name>Pok&#xE9;mon Gold Version</name>
-    <desc>Enter a whole new world, with new Pok&#xE9;mon to capture, train and battle! Meet Professor Elm and get the all-new Pok&#xE9; Gear, including map, radio, cell phone and clock. Set the clock then watch as day turns to night and events take place in real time&#x2014;and be sure to keep an eye out for Pok&#xE9;mon that come out only at night!
+    <name>Pok&amp;#xE9;mon Gold Version</name>
+    <desc>Enter a whole new world, with new Pok&amp;#xE9;mon to capture, train and battle! Meet Professor Elm and get the all-new Pok&amp;#xE9; Gear, including map, radio, cell phone and clock. Set the clock then watch as day turns to night and events take place in real time&amp;#x2014;and be sure to keep an eye out for Pok&amp;#xE9;mon that come out only at night!
 
-&#x2022; Dozens of never-before-seen Pok&#xE9;mon! Find new evolutions for some familiar Pok&#xE9;mon and discover whole new species. Your Pok&#xE9;dex will even reveal genders of some Pok&#xE9;mon.
-&#x2022; A whole new world! Explore Johto, where there are new gym leaders to beat and eight new badges to earn.
-&#x2022; Two new types! Introducing Dark and Steel-type Pok&#xE9;mon.
-&#x2022; Trade with Silver, Red, Blue, and Yellow versions to catch &#x2018;em all!</desc>
+&amp;#x2022; Dozens of never-before-seen Pok&amp;#xE9;mon! Find new evolutions for some familiar Pok&amp;#xE9;mon and discover whole new species. Your Pok&amp;#xE9;dex will even reveal genders of some Pok&amp;#xE9;mon.
+&amp;#x2022; A whole new world! Explore Johto, where there are new gym leaders to beat and eight new badges to earn.
+&amp;#x2022; Two new types! Introducing Dark and Steel-type Pok&amp;#xE9;mon.
+&amp;#x2022; Trade with Silver, Red, Blue, and Yellow versions to catch &amp;#x2018;em all!</desc>
     <image>/home/pi/.emulationstation/downloaded_images/gbc/Pokemon - Gold Version (UE) [C][!]-image.jpg</image>
     <rating>0.72</rating>
     <releasedate>19991121T000000</releasedate>
@@ -5263,14 +4662,14 @@ There are two modes available: Practice and Xtreme Island Adventure. In the form
   <game>
     <path>./Dragon Warrior Monsters (U) [C][!].zip</path>
     <name>Dragon Warrior Monsters</name>
-    <desc>In Dragon Warrior Monsters, enter Terry&#x2019;s Wonderland, a magical place of kings, monsters and magic spells.  Make monsters your allies to fight through the dangers that lie ahead in the long quest.  Find your kidnapped sister and become the most powerful monster master in the world!
+    <desc>In Dragon Warrior Monsters, enter Terry&amp;#x2019;s Wonderland, a magical place of kings, monsters and magic spells.  Make monsters your allies to fight through the dangers that lie ahead in the long quest.  Find your kidnapped sister and become the most powerful monster master in the world!
 
-Each monster has unique special skills to use in battle.  Train and treat them well, and you&#x2019;ll be victorious!  Over 40,000 different combinations - can you breed the rarest and most powerful monsters?
+Each monster has unique special skills to use in battle.  Train and treat them well, and you&amp;#x2019;ll be victorious!  Over 40,000 different combinations - can you breed the rarest and most powerful monsters?
 
 * Over 200 cute &amp; cool monsters to collect, tame, and train.
 * Breed your trained monsters to make more powerful monsters, each receiving special skills from their parent monsters.
-* Play solo, or use the Game Link cable to link to Game Boy game systems and battle and breed with your friends&#x2019; monsters.
-* A spin off of Japan&#x2019;s best selling RPG game, Enix&#x2019;s Dragon Quest.</desc>
+* Play solo, or use the Game Link cable to link to Game Boy game systems and battle and breed with your friends&amp;#x2019; monsters.
+* A spin off of Japan&amp;#x2019;s best selling RPG game, Enix&amp;#x2019;s Dragon Quest.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/gbc/Dragon Warrior Monsters (U) [C][!]-image.jpg</image>
     <rating>0.9</rating>
     <releasedate>20000127T000000</releasedate>
@@ -5292,7 +4691,7 @@ Each monster has unique special skills to use in battle.  Train and treat them w
     <desc>Jason, brave hero of yesteryear, is roused from retirement by the news that mutant lifeeorms, thought to have been long since destroyed, are once again on the move, hollowing out subterranean niches in the image of their old haunts. The decision to reactivate Sophia seems to Jason nothing more than an inevitability. Back into the cold once more...
 
 - Eight areas to explore, to find the keys and kill the sub human bosses
-- Use the tank&#x2019;s suction system to drive up walls and along ceilings
+- Use the tank&amp;#x2019;s suction system to drive up walls and along ceilings
 - Drive Sophia or go it alone with Jason.</desc>
     <image>~/.emulationstation/downloaded_images/gbc/Blaster Master - Enemy Below (U) [C][!]-image.jpg</image>
     <releasedate>20000924T000000</releasedate>

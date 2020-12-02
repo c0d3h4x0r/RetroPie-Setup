@@ -401,12 +401,12 @@ While the gameplay is simple, there are subtleties, such as getting an opponent 
     <path>./Brain Games (1978) (Atari).zip</path>
     <name>Brain Games</name>
     <desc>In Brain Games one or two players attempt to earn as many points as possible by solving various puzzles presented by the computer. There are six different puzzles included, which are:
-&#x2022;Touch Me: The computer will play a sequence of tones. Each button on the controller represents a different tone, and by pressing the correct button you need to recreate the same sequence.
-&#x2022;Count Me: The computer will display a sequence of numbers. Using the controller, you need to press the numbered buttons in the same order the computer displayed them.
-&#x2022;Picture Me: The computer will display a series of symbols. It will then scramble the order they are displayed in, and you need to reorder the symbols back into their original configuration.
-&#x2022;Find Me: The computer will display a series of objects on the screen, and you need to select the object which is dissimilar from the others. Your score is based on how fast you can successfully do this.
-&#x2022;Add Me: The computer will display a list of numbers. You need to enter in the sum of the numbers before the timer runs out.
-&#x2022;Play Me: This game allows you to play your own songs in free form mode; each button on the controller represents a musical note. Both controllers can be used for a duet, and several example songs are included in the instruction manual.</desc>
+&amp;#x2022;Touch Me: The computer will play a sequence of tones. Each button on the controller represents a different tone, and by pressing the correct button you need to recreate the same sequence.
+&amp;#x2022;Count Me: The computer will display a sequence of numbers. Using the controller, you need to press the numbered buttons in the same order the computer displayed them.
+&amp;#x2022;Picture Me: The computer will display a series of symbols. It will then scramble the order they are displayed in, and you need to reorder the symbols back into their original configuration.
+&amp;#x2022;Find Me: The computer will display a series of objects on the screen, and you need to select the object which is dissimilar from the others. Your score is based on how fast you can successfully do this.
+&amp;#x2022;Add Me: The computer will display a list of numbers. You need to enter in the sum of the numbers before the timer runs out.
+&amp;#x2022;Play Me: This game allows you to play your own songs in free form mode; each button on the controller represents a musical note. Both controllers can be used for a duet, and several example songs are included in the instruction manual.</desc>
     <image>~/.emulationstation/downloaded_images/atari2600/Brain Games (1978) (Atari)-image.jpg</image>
     <rating>0.3</rating>
     <releasedate>19780101T000000</releasedate>
@@ -459,7 +459,7 @@ Countless numbers of these space age creepy-crawlies begin to emerge from massiv
   <game id="33503" source="theGamesDB.net">
     <path>./Bump 'N' Jump (1983) (Mattel).zip</path>
     <name>Bump N Jump</name>
-    <desc>Bump 'n' Jump, known in Japan as Burnin' Rubber (&#x30D0;&#x30FC;&#x30CB;&#x30F3;&#x30E9;&#x30D0;&#x30FC; B&#x101;nin Rab&#x101;?), is a 1982 Japanese arcade game created by Data East Corporation, released as both a dedicated board and as part of their DECO Cassette System. The game was published in certain regions by Bally Midway.
+    <desc>Bump 'n' Jump, known in Japan as Burnin' Rubber (&amp;#x30D0;&amp;#x30FC;&amp;#x30CB;&amp;#x30F3;&amp;#x30E9;&amp;#x30D0;&amp;#x30FC; B&amp;#x101;nin Rab&amp;#x101;?), is a 1982 Japanese arcade game created by Data East Corporation, released as both a dedicated board and as part of their DECO Cassette System. The game was published in certain regions by Bally Midway.
 
 In Bump 'n' Jump the goal is to drive from the beginning of a level to the end while bumping enemy vehicles into obstacles and jumping over various large obstacles such as bodies of water.</desc>
     <image>~/.emulationstation/downloaded_images/atari2600/Bump 'N' Jump (1983) (Mattel)-image.jpg</image>
@@ -616,11 +616,11 @@ This time you're competing against another player in a race to the 1000 point ma
   <game id="20287" source="theGamesDB.net">
     <path>./Championship Soccer (AKA Pele's Soccer) (1980) (Atari) [!].zip</path>
     <name>Championship Soccer</name>
-    <desc>Okay, soccer fans, the ATARI CHAMPIONSHIP SOCCER &#x2122; Team challenges you to a game. The ATARI computer team is waiting impatiently inside your Game Program cartridge for you to select one of the single player games (Games 28 through 54). They want to show you their stuff. Here&#x2019;s a brief rundown on each player, just so you&#x2019;ll know who you&#x2019;re up against.
+    <desc>Okay, soccer fans, the ATARI CHAMPIONSHIP SOCCER &amp;#x2122; Team challenges you to a game. The ATARI computer team is waiting impatiently inside your Game Program cartridge for you to select one of the single player games (Games 28 through 54). They want to show you their stuff. Here&amp;#x2019;s a brief rundown on each player, just so you&amp;#x2019;ll know who you&amp;#x2019;re up against.
 
 "CRASH" MORGAN, the galloping goalie, is the fastest man on the team. "CRASH" got his nickname because he is forever slamming into the goal posts chasing after the ball. Fortunately, the goal posts are never damaged, but sometimes you can score a goal on him before his ears stop ringing.
 
-NICK DANGER, the frantic forward, is mean and nasty and just loves to blast the ball into your goal shouting, "eat leather, chump." Don&#x2019;t let his bad manners bother you, it&#x2019;s just his way of rattling the opposition.
+NICK DANGER, the frantic forward, is mean and nasty and just loves to blast the ball into your goal shouting, "eat leather, chump." Don&amp;#x2019;t let his bad manners bother you, it&amp;#x2019;s just his way of rattling the opposition.
 
 "LUMPY" DURAN, the left back, is without a doubt the clumsiest player in the world of soccer. Penalized twice for stepping on the ball instead of kicking it, he was finally thrown out of one game for toe-kicking the referee!
 
@@ -1046,7 +1046,7 @@ You use the joystick to move the ship, left, right, up or down. Press the fire b
   <game id="1367" source="theGamesDB.net">
     <path>./Defender II (1984) (Atari).zip</path>
     <name>Defender II</name>
-    <desc>Alien marauders are attacking your planet. They&#x2018;re kidnapping resident humanoids and turning them into mutants! You pilot your ship along the planet surface, blasting away. But first you go for the Landers - the most treacherous of the aliens.
+    <desc>Alien marauders are attacking your planet. They&amp;#x2018;re kidnapping resident humanoids and turning them into mutants! You pilot your ship along the planet surface, blasting away. But first you go for the Landers - the most treacherous of the aliens.
 
 You race to the nearest Stellar Gateway and whoosh! You experience that eerie time-warp feeling as you're transported to the
 other side of the planet. Only you, with the help of the Stellar Gateway, can save the planet from attack!</desc>
@@ -1581,7 +1581,7 @@ A new assignment is yours on another front, against a more experienced army. The
   <game id="8356" source="theGamesDB.net">
     <path>./Frostbite (1983) (Activision).zip</path>
     <name>Frostbite</name>
-    <desc>You're an Eskimo who wants to build an igloo to live in during the cold season. To do this, you must jump from ice-block to ice-block, while avoiding wildlife such as birds and crabs. Coming with contact with any of these will cause them to push you off the block and into the deadly water. Once you have built your igloo, you must enter it to proceed to the next level. Remember, you must build it before the temperature drops to 0&#xB0;. You have four lives.</desc>
+    <desc>You're an Eskimo who wants to build an igloo to live in during the cold season. To do this, you must jump from ice-block to ice-block, while avoiding wildlife such as birds and crabs. Coming with contact with any of these will cause them to push you off the block and into the deadly water. Once you have built your igloo, you must enter it to proceed to the next level. Remember, you must build it before the temperature drops to 0&amp;#xB0;. You have four lives.</desc>
     <image>~/.emulationstation/downloaded_images/atari2600/Frostbite (1983) (Activision)-image.jpg</image>
     <releasedate>19830814T000000</releasedate>
     <developer>Activision</developer>
@@ -1896,17 +1896,6 @@ The rest of the rules are basically like real baseball. Each team has nine innin
     <publisher>Atari</publisher>
     <genre>Action</genre>
   </game>
-  <game id="17514" source="theGamesDB.net">
-    <path>./Hunt &amp; Score (1978) (Atari) (PAL) [!].zip</path>
-    <name>Hunt &amp; Score (Memory Match)</name>
-    <desc>Hunt &amp; Score is similar to the game Memory. The player is presented with a numbered grid; behind each grid section is a picture. On each turn, the player chooses two grid sections in an attempt to find two matching pictures. Points are earned for finding matching pictures, and the player with the most points at the end wins. Several game options include a 16 or 30 square game grid, the ability to handicap one of the players, and the ability to enable or disable wild cards.</desc>
-    <image>~/.emulationstation/downloaded_images/atari2600/Hunt &amp; Score (1978) (Atari) (PAL) [!]-image.jpg</image>
-    <releasedate>19800501T000000</releasedate>
-    <developer>Atari</developer>
-    <publisher>Atari</publisher>
-    <genre>Strategy</genre>
-    <players>2</players>
-  </game>
   <game id="22161" source="theGamesDB.net">
     <path>./I Want My Mommy (AKA Ursinho Esperto) (1983) (Zimag) [!].zip</path>
     <name>I Want My Mommy</name>
@@ -2076,11 +2065,11 @@ Originally intended to be a fairly straight Pac-Man clone, Jawbreaker emerged as
   <game id="5307" source="theGamesDB.net">
     <path>./Keystone Kapers (1983) (Activision) [!].zip</path>
     <name>Keystone Kapers</name>
-    <desc>Flash! Harry Hooligan, notorious con-artist, thief and all around-not-a-nice-person, has escaped!! He is now at large and in the vicinity of Southwick&#x2018;s Emporium. At this moment, Hooligan is failing every attempt to end his felonious freedom.
+    <desc>Flash! Harry Hooligan, notorious con-artist, thief and all around-not-a-nice-person, has escaped!! He is now at large and in the vicinity of Southwick&amp;#x2018;s Emporium. At this moment, Hooligan is failing every attempt to end his felonious freedom.
 
-On the scene is Keystone Kelly, the pride of the men in blue. Officer Kelly, what&#x2019;s it like in there?&#x201D;
+On the scene is Keystone Kelly, the pride of the men in blue. Officer Kelly, what&amp;#x2019;s it like in there?&amp;#x201D;
 
-Oh, &#x2018;tis o cryin' shame! Shenanigans like yo wouldn&#x2018;t believe! Dastardly deeds that defy description! That rogue is hurlin' everything in reach! Shopping carts, biplanes, beachballs- everything but cathedral radios. LOOK OUT! It's a cathedral radiol! Gotta go! I mean to recover the loot and bust that brute!"
+Oh, &amp;#x2018;tis o cryin' shame! Shenanigans like yo wouldn&amp;#x2018;t believe! Dastardly deeds that defy description! That rogue is hurlin' everything in reach! Shopping carts, biplanes, beachballs- everything but cathedral radios. LOOK OUT! It's a cathedral radiol! Gotta go! I mean to recover the loot and bust that brute!"
 
 Will that double-dyed hoodlum keep Keystone in triple trouble, or will YOU help the greatest gumshoe going catch that no good galoot?? Grab your billyclubs and joysticks! lt's curtains now, Hooligan!"</desc>
     <image>~/.emulationstation/downloaded_images/atari2600/Keystone Kapers (1983) (Activision) [!]-image.jpg</image>
@@ -2186,7 +2175,7 @@ Players who scored 100,000 points or more could submit photographic proof to Act
   <game id="34918" source="theGamesDB.net">
     <path>./Lochjaw (1982) (Apollo).zip</path>
     <name>LOCHJAW</name>
-    <desc>This game was later released as Shark Attack. The name was changed due to a lawsuit over the name&#x2019;s similarity to the movie &#x201C;Jaws&#x201D;. There are some subtle differences between this and Shark Attack.</desc>
+    <desc>This game was later released as Shark Attack. The name was changed due to a lawsuit over the name&amp;#x2019;s similarity to the movie &amp;#x201C;Jaws&amp;#x201D;. There are some subtle differences between this and Shark Attack.</desc>
     <image>~/.emulationstation/downloaded_images/atari2600/Lochjaw (1982) (Apollo)-image.jpg</image>
     <releasedate>19810501T000000</releasedate>
     <developer>Apollo</developer>
@@ -2492,7 +2481,7 @@ The Mysterious Thief was canceled before its release, being possible to play onl
   <game id="19207" source="theGamesDB.net">
     <path>./Montezuma's Revenge - Starring Panama Joe (1983) (Parker Bros).zip</path>
     <name>Montezuma's Revenge</name>
-    <desc>PANAMA JOE, That&#x2019;s what they call him &#x2018;round these parts; though no one knows his real name or where he comes from.  But one thing&#x2019;s for sure,  PANAMA JOE&#x2019;s a daredevil from the word &#x201C;go!&#x201D;  No risk&#x2019;s too great if the reward&#x2019;s large enough.  Winning. That&#x2019;s what&#x2019;s the most important to him.  And more times than not, that&#x2019;s exactly what he does.  Because he&#x2019;s tough, clever &#x2013; resourceful.  And sometimes, downright pig-headed!  Though occasionally (ah-hum), he&#x2019;s been known to get in over his head. Luckily, he&#x2019;s got a knack for getting himself out of hot water as quickly as he gets into it! Let&#x2019;s hope MONTEZUMA&#x2019;S REVENGE is one of those times.</desc>
+    <desc>PANAMA JOE, That&amp;#x2019;s what they call him &amp;#x2018;round these parts; though no one knows his real name or where he comes from.  But one thing&amp;#x2019;s for sure,  PANAMA JOE&amp;#x2019;s a daredevil from the word &amp;#x201C;go!&amp;#x201D;  No risk&amp;#x2019;s too great if the reward&amp;#x2019;s large enough.  Winning. That&amp;#x2019;s what&amp;#x2019;s the most important to him.  And more times than not, that&amp;#x2019;s exactly what he does.  Because he&amp;#x2019;s tough, clever &amp;#x2013; resourceful.  And sometimes, downright pig-headed!  Though occasionally (ah-hum), he&amp;#x2019;s been known to get in over his head. Luckily, he&amp;#x2019;s got a knack for getting himself out of hot water as quickly as he gets into it! Let&amp;#x2019;s hope MONTEZUMA&amp;#x2019;S REVENGE is one of those times.</desc>
     <image>~/.emulationstation/downloaded_images/atari2600/Montezuma's Revenge - Starring Panama Joe (1983) (Parker Bros)-image.jpg</image>
     <releasedate>19840101T000000</releasedate>
     <developer>Parker Brothers</developer>
@@ -2608,7 +2597,7 @@ And the race is on!</desc>
     <name>The Music Machine</name>
     <desc>Symbols representing character-building qualities (the Fruit of the Spirit) are raining down from above. Stevie and Nancy need your help to collect the symbols and avoid the mischievous pudgeons... and with each gift of Love you collect, the symbols rain heavier... and faster!
 
-This game was only sold in religious bookstores. It&#x2019;s based on a line of The Music Machine products that also included LP&#x2019;s sold by Sparrow. Some collectors claim to have purchased the 2600 game in a bundle with the album, but that has never been proven.</desc>
+This game was only sold in religious bookstores. It&amp;#x2019;s based on a line of The Music Machine products that also included LP&amp;#x2019;s sold by Sparrow. Some collectors claim to have purchased the 2600 game in a bundle with the album, but that has never been proven.</desc>
     <image>~/.emulationstation/downloaded_images/atari2600/Music Machine, The (1983) (Sparrow)-image.jpg</image>
     <releasedate>19830706T000000</releasedate>
     <developer>Sparrow</developer>
@@ -2931,7 +2920,7 @@ The final level is Dr. Strangepork's, who pilots the Swinetrek through a treache
   <game id="44104" source="theGamesDB.net">
     <path>./Pizza Chef (1983) (CCE).zip</path>
     <name>Pizza Chef</name>
-    <desc>Try this fun pizza making game. You have a limited time to make an eight-ingredient pizza. For this, you should get the right ingredients and in the same order as they are listed &#x2013; and also the aproppriate utensils. When you finally put everything at the eight preparation tables, take the pizza to a hot oven to bake. If you manage to do it all, congratulations! Try all the 25 recipe variations and show your skills and technique in pizza making.</desc>
+    <desc>Try this fun pizza making game. You have a limited time to make an eight-ingredient pizza. For this, you should get the right ingredients and in the same order as they are listed &amp;#x2013; and also the aproppriate utensils. When you finally put everything at the eight preparation tables, take the pizza to a hot oven to bake. If you manage to do it all, congratulations! Try all the 25 recipe variations and show your skills and technique in pizza making.</desc>
     <image>~/.emulationstation/downloaded_images/atari2600/Pizza Chef (1983) (CCE)-image.jpg</image>
     <releasedate>19830401T000000</releasedate>
     <developer/>
@@ -3627,7 +3616,7 @@ game reset switch is depressed once.</desc>
   <game id="39748" source="theGamesDB.net">
     <path>./Smurfs Save the Day (1983) (Coleco).zip</path>
     <name>Smurfs save the Day</name>
-    <desc>Harmony Smurf&#x2122;, Greedy Smurf&#x2122; and Handy Smurf&#x2122;! help you to have fun while learning about musical notes, colors, shapes and sizes!</desc>
+    <desc>Harmony Smurf&amp;#x2122;, Greedy Smurf&amp;#x2122; and Handy Smurf&amp;#x2122;! help you to have fun while learning about musical notes, colors, shapes and sizes!</desc>
     <image>~/.emulationstation/downloaded_images/atari2600/Smurfs Save the Day (1983) (Coleco)-image.jpg</image>
     <releasedate>19830101T000000</releasedate>
     <developer>Coleco</developer>
@@ -4107,7 +4096,7 @@ Keep track of energy levels on the instrument panel. Use your radar screen to lo
 
 Enemy submarines have been detected in your waters.  You command a destroyer which can launch as many as four depth charges at a time.  Your mission is to sink as many enemy subs as possible.
 
-But it&#x2019;s not that simple.  Because SUB-SCAN is more than a shooting match.  It&#x2019;s a game of strategy.  A battle of wits.  Can-and-mouse on the high seas between the hunter above and the hunted below.</desc>
+But it&amp;#x2019;s not that simple.  Because SUB-SCAN is more than a shooting match.  It&amp;#x2019;s a game of strategy.  A battle of wits.  Can-and-mouse on the high seas between the hunter above and the hunted below.</desc>
     <image>~/.emulationstation/downloaded_images/atari2600/Sub Scan (1983) (Sega) [!]-image.jpg</image>
     <releasedate>19830101T000000</releasedate>
     <developer>Sega</developer>
@@ -4163,7 +4152,7 @@ Otherwise, everything else is the same. You still can throw fastballs, curve bal
     <name>Super Breakout</name>
     <desc>In Super Breakout, there are three different and more advanced game types from which the player can choose:
 
-Double gives the player control of two bats at the same time&#x2014;one placed above the other&#x2014;and two balls. Losing a life occurs only when both balls go out of play, and points are doubled while the player is able to juggle both balls without losing either.
+Double gives the player control of two bats at the same time&amp;#x2014;one placed above the other&amp;#x2014;and two balls. Losing a life occurs only when both balls go out of play, and points are doubled while the player is able to juggle both balls without losing either.
 Cavity retains the single bat and ball of Breakout, but two other balls are enclosed on the other side of the wall, which the player must free before they, too, can be used to destroy additional bricks. Points are increased for this, but triple points are available if the player can keep all three balls in play.
 Progressive also has the single bat and ball, but as the ball hits the paddle, the entire wall gradually advances downwards step by step, gaining in speed the longer the ball lasts in play.</desc>
     <image>~/.emulationstation/downloaded_images/atari2600/Super Breakout (1978) (Atari) [!]-image.jpg</image>
@@ -4187,7 +4176,7 @@ Progressive also has the single bat and ball, but as the ball hits the paddle, t
   <game id="28597" source="theGamesDB.net">
     <path>./Super Cobra (1982) (Parker Bros).zip</path>
     <name>Super Cobra</name>
-    <desc>Super Cobra (&#x30B9;&#x30FC;&#x30D1;&#x30FC;&#x30B3;&#x30D6;&#x30E9; S&#x16B;p&#x101; Kobura?) is a 1981 arcade game, the sequel to popular horizontally scrolling shooter Scramble, Super Cobra was developed by Konami and manufactured and distributed by Stern in North America. It is similar in concept to its predecessor, but much more difficult.
+    <desc>Super Cobra (&amp;#x30B9;&amp;#x30FC;&amp;#x30D1;&amp;#x30FC;&amp;#x30B3;&amp;#x30D6;&amp;#x30E9; S&amp;#x16B;p&amp;#x101; Kobura?) is a 1981 arcade game, the sequel to popular horizontally scrolling shooter Scramble, Super Cobra was developed by Konami and manufactured and distributed by Stern in North America. It is similar in concept to its predecessor, but much more difficult.
 
 The game was a success, selling 12,337 video game arcade cabinets in the United States in four months, by October 2, 1981, becoming Stern's third best-selling arcade classic after Berzerk and Scramble. Scramble sold 15,136 cabinets in the US in five months earlier that year, adding up to 27,473 US cabinet sales for both.[1]
 
@@ -4428,7 +4417,7 @@ Your objective: Glut on every edible item that comes your way to achieve the fat
   <game id="34694" source="theGamesDB.net">
     <path>./Texas Chainsaw Massacre, The (1983) (Wizard Video).zip</path>
     <name>Texas Chainsaw Massacre</name>
-    <desc>This game is very difficult to find because many retailers declined to carry it. Others kept the game behind the counter away from children. Wizard Video faced protests when they released this game, as some social groups claimed that it promoted violence. It&#x2019;s very hard to find with the box and manual.</desc>
+    <desc>This game is very difficult to find because many retailers declined to carry it. Others kept the game behind the counter away from children. Wizard Video faced protests when they released this game, as some social groups claimed that it promoted violence. It&amp;#x2019;s very hard to find with the box and manual.</desc>
     <image>~/.emulationstation/downloaded_images/atari2600/Texas Chainsaw Massacre, The (1983) (Wizard Video)-image.jpg</image>
     <releasedate>19830505T000000</releasedate>
     <developer>Wizard Video</developer>
@@ -4501,7 +4490,7 @@ Play TOWERING INFERNO and find out!</desc>
   <game id="29507" source="theGamesDB.net">
     <path>./Track and Field (1984) (Atari).zip</path>
     <name>Track &amp; Field</name>
-    <desc>Track &amp; Field, known in Japan as Hyper Olympic (&#x30CF;&#x30A4;&#x30D1;&#x30FC;&#x30AA;&#x30EA;&#x30F3;&#x30D4;&#x30C3;&#x30AF;?), is a 1983 Olympic-themed arcade game developed and published by Konami.
+    <desc>Track &amp; Field, known in Japan as Hyper Olympic (&amp;#x30CF;&amp;#x30A4;&amp;#x30D1;&amp;#x30FC;&amp;#x30AA;&amp;#x30EA;&amp;#x30F3;&amp;#x30D4;&amp;#x30C3;&amp;#x30AF;?), is a 1983 Olympic-themed arcade game developed and published by Konami.
 
 The arcade version was released in 1983. The simple gameplay, based on quick repeating button presses, set the basics for sequels and similar games in the genre for the next decades. There were several home versions of the original; the ZX Spectrum and Amstrad CPC versions were only released as part of the Game, Set and Match II compilation in 1988, and are poorly regarded by fans.</desc>
     <image>~/.emulationstation/downloaded_images/atari2600/Track and Field (1984) (Atari)-image.jpg</image>
@@ -4589,7 +4578,7 @@ Sorry, Tunnel Runner, not quite...</desc>
   <game id="38256" source="theGamesDB.net">
     <path>./Universal Chaos (1989) (Telegames).zip</path>
     <name>Universal Chaos</name>
-    <desc>This game is a port of CBS Electronic&#x2019;s "Targ" with some minor changes. Besides the different enemy graphics and slightly different sound effects, the screen changes color with each level. Also, most of the bugs present in Targ are absent, and the Spectar (called the 'Warlord&#x2019;s shuttle' here &#x2013; all the names have been changed) does appear.</desc>
+    <desc>This game is a port of CBS Electronic&amp;#x2019;s "Targ" with some minor changes. Besides the different enemy graphics and slightly different sound effects, the screen changes color with each level. Also, most of the bugs present in Targ are absent, and the Spectar (called the 'Warlord&amp;#x2019;s shuttle' here &amp;#x2013; all the names have been changed) does appear.</desc>
     <image>~/.emulationstation/downloaded_images/atari2600/Universal Chaos (1989) (Telegames)-image.jpg</image>
     <releasedate>19840712T000000</releasedate>
     <developer>Tele-Games</developer>
@@ -4611,7 +4600,7 @@ Sorry, Tunnel Runner, not quite...</desc>
   <game id="28598" source="theGamesDB.net">
     <path>./Tutankham (1983) (Parker Bros).zip</path>
     <name>Tutankham</name>
-    <desc>Tutankham (&#x30C3;&#x5915;&#x30F3;&#x30AB;&#x4E00;&#x30F3;) is a 1982 arcade game developed by Konami and released by Stern in the US. The game was originally titled Tutankhamen, but it was discovered that the full name could not fit on the arcade cabinet, so the title was shortened.[citation needed]
+    <desc>Tutankham (&amp;#x30C3;&amp;#x5915;&amp;#x30F3;&amp;#x30AB;&amp;#x4E00;&amp;#x30F3;) is a 1982 arcade game developed by Konami and released by Stern in the US. The game was originally titled Tutankhamen, but it was discovered that the full name could not fit on the arcade cabinet, so the title was shortened.[citation needed]
 
 Tutankham is one of six games chosen to appear in the LIFE magazine photo-session conducted at Twin Galaxies on November 7, 1982, featuring video game record holders of the 1982-era, gathered for a group photograph. The Tutankham champion in the photo is Mark Robichek of Mountain View, California.</desc>
     <image>~/.emulationstation/downloaded_images/atari2600/Tutankham (1983) (Parker Bros)-image.jpg</image>
@@ -4811,13 +4800,13 @@ Sounds easy? Wait until you meet the Scroll's friend, the Asteroids.</desc>
   <game id="35423" source="theGamesDB.net">
     <path>./X-Man (1983) (CosmoVision-Universal Gamex).zip</path>
     <name>X-Man</name>
-    <desc>You&#x2018;re "X-Man".  The macho super-stud of the year!
+    <desc>You&amp;#x2018;re "X-Man".  The macho super-stud of the year!
 
-A &#x201D;Sexy Blond" with a body that doesn&#x2019;t quit is waiting behind the door to satisfy your every fantasy. You've got the equipment, you&#x2019;re excited and ready to give her what she desires. All you've got to do is get through that door and do your stuff. Sounds easy? ...Wrong!
+A &amp;#x201D;Sexy Blond" with a body that doesn&amp;#x2019;t quit is waiting behind the door to satisfy your every fantasy. You've got the equipment, you&amp;#x2019;re excited and ready to give her what she desires. All you've got to do is get through that door and do your stuff. Sounds easy? ...Wrong!
 
-Coming at you are the &#x2018;Crabs" with their claws ready to tear your privates apart. Next come the &#x2018;Scissors' whose sharp blades can cut off your manhood. And last are the "Teeth&#x201C; who snap with a vise-like grip that will leave more than lust marks! Get the picture?
+Coming at you are the &amp;#x2018;Crabs" with their claws ready to tear your privates apart. Next come the &amp;#x2018;Scissors' whose sharp blades can cut off your manhood. And last are the "Teeth&amp;#x201C; who snap with a vise-like grip that will leave more than lust marks! Get the picture?
 
-But this &#x2018;Sexy Blond&#x201D; is worth it And you're a man who's ready for challenge, action, and escape from tight spots. We promise that it you&#x2019;ve got the stuff to avoid your attackers and get through the door you&#x2018;ll score in more ways than one!
+But this &amp;#x2018;Sexy Blond&amp;#x201D; is worth it And you're a man who's ready for challenge, action, and escape from tight spots. We promise that it you&amp;#x2019;ve got the stuff to avoid your attackers and get through the door you&amp;#x2018;ll score in more ways than one!
 
 Remember that behind the door awaits your sexy surprise and bonus points as well. See how far you can go and how much you can score as you take the "X-Man" Challenge. "X-Man". . .the adult video game that only you can bring to an exciting climax!</desc>
     <image>~/.emulationstation/downloaded_images/atari2600/X-Man (1983) (CosmoVision-Universal Gamex)-image.jpg</image>
@@ -5052,7 +5041,7 @@ Like Defender, aliens come in all shapes and sizes, and have varying attack patt
   <game>
     <path>./Super Ferrari (1983) (Jone Yuan Telephonic Enterprise Co).zip</path>
     <name>Super-Ferrari</name>
-    <desc>Typical racing game. You have to dodge the other cars with your Formula 1 car to become first in that Grand Prix. Its cool though how day and night and the weather changes. It&#xB4;s from the famous "Quelle" games (Quelle was a big german mail order company that also made video games for the Atari 2600). Although Super-Ferrari is a rip off of the racing game "Enduro" by Activision it&#xB4;s fun to play.
+    <desc>Typical racing game. You have to dodge the other cars with your Formula 1 car to become first in that Grand Prix. Its cool though how day and night and the weather changes. It&amp;#xB4;s from the famous "Quelle" games (Quelle was a big german mail order company that also made video games for the Atari 2600). Although Super-Ferrari is a rip off of the racing game "Enduro" by Activision it&amp;#xB4;s fun to play.
 
 Quelle games are in Europe and especially in Germany highly unpopular amongst collectors. Interesting fact: James Rolfe, the Angry Video Game Nerd, owns at least one of those games.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/atari2600/Super Ferrari (1983) (Jone Yuan Telephonic Enterprise Co)-image.jpg</image>
@@ -5182,7 +5171,7 @@ Taken as a whole, Tapeworm isn't too bad. It borrows elements from Atari's Surro
   <game>
     <path>./Asteroids (1981) (Atari) [!].zip</path>
     <name>Asteroids</name>
-    <desc>The objective of Asteroids is to score as many points as possible by destroying asteroids and flying saucers. The player controls a triangular-shaped ship that can rotate left and right, fire shots straight forward, and thrust forward. As the ship moves, momentum is not conserved &#x2014; the ship eventually comes to a stop again when not thrusting. The player can also send their ship into hyperspace, causing it to disappear and reappear in a random location on the screen (with the risk of self-destructing or appearing on top of an asteroid).</desc>
+    <desc>The objective of Asteroids is to score as many points as possible by destroying asteroids and flying saucers. The player controls a triangular-shaped ship that can rotate left and right, fire shots straight forward, and thrust forward. As the ship moves, momentum is not conserved &amp;#x2014; the ship eventually comes to a stop again when not thrusting. The player can also send their ship into hyperspace, causing it to disappear and reappear in a random location on the screen (with the risk of self-destructing or appearing on top of an asteroid).</desc>
     <image>~/.emulationstation/downloaded_images/atari2600/Asteroids (1981) (Atari) [!]-image.jpg</image>
     <rating>0.78</rating>
     <releasedate>19790801T000000</releasedate>
@@ -5890,7 +5879,7 @@ WARNING: Beware the savage attack of the shaggy marsupods.</desc>
     <name>Space War (Space Combat)</name>
     <desc>The cartridge comes programmed with 17 game variations.
 
-Variations 1&#x2013;13 are duels between two ships and 14 to 17 are for one player. In some of the variations the ships fight near a planet which has gravitational attraction.</desc>
+Variations 1&amp;#x2013;13 are duels between two ships and 14 to 17 are for one player. In some of the variations the ships fight near a planet which has gravitational attraction.</desc>
     <image>~/.emulationstation/downloaded_images/atari2600/Space War (1978) (Atari) [!]-image.jpg</image>
     <rating>0</rating>
     <releasedate>19780801T000000</releasedate>
@@ -6083,7 +6072,7 @@ One small problem. We still need a pilot. Any volunteers?</desc>
     <path>./Space Invaders (1978) (Atari) [!].zip</path>
     <name>Space Invaders</name>
     <desc>Space Invaders is a game in which the player controls a laser cannon by moving it horizontally across the bottom of the screen and firing at descending aliens. 
-The aim is to defeat five rows of eleven aliens&#x2014;some versions feature different numbers&#x2014;that move horizontally back and forth across the screen as they advance towards the bottom of the screen. The player defeats an alien, and earns points, by shooting it with the laser cannon. As more aliens are defeated, the aliens' movement and the game's music both speed up.</desc>
+The aim is to defeat five rows of eleven aliens&amp;#x2014;some versions feature different numbers&amp;#x2014;that move horizontally back and forth across the screen as they advance towards the bottom of the screen. The player defeats an alien, and earns points, by shooting it with the laser cannon. As more aliens are defeated, the aliens' movement and the game's music both speed up.</desc>
     <image>~/.emulationstation/downloaded_images/atari2600/Space Invaders (1978) (Atari) [!]-image.jpg</image>
     <releasedate>19780101T000000</releasedate>
     <developer>Taito</developer>

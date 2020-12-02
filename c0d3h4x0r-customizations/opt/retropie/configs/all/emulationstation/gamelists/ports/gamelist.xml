@@ -127,7 +127,7 @@ Like libretro/RetroArch, the game is open source and its source can be obtained 
   <game>
     <path>./Giana's Return.sh</path>
     <name>Giana's Return</name>
-    <desc>Evil Swampy and his followers have stolen the magic ruby, which made it once possible for Giana and Maria to return from their dream. Many creatures are after this ruby, but does it really has power, or was it just a coincidence?As this is not bad enough, Swampy fell in love at first sight with Giana&#x2019;s sister Maria and shamelessly kidnapped her. She simply has been at the wrong place at the wrong time.You will now have to take on the role of Giana and get back the magic ruby. And most important of all, save your beloved sister Maria and get home save! Good Luck!</desc>
+    <desc>Evil Swampy and his followers have stolen the magic ruby, which made it once possible for Giana and Maria to return from their dream. Many creatures are after this ruby, but does it really has power, or was it just a coincidence?As this is not bad enough, Swampy fell in love at first sight with Giana&amp;#x2019;s sister Maria and shamelessly kidnapped her. She simply has been at the wrong place at the wrong time.You will now have to take on the role of Giana and get back the magic ruby. And most important of all, save your beloved sister Maria and get home save! Good Luck!</desc>
     <image>~/.emulationstation/downloaded_images/ports/Giana's Return-image.jpg</image>
     <rating>0</rating>
     <releasedate>20090815T000000</releasedate>
@@ -170,7 +170,7 @@ It was developed by Aron Nieminen, one of the developers of the Pocket Edition, 
 
 Part of the game's appeal was its then unique focus on environmental puzzle-solving, as well as its one-on-one sword duels. Mechner has stated that the game was inspired by the first ten minutes of Raiders of the Lost Ark, for the character's acrobatics in a dangerous environment.
 
-Prince of Persia has since been ported to a number of different platforms, including the Amiga, Apple Macintosh, DOS, NES, Game Boy, Sega Genesis, Game Gear, SNES, Sharp X68000, Atari ST, and SAM Coup&#xE9;.
+Prince of Persia has since been ported to a number of different platforms, including the Amiga, Apple Macintosh, DOS, NES, Game Boy, Sega Genesis, Game Gear, SNES, Sharp X68000, Atari ST, and SAM Coup&amp;#xE9;.
 
 The music was written by Jordan Mechner's father, Francis Mechner.</desc>
     <image>~/.emulationstation/downloaded_images/ports/Prince of Persia-image.jpg</image>
@@ -244,7 +244,7 @@ The game includes a campaign mode based upon an overworld similar to that of Sup
 
 UAC's scientists start working on quantum accelerator devices intended to close interdimensional gates and stop possible invasions. The experiments are carried out in a secret research complex, with a stationed detachment of marines. The work seems to be going well, but...
 
-The creatures from Outside have their dire attention drawn towards the new research. A gate opens in the heart of the complex and unnatural horrors pour out. The quantum accelerator performs superbly &#x2014; the gate is quickly closed and the invasion stopped. Research continues more boldly.
+The creatures from Outside have their dire attention drawn towards the new research. A gate opens in the heart of the complex and unnatural horrors pour out. The quantum accelerator performs superbly &amp;#x2014; the gate is quickly closed and the invasion stopped. Research continues more boldly.
 
 On the next day, a ring of seven gates opens and an even greater invasion commences. For a single hour the quantum accelerators manage to close six of the seven gates... but the hellish army has become too numerous and too strong. The complex is overrun. Everyone present is slain, or zombified. The last gate of Hell remains open, manned and guarded by a demon Gatekeeper.
 
@@ -299,7 +299,7 @@ In the first episode, Escape from Castle Wolfenstein, B.J., an Allied spy, has b
 
 In the second episode, Operation: Eisenfaust, B.J. finds out that the operation is real, and that Nazis are creating an army of undead mutants in Castle Hollehammer. B.J. enters the castle and confronts the mad scientist Dr. Schabbs, creator of the mutants. His defeat signals the end of this biological war.
 
-Die, F&#xFC;hrer, Die! is, chronologically, the final episode. Fighting through Nazi soldiers, and attacking the bunker under the Reichstag, he finds himself up against Adolf Hitler himself (equipped with a robotic suit and 4 Gatling guns).</desc>
+Die, F&amp;#xFC;hrer, Die! is, chronologically, the final episode. Fighting through Nazi soldiers, and attacking the bunker under the Reichstag, he finds himself up against Adolf Hitler himself (equipped with a robotic suit and 4 Gatling guns).</desc>
     <image>~/.emulationstation/downloaded_images/ports/Wolfenstein 3D demo-image.jpg</image>
     <rating>0</rating>
     <releasedate>19920101T000000</releasedate>
@@ -479,7 +479,7 @@ Armed with a pistol and dynamite, Rick must fight hostiles and evade traps in th
     <name>Desktop</name>
     <desc>'Pixel Desktop', a light-weight Linux desktop environment.  It provides some useful GUI tools and the Chromium web browser.
 
-Select "Shutdown &gt;&gt; Exit to command line" to return to RetroPie.</desc>
+Select "Shutdown &amp;gt;&amp;gt; Exit to command line" to return to RetroPie.</desc>
     <rating>0</rating>
     <releasedate>19691231T160000</releasedate>
     <playcount>4</playcount>

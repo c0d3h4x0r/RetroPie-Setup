@@ -136,7 +136,7 @@
   <game>
     <path>./Bomberman '94 Taikenban (J).cue</path>
     <name>Bomberman '94 Taikenban</name>
-    <desc>Bomberman '94 Special Version (Japanese: &#x30DC;&#x30F3;&#x30D0;&#x30FC;&#x30DE;&#x30F3;'94&#x4F53;&#x9A13;&#x7248;, Bonb&#x101;man '94 taikenhan) is a limited edition demo of Bomberman '94 released on the TurboGrafx-16 game console only in Japan in 1993.
+    <desc>Bomberman '94 Special Version (Japanese: &amp;#x30DC;&amp;#x30F3;&amp;#x30D0;&amp;#x30FC;&amp;#x30DE;&amp;#x30F3;'94&amp;#x4F53;&amp;#x9A13;&amp;#x7248;, Bonb&amp;#x101;man '94 taikenhan) is a limited edition demo of Bomberman '94 released on the TurboGrafx-16 game console only in Japan in 1993.
 Only 10,000 copies of this pre-release title were produced, and were given away exclusively through Hudson Soft's newsletter and at one of the Hudson Soft Summer Caravan events.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/tg-cd/Bomberman '94 Taikenban (J)-image.png</image>
     <developer>Hudson</developer>
@@ -200,7 +200,7 @@ The game's regular story mode revolves around Bomberman's hunt for the Golden Bo
   <game>
     <path>./Cardangels (Japan).cue</path>
     <name>Cardangels</name>
-    <desc>It&#xB4;s a card game from Fujicom named Cardangels. In this PC-ENGINE game, you can choose among 4 different kinds of card games: Poker, Black Jack, Babanuki and Speed.</desc>
+    <desc>It&amp;#xB4;s a card game from Fujicom named Cardangels. In this PC-ENGINE game, you can choose among 4 different kinds of card games: Poker, Black Jack, Babanuki and Speed.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/tg-cd/Cardangels (Japan)-image.jpg</image>
     <developer>Fujicom</developer>
     <publisher>Fujicom</publisher>
@@ -364,7 +364,7 @@ The Monastery at Ya-Brodin has fallen to the Cult of Deaths and the Brotherhood 
   <game>
     <path>./Exile [U][CD][WTG990101][Telenet Japan][1992][PCE][thx-1138-darkwater].cue</path>
     <name>Exile</name>
-    <desc>Become Sadler the desert warrior as he travels the known world in search of the precious Holimax!  Join forces with Rumi, Kindi, and Fakhyle to piece together the puzzle that will allow you to find the Holimax and use it to overthrow the ruthless Klispin Crusaders!  But keep your cool!  In this quest, you&#x2019;ll have to jump through haunted forests, plan a jailbreak, slink thought creepy towers, and defeat terrifying monsters if you&#x2019;re going to get anywhere!  Hurry!  There is only one Holimax, and the enemy forces are closing in!</desc>
+    <desc>Become Sadler the desert warrior as he travels the known world in search of the precious Holimax!  Join forces with Rumi, Kindi, and Fakhyle to piece together the puzzle that will allow you to find the Holimax and use it to overthrow the ruthless Klispin Crusaders!  But keep your cool!  In this quest, you&amp;#x2019;ll have to jump through haunted forests, plan a jailbreak, slink thought creepy towers, and defeat terrifying monsters if you&amp;#x2019;re going to get anywhere!  Hurry!  There is only one Holimax, and the enemy forces are closing in!</desc>
     <image>/home/pi/.emulationstation/downloaded_images/tg-cd/Exile [U][CD][WTG990101][Telenet Japan][1992][PCE][thx-1138-darkwater]-image.jpg</image>
     <rating>0.9</rating>
     <releasedate>19910329T000000</releasedate>
@@ -423,7 +423,7 @@ Three characters returning from the first Fatal Fury: Duck King, Tung Fu Rue and
   </game>
   <game>
     <path>./Faussete Amour (NTSC-J) [NXCD2017].cue</path>
-    <name>Fausett&#xE9; amour</name>
+    <name>Fausett&amp;#xE9; amour</name>
     <desc>This is the adventures of Koruku Ransu, a young blue-haired warrior. The evil lord Goat Bone has kidnaped her beloved sister and also controls the minds of most of her best friends. Koruku wears a strong pink armor  Through seven long stages, one of Kokuru's friend awaits at the end of each one of them - however, she will have to defeat their dark side first and free their controlled minds.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/tg-cd/Faussete Amour (NTSC-J) [NXCD2017]-image.jpg</image>
     <releasedate>19930326T000000</releasedate>
@@ -457,7 +457,7 @@ Three characters returning from the first Fatal Fury: Duck King, Tung Fu Rue and
     <name>Forgotten Worlds</name>
     <desc>The Turbografx-16 version of the arcade smash.
 
-It was released as a Super CD-ROM&#xB2; title which supported a specialized 3-button controller that NEC released only in Japan. An American version for the TurboGrafx 16 was released by Turbo Technologies Inc. as well. With the 3-button controller, the player can control their character as they would in the Mega Drive version, with two buttons to rotate the character and one to shoot. 
+It was released as a Super CD-ROM&amp;#xB2; title which supported a specialized 3-button controller that NEC released only in Japan. An American version for the TurboGrafx 16 was released by Turbo Technologies Inc. as well. With the 3-button controller, the player can control their character as they would in the Mega Drive version, with two buttons to rotate the character and one to shoot. 
 
 With the standard TurboGrafx-16 controller, the Run button is used in the place of the third button to rotate the character to the left. The TurboGrafx-16 is one-player only, but allows the player to select between either of the two Unknown Soldiers at the start of the game (with their respective abilities from the arcade version retained).</desc>
     <image>/home/pi/.emulationstation/downloaded_images/tg-cd/Forgotten Worlds [U][SCD][TGXCD1030][Capcom][1992][PCE][aguichor]-image.jpg</image>
@@ -607,7 +607,7 @@ With the standard TurboGrafx-16 controller, the Run button is used in the place 
   <game>
     <path>./Horror Story (NTSC-J) [NAPR-1027].cue</path>
     <name>Horror Story</name>
-    <desc>Demon's World, released in Japan as Horror Story (&#x30DB;&#x30E9;&#x30FC;&#x30B9;&#x30C8;&#x30FC;&#x30EA;&#x30FC;?), is a platformer arcade game that was developed by Toaplan and published by Taito in 1989. This game is multi-regional, meaning that it can be configured for different regions via the DIP switches. These settings change the legal warnings, can display the Taito licensing message and can change the title between the English version (Demon's World) and the Japanese version (Horror Story).</desc>
+    <desc>Demon's World, released in Japan as Horror Story (&amp;#x30DB;&amp;#x30E9;&amp;#x30FC;&amp;#x30B9;&amp;#x30C8;&amp;#x30FC;&amp;#x30EA;&amp;#x30FC;?), is a platformer arcade game that was developed by Toaplan and published by Taito in 1989. This game is multi-regional, meaning that it can be configured for different regions via the DIP switches. These settings change the legal warnings, can display the Taito licensing message and can change the title between the English version (Demon's World) and the Japanese version (Horror Story).</desc>
     <image>/home/pi/.emulationstation/downloaded_images/tg-cd/Horror Story (NTSC-J) [NAPR-1027]-image.jpg</image>
     <developer>Taoplan</developer>
     <publisher>Taito</publisher>
@@ -908,7 +908,7 @@ Nekketsu Koukou Dodgeball Bu: CD Soccer Hen presents the classic soccer game wit
   <game>
     <path>./Nexzr (NTSC-J) [NXCD2014].cue</path>
     <name>Nexzr</name>
-    <desc>Space based vertically scrolling shoot &#x2018;em up, similar in style to Super Star Solider, but far more challenging.</desc>
+    <desc>Space based vertically scrolling shoot &amp;#x2018;em up, similar in style to Super Star Solider, but far more challenging.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/tg-cd/Nexzr (NTSC-J) [NXCD2014]-image.jpg</image>
     <releasedate>19921211T000000</releasedate>
     <developer>Naxat soft</developer>
@@ -1073,7 +1073,7 @@ The game has a multiplayer mode, which allows two players to try to outmaneuver 
     <desc>Zonk is back in Super Air Zonk!!
 
 Now moving to a rockabilly beat and able to transform into nine different characters, Zonk lets loose through seven action-packed stages in another battle against his arch nemesis, Sandro Vitch. Power up Zonk with the classic Meat item, eventually turning him into the champion of justice, Ultra Zonk, or the fearsome Tyrano Zonk in the latter stages of the game.
-Read More&gt;&gt;
+Read More&amp;gt;&amp;gt;
 
 After rescuing his friends from enemies, Zonk can also morph with them to combine powers. Fight enemies with killer tunes belted out from a trusty microphone. Hurl freshly made sushi at them. With its variety of wacky attacks, Super Air Zonk has a sense of humor all its own.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/tg-cd/Super Air Zonk (U)-image.jpg</image>
@@ -1086,7 +1086,7 @@ After rescuing his friends from enemies, Zonk can also morph with them to combin
   <game>
     <path>./Super Darius (J).cue</path>
     <name>Super Darius</name>
-    <desc>Super Darius is a 1990 port of Darius for the PC Engine CD-ROM&#xB2;, and the only attempt at an accurate port of the game for many years; it even uses recordings of music and sound effects straight from the PCB! Its other claim to fame is the introduction of all 26 bosses from the original draft for Darius, some of which were earlier seen on promotional material and some of which were used in Darius II instead.
+    <desc>Super Darius is a 1990 port of Darius for the PC Engine CD-ROM&amp;#xB2;, and the only attempt at an accurate port of the game for many years; it even uses recordings of music and sound effects straight from the PCB! Its other claim to fame is the introduction of all 26 bosses from the original draft for Darius, some of which were earlier seen on promotional material and some of which were used in Darius II instead.
 
 A "light" version for normal PC Engines, Darius Plus, was released later in the year. At the time that was released, owning both versions allowed you to get Darius Alpha.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/tg-cd/Super Darius (J)-image.png</image>
@@ -1122,7 +1122,7 @@ Another new feature in Darius II is the appearance of minibosses known as "capta
     <name>Super Raiden</name>
     <desc>A conversion of the classic arcade shoot 'em up, Raiden follows the conventions of the genre with coloured power up pods that give different weapons when collected. 
 
-Raiden is one of the all-time greats in the annals of shoot 'em up history. It&#x2019;s not just the excellent graphics and sounds, but the engaging gameplay that keeps you addicted for ages. It&#x2019;s also capable of throwing up some hair-raising moments, and bullet dodging skills are pushed to the extreme</desc>
+Raiden is one of the all-time greats in the annals of shoot 'em up history. It&amp;#x2019;s not just the excellent graphics and sounds, but the engaging gameplay that keeps you addicted for ages. It&amp;#x2019;s also capable of throwing up some hair-raising moments, and bullet dodging skills are pushed to the extreme</desc>
     <image>/home/pi/.emulationstation/downloaded_images/tg-cd/Super Raiden (J)-image.jpg</image>
     <developer/>
     <publisher/>
@@ -1242,9 +1242,9 @@ Fifteen years pass, and Galgear manages to break out of his prison, kidnapping t
   <game>
     <path>./Ys IV - The Dawn of Ys [TRANSLATED][J][SCD].cue</path>
     <name>Ys IV: The Dawn of Ys</name>
-    <desc>Two years after defeating Darm and bringing peace to Esteria, Adol returns to the town of Minea with his companion in adventure, Dogi. Everything seems fine as friends are reunited and the people hail their hero, but there&#x2019;s an unseen evil looming in the air. As Adol goes to the seer Sara, she tells him of an even greater darkness in the land of Celceta and asks the red-haired swordsman to go there and seek the truth behind this mystery. Thus, Adol steals away unnoticed in the middle of the night to embark on his next adventure.
+    <desc>Two years after defeating Darm and bringing peace to Esteria, Adol returns to the town of Minea with his companion in adventure, Dogi. Everything seems fine as friends are reunited and the people hail their hero, but there&amp;#x2019;s an unseen evil looming in the air. As Adol goes to the seer Sara, she tells him of an even greater darkness in the land of Celceta and asks the red-haired swordsman to go there and seek the truth behind this mystery. Thus, Adol steals away unnoticed in the middle of the night to embark on his next adventure.
 
-In Celceta, Adol will learn of the Romun Empire&#x2019;s ambitions, fight the mysterious Clan of Darkness that seeks to ressurect their long dead leader, and discover the ancient history of Celceta itself as well as its connection to the land of Ys. The last survivor of a forgotten race of winged beings holds the power that may bring back darkness to the land, and only Adol will be able to stop it.</desc>
+In Celceta, Adol will learn of the Romun Empire&amp;#x2019;s ambitions, fight the mysterious Clan of Darkness that seeks to ressurect their long dead leader, and discover the ancient history of Celceta itself as well as its connection to the land of Ys. The last survivor of a forgotten race of winged beings holds the power that may bring back darkness to the land, and only Adol will be able to stop it.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/tg-cd/Ys IV - The Dawn of Ys [TRANSLATED][J][SCD]-image.png</image>
     <releasedate>19931222T000000</releasedate>
     <developer>Falcom</developer>
@@ -1253,7 +1253,7 @@ In Celceta, Adol will learn of the Romun Empire&#x2019;s ambitions, fight the my
   </game>
   <game>
     <path>./Yu Yu Hakusho (1993) (Banpresto) (J).cue</path>
-    <name>Y&#x16B; Y&#x16B; Hakusho Yamish&#x14D;bu!! Ankoku Bujutsu Kai</name>
+    <name>Y&amp;#x16B; Y&amp;#x16B; Hakusho Yamish&amp;#x14D;bu!! Ankoku Bujutsu Kai</name>
     <image>/home/pi/.emulationstation/downloaded_images/tg-cd/Yu Yu Hakusho (1993) (Banpresto) (J)-image.jpg</image>
     <developer/>
     <publisher/>
@@ -1329,7 +1329,7 @@ Lemmings was one of the best-received video games of the early 1990s. It was the
   <game>
     <path>./Populous - The Promised Lands (Japan) (Rev 3).cue</path>
     <name>Populous: The Promised Lands</name>
-    <desc>This Data Disk for Populous adds five new landscape types: Wild West, Silly Land, Block Land, R&#xC3;&#xA9;volution Fran&#xC3;&#xA7;aise and Bit Plains. The types can be used to create new maps in Paint Map mode and the disk also has 500 new maps for Conquest mode.</desc>
+    <desc>This Data Disk for Populous adds five new landscape types: Wild West, Silly Land, Block Land, R&amp;#xC3;&amp;#xA9;volution Fran&amp;#xC3;&amp;#xA7;aise and Bit Plains. The types can be used to create new maps in Paint Map mode and the disk also has 500 new maps for Conquest mode.</desc>
     <image>/home/pi/.emulationstation/downloaded_media/tg-cd/screenshots/Populous - The Promised Lands (Japan) (Rev 3).png</image>
     <marquee>/home/pi/.emulationstation/downloaded_media/tg-cd/marquees/Populous - The Promised Lands (Japan) (Rev 3).png</marquee>
     <rating>0</rating>
@@ -1405,11 +1405,11 @@ Lemmings was one of the best-received video games of the early 1990s. It was the
   <game>
     <path>./Strider Hiryu (J).cue</path>
     <name>Strider Hiryu</name>
-    <desc>Strider, released in Japan as Strider Hiry&#x16B; (&#x30B9;&#x30C8;&#x30E9;&#x30A4;&#x30C0;&#x30FC;&#x98DB;&#x7ADC;?) is a 1989 side-scrolling platform game released for the CP System arcade hardware by Capcom. It became one of Capcom's early hits before Street Fighter II, revered for its innovative gameplay and multilingual voice clips during cutscenes (presented in English, Japanese, Mandarin, Russian and Spanish). 
+    <desc>Strider, released in Japan as Strider Hiry&amp;#x16B; (&amp;#x30B9;&amp;#x30C8;&amp;#x30E9;&amp;#x30A4;&amp;#x30C0;&amp;#x30FC;&amp;#x98DB;&amp;#x7ADC;?) is a 1989 side-scrolling platform game released for the CP System arcade hardware by Capcom. It became one of Capcom's early hits before Street Fighter II, revered for its innovative gameplay and multilingual voice clips during cutscenes (presented in English, Japanese, Mandarin, Russian and Spanish). 
 
 Strider is set in a dystopian future in the year 2048, where a mysterious dictator known as the "Grandmaster" rules over the world. Hiryu, the youngest ever Super A Ranked[2] member of a organization of high-tech ninja-like agents known as the "Striders", is alone tasked with the Grandmaster's assassination. Hiryu begins his mission by infiltrating the Grandmaster's capital at the Kazakh Soviet Socialist Republic. 
 
-NEC Avenue produced a PC Engine version of Strider Hiryu, which was released exclusively in Japan on September 22, 1994. The PC Engine version was released as a CD-ROM&#xB2; title which requires the Arcade Card expansion. The PC Engine port features an all-new desert stage that was not in the arcade version, as well as newly recorded cut-scenes, music and dialogue, with Japanese voice actor Kaneto Shiozawa as the voice of Hiryu and K&#x14D;ji Totani as the Grand Master. The PC Engine version is notable for its long development process, having been planned in various formats, including the ill-fated SuperGrafx at one point</desc>
+NEC Avenue produced a PC Engine version of Strider Hiryu, which was released exclusively in Japan on September 22, 1994. The PC Engine version was released as a CD-ROM&amp;#xB2; title which requires the Arcade Card expansion. The PC Engine port features an all-new desert stage that was not in the arcade version, as well as newly recorded cut-scenes, music and dialogue, with Japanese voice actor Kaneto Shiozawa as the voice of Hiryu and K&amp;#x14D;ji Totani as the Grand Master. The PC Engine version is notable for its long development process, having been planned in various formats, including the ill-fated SuperGrafx at one point</desc>
     <image>/home/pi/.emulationstation/downloaded_images/tg-cd/Strider Hiryu (J)-image.jpg</image>
     <releasedate>19940922T000000</releasedate>
     <developer>Capcom</developer>
@@ -1508,7 +1508,7 @@ NEC Avenue produced a PC Engine version of Strider Hiryu, which was released exc
   <game>
     <path>./Conan (J).cue</path>
     <name>Mirai Shounen Conan</name>
-    <desc>Straightforward platform game based on famous anime director Hayao Miyazaki&#x2019;s TV series.</desc>
+    <desc>Straightforward platform game based on famous anime director Hayao Miyazaki&amp;#x2019;s TV series.</desc>
     <image>~/.emulationstation/downloaded_images/tg-cd/Conan (J)-image.jpg</image>
     <rating>0</rating>
     <releasedate>19920228T000000</releasedate>
@@ -1643,7 +1643,7 @@ After becoming the beast, the character can face the end-level boss, though the 
   <game>
     <path>./Gate of Thunder 3-in-1 [U][SCD][TGXCD1026][Red][1992][PCE].cue</path>
     <name>Gate of Thunder</name>
-    <desc>Aries was a peaceful and calm planet for millennia; however, it is now faced with its worst crisis. The deadly army of Obellon fighters led by General Don Jingi, the evil merchant known to do anything for personal gain, is out to steal the &#x201C;Starlight,&#x201D; a powerful source of energy that could destroy the universe if misused. You must properly guide the &#x201C;Hunting Dog&#x201D; fighter-plane along with Hawk and Esty (special undercover agents protecting the Galaxy) to destroy Obellon before they destroy the world. 
+    <desc>Aries was a peaceful and calm planet for millennia; however, it is now faced with its worst crisis. The deadly army of Obellon fighters led by General Don Jingi, the evil merchant known to do anything for personal gain, is out to steal the &amp;#x201C;Starlight,&amp;#x201D; a powerful source of energy that could destroy the universe if misused. You must properly guide the &amp;#x201C;Hunting Dog&amp;#x201D; fighter-plane along with Hawk and Esty (special undercover agents protecting the Galaxy) to destroy Obellon before they destroy the world. 
 
 You are the last resort of our planet.</desc>
     <image>~/.emulationstation/downloaded_images/tg-cd/Gate of Thunder 3-in-1 [U][SCD][TGXCD1026][Red][1992][PCE]-image.jpg</image>

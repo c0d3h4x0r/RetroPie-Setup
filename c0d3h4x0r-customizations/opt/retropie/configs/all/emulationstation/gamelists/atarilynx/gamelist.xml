@@ -3,7 +3,7 @@
   <game id="23773" source="theGamesDB.net">
     <path>./Awesome Golf (1991)(Atari Corp).zip</path>
     <name>Awesome Golf</name>
-    <desc>You are on the 18th tee, one stroke behind the defending champion. Do you take your caddy&#x2019;s advice and play it safe, or do you risk the water? Awesome Golf provides great realism and a challenge for one to four players.</desc>
+    <desc>You are on the 18th tee, one stroke behind the defending champion. Do you take your caddy&amp;#x2019;s advice and play it safe, or do you risk the water? Awesome Golf provides great realism and a challenge for one to four players.</desc>
     <image>~/.emulationstation/downloaded_images/atarilynx/Awesome Golf (1991)(Atari Corp)-image.png</image>
     <releasedate>19910314T000000</releasedate>
     <developer>HandMade Software</developer>
@@ -404,20 +404,6 @@ The Atari Lynx version closely followed the arcade version. However, the layout 
     <publisher/>
     <genre>Shooter</genre>
   </game>
-  <game id="27053" source="theGamesDB.net">
-    <path>./Super Asteroids &amp; Missile Command (1994)(Atari Corp)[a].zip</path>
-    <name>Super Asteroids &amp; Missile Command</name>
-    <desc>Super Asteroids &amp; Missile Command (also known as Super Asteroids and Super Missile Command as seen on the title screen) is an Atari Lynx video game that combines the classic video games Asteroids and Missile Command into a single game cartridge.
-
-Released in 1995 according to Moby Games, The graphics and sound are enhanced from their original incarnations. This game was only released in North America and Europe. Being the final game ever released by Atari for the Atari Lynx, this game would ultimately begin an era where Atari would produce games for other console systems as opposed to their own.
-
-Super Asteroids pits the player against a never ending supply of extraterrestrial debris and enemy UFOs trained to kill any human spacecraft. He must destroy everything while snatching power-ups. Super Missile Command has the player defend various of his space colonies from incoming missiles, satellites, and enemy fighters. Intermissions allow players to buy better missiles and defense system to bolster up his defense of his space colonies.</desc>
-    <image>~/.emulationstation/downloaded_images/atarilynx/Super Asteroids &amp; Missile Command (1994)(Atari Corp)[a]-image.jpg</image>
-    <releasedate>19950802T000000</releasedate>
-    <developer>Atari</developer>
-    <publisher/>
-    <genre>Shooter</genre>
-  </game>
   <game id="27043" source="theGamesDB.net">
     <path>./Super Off Road (1993)(Telegames).zip</path>
     <name>Super Off Road</name>
@@ -457,7 +443,7 @@ Steel Talons was ported to the Sega Mega Drive/Genesis, Atari Lynx handheld, Ata
   <game id="27046" source="theGamesDB.net">
     <path>./Toki (1990)(Atari Corp).zip</path>
     <name>Toki</name>
-    <desc>Toki, known in Japan as JuJu Densetsu (JuJu&#x4F1D;&#x8AAC;?) is a 1989 shoot 'em up platformer arcade game, or a "run and gun" developed and published in Japan by TAD Corporation and published in North America by Fabtek. It was designed by Akira Sakuma and features elements of tongue-in-cheek humor combined with the action. The player takes control of an enchanted ape who must battle hordes of jungle monsters with energy balls from his mouth. The ultimate goal is to destroy the evil wizard who cast a spell on the title protagonist; thereby transforming him from an ape back into a human, and rescuing the kidnapped princess. The game was ported to several video game consoles and home computers.
+    <desc>Toki, known in Japan as JuJu Densetsu (JuJu&amp;#x4F1D;&amp;#x8AAC;?) is a 1989 shoot 'em up platformer arcade game, or a "run and gun" developed and published in Japan by TAD Corporation and published in North America by Fabtek. It was designed by Akira Sakuma and features elements of tongue-in-cheek humor combined with the action. The player takes control of an enchanted ape who must battle hordes of jungle monsters with energy balls from his mouth. The ultimate goal is to destroy the evil wizard who cast a spell on the title protagonist; thereby transforming him from an ape back into a human, and rescuing the kidnapped princess. The game was ported to several video game consoles and home computers.
 
 Due to its popularity, within the next two years the game was ported to a larger number of home video game consoles and home computers of the time. Ocean Software published versions for the Amiga and Atari ST versions, They also advertised versions for the ZX Spectrum and Amstrad CPC and the Spectrum version was previewed in issue 90 of Crash Magazine, but neither port materialized. Taito published ports for the Atari Lynx and the Nintendo Entertainment System. The latter version of the game was slightly altered and featured a health bar so that Toki didn't die after one hit.
 
@@ -761,13 +747,13 @@ In the distance you see an enemy vulture appear on a creator pad. You ready your
   <game>
     <path>./Qix (1991)(Telegames).zip</path>
     <name>QIX</name>
-    <desc>The objective of Qix is to fence off, or &#x201C;claim&#x201D;, a supermajority of the playfield. At the start of each level, the playing field is a large, empty rectangle, containing the Qix &#x2014; a sticklike entity that performs graceful but unpredictable motions within the confines of the rectangle.
+    <desc>The objective of Qix is to fence off, or &amp;#x201C;claim&amp;#x201D;, a supermajority of the playfield. At the start of each level, the playing field is a large, empty rectangle, containing the Qix &amp;#x2014; a sticklike entity that performs graceful but unpredictable motions within the confines of the rectangle.
 
 The player controls a Stix that can move around the edges of the rectangle. Holding down one of the draw buttons allows the marker to move into unclaimed territory in an attempt to create a closed shape. If completed, the captured area (defined as the side opposite of where the Qix is) becomes filled in with a solid color and points are awarded. To complete a level, the player must claim 75% of the playfield (adjustable by the arcade operator to be between 50% and 90%).
 
 The player's marker can move at two different speeds; areas drawn exclusively at the slower speed (orange-red on the screenshot shown) are worth double points. It cannot cross or backtrack along a line in progress.
 
-A life is lost if the Qix touches a line as it is being drawn or if the marker is touched by any of the Sparx &#x2013; enemies that traverse all playfield edges except uncompleted lines. In addition, if the marker stops while drawing a line, a fuse will appear and burn along the uncompleted line toward the marker; if it reaches the marker, the player loses one life. The fuse disappears once the player moves the marker again. The player has no defenses against the enemies and must out-maneuver them in order to survive.
+A life is lost if the Qix touches a line as it is being drawn or if the marker is touched by any of the Sparx &amp;#x2013; enemies that traverse all playfield edges except uncompleted lines. In addition, if the marker stops while drawing a line, a fuse will appear and burn along the uncompleted line toward the marker; if it reaches the marker, the player loses one life. The fuse disappears once the player moves the marker again. The player has no defenses against the enemies and must out-maneuver them in order to survive.
 
 A meter at the top of the screen counts down to the release of additional Sparx, and the mutation of all Sparx into Super Sparx which can chase the player up an uncompleted line.
 

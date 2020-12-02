@@ -295,7 +295,7 @@ There is no regularity to the movement of the character, giving an element of lu
     <path>./Asterix (UE) (M5) [!].zip</path>
     <name>Asterix</name>
     <desc>OBELIX has disappeared !...
-To &#xFB01;nd Obelix travel throughout Gaul, across the Roman Empire, taking your search as far afield as the Egyptian Pyramids while battling with the Roman armies and avoiding Caesar&#x2019;s spies. Magic potion, Romans, fights, punches, catapults, wild boars, not forgetting the &#xFB01;sh that is not quite &#x201C;fresh&#x201D;... RELIVE THE ADVENTURES OF ASTERIX THE GAUL !</desc>
+To &amp;#xFB01;nd Obelix travel throughout Gaul, across the Roman Empire, taking your search as far afield as the Egyptian Pyramids while battling with the Roman armies and avoiding Caesar&amp;#x2019;s spies. Magic potion, Romans, fights, punches, catapults, wild boars, not forgetting the &amp;#xFB01;sh that is not quite &amp;#x201C;fresh&amp;#x201D;... RELIVE THE ADVENTURES OF ASTERIX THE GAUL !</desc>
     <image>/home/pi/.emulationstation/downloaded_images/gb/Asterix (UE) (M5) [!]-image.png</image>
     <releasedate>19930611T000000</releasedate>
     <developer>Bit Managers</developer>
@@ -457,9 +457,9 @@ After finishing all 48 levels, the game proclaims that the "battle is over" and 
   <game>
     <path>./Battle Unit Zeoth (U) [!].zip</path>
     <name>Battle Unit Zeoth</name>
-    <desc>Battle Unit Zeoth takes place in the future where mankind is invaded by a race of alien robots known as the Grein. The Earth&#x2019;s forces were triumphant in battle and the Grein forces fled the Solar System. However, as they retreated, the Grein left behind a secret underground base filled with self-replicating Grein machines.
+    <desc>Battle Unit Zeoth takes place in the future where mankind is invaded by a race of alien robots known as the Grein. The Earth&amp;#x2019;s forces were triumphant in battle and the Grein forces fled the Solar System. However, as they retreated, the Grein left behind a secret underground base filled with self-replicating Grein machines.
 
-Forty-two years after the Earth&#x2019;s victory, the Grein base opened and a new attack force decimated the city of New Age. To retaliate, Earth&#x2019;s military has stored a mecha that specializes in alien combat known as the Zeoth. It is the Zeoth&#x2019;s assignment to stop the attack force, go into the Grein secret base and destroy the mechanical occupants before a new invasion force arrives.</desc>
+Forty-two years after the Earth&amp;#x2019;s victory, the Grein base opened and a new attack force decimated the city of New Age. To retaliate, Earth&amp;#x2019;s military has stored a mecha that specializes in alien combat known as the Zeoth. It is the Zeoth&amp;#x2019;s assignment to stop the attack force, go into the Grein secret base and destroy the mechanical occupants before a new invasion force arrives.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/gb/Battle Unit Zeoth (U) [!]-image.jpg</image>
     <releasedate>19910701T000000</releasedate>
     <developer>Jaleco</developer>
@@ -469,9 +469,9 @@ Forty-two years after the Earth&#x2019;s victory, the Grein base opened and a ne
   <game>
     <path>./Battletoads (U) [!].zip</path>
     <name>Battletoads</name>
-    <desc>&#x2019;TOAD-NAPPED!
+    <desc>&amp;#x2019;TOAD-NAPPED!
 
-While partying on Lost Vega, a deep-space leisure station, the three Battletoads&#x2014;Zitz, Rash and Pimple&#x2014;get pleasantly side-tracked by a Thallian Thorax Dancer. Unfortunately, the dancer soon reveals herself as the evil Dark Queen! The &#x2018;toads fight valiantly against overwhelming odds, but are eventually overpowered. Rash and Pimple are taken prisoner, but luckily, Zitz makes it to the Toadster and burns space back to the Vulture and the Battletoads&#x2019; mentor, Professor T. Bird. So, Zitz, the Dark Queen&#x2019;s &#x2018;toadnapped your best buddies&#x2014;what&#x2019;re you gonna do about it? You&#x2019;re gonna get real MAD, that&#x2019;s what&#x2014;then you&#x2019;re gonna get EVEN! Once you get to Armagedda, the Dark Queen&#x2019;s planet, you&#x2019;ve got a long way to go&#x2014;into caverns, across swamps and even through the belly of the dreaded Wurm. And ultimately, you&#x2019;re gonna have to defeat the terrible, the towering, the truly &#x2019;toadsplatting Robo-Manus mutant! Have you got what it takes to be a bonafide Battletoad? We&#x2019;ll soon see, one way or another&#x2026;</desc>
+While partying on Lost Vega, a deep-space leisure station, the three Battletoads&amp;#x2014;Zitz, Rash and Pimple&amp;#x2014;get pleasantly side-tracked by a Thallian Thorax Dancer. Unfortunately, the dancer soon reveals herself as the evil Dark Queen! The &amp;#x2018;toads fight valiantly against overwhelming odds, but are eventually overpowered. Rash and Pimple are taken prisoner, but luckily, Zitz makes it to the Toadster and burns space back to the Vulture and the Battletoads&amp;#x2019; mentor, Professor T. Bird. So, Zitz, the Dark Queen&amp;#x2019;s &amp;#x2018;toadnapped your best buddies&amp;#x2014;what&amp;#x2019;re you gonna do about it? You&amp;#x2019;re gonna get real MAD, that&amp;#x2019;s what&amp;#x2014;then you&amp;#x2019;re gonna get EVEN! Once you get to Armagedda, the Dark Queen&amp;#x2019;s planet, you&amp;#x2019;ve got a long way to go&amp;#x2014;into caverns, across swamps and even through the belly of the dreaded Wurm. And ultimately, you&amp;#x2019;re gonna have to defeat the terrible, the towering, the truly &amp;#x2019;toadsplatting Robo-Manus mutant! Have you got what it takes to be a bonafide Battletoad? We&amp;#x2019;ll soon see, one way or another&amp;#x2026;</desc>
     <image>/home/pi/.emulationstation/downloaded_images/gb/Battletoads (U) [!]-image.png</image>
     <releasedate>19911101T000000</releasedate>
     <developer>Rare</developer>
@@ -825,7 +825,7 @@ Unlike the original BurgerTime, which had less than 10 different non-scrolling s
   <game>
     <path>./Castlevania Adventure, The (U) [!].zip</path>
     <name>Castlevania: The Adventure</name>
-    <desc>Castlevania: The Adventure, known as Dracula Densetsu (&#x30C9;&#x30E9;&#x30AD;&#x30E5;&#x30E9;&#x4F1D;&#x8AAC;, officially translated The Legend of Dracula) in Japan, is a platform game released for the Game Boy in 1989. It is the first Castlevania title for the system.
+    <desc>Castlevania: The Adventure, known as Dracula Densetsu (&amp;#x30C9;&amp;#x30E9;&amp;#x30AD;&amp;#x30E5;&amp;#x30E9;&amp;#x4F1D;&amp;#x8AAC;, officially translated The Legend of Dracula) in Japan, is a platform game released for the Game Boy in 1989. It is the first Castlevania title for the system.
 
 Set a century before the events of the original Castlevania, the player controls an ancestor of Simon Belmont named Christopher Belmont who goes on a quest to defeat Dracula.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/gb/Castlevania Adventure, The (U) [!]-image.png</image>
@@ -840,7 +840,7 @@ Set a century before the events of the original Castlevania, the player controls
     <name>Catrap</name>
     <desc>Banished to a mysterious underground labyrinth of complex mazes, two explorers are faced with one chance to reverse the curse: solve all 100 puzzles set out in mazes before them.
 
-But watch it! Every maze has monsters patrolling the depths of the labyrinth. Help Catgirl and Catboy push around huge blocks to bridge a path to yet another maze, or topple a block a few stories over the pursuing monsters. If you make a mistake, simply use the rewind function and travel back in time to correct it. With 100 mazes in this labyrinth, it will be quite a challenge to get out of the curse&#x2019;s reach.
+But watch it! Every maze has monsters patrolling the depths of the labyrinth. Help Catgirl and Catboy push around huge blocks to bridge a path to yet another maze, or topple a block a few stories over the pursuing monsters. If you make a mistake, simply use the rewind function and travel back in time to correct it. With 100 mazes in this labyrinth, it will be quite a challenge to get out of the curse&amp;#x2019;s reach.
 
 Catrap is more than just a game of mindbending intrigue and action. Be the architect of the underground labyrinth and make your own games of intricate mazes.
 
@@ -1216,7 +1216,7 @@ Fygars - A race of green dragons who can breathe fire.</desc>
   <game>
     <path>./Duck Tales (U) [!].zip</path>
     <name>DuckTales</name>
-    <desc>DuckTales (&#x308F;&#x3093;&#x3071;&#x304F;&#x30C0;&#x30C3;&#x30AF;&#x5922;&#x5192;&#x967A; Wanpaku Dakku Yume B&#x14D;ken?, lit. "Naughty Ducks Dream Adventures") is an action platformer video game developed and published by Capcom and based on the Disney animated TV series of the same name. It was first released in North America for the Nintendo Entertainment System in 1989 and was later ported to the Game Boy in 1990. The story involves Scrooge McDuck traveling around the globe collecting treasure and outwitting his rival Flintheart Glomgold to become the world's richest duck.</desc>
+    <desc>DuckTales (&amp;#x308F;&amp;#x3093;&amp;#x3071;&amp;#x304F;&amp;#x30C0;&amp;#x30C3;&amp;#x30AF;&amp;#x5922;&amp;#x5192;&amp;#x967A; Wanpaku Dakku Yume B&amp;#x14D;ken?, lit. "Naughty Ducks Dream Adventures") is an action platformer video game developed and published by Capcom and based on the Disney animated TV series of the same name. It was first released in North America for the Nintendo Entertainment System in 1989 and was later ported to the Game Boy in 1990. The story involves Scrooge McDuck traveling around the globe collecting treasure and outwitting his rival Flintheart Glomgold to become the world's richest duck.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/gb/Duck Tales (U) [!]-image.jpg</image>
     <rating>0</rating>
     <releasedate>19900701T000000</releasedate>
@@ -1238,7 +1238,7 @@ Fygars - A race of green dragons who can breathe fire.</desc>
   <game>
     <path>./Earthworm Jim (U) [!].zip</path>
     <name>Earthworm Jim</name>
-    <desc>Now you can eat dirt on the road. Earthworm Jim&#x2122;, winner of Die-Hard Game Fan's Game of the Year, Game Player's Ultimate and Electronic Gaming Monthly's Genesis Game of the Year has wormed his way onto the Game Boy. This is the tightest conversion from a 16-bit to a hand-held ever! Now the head swinging, blaze blastin' action is totally mobile. So you can eat dirt everywhere you go!</desc>
+    <desc>Now you can eat dirt on the road. Earthworm Jim&amp;#x2122;, winner of Die-Hard Game Fan's Game of the Year, Game Player's Ultimate and Electronic Gaming Monthly's Genesis Game of the Year has wormed his way onto the Game Boy. This is the tightest conversion from a 16-bit to a hand-held ever! Now the head swinging, blaze blastin' action is totally mobile. So you can eat dirt everywhere you go!</desc>
     <image>/home/pi/.emulationstation/downloaded_images/gb/Earthworm Jim (U) [!]-image.jpg</image>
     <releasedate>19950901T000000</releasedate>
     <developer>Eurocom</developer>
@@ -1284,7 +1284,7 @@ Popular on Giant Bomb.</desc>
   <game>
     <path>./F-1 Race (W) (V1.1) [!].zip</path>
     <name>F-1 Race</name>
-    <desc>F-1 Race (F1&#x30EC;&#x30FC;&#x30B9; F1 R&#x113;su) is a racing video game released in 1984 for the Family Computer in Japan. A version was released in 1990 for the Game Boy in Japan and in 1991 in Europe and North America, which included the Four Player Adapter for four player gameplay.</desc>
+    <desc>F-1 Race (F1&amp;#x30EC;&amp;#x30FC;&amp;#x30B9; F1 R&amp;#x113;su) is a racing video game released in 1984 for the Family Computer in Japan. A version was released in 1990 for the Game Boy in Japan and in 1991 in Europe and North America, which included the Four Player Adapter for four player gameplay.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/gb/F-1 Race (W) (V1.1) [!]-image.jpg</image>
     <releasedate>19910203T000000</releasedate>
     <developer>Nintendo R&amp;D1</developer>
@@ -2154,7 +2154,7 @@ Enter this exciting Metroid sequel and experience the thrills of Game Boy like n
     <name>Mickey Mouse</name>
     <desc>The Great, Exciting Adventures of the World's Super Idol Mickey Mouse
 
-Mickey Mouse's Great Adventures begin in Arbarus Castle! Rescue Mickey&#x2019;s beloved girlfriend Minnie Mouse by defeating his hilarious enemies and by safely passing through the dangerous traps. A useful continue function lets you play with Mickey for an extended period of time.</desc>
+Mickey Mouse's Great Adventures begin in Arbarus Castle! Rescue Mickey&amp;#x2019;s beloved girlfriend Minnie Mouse by defeating his hilarious enemies and by safely passing through the dangerous traps. A useful continue function lets you play with Mickey for an extended period of time.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/gb/Mickey Mouse (UE) [!]-image.jpg</image>
     <releasedate>19910426T000000</releasedate>
     <developer>Kemco</developer>
@@ -2543,7 +2543,7 @@ filled.</desc>
   <game>
     <path>./Penguin Wars (U) [!].zip</path>
     <name>Penguin Wars</name>
-    <desc>Penguin Wars (&#x307A;&#x3093;&#x304E;&#x3093;&#x304F;&#x3093;WARS Pengin-kun WARS?) is an arcade game released in 1985 by UPL. It was ported to the original Game Boy (1990), MSX and Nintendo Entertainment System by ASCII under the title Penguin Wars. The Game Boy version of the game is known as King of the Zoo in Europe and Penguin-Kun Wars Vs. in Japan.</desc>
+    <desc>Penguin Wars (&amp;#x307A;&amp;#x3093;&amp;#x304E;&amp;#x3093;&amp;#x304F;&amp;#x3093;WARS Pengin-kun WARS?) is an arcade game released in 1985 by UPL. It was ported to the original Game Boy (1990), MSX and Nintendo Entertainment System by ASCII under the title Penguin Wars. The Game Boy version of the game is known as King of the Zoo in Europe and Penguin-Kun Wars Vs. in Japan.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/gb/Penguin Wars (U) [!]-image.jpg</image>
     <releasedate>19900701T000000</releasedate>
     <developer>ASCII Entertainment</developer>
@@ -2613,7 +2613,7 @@ Games are divided into four 15-minute (accelerated real-time) quarters. There ar
   <game>
     <path>./Populous (UE) [!].zip</path>
     <name>Populous</name>
-    <desc>In this game the player adopts the role of a deity and assumes the responsibility to shepherd people by direction, manipulation, and divine intervention. The player has the ability to shape the landscape and grow their civilization &#x2013; and their divine power &#x2013; with the overall aim of having their followers conquer an enemy force, which is led by an opposing deity.</desc>
+    <desc>In this game the player adopts the role of a deity and assumes the responsibility to shepherd people by direction, manipulation, and divine intervention. The player has the ability to shape the landscape and grow their civilization &amp;#x2013; and their divine power &amp;#x2013; with the overall aim of having their followers conquer an enemy force, which is led by an opposing deity.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/gb/Populous (UE) [!]-image.jpg</image>
     <releasedate>19930101T000000</releasedate>
     <developer>Enigma Variations</developer>
@@ -2721,7 +2721,7 @@ The game closely resembled Sega's Wonder Boy in Monster Land, as certain element
   <game>
     <path>./Race Drivin' (U) [!].zip</path>
     <name>Race Drivin'</name>
-    <desc>Race Drivin&#x200A;'&#x200B; is a driving arcade game sequel (to 1989's Hard Drivin') that invites players to test drive several high-powered sports cars on stunt and speed courses. The game was part of a new generation of games that featured 3D polygon environments. Unlike most racing games of its time, it attempted to model real world car physics in the simulation of the movement of the players car.</desc>
+    <desc>Race Drivin&amp;#x200A;'&amp;#x200B; is a driving arcade game sequel (to 1989's Hard Drivin') that invites players to test drive several high-powered sports cars on stunt and speed courses. The game was part of a new generation of games that featured 3D polygon environments. Unlike most racing games of its time, it attempted to model real world car physics in the simulation of the movement of the players car.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/gb/Race Drivin' (U) [!]-image.jpg</image>
     <releasedate>19930101T000000</releasedate>
     <developer>Argonaut Games</developer>
@@ -2872,7 +2872,7 @@ Gather your wits and grab your sword! Team up with a band of worthy companions t
   <game>
     <path>./Snoopy - Magic Show (U) [!].zip</path>
     <name>Snoopy's Magic Show</name>
-    <desc>As legendary magician Snoopy the Great, you must rescue your assistant Woodstock when his attempt to perform the dangerous Magic Ball Trick goes out of control. Magic Balls are on the attack and even Woodstock has been multiplied by the runaway spell. Maneuver around ever changing barriers and escape through enchanted exits. Summon all your powers to collect Woodstocks through more than 100 levels of escalating jeopardy in&#x2026; Snoopy&#x2019;s Magic Show.</desc>
+    <desc>As legendary magician Snoopy the Great, you must rescue your assistant Woodstock when his attempt to perform the dangerous Magic Ball Trick goes out of control. Magic Balls are on the attack and even Woodstock has been multiplied by the runaway spell. Maneuver around ever changing barriers and escape through enchanted exits. Summon all your powers to collect Woodstocks through more than 100 levels of escalating jeopardy in&amp;#x2026; Snoopy&amp;#x2019;s Magic Show.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/gb/Snoopy - Magic Show (U) [!]-image.png</image>
     <releasedate>19901001T000000</releasedate>
     <developer>Kemco</developer>
@@ -2931,7 +2931,7 @@ Gather your wits and grab your sword! Team up with a band of worthy companions t
 
 Welcome to Mopoland, where the evil witch Morticia has cast an evil spell and turned all the fruits of the mighty kingdom into
 fiendish monsters. Spanky, our primate hero is on a quest. Armed with his magic ball, Spanky must hunt down Morticia through
-six grueling levels to liberate Mopoland, and save it&#x2019;s citizens from a certain famine.
+six grueling levels to liberate Mopoland, and save it&amp;#x2019;s citizens from a certain famine.
 
 -Fun, playful characters.
 -Password continue feature.
@@ -3170,7 +3170,7 @@ Add to that power a first-person out-of-tank view, blistering sound effects, and
   <game>
     <path>./Super Chase H.Q. (UE) [!].zip</path>
     <name>Super Chase H.Q.</name>
-    <desc>Chase H.Q. (&#x30C1;&#x30A7;&#x30A4;&#x30B9;H.Q.?, "Chase Headquarters") is a 1988 arcade racing game, released by Taito. It is sometimes seen as a spiritual successor to Taito's earlier Full Throttle. The player assumes the role of a police officer named Tony Gibson, member of the "Chase Special Investigation Department." Along with his partner, Raymond Broady, he must stop fleeing criminals in high-speed pursuits.
+    <desc>Chase H.Q. (&amp;#x30C1;&amp;#x30A7;&amp;#x30A4;&amp;#x30B9;H.Q.?, "Chase Headquarters") is a 1988 arcade racing game, released by Taito. It is sometimes seen as a spiritual successor to Taito's earlier Full Throttle. The player assumes the role of a police officer named Tony Gibson, member of the "Chase Special Investigation Department." Along with his partner, Raymond Broady, he must stop fleeing criminals in high-speed pursuits.
 
 The game was well received in the gaming industry, resulting in three arcade-based sequels being released: Special Criminal Investigation (1989), Super Chase: Criminal Termination (1992) and Chase H.Q. 2 (2007). Two spin-offs were also released: Crime City (1989) and Quiz H.Q. (1990).
 
@@ -3210,7 +3210,7 @@ Travel over land, in the air, and underwater. Mario makes his way through four t
     <path>./Super R.C. Pro-Am (UE) [!].zip</path>
     <name>Super R.C. Pro-AM</name>
     <desc>Super R.C. Pro-Am is a racing video game that is similar to its predecessor, R.C. Pro-Am, for the NES. In the game, players race remote control cars on a series of tracks. It can be played solo, with two-players via the Game Link Cable, or with three or four players via the Four Player Adapter. The game features 24 different tracks of increasing difficulty, and the object is to finish in the top three in order to qualify to race in the next track. Players who do not finish in the top three may use a continue and retry the track; players get three continues, and the game ends when the player fails to finish in the top three and has no continues remaining.
-Each track is different and range from standard ovals to tracks with many twists and turns. The game includes many obstacles, such as oil slicks that send players spinning, puddles of water that cause players to slide out of control, sand traps and "slow cones" that slow players down, large cones that bring players to a complete halt, and walls of tires that players bounce off. If a player hits an oil slick and then hits a wall while spinning, the player's car is temporarily destroyed, which loses time. The tracks also has items that help players along the way: "zippers" (a series of chevrons on the track) give players a speed boost, roll cages allow players to hit walls without being destroyed and allow them to crash opponents by forcing them into walls, and missiles and bombs temporarily destroy opponents' cars. Also on the track are spare parts which help improve performance&#x2014;tires improve traction, batteries increase acceleration, and engines improve speed.
+Each track is different and range from standard ovals to tracks with many twists and turns. The game includes many obstacles, such as oil slicks that send players spinning, puddles of water that cause players to slide out of control, sand traps and "slow cones" that slow players down, large cones that bring players to a complete halt, and walls of tires that players bounce off. If a player hits an oil slick and then hits a wall while spinning, the player's car is temporarily destroyed, which loses time. The tracks also has items that help players along the way: "zippers" (a series of chevrons on the track) give players a speed boost, roll cages allow players to hit walls without being destroyed and allow them to crash opponents by forcing them into walls, and missiles and bombs temporarily destroy opponents' cars. Also on the track are spare parts which help improve performance&amp;#x2014;tires improve traction, batteries increase acceleration, and engines improve speed.
 Players have the opportunity to upgrade their vehicles by collecting letters, which are distributed throughout the tracks. By spelling "Nintendo" with the letters, players upgrade to a better vehicle; players can upgrade from the "Racer" to the "Speed demon" and then to the Spiker, each of which performs progressively better than the previous vehicle. If players spell "Nintendo" while racing with the Spiker, then they win the game.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/gb/Super R.C. Pro-Am (UE) [!]-image.png</image>
     <releasedate>19910601T000000</releasedate>
@@ -3332,7 +3332,7 @@ Shredder's got his criminal mind back in the gutter and has joined forces with f
   <game>
     <path>./Teenage Mutant Ninja Turtles III - Radical Rescue (U) [!].zip</path>
     <name>Teenage Mutant Ninja Turtles III: Radical Rescue</name>
-    <desc>The whole sewer crew, except Michaelangelo, is captured in a most heinous hideout. Who could be behind this travesty? Who else. Shredder has returned as Cyber Shredder - half-man, half-machine and he&#x2018;s created this twisty-turny fun house" of Turtle torture. Use Turtle strategy and all new moves to help Michaelangelo rescue the gang from Cyber Shredder's Fortress.
+    <desc>The whole sewer crew, except Michaelangelo, is captured in a most heinous hideout. Who could be behind this travesty? Who else. Shredder has returned as Cyber Shredder - half-man, half-machine and he&amp;#x2018;s created this twisty-turny fun house" of Turtle torture. Use Turtle strategy and all new moves to help Michaelangelo rescue the gang from Cyber Shredder's Fortress.
 
 -The Turtles are sporting some radical new maneuvers. Call on each unique skill to overcome specific obstacles. It helps to round up your scrambled cohorts in a certain order.
 
@@ -3346,7 +3346,7 @@ Shredder's got his criminal mind back in the gutter and has joined forces with f
 
 -The Password feature lets you pick up your mission from the last Boss Beast you annihilated.
 
--To make it out of Shredder&#x2019;s maze of mayhem, you'll need to be as sharp as a sai sword and as tough as a team of sumo wrestlers.</desc>
+-To make it out of Shredder&amp;#x2019;s maze of mayhem, you'll need to be as sharp as a sai sword and as tough as a team of sumo wrestlers.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/gb/Teenage Mutant Ninja Turtles III - Radical Rescue (U) [!]-image.png</image>
     <releasedate>19931125T000000</releasedate>
     <developer>Konami</developer>
@@ -3532,7 +3532,7 @@ Which mysterious super villain has united all of Central City '3 underworld into
   <game>
     <path>./Incredible Crash Dummies, The (U) [!].zip</path>
     <name>The Incredible Crash Dummies</name>
-    <desc>DON'T BE A DUMMY. BUCKLE YOUR SAFETY BELT&#x2122;.
+    <desc>DON'T BE A DUMMY. BUCKLE YOUR SAFETY BELT&amp;#x2122;.
 
 It's a crashing, bashing good time guaranteed to break you up! Whether it's an avalanche of laughs on the ski slopes, the boulevard bounce after a stunt jump, or a burst of high pressure humor testing air bags, the Incredible Crash Dummies are a real crack-up! They may have a few screws loose...but the Incredible Crash Dummies will knowck themselves out so you have a good time.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/gb/Incredible Crash Dummies, The (U) [!]-image.jpg</image>
@@ -4107,46 +4107,6 @@ In and Out of the ring action: Over 40 moves per character! Signature and finish
     <players/>
   </game>
   <game>
-    <path>./untested/Simpsons, The - Bart &amp; the Beanstalk (U).zip</path>
-    <name>The Simpsons: Bart &amp; the Beanstalk</name>
-    <desc>Once upon a time... Bart Simpson had a cow, man. He traded it for some magic beans which grew into a giant beanstalk. If he can scale the stalk, overcome giant bugs, mash monstrous mice, and grab the Giant's loot, he'll become a zillionaire faster than you could say "I DIDN'T DO IT!"</desc>
-    <image>/home/pi/.emulationstation/downloaded_images/gb/Simpsons, The - Bart &amp; the Beanstalk (U)-image.png</image>
-    <rating>0</rating>
-    <releasedate>19940201T000000</releasedate>
-    <developer>Software Creations</developer>
-    <publisher>Acclaim</publisher>
-    <genre>Action</genre>
-  </game>
-  <game>
-    <path>/home/pi/RetroPie/roms/gb/untested/Mortal Kombat I &amp; II (UE) [a1][f1].zip</path>
-    <name>Mortal Kombat &amp; Mortal Kombat II</name>
-    <desc>Mortal Kombat I
-PREPARE YOURSELF...
-
-The #1 arcade hit is here: from Sub-Zero, Rayden and your favorite Kombat Warriors to the grueling endurance and intense mirror matches! Execute bone-shattering combos and ferocious finishing moves! Defeat the half-human dragon Goro, and destroy the shape-changing Shang Tsung to become the Supreme Mortal Kombat Warrior!
-
-Mortal Kombat II
-Nothing, NOTHING can prepare you! The fierce kombatants of the #1 arcade smash gather for Mortal Kombat II, a battle to defeat the shape-shifting demon Shang Tsung and his ruthless master, Shao Kahn. Brutal special moves, Babalities, hidden surprises, outrageous finishing moves -- ALL yours to kommand. Let the Kombat Kontinue...</desc>
-    <image>/home/pi/.emulationstation/downloaded_images/gb/Mortal Kombat I &amp; II (UE) [a1][f1]-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19971101T000000</releasedate>
-    <developer>Probe</developer>
-    <publisher>Acclaim</publisher>
-    <genre>Fighting</genre>
-  </game>
-  <game>
-    <path>/home/pi/RetroPie/roms/gb/untested/Itchy &amp; Scratchy - Miniature Golf Madness (U).zip</path>
-    <name>The Simpsons: Itchy &amp; Scratchy in Miniature Golf Madness</name>
-    <desc>Itchy &amp; Scratchy in Miniature Golf Madness is a miniature golf game released on the Game Boy in 1994, featuring the cat and mouse pair Itchy &amp; Scratchy from the television series The Simpsons. Developed by Beam Software, it was the first game to feature these characters. In the game, the player controls Scratchy as he plays through a miniature golf course of nine holes while at the same time avoiding Itchy's attacks. It received generally mixed to positive reviews from critics.</desc>
-    <image>/home/pi/.emulationstation/downloaded_images/gb/Itchy &amp; Scratchy - Miniature Golf Madness (U)-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19941109T000000</releasedate>
-    <developer>Acclaim</developer>
-    <publisher/>
-    <genre>Sports</genre>
-    <players/>
-  </game>
-  <game>
     <path>./Addams Family, The - Pugsley's Scavenger Hunt (U).zip</path>
     <name>The Addams Family: Pugsley's Scavenger Hunt</name>
     <desc>The plot of Pugsley's Scavenger Hunt is centered around Pugsley's attempts to win a scavenger hunt challenge proposed by his sister, Wednesday. His hunt takes him to the bedrooms of each member of the Addams family in order to find one item from each.</desc>
@@ -4218,17 +4178,17 @@ Everyone's tuning in to Batman - The Animated Series. Now, for the first time, t
     <name>Battletoads &amp; Double Dragon</name>
     <desc>The Ultimate Team!
 
-When a battle cruiser the size of a city and called the Colossus smashes out of the moon, its laser cannon glowing menacingly, you can bet it ain&#x2019;t gonna be makin&#x2019; no social calls&#x2026;
+When a battle cruiser the size of a city and called the Colossus smashes out of the moon, its laser cannon glowing menacingly, you can bet it ain&amp;#x2019;t gonna be makin&amp;#x2019; no social calls&amp;#x2026;
 
-You can bet it&#x2019;s gonna be creating some bad n&#x2019; crazy mayhem on good ol&#x2019; planet Earth- &#x2018;specially when you know that the dreaded Dark Queen and the shady Shadow Boss are on board just rarin&#x2019; to rock n&#x2019; roll&#x2026;
+You can bet it&amp;#x2019;s gonna be creating some bad n&amp;#x2019; crazy mayhem on good ol&amp;#x2019; planet Earth- &amp;#x2018;specially when you know that the dreaded Dark Queen and the shady Shadow Boss are on board just rarin&amp;#x2019; to rock n&amp;#x2019; roll&amp;#x2026;
 
-The dastardly duo are about to unleash their most monstrous plan yet- from their secret lunar base they intend to launch an invasion that&#x2019;ll make them master of the world&#x2026;
+The dastardly duo are about to unleash their most monstrous plan yet- from their secret lunar base they intend to launch an invasion that&amp;#x2019;ll make them master of the world&amp;#x2026;
 
-Neutralized by deadly glooming rays, Earth&#x2019;s forces are powerless&#x2026; that is until the Dragons join the &#x2018;Toads!
+Neutralized by deadly glooming rays, Earth&amp;#x2019;s forces are powerless&amp;#x2026; that is until the Dragons join the &amp;#x2018;Toads!
 
 Take a toadacious trip with the dream ticket as those terrific twins Billy and Jimmy Lee team up with Zitz, Rash and Pimple against the combined might of the gruesome twosome and their mindless minions, Big Blag, Abobo, Robo-Manus and Roper, in a toadally terminal new adventure!
 
-So let&#x2019;s get mad, bad n&#x2019; crazy once again as the BATTLETOADS join DOUBLE DRAGON in THE ULTIMATE TEAM!</desc>
+So let&amp;#x2019;s get mad, bad n&amp;#x2019; crazy once again as the BATTLETOADS join DOUBLE DRAGON in THE ULTIMATE TEAM!</desc>
     <image>/home/pi/.emulationstation/downloaded_images/gb/Battletoads Double Dragon - The Ultimate Team (U)-image.png</image>
     <releasedate>19931231T000000</releasedate>
     <developer>Rare</developer>
@@ -4291,7 +4251,7 @@ The bosses were Morga, Kyurene, Jadeite, and Queen Beryl. Sailor Moon actually h
     <name>Blaster Master Boy</name>
     <desc>You thought the world would be free of radioactive threats from the underground world after the events of the original Blaster Master yet for reasons unknown several radioactive hotspots sprout from the ground all over the world. Once again you must get into your armour and journey to the underground caves in order to discover the truth behind the new menace.
 
-Blaster Master Boy is a "somewhat" direct sequel of Blaster Master, your mission is to control your character through a series of underground dungeons from a top-down perspective and defeat the enemies you encounter there. You no longer have your trusty tank to take with you in side scrolling areas, nor your grenades, but to aid you in the dungeons you now have the ability to carry special bombs which can be used to kill enemies as well as clear paths through the dungeons &#xE0; la Bomber King.</desc>
+Blaster Master Boy is a "somewhat" direct sequel of Blaster Master, your mission is to control your character through a series of underground dungeons from a top-down perspective and defeat the enemies you encounter there. You no longer have your trusty tank to take with you in side scrolling areas, nor your grenades, but to aid you in the dungeons you now have the ability to carry special bombs which can be used to kill enemies as well as clear paths through the dungeons &amp;#xE0; la Bomber King.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/gb/Blaster Master Boy (U)-image.jpg</image>
     <developer>Aicom</developer>
     <publisher>Sunsoft</publisher>
@@ -4375,7 +4335,7 @@ The game casts players in the role of renegade treasure hunters. The player is a
   <game>
     <path>./Daisenryaku (J) [T+Eng1.00_Gaijin Productions].zip</path>
     <name>Daisenryaku</name>
-    <desc>Daisenryaku is a Strategy game, published by Hiro, which was released in Japan in 1991. It&#x2019;s pretty simple: issue your commands in the Map mode (hit Select), and then get out of Map mode and the game plays itself out. Your units do what they&#x2019;re told every turn until the order&#x2019;s carried out, and then they sit there. Get as many cities as you can, because then you get more money. Infantry kills heavy infantry, heavy infantry kills tanks, and tanks kill infantry.</desc>
+    <desc>Daisenryaku is a Strategy game, published by Hiro, which was released in Japan in 1991. It&amp;#x2019;s pretty simple: issue your commands in the Map mode (hit Select), and then get out of Map mode and the game plays itself out. Your units do what they&amp;#x2019;re told every turn until the order&amp;#x2019;s carried out, and then they sit there. Get as many cities as you can, because then you get more money. Infantry kills heavy infantry, heavy infantry kills tanks, and tanks kill infantry.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/gb/Daisenryaku (J) [T+Eng1.00_Gaijin Productions]-image.jpg</image>
     <releasedate>19910612T000000</releasedate>
     <developer>Hiro</developer>
@@ -4487,7 +4447,7 @@ Passwords are introduced from the third level onwards</desc>
     <name>Garfield Labyrinth</name>
     <desc>Garfield Labyrinth is a European exclusive video game released for the Nintendo Game Boy in the 1990s.
 
-Alternate versions of this game were available in North America (as The Real Ghostbusters) and Japan (as Mickey Mouse IV: Mah&#x14D; no Labyrinth).</desc>
+Alternate versions of this game were available in North America (as The Real Ghostbusters) and Japan (as Mickey Mouse IV: Mah&amp;#x14D; no Labyrinth).</desc>
     <image>/home/pi/.emulationstation/downloaded_images/gb/Garfield Labyrinth (U)-image.jpg</image>
     <releasedate>19920101T000000</releasedate>
     <developer>Kemco</developer>
@@ -4762,22 +4722,6 @@ Micro Machines 2: Turbo Tournament is a Driving game, developed by Codemasters a
     <genre>Action</genre>
   </game>
   <game>
-    <path>./Mortal Kombat I &amp; II (UE) [a1][f1].zip</path>
-    <name>Mortal Kombat &amp; Mortal Kombat II</name>
-    <desc>Mortal Kombat I
-PREPARE YOURSELF...
-
-The #1 arcade hit is here: from Sub-Zero, Rayden and your favorite Kombat Warriors to the grueling endurance and intense mirror matches! Execute bone-shattering combos and ferocious finishing moves! Defeat the half-human dragon Goro, and destroy the shape-changing Shang Tsung to become the Supreme Mortal Kombat Warrior!
-
-Mortal Kombat II
-Nothing, NOTHING can prepare you! The fierce kombatants of the #1 arcade smash gather for Mortal Kombat II, a battle to defeat the shape-shifting demon Shang Tsung and his ruthless master, Shao Kahn. Brutal special moves, Babalities, hidden surprises, outrageous finishing moves -- ALL yours to kommand. Let the Kombat Kontinue...</desc>
-    <image>/home/pi/.emulationstation/downloaded_images/gb/Mortal Kombat I &amp; II (UE) [a1][f1]-image.jpg</image>
-    <releasedate>19971101T000000</releasedate>
-    <developer>Probe</developer>
-    <publisher>Acclaim</publisher>
-    <genre>Fighting</genre>
-  </game>
-  <game>
     <path>./Mousetrap Hotel (U).zip</path>
     <name>Mouse Trap Hotel</name>
     <desc>Mouse Trap Hotel is an Action game, developed by Imagineering Inc and published by Electro Brain, which was released in 1992.</desc>
@@ -4900,7 +4844,7 @@ The game also includes a Puzzle mode. It features 100 levels, in which you have 
   <game>
     <path>./Pang (U).zip</path>
     <name>Pang</name>
-    <desc>Buster Bros, also called Pang (&#x30D1;&#x30F3; Pan?) and Pomping World (Japanese: &#x30DD;&#x30F3;&#x30D4;&#x30F3;&#x30B0;&#x30FB;&#x30EF;&#x30FC;&#x30EB;&#x30C9; Hepburn: Ponpingu W&#x101;rudo?), is a cooperative two-player arcade video game released in 1989 by Capcom. The Buster brothers must finish a round-the-world quest to destroy bouncing balloons that are terrorizing several of Earth's landmarks and cities. The fight to save the Earth begins on Mt. Fuji, Japan where the brothers must pass all three stages before moving on to the next location.
+    <desc>Buster Bros, also called Pang (&amp;#x30D1;&amp;#x30F3; Pan?) and Pomping World (Japanese: &amp;#x30DD;&amp;#x30F3;&amp;#x30D4;&amp;#x30F3;&amp;#x30B0;&amp;#x30FB;&amp;#x30EF;&amp;#x30FC;&amp;#x30EB;&amp;#x30C9; Hepburn: Ponpingu W&amp;#x101;rudo?), is a cooperative two-player arcade video game released in 1989 by Capcom. The Buster brothers must finish a round-the-world quest to destroy bouncing balloons that are terrorizing several of Earth's landmarks and cities. The fight to save the Earth begins on Mt. Fuji, Japan where the brothers must pass all three stages before moving on to the next location.
 
 Conversions for home systems were produced by Ocean Software in 1990 for the ZX Spectrum, Commodore 64, Amstrad CPC, Commodore Amiga, MS-DOS and Atari ST. It is the same as "Buster Bros" except for the opening title.
 
@@ -5249,7 +5193,7 @@ But beware - Halfenpounder has the biggest bells of all, and he won't hesitate t
   <game>
     <path>./Uchuu no Kishi Tekkaman Blade (J) [T+Eng].zip</path>
     <name>Tekkaman Blade</name>
-    <desc>Uch&#x16B; no Kishi: Tekkaman Blade (a different game than the SNES Tekkaman Blade game) is a 2D side-scrolling platform game, based on the Tekkaman anime series, where the player controls a mech and must find the exit to each level. The mech only has one melee weapon, but it can also use a special grappling hook, like in Ninja Gaiden Shadow, which is necessary to go through the levels. After the platforming part of the levels, the mech fights against a boss.</desc>
+    <desc>Uch&amp;#x16B; no Kishi: Tekkaman Blade (a different game than the SNES Tekkaman Blade game) is a 2D side-scrolling platform game, based on the Tekkaman anime series, where the player controls a mech and must find the exit to each level. The mech only has one melee weapon, but it can also use a special grappling hook, like in Ninja Gaiden Shadow, which is necessary to go through the levels. After the platforming part of the levels, the mech fights against a boss.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/gb/Uchuu no Kishi Tekkaman Blade (J) [T+Eng]-image.jpg</image>
     <releasedate>19921218T000000</releasedate>
     <developer>Sun L</developer>
@@ -5259,7 +5203,7 @@ But beware - Halfenpounder has the biggest bells of all, and he won't hesitate t
   <game>
     <path>./Ultima - Runes of Virtue II (U).zip</path>
     <name>Ultima: Runes of Virtue II</name>
-    <desc>Enter the world of Ultima! Rescure the kidnapped mayors of Britannia as either Shamino the Ranger, Mage Mariah, the Bard lolo or Dupr&#xE9; the Knight. Board and conquer pirate ships, visit dungeons, islands and castles, and solve puzzles in this lively adventure!</desc>
+    <desc>Enter the world of Ultima! Rescure the kidnapped mayors of Britannia as either Shamino the Ranger, Mage Mariah, the Bard lolo or Dupr&amp;#xE9; the Knight. Board and conquer pirate ships, visit dungeons, islands and castles, and solve puzzles in this lively adventure!</desc>
     <image>/home/pi/.emulationstation/downloaded_images/gb/Ultima - Runes of Virtue II (U)-image.jpg</image>
     <releasedate>19930601T000000</releasedate>
     <developer>Origin</developer>
@@ -5372,9 +5316,9 @@ Armed with you mighty guitar and the power to Schwing, you must brave the perils
   <game>
     <path>./Zettai Muteki Raijinou (J) [T+Eng].zip</path>
     <name>Zettai Muteki Raijin-Oh</name>
-    <desc>First, The Evil Jark Empire attacked from the Fifth Dimension, then their huge secret weapon &#x201C;Arkdarma&#x201D; began to attack humans&#x2026; The world is in a sad state of affairs indeed. Lucky Reijin-Oh is here to save the day!
+    <desc>First, The Evil Jark Empire attacked from the Fifth Dimension, then their huge secret weapon &amp;#x201C;Arkdarma&amp;#x201D; began to attack humans&amp;#x2026; The world is in a sad state of affairs indeed. Lucky Reijin-Oh is here to save the day!
 
-This game is a one on one mecha fighter, much like Ultraman, etc. You control a giant robot straight out of a japanese B movie and engage 8 equally giant creatures of darkness in mortal combat. You have an attack and jump button, but if you only rely on the standard punch you start with you&#x2019;re asking to be mauled. You can punch your opponent all day and you&#x2019;ll never get it below 3 or 4 life bars. The secret lies with the Select button, which will bring you to a menu with three options: Weapon, Body, and Combine.</desc>
+This game is a one on one mecha fighter, much like Ultraman, etc. You control a giant robot straight out of a japanese B movie and engage 8 equally giant creatures of darkness in mortal combat. You have an attack and jump button, but if you only rely on the standard punch you start with you&amp;#x2019;re asking to be mauled. You can punch your opponent all day and you&amp;#x2019;ll never get it below 3 or 4 life bars. The secret lies with the Select button, which will bring you to a menu with three options: Weapon, Body, and Combine.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/gb/Zettai Muteki Raijinou (J) [T+Eng]-image.jpg</image>
     <releasedate>19911228T000000</releasedate>
     <developer>Tomy Corporation</developer>
@@ -5518,7 +5462,7 @@ The battery pack saves your game in progress in this biggest Game Boy Mario adve
     <name>Turrican</name>
     <desc>MEET THE FULL-METAL DUDE WITH AN ATTITUDE.
 
-You are Turrican - the cockiest, coolest Chromidium Warrior since Hobocop'&#x201C; and Terminator. Your mission? Explore and reclaim the deep space colony of Alterra from blood-draining, bio-mutated killers. It&#x2019;s a big job. But no big deal when you&#x2019;re bad and bullet proof.
+You are Turrican - the cockiest, coolest Chromidium Warrior since Hobocop'&amp;#x201C; and Terminator. Your mission? Explore and reclaim the deep space colony of Alterra from blood-draining, bio-mutated killers. It&amp;#x2019;s a big job. But no big deal when you&amp;#x2019;re bad and bullet proof.
 
 4 vast worlds to conquer.
 Explore 10 menacing levels. Go underwater, underground, into cities. Nearly 1000 screens.
@@ -5598,7 +5542,7 @@ The game is a side scroller, Master Higgins moves across the screen from left to
   <game>
     <path>./Alien 3 (UE) [!].zip</path>
     <name>Alien 3</name>
-    <desc>The Game Boy version of Alien&#xB3; differs significantly from the console games based on the third Alien film. Unlike the more shooter-oriented action on the consoles, this title is played from a top-down perspective, with a greater emphasis on exploration, acquiring items to beat limited puzzles, and survival.
+    <desc>The Game Boy version of Alien&amp;#xB3; differs significantly from the console games based on the third Alien film. Unlike the more shooter-oriented action on the consoles, this title is played from a top-down perspective, with a greater emphasis on exploration, acquiring items to beat limited puzzles, and survival.
 
 As Ripley, you must navigate the corridors of the Fury 161 prison, searching for items to aid your escape. Unlike the film it is based on, multiple Aliens are running loose and attacking the prisoners, plus an Alien Queen nesting in the furnace. The player must map out the labyrinthine halls and ventilation systems to easily move around the complex. They must also find weapons to defend Ripley from the Aliens, along with a flamethrower and fuel to torch their eggs. Only after destroying the Queen and her eggs, may Ripley activate the crashed escape pod and leave the planet.</desc>
     <image>~/.emulationstation/downloaded_images/gb/Alien 3 (UE) [!]-image.jpg</image>

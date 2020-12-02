@@ -345,7 +345,7 @@ The game is played from a first-person perspective. Various zombies pop up in fr
   <game>
     <path>./Cyborg 009 (J).cue</path>
     <name>Cyborg 009</name>
-    <desc>Cyborg 009 (&#x30B5;&#x30A4;&#x30DC;&#x30FC;&#x30B0;&#xFF10;&#xFF10;&#xFF19;) is a Sega Mega-CD action game released exclusively in Japan.</desc>
+    <desc>Cyborg 009 (&amp;#x30B5;&amp;#x30A4;&amp;#x30DC;&amp;#x30FC;&amp;#x30B0;&amp;#xFF10;&amp;#xFF10;&amp;#xFF19;) is a Sega Mega-CD action game released exclusively in Japan.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Cyborg 009 (J)-image.jpg</image>
     <releasedate>19930730T000000</releasedate>
     <developer>Telenet Japan</developer>
@@ -450,7 +450,7 @@ DEMOLITION MAN...
   <game>
     <path>./Dynamic Country Club - 3D Golf Simulation (J).cue</path>
     <name>Dynamic Country Club: 3D Golf Simulation</name>
-    <desc>Dynamic Country Club (&#x30C0;&#x30A4;&#x30CA;&#x30DF;&#x30C3;&#x30AF;&#x30AB;&#x30F3;&#x30C8;&#x30EA;&#x30FC;&#x30AF;&#x30E9;&#x30D6;) is a 1991 arcade golf game by Sega released on Sega System 24 hardware. Both floppy disk-based and ROM board-based versions of the game exist. The game presents itself in a pseudo-3D setting a la T&amp;E Soft golf games like Pebble Beach Golf Links where the screen slowly redraws itself at certain intervals in your swing.
+    <desc>Dynamic Country Club (&amp;#x30C0;&amp;#x30A4;&amp;#x30CA;&amp;#x30DF;&amp;#x30C3;&amp;#x30AF;&amp;#x30AB;&amp;#x30F3;&amp;#x30C8;&amp;#x30EA;&amp;#x30FC;&amp;#x30AF;&amp;#x30E9;&amp;#x30D6;) is a 1991 arcade golf game by Sega released on Sega System 24 hardware. Both floppy disk-based and ROM board-based versions of the game exist. The game presents itself in a pseudo-3D setting a la T&amp;E Soft golf games like Pebble Beach Golf Links where the screen slowly redraws itself at certain intervals in your swing.
 
 A game with the same name for the Sega Mega-CD was produced, but only released in Japan. Whether or not this is the same game is unknown.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Dynamic Country Club - 3D Golf Simulation (J)-image.jpg</image>
@@ -506,7 +506,7 @@ Ecco travels to the sunken city of Atlantis, where he discovers the time machine
   <game>
     <path>./Egawa Suguru no Super League CD (J).cue</path>
     <name>Egawa Suguru no Super League CD</name>
-    <desc>Egawa Suguru no Super League CD (&#x6C5F;&#x5DDD;&#x5353;&#x306E;&#x30B9;&#x30FC;&#x30D1;&#x30FC;&#x30EA;&#x30FC;&#x30B0;&#xFF23;&#xFF24;) is a baseball game released as part of the Super League and a sequel to Pro Yakyuu Super League CD (?).</desc>
+    <desc>Egawa Suguru no Super League CD (&amp;#x6C5F;&amp;#x5DDD;&amp;#x5353;&amp;#x306E;&amp;#x30B9;&amp;#x30FC;&amp;#x30D1;&amp;#x30FC;&amp;#x30EA;&amp;#x30FC;&amp;#x30B0;&amp;#xFF23;&amp;#xFF24;) is a baseball game released as part of the Super League and a sequel to Pro Yakyuu Super League CD (?).</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Egawa Suguru no Super League CD (J)-image.jpg</image>
     <releasedate>19930806T000000</releasedate>
     <developer>Sega</developer>
@@ -574,7 +574,7 @@ The fighters range from different eras of Earth's History: Larcen, the cat burgl
   <game>
     <path>./F1 Circus CD (J).cue</path>
     <name>F1 Circus CD</name>
-    <desc>F1 Circus CD (&#xFF26;&#xFF11;&#x30B5;&#x30FC;&#x30AB;&#x30B9;&#xFF23;&#xFF24;) is a formula one racing game released for the Sega Mega-CD exclusively in Japan. It is the sequel to F1 Circus MD.</desc>
+    <desc>F1 Circus CD (&amp;#xFF26;&amp;#xFF11;&amp;#x30B5;&amp;#x30FC;&amp;#x30AB;&amp;#x30B9;&amp;#xFF23;&amp;#xFF24;) is a formula one racing game released for the Sega Mega-CD exclusively in Japan. It is the sequel to F1 Circus MD.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/F1 Circus CD (J)-image.jpg</image>
     <releasedate>19940308T000000</releasedate>
     <developer>Nichibutsu</developer>
@@ -655,7 +655,7 @@ The graphics in Beyond the Limit are created from scaled and rotated sprites tha
   <game>
     <path>./Heavy Nova (J).cue</path>
     <name>Heavy Nova</name>
-    <desc>Heavy Nova (&#x30D8;&#x30D3;&#x30FC;&#x30CE;&#x30D0;) is a 1991 action game for the Sharp X68000 by Micronet. It was ported to the Sega Mega-CD as one of the system's two launch titles (the other being Wolf Team's Sol-Feace); the Mega-CD port was not released outside Japan. Micronet subsequently ported it to the Sega Mega Drive for an American release in 1992.
+    <desc>Heavy Nova (&amp;#x30D8;&amp;#x30D3;&amp;#x30FC;&amp;#x30CE;&amp;#x30D0;) is a 1991 action game for the Sharp X68000 by Micronet. It was ported to the Sega Mega-CD as one of the system's two launch titles (the other being Wolf Team's Sol-Feace); the Mega-CD port was not released outside Japan. Micronet subsequently ported it to the Sega Mega Drive for an American release in 1992.
 
 You play as a giant mech beating up other mechs of various sizes. A punches and B kicks. Up rockets up for as long as the button is held; you will eventually come back down.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Heavy Nova (J)-image.jpg</image>
@@ -691,7 +691,7 @@ The first is Midgard (or Earth), the second is Utgard (the world of the giants) 
   <game>
     <path>./INXS - Make My Video (U).cue</path>
     <name>INXS: Make My Video</name>
-    <desc>Make My Video: INXS is a video game based on real-time editing of music video footage. The setup is that a pair of female friends is hanging around a bar and monopolizing the pool table. The game explores the duo's interpersonal interactions with other patrons at the bar: There's the Fly, an aloof cool guy; Ted and Gomez, braindead surfer dudes trying to pick up the ladies, and who are thinly-veiled parodies of Bill &amp; Ted; Poindexter, the nerd who is also trying to work up the courage to talk to the women; and Flo and Tiger, a pair of leather-clad tough chicks whose interest is beating the main subjects of the game so that they can control the bar music and play their Megadeth videotape. Each person or pair has own their ideas about what an ideal INXS video should or should not contain. The specifications normally come in the form of a set of pictures they either do or don't want to see, and perhaps some effects. The game features three INXS videos from which to choose: "Heaven Sent", "Not Enough Time", and "Baby Don&#x2019;t Cry".</desc>
+    <desc>Make My Video: INXS is a video game based on real-time editing of music video footage. The setup is that a pair of female friends is hanging around a bar and monopolizing the pool table. The game explores the duo's interpersonal interactions with other patrons at the bar: There's the Fly, an aloof cool guy; Ted and Gomez, braindead surfer dudes trying to pick up the ladies, and who are thinly-veiled parodies of Bill &amp; Ted; Poindexter, the nerd who is also trying to work up the courage to talk to the women; and Flo and Tiger, a pair of leather-clad tough chicks whose interest is beating the main subjects of the game so that they can control the bar music and play their Megadeth videotape. Each person or pair has own their ideas about what an ideal INXS video should or should not contain. The specifications normally come in the form of a set of pictures they either do or don't want to see, and perhaps some effects. The game features three INXS videos from which to choose: "Heaven Sent", "Not Enough Time", and "Baby Don&amp;#x2019;t Cry".</desc>
     <image>~/.emulationstation/downloaded_images/segacd/INXS - Make My Video (U)-image.jpg</image>
     <releasedate>19921015T000000</releasedate>
     <developer>Digital Pictures</developer>
@@ -756,7 +756,7 @@ The story takes place after the events of the movie/book. You are sent back to J
   <game>
     <path>./Keio Flying Squadron (U).cue</path>
     <name>Keio Flying Squadron</name>
-    <desc>Keio Flying Squadron (&#x6176;&#x5FDC;&#x904A;&#x6483;&#x968A; Kei&#x14D;y&#x16B;gekitai?) is a scrolling shooter video game developed and published by Victor Entertainment in 1994 for the Sega/Mega CD in Japan, Europe, and North America. It is the first game of the Keio Flying Squadron series with a simple shoot-'em-up style of play.
+    <desc>Keio Flying Squadron (&amp;#x6176;&amp;#x5FDC;&amp;#x904A;&amp;#x6483;&amp;#x968A; Kei&amp;#x14D;y&amp;#x16B;gekitai?) is a scrolling shooter video game developed and published by Victor Entertainment in 1994 for the Sega/Mega CD in Japan, Europe, and North America. It is the first game of the Keio Flying Squadron series with a simple shoot-'em-up style of play.
 Gameplay
 The game consists of the protagonist Rami riding on top of Spot, who can shoot fireballs at enemies. When Spot is not firing, two smaller dragons (Companion fighters) appear one after another to assist Rami and Spot. The lesser dragons shoot smaller fireballs and can be sacrificed to do larger damage, only to reappear when Spot ceases to shoot.
 Release
@@ -1099,9 +1099,9 @@ Aside from the licenses, the gameplay for this edition sees for the first time t
   <game>
     <path>./Night Striker (J).cue</path>
     <name>Night Striker</name>
-    <desc>Night Striker (&#x30CA;&#x30A4;&#x30C8;&#x30B9;&#x30C8;&#x30E9;&#x30A4;&#x30AB;&#x30FC;) is an arcade game developed by Taito. It is a futuristic on-the-rails shooter which plays similarly to Sega's Space Harrier, though has you pilot a hover vehicle instead.
+    <desc>Night Striker (&amp;#x30CA;&amp;#x30A4;&amp;#x30C8;&amp;#x30B9;&amp;#x30C8;&amp;#x30E9;&amp;#x30A4;&amp;#x30AB;&amp;#x30FC;) is an arcade game developed by Taito. It is a futuristic on-the-rails shooter which plays similarly to Sega's Space Harrier, though has you pilot a hover vehicle instead.
 
-The game was brought to the Sega Mega-CD in 1993, where graphically it was downscaled for the weaker hardware. It was also brought to the Sega Saturn as Night Striker S (&#x30CA;&#x30A4;&#x30C8;&#x30B9;&#x30C8;&#x30E9;&#x30A4;&#x30AB;&#x30FC;&#xFF33;) in 1996 - essentially the same game, but with an extra "Saturn Mode" and a few small enhancements. No versions have ever left Japan.</desc>
+The game was brought to the Sega Mega-CD in 1993, where graphically it was downscaled for the weaker hardware. It was also brought to the Sega Saturn as Night Striker S (&amp;#x30CA;&amp;#x30A4;&amp;#x30C8;&amp;#x30B9;&amp;#x30C8;&amp;#x30E9;&amp;#x30A4;&amp;#x30AB;&amp;#x30FC;&amp;#xFF33;) in 1996 - essentially the same game, but with an extra "Saturn Mode" and a few small enhancements. No versions have ever left Japan.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Night Striker (J)-image.jpg</image>
     <releasedate>19930528T000000</releasedate>
     <developer>Aisystem Tokyo, Taito Corporation</developer>
@@ -1111,7 +1111,7 @@ The game was brought to the Sega Mega-CD in 1993, where graphically it was downs
   <game>
     <path>./Ninja Warriors, The (J).cue</path>
     <name>The Ninja Warriors</name>
-    <desc>The Ninja Warriors (&#x30CB;&#x30F3;&#x30B8;&#x30E3;&#x30A6;&#x30A9;&#x30FC;&#x30EA;&#x30A2;&#x30FC;&#x30BA;) is a beat-'em-up originally developed by Taito for the arcades. It was brought to the Sega Mega-CD in 1993 exclusively for Japan. To emulate the three-screen setup of the original arcade game (3 288x224 screens arranged in a horizontal line like with the Darius games), porters Aisystem Tokyo simply capped the screen resolution in software, resulting in the entire game running in a small window.
+    <desc>The Ninja Warriors (&amp;#x30CB;&amp;#x30F3;&amp;#x30B8;&amp;#x30E3;&amp;#x30A6;&amp;#x30A9;&amp;#x30FC;&amp;#x30EA;&amp;#x30A2;&amp;#x30FC;&amp;#x30BA;) is a beat-'em-up originally developed by Taito for the arcades. It was brought to the Sega Mega-CD in 1993 exclusively for Japan. To emulate the three-screen setup of the original arcade game (3 288x224 screens arranged in a horizontal line like with the Darius games), porters Aisystem Tokyo simply capped the screen resolution in software, resulting in the entire game running in a small window.
 
 Playable characters are two androids called Kunoichi (female ninja, red color) and Ninja (male ninja, blue color). Both characters play identically.
 
@@ -1205,7 +1205,7 @@ Prince of Persia is a 2D platformer with run and jump gameplay. Your hero must a
   <game>
     <path>./Pro Yakyuu Super League CD (J).cue</path>
     <name>Pro Yakyuu Super League CD</name>
-    <desc>Pro Yakyuu Super League CD (&#x30D7;&#x30ED;&#x91CE;&#x7403;&#x30B9;&#x30FC;&#x30D1;&#x30FC;&#x30EA;&#x30FC;&#x30B0;&#xFF23;&#xFF24;) is a baseball game released as part of the Super League series for the Sega Mega-CD exclusively in Japan.</desc>
+    <desc>Pro Yakyuu Super League CD (&amp;#x30D7;&amp;#x30ED;&amp;#x91CE;&amp;#x7403;&amp;#x30B9;&amp;#x30FC;&amp;#x30D1;&amp;#x30FC;&amp;#x30EA;&amp;#x30FC;&amp;#x30B0;&amp;#xFF23;&amp;#xFF24;) is a baseball game released as part of the Super League series for the Sega Mega-CD exclusively in Japan.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Pro Yakyuu Super League CD (J)-image.jpg</image>
     <releasedate>19921030T000000</releasedate>
     <developer>Sega</developer>
@@ -1364,7 +1364,7 @@ Super Monaco GP</desc>
   <game>
     <path>./Sengoku Denshou (J).cue</path>
     <name>Sengoku Denshou</name>
-    <desc>Sengoku Denshou (&#x6226;&#x56FD;&#x4F1D;&#x627F;) is a beat-'em-up released for the Sega Mega-CD exclusively in Japan.</desc>
+    <desc>Sengoku Denshou (&amp;#x6226;&amp;#x56FD;&amp;#x4F1D;&amp;#x627F;) is a beat-'em-up released for the Sega Mega-CD exclusively in Japan.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Sengoku Denshou (J)-image.jpg</image>
     <releasedate>19931228T000000</releasedate>
     <developer>SNK</developer>
@@ -1590,7 +1590,7 @@ The game begins with Rookie One's training (you), followed by an attack on the S
   <game>
     <path>./Theme Park (E).cue</path>
     <name>Theme Park</name>
-    <desc>Theme Park (&#x30C6;&#x30FC;&#x30DE;&#x30D1;&#x30FC;&#x30AF;) is a management simulator developed by Bullfrog Productions and published by Electronic Arts in 1994. It was released for a variety of systems, including the Sega Mega Drive, Sega Mega-CD, Sega Saturn in the following year.
+    <desc>Theme Park (&amp;#x30C6;&amp;#x30FC;&amp;#x30DE;&amp;#x30D1;&amp;#x30FC;&amp;#x30AF;) is a management simulator developed by Bullfrog Productions and published by Electronic Arts in 1994. It was released for a variety of systems, including the Sega Mega Drive, Sega Mega-CD, Sega Saturn in the following year.
 
 Theme Park was the first successful theme park simulator, and would go on to inspire other Theme games and the RollerCoaster Tycoon series. Players are given a plot of land and are tasked with buying (and creating) rides, as well as organising the general layout of the park, staff and attempting to keep visitors happy without going bankrupt.
 
@@ -1780,7 +1780,7 @@ Climb in the ring with boxers in Dogsville and wailing alley cats in the Scrapya
   <game>
     <path>./WonderMega Collection (J).cue</path>
     <name>Wondermega Collection</name>
-    <desc>Wondermega Collection (&#x30EF;&#x30F3;&#x30C0;&#x30FC;&#x30E1;&#x30AC;&#x3000;&#x30B3;&#x30EC;&#x30AF;&#x30B7;&#x30E7;&#x30F3;) is a sample disc bundled with Japanese Wondermega consoles. It contains four CD+G karaoke songs and Battle Fighter, Flicky, Pyramid Magic and Quiz Scramble as playable games.</desc>
+    <desc>Wondermega Collection (&amp;#x30EF;&amp;#x30F3;&amp;#x30C0;&amp;#x30FC;&amp;#x30E1;&amp;#x30AC;&amp;#x3000;&amp;#x30B3;&amp;#x30EC;&amp;#x30AF;&amp;#x30B7;&amp;#x30E7;&amp;#x30F3;) is a sample disc bundled with Japanese Wondermega consoles. It contains four CD+G karaoke songs and Battle Fighter, Flicky, Pyramid Magic and Quiz Scramble as playable games.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/WonderMega Collection (J)-image.jpg</image>
     <releasedate>19920104T000000</releasedate>
     <developer>JVC</developer>
