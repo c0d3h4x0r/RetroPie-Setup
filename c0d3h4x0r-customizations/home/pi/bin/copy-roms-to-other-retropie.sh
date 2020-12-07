@@ -5,6 +5,4 @@ if [ -z "$1" ]; then
     exit 1
 fi
 
-for dir in $(find /home/pi/RetroPie/roms/* -maxdepth 0 -type d ); do
-    rsync -rP $dir/* pi@$1:$dir/
-done
+rsync -rcKP $/home/pi/RetroPie/roms/ pi@$1:/home/pi/RetroPie/roms/
