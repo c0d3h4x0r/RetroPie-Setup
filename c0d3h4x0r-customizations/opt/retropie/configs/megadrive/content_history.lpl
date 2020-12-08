@@ -1,0 +1,306 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Aero the Acro-Bat (U) [c][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Rastan Saga II (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/T2 - The Arcade Game (UE) (REV01) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Super Monaco Grand Prix (U) (M2) (REV03) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Sonic The Hedgehog (W) (REV01) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Batman Forever (W) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Socket (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Sonic and Knuckles & Sonic 3 (W) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Sonic The Hedgehog 2 (W) (REV01) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Pac-Man 2 - The New Adventures (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/OutRun (W) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Mystical Fighter (U) [c][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/M.U.S.H.A (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Michael Jackson's Moonwalker (W) (REV01) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/untested/Zany Golf (UE) (REV01).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/untested/Sorcerian (J) [T+Eng10%_NaflignsEgo].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/untested/Sonic Eraser (SN) (J) [T+Eng_Derrick Sobodash].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/untested/Sega Radica! Volume 1 (Menu) (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/untested/Langrisser II (J) (REV01) [T+Eng100%_HiryuuHonyaku&NoPrgress].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/untested/Advanced Daisenryaku (J) (REV01) [T+Eng65%_NebelwurferHQ].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/untested/Kishi Densetsu (J) [T+Eng20%_Gaijin_Productions].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Mortal Kombat II (W) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Monster World IV (J) [T+Eng1.02_DeJap+Demiforce].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Mortal Kombat (UE) (REV01) [c][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Sonic and Knuckles (W) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Megaman - The Wily Wars (E) [f2].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/untested/Rent A Hero (J) [T+Eng].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/untested/Monster World IV (J) [T+Eng1.02_DeJap+Demiforce].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/untested/Altered Beast (UE) (REV02) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Genesis 6-Pak (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Megaman - The Wily Wars (E).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Megaman - The Wily Wars (E) [f1].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Spider-Man vs The Kingpin (W) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Sonic The Hedgehog (W) (REV01) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Street Fucker (PD).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Sonic The Hedgehog (W) (REV00) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Tempo (32X) (JU) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "PicoDrive",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

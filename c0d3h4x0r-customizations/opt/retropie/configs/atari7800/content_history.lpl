@@ -1,0 +1,133 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/atari7800/Dig Dug (1987) (Atari).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-prosystem/prosystem_libretro.so",
+      "core_name": "ProSystem",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari7800/Donkey Kong (1988) (Atari).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-prosystem/prosystem_libretro.so",
+      "core_name": "ProSystem",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari7800/Galaga (1987) (Atari).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-prosystem/prosystem_libretro.so",
+      "core_name": "ProSystem",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari7800/Fatal Run (1990) (Atari).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-prosystem/prosystem_libretro.so",
+      "core_name": "ProSystem",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari7800/Double Dragon (1989) (Activision).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-prosystem/prosystem_libretro.so",
+      "core_name": "ProSystem",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari7800/Joust (1987) (Atari).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-prosystem/prosystem_libretro.so",
+      "core_name": "ProSystem",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari7800/Kung Fu Master (1989) (Absolute) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-prosystem/prosystem_libretro.so",
+      "core_name": "ProSystem",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari7800/Ms. Pac-Man (1987) (Atari).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-prosystem/prosystem_libretro.so",
+      "core_name": "ProSystem",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari7800/Ninja Golf (1990) (Atari).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-prosystem/prosystem_libretro.so",
+      "core_name": "ProSystem",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari7800/Commando (1989) (Atari).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-prosystem/prosystem_libretro.so",
+      "core_name": "ProSystem",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari7800/Mario Brothers (1988) (Atari).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-prosystem/prosystem_libretro.so",
+      "core_name": "ProSystem",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari7800/Rampage (1989) (Activision).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-prosystem/prosystem_libretro.so",
+      "core_name": "ProSystem",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari7800/Xevious (1987) (Atari).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-prosystem/prosystem_libretro.so",
+      "core_name": "ProSystem",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari7800/Ace of Aces (1988) (Atari).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-prosystem/prosystem_libretro.so",
+      "core_name": "ProSystem",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari7800/Asteroids (1987) (Atari).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-prosystem/prosystem_libretro.so",
+      "core_name": "ProSystem",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari7800/Centipede (1987) (Atari).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-prosystem/prosystem_libretro.so",
+      "core_name": "ProSystem",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

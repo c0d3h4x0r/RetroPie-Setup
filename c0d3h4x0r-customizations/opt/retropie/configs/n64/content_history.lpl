@@ -1,0 +1,42 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/n64/untested/Banjo-Kazooie (U) (V1.1) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/untested/Super Mario 64 (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/untested/Mario Kart 64 (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/n64/Super Mario 64 (J) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mupen64plus/mupen64plus_libretro.so",
+      "core_name": "Mupen64Plus GLES2",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/ports/quake/id1/pak0.pak",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-tyrquake/tyrquake_libretro.so",
+      "core_name": "TyrQuake",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

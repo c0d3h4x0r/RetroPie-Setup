@@ -1,0 +1,120 @@
+16:38:13.556771 D2X-Rebirth v0.61  Jul  6 2019 14:33:19
+16:38:13.556983 This is a MODIFIED version of Descent 2, based on Full Version v1.2.
+16:38:13.557070 Copyright (C) 1994-1996 Parallax Software Corporation
+16:38:13.557153 DESCENT is a trademark of Interplay Productions, Inc.
+16:38:13.557228 Copyright (C) 1999 Peter Hawkins, 2002 Bradley Bell, 2005-2013 Christian Beckhaeuser, 2013-2017 Kp
+16:38:13.611426 Using SDL_mixer library v1.2.12
+16:38:14.259572 sdl-joystick: 1 joysticks
+16:38:14.299356 sdl-joystick 0: Pro Controller
+16:38:14.299563 sdl-joystick: 4 axes
+16:38:14.299665 sdl-joystick: 16 buttons
+16:38:14.299747 sdl-joystick: 1 hats
+16:38:14.299840 sdl-joystick: 4 axes (total)
+16:38:14.299916 sdl-joystick: 20 buttons (total)
+16:38:14.301298 RPi: activating hack for console driver
+16:38:14.327409 DXX-Rebirth: OpenGL: disabling automatic GL sync since VSync is turned off
+16:38:14.363355 Can't open movielib <intro-h.mvl>: (null)
+16:38:14.363796 Can't open movielib <intro-l.mvl>: (null)
+16:38:14.364143 Can't open movielib <other-h.mvl>: (null)
+16:38:14.364479 Can't open movielib <other-l.mvl>: (null)
+16:38:14.365115 Failed to open movie <intro.mve>: (null)
+16:38:14.365261 Failed to open movie <titles.mve>: (null)
+16:38:17.583645 similar/3d/interp.cpp:483: warning: invalid polymodel at 0x1127ec0 with length 11800; opcode 4 at offset 10368 references invalid offset 11808; replacing invalid operation with EOF
+16:38:17.583899 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x112ad30 with length 9856; opcode 3 at offset 9872 references invalid offset 9900; replacing invalid operation with EOF
+16:38:17.584101 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x11325d0 with length 10208; opcode 3 at offset 10212 references invalid offset 10240; replacing invalid operation with EOF
+16:38:17.584370 similar/3d/interp.cpp:483: warning: invalid polymodel at 0x113bcc8 with length 11800; opcode 4 at offset 10368 references invalid offset 11808; replacing invalid operation with EOF
+16:38:17.584517 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x113eb38 with length 9856; opcode 3 at offset 9872 references invalid offset 9900; replacing invalid operation with EOF
+16:38:17.584917 similar/3d/interp.cpp:483: warning: invalid polymodel at 0x1150c58 with length 11800; opcode 4 at offset 10368 references invalid offset 11808; replacing invalid operation with EOF
+16:38:17.585095 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1153ac8 with length 9856; opcode 3 at offset 9872 references invalid offset 9900; replacing invalid operation with EOF
+16:38:17.585222 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1149890 with length 8480; opcode 3 at offset 8476 references invalid offset 8504; replacing invalid operation with EOF
+16:38:17.585375 similar/3d/interp.cpp:483: warning: invalid polymodel at 0x1158820 with length 9344; opcode 4 at offset 8956 references invalid offset 9356; replacing invalid operation with EOF
+16:38:17.585640 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1161758 with length 7988; opcode 3 at offset 7972 references invalid offset 8000; replacing invalid operation with EOF
+16:38:17.586055 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1173228 with length 10124; opcode 3 at offset 10112 references invalid offset 10140; replacing invalid operation with EOF
+16:38:17.586328 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1175a08 with length 11220; opcode 3 at offset 11204 references invalid offset 11232; replacing invalid operation with EOF
+16:38:17.586495 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x11816c0 with length 11872; opcode 3 at offset 11860 references invalid offset 11888; replacing invalid operation with EOF
+16:38:17.586667 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1184578 with length 8480; opcode 3 at offset 8476 references invalid offset 8504; replacing invalid operation with EOF
+16:38:17.587065 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x11922b0 with length 15104; opcode 3 at offset 15116 references invalid offset 15144; replacing invalid operation with EOF
+16:38:17.587432 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x11986d0 with length 9928; opcode 3 at offset 9920 references invalid offset 9948; replacing invalid operation with EOF
+16:38:17.587618 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x118cc98 with length 8176; opcode 3 at offset 8160 references invalid offset 8188; replacing invalid operation with EOF
+16:38:17.588011 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x11a5590 with length 8804; opcode 3 at offset 8784 references invalid offset 8812; replacing invalid operation with EOF
+16:38:17.588156 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x11ab1c8 with length 7628; opcode 3 at offset 7600 references invalid offset 7628; replacing invalid operation with EOF
+16:38:17.588551 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x11bfd60 with length 9928; opcode 3 at offset 9920 references invalid offset 9948; replacing invalid operation with EOF
+16:38:17.588724 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x11c2470 with length 9928; opcode 3 at offset 9920 references invalid offset 9948; replacing invalid operation with EOF
+16:38:17.589061 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x11cc178 with length 7628; opcode 3 at offset 7600 references invalid offset 7628; replacing invalid operation with EOF
+16:38:17.589773 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x11ed9d8 with length 15528; opcode 3 at offset 15552 references invalid offset 15580; replacing invalid operation with EOF
+16:38:17.589990 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x11e9520 with length 13468; opcode 3 at offset 13464 references invalid offset 13492; replacing invalid operation with EOF
+16:38:17.590270 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x11fced8 with length 23264; opcode 3 at offset 23356 references invalid offset 23384; replacing invalid operation with EOF
+16:38:17.590574 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1209c88 with length 28712; opcode 3 at offset 28732 references invalid offset 28760; replacing invalid operation with EOF
+16:38:17.590699 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1209c88 with length 28712; opcode 3 at offset 28804 references invalid offset 28832; replacing invalid operation with EOF
+16:38:17.590788 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1209c88 with length 28712; opcode 3 at offset 28892 references invalid offset 28920; replacing invalid operation with EOF
+16:38:17.591012 similar/3d/interp.cpp:483: warning: invalid polymodel at 0x1210dc8 with length 25476; opcode 4 at offset 25156 references invalid offset 25568; replacing invalid operation with EOF
+16:38:17.591159 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x11f5698 with length 15748; opcode 3 at offset 15764 references invalid offset 15792; replacing invalid operation with EOF
+16:38:17.591362 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x121c3d8 with length 20352; opcode 3 at offset 20384 references invalid offset 20412; replacing invalid operation with EOF
+16:38:17.591580 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1226a90 with length 21692; opcode 3 at offset 21744 references invalid offset 21772; replacing invalid operation with EOF
+16:38:17.591792 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x11f9490 with length 13324; opcode 3 at offset 13364 references invalid offset 13392; replacing invalid operation with EOF
+16:38:17.591949 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x12213d8 with length 14128; opcode 3 at offset 14124 references invalid offset 14152; replacing invalid operation with EOF
+16:38:17.592198 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1231620 with length 21576; opcode 3 at offset 21568 references invalid offset 21596; replacing invalid operation with EOF
+16:38:17.592299 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1231620 with length 21576; opcode 3 at offset 21640 references invalid offset 21668; replacing invalid operation with EOF
+16:38:17.592467 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1236af8 with length 18256; opcode 3 at offset 18308 references invalid offset 18336; replacing invalid operation with EOF
+16:38:17.592880 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x123b2d0 with length 21536; opcode 3 at offset 21556 references invalid offset 21584; replacing invalid operation with EOF
+16:38:17.593033 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x123b2d0 with length 21536; opcode 3 at offset 21628 references invalid offset 21656; replacing invalid operation with EOF
+16:38:17.593240 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x12407a0 with length 19744; opcode 3 at offset 19768 references invalid offset 19796; replacing invalid operation with EOF
+16:38:17.593337 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x12407a0 with length 19744; opcode 3 at offset 19840 references invalid offset 19868; replacing invalid operation with EOF
+16:38:23.782931 similar/3d/interp.cpp:483: warning: invalid polymodel at 0x11e9508 with length 11800; opcode 4 at offset 10368 references invalid offset 11808; replacing invalid operation with EOF
+16:38:23.783167 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x118cc98 with length 9856; opcode 3 at offset 9872 references invalid offset 9900; replacing invalid operation with EOF
+16:38:23.783339 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x11ae890 with length 10208; opcode 3 at offset 10212 references invalid offset 10240; replacing invalid operation with EOF
+16:38:23.783588 similar/3d/interp.cpp:483: warning: invalid polymodel at 0x11d58d0 with length 11800; opcode 4 at offset 10368 references invalid offset 11808; replacing invalid operation with EOF
+16:38:23.783729 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x11dc4a8 with length 9856; opcode 3 at offset 9872 references invalid offset 9900; replacing invalid operation with EOF
+16:38:23.784060 similar/3d/interp.cpp:483: warning: invalid polymodel at 0x1144a60 with length 11800; opcode 4 at offset 10368 references invalid offset 11808; replacing invalid operation with EOF
+16:38:23.784215 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x114ba60 with length 9856; opcode 3 at offset 9872 references invalid offset 9900; replacing invalid operation with EOF
+16:38:23.784336 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x114e140 with length 8480; opcode 3 at offset 8476 references invalid offset 8504; replacing invalid operation with EOF
+16:38:23.784458 similar/3d/interp.cpp:483: warning: invalid polymodel at 0x11889a8 with length 9344; opcode 4 at offset 8956 references invalid offset 9356; replacing invalid operation with EOF
+16:38:23.784707 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x11325d0 with length 7988; opcode 3 at offset 7972 references invalid offset 8000; replacing invalid operation with EOF
+16:38:23.785076 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x11e2408 with length 10124; opcode 3 at offset 10112 references invalid offset 10140; replacing invalid operation with EOF
+16:38:23.785325 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1158808 with length 11220; opcode 3 at offset 11204 references invalid offset 11232; replacing invalid operation with EOF
+16:38:23.785474 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x115b430 with length 11872; opcode 3 at offset 11860 references invalid offset 11888; replacing invalid operation with EOF
+16:38:23.785648 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x115f350 with length 8480; opcode 3 at offset 8476 references invalid offset 8504; replacing invalid operation with EOF
+16:38:23.785931 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x11f4f40 with length 15104; opcode 3 at offset 15116 references invalid offset 15144; replacing invalid operation with EOF
+16:38:23.786192 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x11f8aa0 with length 9928; opcode 3 at offset 9920 references invalid offset 9948; replacing invalid operation with EOF
+16:38:23.786352 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1155960 with length 8176; opcode 3 at offset 8160 references invalid offset 8188; replacing invalid operation with EOF
+16:38:23.786672 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x113df90 with length 8804; opcode 3 at offset 8784 references invalid offset 8812; replacing invalid operation with EOF
+16:38:23.786820 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x121c3d8 with length 7628; opcode 3 at offset 7600 references invalid offset 7628; replacing invalid operation with EOF
+16:38:23.787272 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1182c78 with length 9928; opcode 3 at offset 9920 references invalid offset 9948; replacing invalid operation with EOF
+16:38:23.787443 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1222b08 with length 9928; opcode 3 at offset 9920 references invalid offset 9948; replacing invalid operation with EOF
+16:38:23.787745 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x11fee88 with length 7628; opcode 3 at offset 7600 references invalid offset 7628; replacing invalid operation with EOF
+16:38:23.788344 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x124ea30 with length 15528; opcode 3 at offset 15552 references invalid offset 15580; replacing invalid operation with EOF
+16:38:23.788566 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1200c88 with length 13468; opcode 3 at offset 13464 references invalid offset 13492; replacing invalid operation with EOF
+16:38:23.788792 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1172058 with length 23264; opcode 3 at offset 23356 references invalid offset 23384; replacing invalid operation with EOF
+16:38:23.789020 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1210e70 with length 28712; opcode 3 at offset 28732 references invalid offset 28760; replacing invalid operation with EOF
+16:38:23.789177 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1210e70 with length 28712; opcode 3 at offset 28804 references invalid offset 28832; replacing invalid operation with EOF
+16:38:23.789364 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1210e70 with length 28712; opcode 3 at offset 28892 references invalid offset 28920; replacing invalid operation with EOF
+16:38:23.789616 similar/3d/interp.cpp:483: warning: invalid polymodel at 0x1226a80 with length 25476; opcode 4 at offset 25156 references invalid offset 25568; replacing invalid operation with EOF
+16:38:23.789774 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1204170 with length 15748; opcode 3 at offset 15764 references invalid offset 15792; replacing invalid operation with EOF
+16:38:23.789942 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1209c50 with length 20352; opcode 3 at offset 20384 references invalid offset 20412; replacing invalid operation with EOF
+16:38:23.790091 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1252770 with length 21692; opcode 3 at offset 21744 references invalid offset 21772; replacing invalid operation with EOF
+16:38:23.790276 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1177be8 with length 13324; opcode 3 at offset 13364 references invalid offset 13392; replacing invalid operation with EOF
+16:38:23.790428 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x116c380 with length 14128; opcode 3 at offset 14124 references invalid offset 14152; replacing invalid operation with EOF
+16:38:23.790626 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x12379a8 with length 21576; opcode 3 at offset 21568 references invalid offset 21596; replacing invalid operation with EOF
+16:38:23.790718 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x12379a8 with length 21576; opcode 3 at offset 21640 references invalid offset 21668; replacing invalid operation with EOF
+16:38:23.790872 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x1231860 with length 18256; opcode 3 at offset 18308 references invalid offset 18336; replacing invalid operation with EOF
+16:38:23.791229 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x10e9b08 with length 21536; opcode 3 at offset 21556 references invalid offset 21584; replacing invalid operation with EOF
+16:38:23.791334 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x10e9b08 with length 21536; opcode 3 at offset 21628 references invalid offset 21656; replacing invalid operation with EOF
+16:38:23.791520 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x10eefd8 with length 19744; opcode 3 at offset 19768 references invalid offset 19796; replacing invalid operation with EOF
+16:38:23.791611 similar/3d/interp.cpp:470: warning: invalid polymodel at 0x10eefd8 with length 19744; opcode 3 at offset 19840 references invalid offset 19868; replacing invalid operation with EOF
+16:38:37.356543 Failed to open movie <PLA.MVE>: (null)
+16:39:14.072761 DXX-Rebirth: OpenGL: disabling automatic GL sync since VSync is turned off
+16:39:33.005928 DXX-Rebirth: OpenGL: GL_ARB_sync not available, disabling sync
+16:41:30.722575 Shield boosted to 112
+16:41:41.239243 4 Proximity Bombs!
+16:42:37.888226 DXX-Rebirth: OpenGL: GL_ARB_sync not available, disabling sync
+16:42:51.572010 Shield boosted to 30
+16:43:21.554668 DXX-Rebirth: OpenGL: GL_ARB_sync not available, disabling sync
+16:43:23.887959 DXX-Rebirth: OpenGL: GL_ARB_sync not available, disabling sync
+16:43:32.371546 Energy boosted to 82
+16:43:46.888430 Energy -> shield converter!
+16:44:03.138301 Energy boosted to 115
+16:44:22.254927 Energy boosted to 116
+16:44:24.704788 Energy boosted to 131
+16:44:24.937902 Shield boosted to 29
+16:44:26.121657 Laser boosted to 2
+16:44:58.555586 Wall opened!

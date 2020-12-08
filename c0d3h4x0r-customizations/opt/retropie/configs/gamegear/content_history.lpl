@@ -1,0 +1,53 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/gamegear/Sonic The Hedgehog 2 (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gamegear/Surf Ninjas (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gamegear/Sonic The Hedgehog (U) (V1.1) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gamegear/Megaman (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gamegear/Batman Returns (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gamegear/Land of Illusion Starring Mickey Mouse (J).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

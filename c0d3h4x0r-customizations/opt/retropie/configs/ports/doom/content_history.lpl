@@ -1,0 +1,45 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/ports/doom/doom.wad",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-prboom/prboom_libretro.so",
+      "core_name": "PrBoom",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/ports/doom/plutonia.wad",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-prboom/prboom_libretro.so",
+      "core_name": "PrBoom",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/ports/doom/freedoom2.wad",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-prboom/prboom_libretro.so",
+      "core_name": "PrBoom",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/ports/doom/doom2.wad",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-prboom/prboom_libretro.so",
+      "core_name": "PrBoom",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/ports/doom/doom1.wad",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-prboom/prboom_libretro.so",
+      "core_name": "PrBoom",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

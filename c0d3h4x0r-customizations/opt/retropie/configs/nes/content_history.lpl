@@ -1,0 +1,805 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Super Mario Bros. (W) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Ninja Gaiden (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Rad Racer (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Castlevania (U) (PRG1) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/LightZapper/Duck Hunt (W) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Lemmings (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Life Force (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Super Mario Bros. (W) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/LightZapper/To The Earth (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/LightZapper/To The Earth (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/LightZapper/Super Mario Bros. + Duck Hunt (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Battletoads (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Duck Tales (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Fantasy Zone (Tengen) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Gargoyle's Quest II - The Demon Darkness (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Journey to Silius (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Wayne's World (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Megaman (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/1943 - The Battle of Midway (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/10-Yard Fight (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/camerica/Big Nose the Caveman (Camerica) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/camerica/Big Nose Freaks Out (Camerica) [a1].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/camerica/Quattro Adventure (Camerica) (Aladdin) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/R.B.I. Baseball (Tengen) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/R.B.I. Baseball (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Pac-Man (U) (Namco) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Super Mario Bros. 2 (U) (PRG1) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/agci/Shockwave (AGCI) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/agci/Death Race (AGCI) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/agci/Chiller (AGCI) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/bunch/Tagin' Dragon (Bunch) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/bunch/Moon Ranger (Bunch) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/bunch/Mission Cobra (Bunch) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/bunch/Galactic Crusader (Bunch) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/bunch/Castle of Deceit (Bunch) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/color_dreams/Metal Fighter (Color Dreams) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/color_dreams/Robodemons (Color Dreams) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/color_dreams/Raid 2020 (Color Dreams) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/color_dreams/Crystal Mines (Color Dreams) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/color_dreams/King Neptune's Adventure (Color Dreams) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/color_dreams/Menace Beach (Color Dreams) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/vs/Super Xevious - Gump no Nazo (VS).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/vs/Super Sky Kid (VS).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/vs/Star Luster (VS).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/vs/Ninja Jajamaru-kun (VS).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/vs/Goonies, The (VS).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/vs/Battle City (VS).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/world/Urban Champion (W) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/world/Stack Up (Block Set) (W) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/world/Popeye (W) (PRG1) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/world/Hogan's Alley (W) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/world/Gyromite (W) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/world/Clu Clu Land (W) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Mario Bros. (JU) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/tengen/Toobin' (Tengen) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/tengen/Tetris (Tengen) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/tengen/Super Sprint (Tengen) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/tengen/Skull & Crossbones (Tengen) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/tengen/Shinobi (Tengen) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/tengen/Rolling Thunder (Tengen) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/tengen/Road Runner (Tengen) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/tengen/Klax (Tengen) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/tengen/Alien Syndrome (Tengen) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/tengen/After Burner (Tengen) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/camerica/Quattro Sports (Camerica) [!p].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/camerica/Quattro Sports (Camerica) (Aladdin) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Super Sports Challenge (CodeMasters) (V2 Plug-Thru Cart).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Mario Open Golf (PC10) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Banana Prince (G) [T+Eng1.1a_KingMike].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Hit Marmot (Mega Soft).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Magic Block (Mega Soft) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Tobidase Daisakusen (FDS Conversion).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Strike Wolf (MGC-014) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Samurai Spirits (Rex Soft).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Metal Force (K) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Indiana Jones and the Temple of Doom (U) (PRG1) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Indiana Jones and the Temple of Doom (Tengen) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Indiana Jones and the Last Crusade (U) (UBI Soft) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Indiana Jones and the Last Crusade (U) (Taito) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Battle City (VS).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Bingo (MGC-003) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Burai Fighter (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Castle of Deceit (Bunch) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Chik Bik Ji Jin - Saam Gwok Ji (CN-20) (Tw) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Dance Aerobics (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Doki Doki Panic (FDS Conversion).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Fun House (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Perfect Fit (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Rockin' Kats (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Space Shuttle Project (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Spelunker (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Sqoon (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Summer Carnival '92 - Recca (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Super Dodge Ball (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Super Glove Ball (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Super Mario Bros. (W) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Super Mario Bros. + Duck Hunt + World Class Track Meet (U) (PRG1) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Super Mario Bros. + Duck Hunt (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/To The Earth (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/untested/Vegas Dream (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

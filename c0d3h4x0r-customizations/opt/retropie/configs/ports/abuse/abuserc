@@ -1,0 +1,38 @@
+; Abuse-SDL Configuration file
+
+; Startup fullscreen
+fullscreen=1
+
+; Force software renderer
+software=0
+
+; Location of the datafiles
+datadir=/opt/retropie/ports/abuse/share/games/abuse
+
+; Use mono audio only
+mono=0
+
+; Grab the mouse to the window
+grabmouse=0
+
+; Set the scale factor
+scale=2
+
+; Use anti-aliasing
+; Looks horrible, never enable it
+antialias=0
+
+; Key mappings
+left=LEFT
+right=RIGHT
+up=UP
+down=DOWN
+fire=SPACE
+weapprev=CTRL_R
+weapnext=INSERT
+; Alternative key bindings
+; Note: only the following keys can have two bindings
+left2=a
+right2=d
+up2=w
+down2=s

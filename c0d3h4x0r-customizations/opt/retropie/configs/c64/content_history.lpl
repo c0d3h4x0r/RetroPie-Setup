@@ -1,0 +1,237 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/c64/pal/Castlevania (Side 1).d64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/ntsc/Jumpman.d64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/either/Super_Mario_Bros_64_-_Zeropaige.crt",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/ntsc/Castlevania (Side 1).d64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/ntsc/Crystal Castles.d64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/pal/Crystal Castles.d64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/pal/altered_beast.d64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/untested/disks/altered_beast.d64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/pal/Gyruss.crt",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/pal/Jumpman Junior.crt",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/pal/H.E.R.O.crt",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/ntsc/Lazarian.crt",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/ntsc/Tooth Invaders.crt",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/pal/Tooth Invaders.crt",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/pal/Shoot_Em_Up_Construction_Kit_(Original)_(en)_Side_1.d64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/ntsc/Shoot_Em_Up_Construction_Kit_Demo_3_(Transputer_Man).d64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/ntsc/Shoot_Em_Up_Construction_Kit_Demo_2_(Outlaw).d64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/ntsc/Shoot_Em_Up_Construction_Kit_Demo_1_(Slap_and_Tickle).d64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/untested/disks/Shoot_Em_Up_Construction_Kit_(ACE)_(en).d64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/untested/disks/Shoot_Em_Up_Construction_Kit_(Original)_(en)_Side_1.d64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/untested/Seuck_(Original)_(en)_S1.d64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/Epyx Fastload.crt",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/ntsc/Super Mario Bros. (Great Giana Sisters Hack).d64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/pal/Alien Syndrome (Side 2).d64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/pal/Alien Syndrome (Side 1).d64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/ntsc/Buggy Boy.d64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/ntsc/Afterburner.d64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/ntsc/Archon II - Adept.d64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/c64/ntsc/Archon.d64",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-vice/vice_x64_libretro.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

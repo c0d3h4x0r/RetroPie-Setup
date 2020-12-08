@@ -1,0 +1,389 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Mines of Minos (1982) (CommaVid).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Frogger (1982) (Parker Bros) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Frogger (Official Version by Sega) (1982) (Starpath).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Circus Atari (1978) (Atari) (Joystick).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Circus Atari (1978) (Atari) (Paddles) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Killer Satellites (1982) (Starpath).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Burning Desire (1982) (Playaround).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Better Space Invaders (1999) (Rob Kudla) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Atlantis II (1982) (Imagic) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Atlantis (1982) (Imagic) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Atlantis (1982) (Activision) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Asteroids Deluxe (Flashback 2 Version).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Asteroids (1981) (Atari) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Adventure 2 (Flashback 2 Version).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Space Canyon (Panda).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Space Cavern (1981) (Apollo) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Super Futebol (AKA RealSports Football) (CCE).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Super Box (CCE).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Q-bert (1988) (Atari) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Q-bert (SuperCharger).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Acid Drop (1992) (Salu) [f1] (NTSC by TJ).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Space Invaders (1978) (Atari) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Fishing Derby (1980) (Activision) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Fishing Derby (CCE).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Freeway (1981) (Activision) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Freeway (CCE).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Frogger (1982) (Parker Bros) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Frogger (Official Version by Sega) (1982) (Starpath).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Tennis (1983) (CCE).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Tennis (1981) (Activision) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Tape Worm (1982) (Jone Yuan Telephonic Enterprise Co).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Tape Worm (1982) (Spectravideo).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Superman (1978) (Atari) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Superman (CCE).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Super Challenge Baseball (1982) (Jone Yuan Telephonic Enterprise Co).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Super Challenge Baseball (1982) (Mattel) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Steeple Chase (1983) (Video Gems) [f1] (NTSC by TJ).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Steeplechase (1980) (Sears).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Space Invaders (1983) (CCE).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/3-D Tic-Tac-Toe (1978) (Atari) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Starmaster (1982) (Activision) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Venture (1982) (Coleco) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Xevious (1983) (CCE).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Yars' Return (Flashback 2 Version).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Zaxxon (1983) (CBS Electronics).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Yars' Revenge (1981) (Atari) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Custer's Revenge (1982) (Mystique).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Adventure (1978) (Atari) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella/stella_libretro.so",
+      "core_name": "Stella",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Blaster Master - Enemy Below (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Megaman Xtreme (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/untested/not_explicitly_color/Amazing Tater (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Dragon Warrior Monsters (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/untested/FREME Tuner (U) [C].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Black Bass - Lure Fishing (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/untested/Arle no Bouken - Mahou no Jewel (J) [C][T+Eng1.0_Vida].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/not_explicitly_color/Skate or Die - Bad 'N Rad (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/not_explicitly_color/Stargate (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/not_explicitly_color/Super Mario Land (W) (V1.1) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/not_explicitly_color/Turrican (UE) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Tonka Raceway (U) (Rumble) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Pokemon - Gold Version (UE) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Pocket Monsters Gold (K) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Logical (U) (THQ) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Logical (U) (Sunsoft) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Chase H.Q. - Secret Police (U) (Metro 3D re-release) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Chase H.Q. - Secret Police (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/1942 (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/monochrome/Monopoly (U) [M][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/monochrome/Rampart (U) [M][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/monochrome/Robocop (U) (V1.0) [M][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

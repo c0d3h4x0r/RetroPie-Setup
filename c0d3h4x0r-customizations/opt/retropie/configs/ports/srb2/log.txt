@@ -1,0 +1,109 @@
+Compiled for SDL version: 2.0.8
+Linked with SDL version: 2.0.8
+Setting up SRB2...
+
+
+Sonic Robo Blast 2
+Copyright (C) 1998-2018 by Sonic Team Junior
+
+This program comes with ABSOLUTELY NO WARRANTY.
+
+This is free software, and you are welcome to redistribute it
+and/or modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2 of
+the License, or (at your option) any later version.
+See the 'LICENSE.txt' file for details.
+
+Sonic the Hedgehog and related characters are trademarks of SEGA.
+We do not claim ownership of SEGA's intellectual property used
+in this program.
+
+Looking for WADs in: SRB2WADDIR,.
+Z_Init(): Init zone memory allocation daemon. 
+System memory: 748MB - Free: 575MB
+I_StartupTimer()...
+W_InitMultipleFiles(): Adding IWAD and main PWADs.
+Added file /opt/retropie/ports/srb2/srb2.srb (6214 lumps)
+Loading main config from /opt/retropie/ports/srb2/srb2.srb
+Added file /opt/retropie/ports/srb2/zones.dta (962 lumps)
+Loading main config from /opt/retropie/ports/srb2/zones.dta
+Added file /opt/retropie/ports/srb2/player.dta (526 lumps)
+Added file /opt/retropie/ports/srb2/rings.dta (444 lumps)
+Added file /opt/retropie/ports/srb2/patch.dta (94 lumps)
+Added file /opt/retropie/ports/srb2/music.dta (171 lumps)
+I_StartupGraphics()...
+NOTE: Under SDL2, all modes are supported on all platforms.
+Under opengl, fullscreen only supports native desktop resolution.
+Under software, the mode is stretched up to desktop resolution.
+ 0: 1920x1200
+ 1: 1920x1080
+ 2: 1680x1050
+ 3: 1600x1200
+ 4: 1600x900
+ 5: 1366x768
+ 6: 1440x900
+ 7: 1280x1024
+ 8: 1280x960
+ 9: 1280x800
+10: 1280x720
+11: 1152x864
+12: 1024x768
+13: 800x600
+14: 640x480
+15: 640x400
+16: 320x240
+17: 320x200
+‚Current Video Mode
+ 320x200 at 16 bit color
+ Stored in system memory
+CPU Info: 486: 0, 586: 0, MMX: 0, 3DNow: 0, MMXExt: 0, SSE2: 0
+HU_Init(): Setting up heads up display.
+Number of console HUD lines is now 5
+Joystick: Pro Controller
+Couldn't open joystick2: There are 1 joysticks available
+couldn't execute file /home/pi/.srb2/config.cfg
+Default resolution: 1280 x 800 (16 bits)
+M_Init(): Init miscellaneous info.
+R_Init(): Init SRB2 refresh daemon.
+R_LoadTextures()...
+P_InitPicAnims()...
+R_InitSprites()...
+srb2.srb added 2975 frames in 231 sprites
+player.dta added 163 frames in 1 sprites
+rings.dta added 431 frames in 18 sprites
+patch.dta added 1 frames in 1 sprites
+Added skin 'tails'
+Added skin 'knuckles'
+R_InitColormaps()...
+Number of Extra Colormaps: 0
+S_InitSfxChannels(): Setting up sound channels.
+ST_Init(): Init status bar.
+D_CheckNetGame(): Checking network game status.
+Entering main game loop...
+I_StartupKeyboard()...
+===========================================================================
+                   We hope you enjoy this game as
+                     much as we did making it!
+                            ...wait. =P
+===========================================================================
+Sonic Robo Blast 2 v2.1.23 (May 27 2019 08:30:19 addf2bb) SDL Linux 32-bit 
+screen shot srb20000.png saved in /home/pi/.srb2
+screen shot srb20001.png saved in /home/pi/.srb2
+screen shot srb20002.png saved in /home/pi/.srb2
+screen shot srb20003.png saved in /home/pi/.srb2
+screen shot srb20004.png saved in /home/pi/.srb2
+screen shot srb20005.png saved in /home/pi/.srb2
+screen shot srb20006.png saved in /home/pi/.srb2
+screen shot srb20007.png saved in /home/pi/.srb2
+screen shot srb20008.png saved in /home/pi/.srb2
+screen shot srb20009.png saved in /home/pi/.srb2
+screen shot srb20010.png saved in /home/pi/.srb2
+screen shot srb20011.png saved in /home/pi/.srb2
+Starting Server....
+Speeding off to level...
+screen shot srb20012.png saved in /home/pi/.srb2
+screen shot srb20013.png saved in /home/pi/.srb2
+Shutdown tty console
+I_ShutdownGraphics(): shut down
+I_ShutdownTcpDriver: shut down
+I_ShutdownSystem(): end of logstream.

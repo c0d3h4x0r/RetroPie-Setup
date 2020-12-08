@@ -1,0 +1,34 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/sega32x/Tempo (JU) (32X) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "Sega - MS/MD/CD/32X (PicoDrive)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/sega32x/T-MEK (W) (32X) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "Sega - MS/MD/CD/32X (PicoDrive)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/sega32x/Slam City with Scottie Pippen (32X) (Smash) (U) [Disc 4 of 4].bin",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-picodrive/picodrive_libretro.so",
+      "core_name": "Sega - MS/MD/CD/32X (PicoDrive)",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

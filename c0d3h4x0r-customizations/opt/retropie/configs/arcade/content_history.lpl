@@ -1,0 +1,570 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/maglord.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/sonicwi2.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/aburner2.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/altbeast.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/alpham2.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/1941.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/samsho.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/stdragon.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/blazstar.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/tigeroad.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/strider.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/captcomm.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/mslug.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/avsp.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/tmnt.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/jrpacman.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/1943.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/gpilots.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/mspacman.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/galaga88.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/galaga.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/ffight.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/19xx.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/1945kiii.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/fantzone.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/mslugx.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/mslug2.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/msword.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/lresort.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/shocktro.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/rastan.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/parodius.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/neobombe.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/puckman.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/gradius3.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/gradius.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/alexkidd.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/gradius4.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/gradius2.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/gaxeduel.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/joust.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/88games.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/gyruss.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/legend.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/konami88.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/konamigt.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/fantzn2.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/lifefrce.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/ssi.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/bjourney.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/ddp2.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame/mamearcade_libretro.so",
+      "core_name": "MAME",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/ddp2.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/term2.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/invaders.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/strider2.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/strider.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame/mamearcade_libretro.so",
+      "core_name": "MAME",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/s1945.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/splatter.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/invadpt2.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/invad2ct.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/sicv.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/zedblade.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2015/mame2015_libretro.so",
+      "core_name": "MAME 2015",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/timecrs2.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/timecris.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/sonicwi3.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/1944.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/1943kai.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/1942.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2010/mame2010_libretro.so",
+      "core_name": "MAME 2010",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/jrpacman.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame2016/mamearcade2016_libretro.so",
+      "core_name": "MAME 2016",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/arcade/jrpacman.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mame/mamearcade_libretro.so",
+      "core_name": "MAME",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

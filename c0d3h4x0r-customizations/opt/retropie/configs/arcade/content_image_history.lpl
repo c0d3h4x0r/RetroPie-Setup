@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "/home/pi/.config/retroarch/screenshots/jrpacman-190630-174838.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

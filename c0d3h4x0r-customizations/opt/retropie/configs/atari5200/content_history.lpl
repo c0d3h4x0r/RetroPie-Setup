@@ -1,0 +1,85 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/atari5200/Dig Dug (1983) (Atari).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-atari800/atari800_libretro.so",
+      "core_name": "Atari800",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari5200/Defender (1982) (Atari).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-atari800/atari800_libretro.so",
+      "core_name": "Atari800",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari5200/Congo Bongo (1983) (Sega).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-atari800/atari800_libretro.so",
+      "core_name": "Atari800",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari5200/Galaxian (1982) (Atari).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-atari800/atari800_libretro.so",
+      "core_name": "Atari800",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari5200/Zone Ranger (1984) (Activision).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-atari800/atari800_libretro.so",
+      "core_name": "Atari800",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari5200/Berzerk (1983) (Atari).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-atari800/atari800_libretro.so",
+      "core_name": "Atari800",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari5200/Choplifter (1984) (Atari).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-atari800/atari800_libretro.so",
+      "core_name": "Atari800",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari5200/Centipede (1982) (Atari).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-atari800/atari800_libretro.so",
+      "core_name": "Atari800",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari5200/Countermeasure (1983) (Atari).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-atari800/atari800_libretro.so",
+      "core_name": "Atari800",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari5200/PAM SALT V1.02 (1982) (Atari).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-atari800/atari800_libretro.so",
+      "core_name": "Atari800",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+16:09:38.544517 D1X-Rebirth v0.61  Jul  6 2019 14:22:34
+16:09:38.544712 This is a MODIFIED version of Descent, based on Registered v1.5 Jan 5, 1996.
+16:09:38.544793 Copyright (C) 1994, 1995 Parallax Software Corporation
+16:09:38.544869 DESCENT is a trademark of Interplay Productions, Inc.
+16:09:38.544942 Copyright (C) 2005-2013 Christian Beckhaeuser, 2013-2017 Kp
+16:09:38.610383 Using SDL_mixer library v1.2.12
+16:09:39.229564 sdl-joystick: 1 joysticks
+16:09:39.269332 sdl-joystick 0: Pro Controller
+16:09:39.269529 sdl-joystick: 4 axes
+16:09:39.269630 sdl-joystick: 16 buttons
+16:09:39.269711 sdl-joystick: 1 hats
+16:09:39.269805 sdl-joystick: 4 axes (total)
+16:09:39.269881 sdl-joystick: 20 buttons (total)
+16:09:39.271270 RPi: activating hack for console driver
+16:09:39.287570 DXX-Rebirth: OpenGL: disabling automatic GL sync since VSync is turned off
+16:14:02.048977 Energy boosted to 111
+16:16:19.764758 DXX-Rebirth: OpenGL: disabling automatic GL sync since VSync is turned off
+16:16:30.064643 DXX-Rebirth: OpenGL: GL_ARB_sync not available, disabling sync
+16:17:24.064552 DXX-Rebirth: OpenGL: GL_ARB_sync not available, disabling sync
+16:17:27.981078 DXX-Rebirth: OpenGL: GL_ARB_sync not available, disabling sync
+16:17:44.264585 Shield boosted to 59
+16:17:46.197888 Shield boosted to 74
+16:17:53.681482 Energy boosted to 115
+16:18:07.914482 4 Concussion Missiles!

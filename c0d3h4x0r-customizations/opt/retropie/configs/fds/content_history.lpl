@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/fds/untested/Akumajou Dracula (v1.02).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/fds/untested/Aiamua Teacher - Super Mario Seta.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/fds/untested/Dead Zone.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-nestopia/nestopia_libretro.so",
+      "core_name": "Nestopia",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}
