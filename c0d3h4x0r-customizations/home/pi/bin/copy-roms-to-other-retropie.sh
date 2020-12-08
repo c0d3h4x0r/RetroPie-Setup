@@ -5,4 +5,4 @@ if [ -z "$1" ]; then
     exit 1
 fi
 
-rsync -rKP /home/pi/RetroPie/roms/ pi@$1:/home/pi/RetroPie/roms/
+rsync -vrahKP /home/pi/RetroPie/roms/ pi@$1:/home/pi/RetroPie/roms/
