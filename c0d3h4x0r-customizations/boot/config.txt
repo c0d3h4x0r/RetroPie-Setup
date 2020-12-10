@@ -70,6 +70,28 @@ hdmi_drive=2
 # Uncomment to disable dynamic overlocking and force full overlocking.
 force_turbo=1
 
+# Uncomment some or all of these to enable the optional hardware interfaces
+dtparam=i2c_arm=on
+#dtparam=i2s=on
+#dtparam=spi=on
+
+# Uncomment this to enable the lirc-rpi module
+#dtoverlay=lirc-rpi
+
+# Additional overlays and parameters are documented /boot/overlays/README
+
+# Enable audio (loads snd_bcm2835)
+dtparam=audio=on
+
+# Disable the color gradient GPU self-test screen on boot.
+disable_splash=1
+
+enable_uart=1
+
+[pi3+]
+# define how many MB of RAM to allocate to the GPU
+gpu_mem=256
+
 # Uncomment to overclock the arm. 1400 MHz is the default for Pi 3B+.
 #arm_freq=1500
 
@@ -91,30 +113,15 @@ force_turbo=1
 # Temperature at which the clocks and voltages auto-revert to default
 # for overheat protection.  Values over 85 are clamped to 85.
 #temp_limit=75
-
-# Uncomment some or all of these to enable the optional hardware interfaces
-dtparam=i2c_arm=on
-#dtparam=i2s=on
-#dtparam=spi=on
-
-# Uncomment this to enable the lirc-rpi module
-#dtoverlay=lirc-rpi
-
-# Additional overlays and parameters are documented /boot/overlays/README
-
-# Enable audio (loads snd_bcm2835)
-dtparam=audio=on
-
-# define how many MB of RAM to allocate to the GPU
-gpu_mem=256
-
-# Disable the color gradient GPU self-test screen on boot.
-disable_splash=1
-
 # Disable on-board Bluetooth (piss-poor reception)
 dtoverlay=pi3-disable-bt
 
 # Disable on-board WiFi (interferes with Bluetooth)
 #dtoverlay=pi3-disable-wifi
+[all]
 
-enable_uart=1
+[pi4]
+# Enable DRM VC4 V3D driver on top of the dispmanx display stack
+dtoverlay=vc4-fkms-v3d
+max_framebuffers=2
+[all]
