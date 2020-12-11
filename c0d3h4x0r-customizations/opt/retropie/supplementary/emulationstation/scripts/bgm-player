@@ -22,7 +22,7 @@ while [ -z "$es_pid" ]; do
 done
 
 echo "Sleeping while es boots"
-sleep 4 
+sleep 2 
 
 echo "Starting playback"
 find "$bgm_dir" -maxdepth 1 -iname "*.mp3" | shuf > "$bgm_dir/playlist.txt"
