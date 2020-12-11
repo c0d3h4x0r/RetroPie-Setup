@@ -15,3 +15,4 @@ sudo apt-get install -y	mpg123  # for bgm-player
 sudo apt-get install -y bc  # for hw_status
 
 echo "Now go modify /boot/cmdline.txt to add/modify the parameters found in /boot/cmdline.txt.silent-boot"
+echo "Also remember to run argoneone-install and argonone-config to make fan always run if you are using an Argon ONE case."
