@@ -15,6 +15,6 @@ sudo apt-get install -y mpg123  # for bgm-player
 sudo apt-get install -y bc  # for hw_status
 
 # set cmdline for silent boot
-sudo sed --in-place=$BACKUP_SUFFIX 's/console=tty1/console=tty3/g; s/logo\.nologo//g; s/vt\.global_cursor_default=0//g; s/  / /g; s/$/logo\.nologo vt\.global_cursor_default=0/g' /boot/cmdline.txt
+sudo sed --in-place 's/ loglevel=3/ quiet loglevel=3/g' /boot/cmdline.txt
 
 echo "Remember to run argoneone-install and argonone-config to make fan always run if you are using an Argon ONE case."
