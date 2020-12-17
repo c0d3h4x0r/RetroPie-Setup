@@ -12,13 +12,14 @@ gain="$( cat "$HOME/.emulationstation/es_bgmvolume.cfg" )"
 
 while pgrep omxplayer; do
     echo "Waiting for omxplayer to finish"
-    sleep 1
+    sleep 0.25
 done
 
 echo "Waiting for es to start"
 es_pid=''
 while [ -z "$es_pid" ]; do
     es_pid="$( pgrep -f 'emulationstation/emulationstation($| )' || printf '' )"
+    sleep 0.25
 done
 
 echo "Sleeping while es boots"
