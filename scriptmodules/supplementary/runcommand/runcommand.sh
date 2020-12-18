@@ -183,6 +183,8 @@ function get_params() {
             SYS_SAVE_ROM="$(clean_name "${SYSTEM}_${ROM_BN}")"
             [[ -z "$SYSTEM" ]] && return 1
             get_sys_command
+            # c0d3h4x0r: amiberry doesn't use SDL2
+            [[ "$EMULATOR" =~ ^amiberry ]] && HAS_MODESET="tvs"
         fi
     else
         IS_SYS=0
