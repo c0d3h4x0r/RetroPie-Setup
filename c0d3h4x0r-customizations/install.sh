@@ -1,16 +1,23 @@
 #!/usr/bin/env bash
 
+SCRIPT_DIR="$(dirname "$0")"
+SCRIPT_DIR="$(cd "$SCRIPT_DIR" && pwd)"
+
 COPY_OPTIONS="--no-preserve=ownership -r"
 
-sudo cp $COPY_OPTIONS ./boot/* /boot/
-sudo cp $COPY_OPTIONS ./etc/* /etc/
-cp $COPY_OPTIONS ./home/pi/* /home/pi/
-sudo cp $COPY_OPTIONS ./opt/* /opt/
+sudo cp $COPY_OPTIONS $SCRIPT_DIR/boot /
+sudo cp $COPY_OPTIONS $SCRIPT_DIR/etc /
+cp $COPY_OPTIONS $SCRIPT_DIR/home /
+sudo cp $COPY_OPTIONS $SCRIPT_DIR/root /
+
+sudo cp $COPY_OPTIONS $SCRIPT_DIR/opt /
 sudo chown -R pi:pi /opt/retropie/configs
+
 pushd /opt/retropie/supplementary/emulationstation/scripts > /dev/null
 sudo chgrp pi ./bgm-player ./bgm-start ./bgm-stop
 sudo chmod 2654 ./bgm-player ./bgm-start ./bgm-stop
 popd > /dev/null
+
 sudo apt-get install -y mpg123  # for bgm-player
 sudo apt-get install -y bc  # for hw_status
 
