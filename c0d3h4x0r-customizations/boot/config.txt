@@ -31,14 +31,14 @@ hdmi_force_hotplug=1
 # 0 = Auto-detect from EDID
 # 1 = CEA (HDMI / TVS)
 # 2 = DMT (DVI / VGA / Monitors)
-#hdmi_group=1
+hdmi_group=1
 
 # for hdmi_group=1:
 #   4 = 720p @ 60Hz
 #   16 = 1080p @ 60Hz
 #   19 = 720p @ 50Hz
 #   31 = 1080p @ 50Hz
-#hdmi_mode=4
+hdmi_mode=16
 
 # 0 = default (RGB limited for CEA/HDMI, RGB full for DMT/DVI/VGA)
 # 1 = RGB limited (16-235)
