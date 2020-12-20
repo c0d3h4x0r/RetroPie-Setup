@@ -26,8 +26,8 @@ echo "Sleeping while es boots"
 sleep 2 
 
 echo "Starting playback"
-find "$bgm_dir" -maxdepth 1 -iname "*.mp3" | shuf > "$bgm_dir/playlist.txt"
-mpg123 --quiet --scale $(expr $gain \* 32768 / 100) --loop -1 -@ "$bgm_dir/playlist.txt" >/dev/null 2>&1 &
+find "$bgm_dir" -maxdepth 1 -iname "*.mp3" > "$bgm_dir/playlist.txt"
+mpg123 --quiet --scale $(expr $gain \* 32768 / 100) -Z -@ "$bgm_dir/playlist.txt" >/dev/null 2>&1 &
 playback_pid=$!
 
 echo "Starting main loop"
