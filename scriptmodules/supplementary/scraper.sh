@@ -71,7 +71,7 @@ function scrape_scraper() {
     else
         gamelist="$home/.emulationstation/gamelists/$system/gamelist.xml"
         img_dir="$home/.emulationstation/downloaded_images/$system"
-        img_path="~/.emulationstation/downloaded_images/$system"
+        img_path="$home/.emulationstation/downloaded_images/$system"
     fi
 
     local params=()
@@ -110,20 +110,33 @@ function scrape_scraper() {
     if [[ -n "$max_height" ]]; then
         params+=(-max_height "$max_height")
     fi
+
+    local using_screenscraper=0
+
     if [[ "$console_src" -eq 0 ]]; then
         params+=(-console_src="ovgdb")
     elif [[ "$console_src" -eq 1 ]]; then
         params+=(-console_src="gdb")
     else
         params+=(-console_src="ss")
+        using_screenscraper=1
     fi
     if [[ "$mame_src" -eq 0 ]]; then
         params+=(-mame_src="mamedb")
     elif [[ "$mame_src" -eq 1 ]]; then
         params+=(-mame_src="ss")
+        using_screenscraper=1
     else
         params+=(-mame_src="adb")
     fi
+
+    if [[ "$using_screenscraper" -eq 1 ]] && [[ -n "$ss_user" ]]; then
+        params+=(-ss_user "$ss_user")
+        if [[ -n "$ss_password" ]]; then
+            params+=(-ss_password "$ss_password")
+        fi
+    fi
+
     if [[ "$rom_name" -eq 1 ]]; then
         params+=(-use_nointro_name=false)
     elif [[ "$rom_name" -eq 2 ]]; then
@@ -135,7 +148,8 @@ function scrape_scraper() {
 
     # trap ctrl+c and return if pressed (rather than exiting retropie-setup etc)
     trap 'trap 2; return 1' INT
-    sudo -u $user "$md_inst/scraper" ${params[@]}
+    echo "$md_inst/scraper ${params[@]}" > /dev/shm/scraper.cmd
+    sudo -u $user "$md_inst/scraper" "${params[@]}" | tee /dev/shm/scraper.log
     trap 2
 }
 
@@ -159,18 +173,18 @@ function scrape_chosen_scraper() {
 
     if [[ ${#options[@]} -eq 0 ]] ; then
         printMsgs "dialog" "No populated rom folders were found in $romdir."
-        return
+        return 1
     fi
 
     local cmd=(dialog --backtitle "$__backtitle" --checklist "Select ROM Folders" 22 76 16)
     local choice=($("${cmd[@]}" "${options[@]}" 2>&1 >/dev/tty))
 
-    [[ ${#choice[@]} -eq 0 ]] && return
+    [[ ${#choice[@]} -eq 0 ]] && return 1
 
     local choice
     for choice in "${choice[@]}"; do
         choice=${options[choice*3-2]}
-        scrape_scraper "$choice" "$@"
+        scrape_scraper "$choice" "$@" || return 1
     done
 }
 
@@ -187,6 +201,8 @@ function _load_config_scraper() {
         'use_rom_folder=0' \
         'download_videos=0' \
         'download_marquees=0' \
+        'ss_user=' \
+        'ss_password=' \
     )"
 }
 
@@ -209,7 +225,7 @@ function gui_scraper() {
             1 "Scrape all systems"
             2 "Scrape chosen systems"
         )
-
+        
         if [[ "$use_thumbs" -eq 1 ]]; then
             options+=(3 "Thumbnails only (Enabled)")
         else
@@ -222,10 +238,13 @@ function gui_scraper() {
             options+=(4 "Prefer screenshots (Disabled)")
         fi
 
+        local using_screenscraper=0
+
         if [[ "$mame_src" -eq 0 ]]; then
             options+=(5 "Arcade Source (MameDB)")
         elif [[ "$mame_src" -eq 1 ]]; then
             options+=(5 "Arcade Source (ScreenScraper)")
+            using_screenscraper=1
         else
             options+=(5 "Arcade Source (ArcadeItalia)")
         fi
@@ -236,6 +255,15 @@ function gui_scraper() {
             options+=(6 "Console Source (thegamesdb)")
         else
             options+=(6 "Console Source (ScreenScraper)")
+            using_screenscraper=1
+        fi
+
+        if [[ "$using_screenscraper" -eq 1 ]]; then
+            if [[ -n "$ss_user" ]]; then
+                options+=(S "Set Screenscraper user credentials ($ss_user)")
+            else
+                options+=(S "Set Screenscraper user credentials (none)")
+            fi
         fi
 
         if [[ "$rom_name" -eq 0 ]]; then
@@ -311,6 +339,14 @@ function gui_scraper() {
                 7)
                     rom_name="$((( rom_name + 1 ) % 3))"
                     iniSet "rom_name" "$rom_name"
+                    ;;
+                S)
+                    cmd=(dialog --backtitle "$__backtitle" --inputbox "Please enter your Screenscraper username" 10 60 "$ss_user")
+                    ss_user=$("${cmd[@]}" 2>&1 >/dev/tty)
+                    iniSet "ss_user" "$ss_user"
+                    cmd=(dialog --backtitle "$__backtitle" --inputbox "Please enter your Screenscraper password" 10 60 "$ss_password")
+                    ss_password=$("${cmd[@]}" 2>&1 >/dev/tty)
+                    iniSet "ss_password" "$ss_password"
                     ;;
                 8)
                     append_only="$((append_only ^ 1))"
