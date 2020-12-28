@@ -47,7 +47,7 @@ do_start () {
         # Default volume is 100%, check if configured otherwise
         [ -z "$VOLUME" ] && VOLUME=100
 
-        omxplayer --vol $(expr -1000 \+ $VOLUME \* 1000 / 100) --no-osd -o both -b --layer 10000 "$line" >/dev/null 2>&1
+        omxplayer --vol $(expr -1000 \+ $VOLUME \* 1000 / 100) --no-osd -o both -b --layer 10000 "$line" >/dev/null 2>&1 &
     elif $(echo "$line" | grep -q "$REGEX_IMAGE"); then
         if [ "$RANDOMIZE" = "disabled" ]; then
             local count=$(wc -l <"$config")
