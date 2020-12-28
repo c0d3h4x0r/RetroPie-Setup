@@ -6,7 +6,7 @@ while true; do
     rm -f /tmp/es-restart /tmp/es-sysrestart /tmp/es-shutdown
     "$esdir/scripts/wifi-power"
     "$esdir/scripts/bgm-start"
-    "$esdir/emulationstation" "$@"
+    "$esdir/emulationstation" "$@" >$HOME/.emulationstation/es_output.txt 2>&1
     ret=$?
     "$esdir/scripts/bgm-stop"
     [ -f /tmp/es-restart ] && continue
