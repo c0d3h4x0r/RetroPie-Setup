@@ -1,0 +1,72 @@
+#!/usr/bin/env bash
+
+set -e
+
+function usage() {
+    echo "Usage: sudo $0 [options]"
+    echo
+    echo "  <no args>          Use system default resolution and refresh rate" 
+    echo "  -e <1080|720>      Use specified resolution"
+    echo "  -r <50|60>         Use specified refresh rate"
+    exit 1
+}
+
+res="default"
+rate="default"
+
+while (( "$#" )); do
+    case "$1" in
+        "-e")
+            res="$2"
+            shift
+            ;;
+        "-r")
+            rate="$2"
+            shift
+            ;;
+        *)
+            usage
+            ;;
+    esac
+    shift
+done
+
+if [[ "$(id -u)" -ne 0 ]]; then
+    echo -e "error: this script must be run using 'sudo'\n" >/dev/stderr
+    usage
+fi
+
+if [[ "$res" == "default" ]] && [[ "$rate" == "default" ]]; then
+    tvs_args=(-p)
+elif [[ "$res" == "default" ]] || [[ "$rate" == "default" ]]; then
+    usage
+else
+    if [[ "$res" == "1080" ]]; then
+        if [[ "$rate" == "60" ]]; then
+            mode="CEA 16"
+        elif [[ "$rate" == "50" ]]; then
+            mode="CEA 31"
+        else
+            usage
+        fi
+    elif [[ "$res" == "720" ]]; then
+        if [[ "$rate" == "60" ]]; then
+            mode="CEA 4"
+        elif [[ "$rate" == "50" ]]; then
+            mode="CEA 19"
+        else
+            usage
+        fi
+    else
+        usage
+    fi
+    tvs_args=(-e "$mode")
+fi
+
+tvservice --off
+tvservice "${tvs_args[@]}"
+res=( $(tvservice -s | sed -E 's/^.* ([0-9]+)x([0-9]+) @.*$/\1 \2/g') )
+fbset -xres "${res[0]}" -yres "${res[1]}"
+chvt 2
+chvt 1
+tput cnorm 
