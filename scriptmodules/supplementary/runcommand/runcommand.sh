@@ -229,7 +229,7 @@ function get_all_tvs_modes() {
                 MODE_ID+=($group-$id)
                 MODE[$group-$id]="$info"
             fi
-        done < <($TVSERVICE -m $group)
+        done < <($TVSERVICE -m $group 2>>$LOG)
     done
     local aspect
     for group in "NTSC" "PAL"; do
@@ -302,7 +302,7 @@ function get_all_x11_modes()
             output=$1; next
         }
         
-        # parse mode and lines
+        
         # If we are in a "description", and output is set (output being what we want)
         # And if $2 is an id, we are in a video mode description line
         !type && output && $2 ~ /^\(0x[0-9a-f]+\)$/ {
@@ -329,20 +329,11 @@ function get_all_x11_modes()
 }
 
 function get_tvs_mode_info() {
-    local status="$($TVSERVICE -s)"
+    local status="$($TVSERVICE -s 2>>$LOG)"
     local temp
     local mode_info=()
 
-    # get mode type / id
-    if [[ "$status" =~ (PAL|NTSC) ]]; then
-        temp=($(echo "$status" | grep -oE "(PAL|NTSC) (4:3|16:10|16:9)"))
-    else
-        temp=($(echo "$status" | grep -oE "(CEA|DMT) \([0-9]+\)"))
-    fi
-    mode_info[0]="${temp[0]}"
-    mode_info[1]="${temp[1]//[()]/}"
-
-    # get mode resolution
+    # get resolution
     temp=$(echo "$status" | cut -d"," -f2 | grep -oE "[0-9]+x[0-9]+")
     temp=(${temp/x/ })
     mode_info[2]="${temp[0]}"
@@ -356,6 +347,35 @@ function get_tvs_mode_info() {
     temp=$(echo "$status" | grep -oE "[0-9\.]+Hz" | cut -d"." -f1)
     mode_info[5]="$temp"
 
+    # get mode / id
+    if [[ "$status" =~ (PAL|NTSC) ]]; then
+        temp=($(echo "$status" | grep -oE "(PAL|NTSC) (4:3|16:10|16:9)"))
+        mode_info[0]="${temp[0]}"
+        mode_info[1]="${temp[1]//[()]/}"
+    elif [[ "$status" =~ (CEA|DMT) ]]; then
+        temp=($(echo "$status" | grep -oE "(CEA|DMT) \([0-9]+\)"))
+        mode_info[0]="${temp[0]}"
+        mode_info[1]="${temp[1]//[()]/}"
+    elif [[ "$status" =~ HDMI\ CUSTOM ]]; then
+        # find closest match
+        refresh_rate="$(echo "${mode_info[5]}" | cut -d"." -f1)"
+        temp=($(tvservice -m CEA | grep -oE "mode [0-9]+: ${mode_info[2]}x${mode_info[3]} @ ${mode_info[5]}Hz ${mode_info[4]}, clock:[0-9]+(K|M)Hz (progressive|interlaced)"))
+        if [[ -n "$temp" ]]; then
+            mode_info[0]="CEA"
+        else
+            temp=($(tvservice -m DMT | grep -oE "mode [0-9]+: ${mode_info[2]}x${mode_info[3]} @ ${mode_info[5]}Hz ${mode_info[4]}, clock:[0-9]+(K|M)Hz (progressive|interlaced)"))
+            if [[ -n "$temp" ]]; then
+                mode_info[0]="DMT"
+            fi
+        fi
+        if [[ -n "$temp" ]]; then
+            mode_info[1]="$(echo "${temp[*]}" | cut -d" " -f2 | cut -d":" -f1)"
+        else
+            # use this generally-safe default as a last resort
+            mode_info[0]="CEA"
+            mode_info[1]="4"
+        fi
+    fi
     echo "${mode_info[@]}"
 }
 
@@ -726,10 +746,12 @@ function main_menu() {
                 break
                 ;;
             X)
+                clear
                 return 0
                 ;;
             L)
                 COMMAND+=" --verbose"
+                clear
                 return 0
                 ;;
             U)
@@ -743,6 +765,7 @@ function main_menu() {
                 ;;
         esac
     done
+    clear
     return 0
 }
 
@@ -788,7 +811,7 @@ function choose_emulator() {
     if [[ -z "${options[*]}" ]]; then
         dialog --msgbox "No emulator options found for $SYSTEM - Do you have a valid $EMU_SYS_CONF ?" 20 60 >/dev/tty
         stop_joy2key
-        exit 1
+        restore_cursor_and_exit 1
     fi
     local cmd=(dialog $cancel --default-item "$default_id" --menu "Choose default emulator"  22 76 16 )
     local choice=$("${cmd[@]}" "${options[@]}" 2>&1 >/dev/tty)
@@ -1008,9 +1031,11 @@ function mode_switch() {
         [[ "$?" -eq 0 ]] && return 0
     elif [[ "$HAS_MODESET" == "tvs" ]]; then
         if [[ "${mode_id[0]}" == "PAL" ]] || [[ "${mode_id[0]}" == "NTSC" ]]; then
-            $TVSERVICE -c "${mode_id[*]}" >/dev/null
+            echo "Executing: $TVSERVICE -c \"${mode_id[*]}\" >/dev/null" >>$LOG
+            $TVSERVICE -c "${mode_id[*]}" >/dev/null 2>>$LOG
         else
-            $TVSERVICE -e "${mode_id[*]}" >/dev/null
+            echo "Executing: $TVSERVICE -e \"${mode_id[*]}\" >/dev/null" >>$LOG
+            $TVSERVICE -e "${mode_id[*]}" >/dev/null 2>>$LOG
         fi
 
         # if we have switched mode, switch the framebuffer resolution also
@@ -1127,7 +1152,7 @@ function get_sys_command() {
     if [[ ! -f "$EMU_SYS_CONF" ]]; then
         echo "No config found for system $SYSTEM"
         stop_joy2key
-        exit 1
+        restore_cursor_and_exit 1
     fi
 
     # get system & rom specific emulator if set
@@ -1261,7 +1286,7 @@ function user_script() {
 
 function restore_cursor_and_exit() {
     # if we are not being run from emulationstation (get parent of parent), turn the cursor back on.
-    if [[ "$(ps -o comm= -p $(ps -o ppid= -p $PPID))" != "emulationstatio" ]]; then
+    if [[ "$(ps -o comm= -p $(ps -o ppid= -p $PPID))" != "emulationstation" ]]; then
         tput cnorm
     fi
 
@@ -1293,7 +1318,7 @@ function runcommand() {
     if ! get_params "$@"; then
         echo "$0 MODE COMMAND [SAVENAME]"
         echo "$0 MODE _SYS_/_PORT_ SYSTEM ROM"
-        exit 1
+        restore_cursor_and_exit 1
     fi
 
     # turn off cursor and clear screen
