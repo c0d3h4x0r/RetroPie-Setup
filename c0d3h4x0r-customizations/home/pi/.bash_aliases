@@ -3,7 +3,7 @@ less_color_option=
 more_color_option=
 if [ -x /usr/bin/dircolors ]; then
     test -r ~/.dircolors && eval "$(dircolors -b ~/.dircolors)" || eval "$(dircolors -b)"
-    color_option='--color=always'
+    color_option='--color=auto'
     less_color_option='-R'
     more_color_option='-f'
 fi
