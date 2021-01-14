@@ -1,183 +1,169 @@
 <?xml version="1.0"?>
 <gameList>
-  <game>
-    <path>./pal/Alien Syndrome (Side 1).d64</path>
-    <name>Alien Syndrome</name>
-    <desc>Two players control two soldiers named Ricky and Mary, who must fight their way through large eight-way scrolling levels rescuing their comrades who are being held by aliens. After they have rescued a certain number of hostages the exit opens and they can pass through it in order to fight the end-of-level guardian. If this monstrosity is defeated, they move onto the next stage. As well as two player simultaneous gameplay, Alien Syndrome features pick-ups which assist the player including better weapons and maps of the current level.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Alien Syndrome (Side 1)-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19691231T160000</releasedate>
-    <developer>Sega</developer>
-    <publisher>Sega</publisher>
-    <genre>Shooter</genre>
-    <players>2</players>
-    <playcount>10</playcount>
-    <lastplayed>20190721T172802</lastplayed>
-  </game>
-  <game>
-    <path>./pal/Centipede.crt</path>
-    <name>Centipede</name>
-    <desc>The player moves the character about the bottom area of the screen and fires laser shots at a centipede advancing from the top of the screen down through a field of mushrooms. Shooting any section of the centipede creates a mushroom; shooting one of the middle segments splits the centipede into two pieces at that point. Each piece then continues independently on its way down the board, with the first section of the rear piece becoming a new head. If the head is destroyed, the section behind it becomes the next head.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Centipede-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19830504T000000</releasedate>
-    <developer>Atarisoft</developer>
-    <publisher>Atarisoft</publisher>
-    <genre>Action</genre>
-  </game>
-  <game>
-    <path>./pal/Choplifter.crt</path>
-    <name>Choplifter</name>
-    <desc>In Choplifter, the player assumes the role of a combat helicopter pilot. The player attempts to save hostages being held in prisoner of war camps in territory ruled by the evil Bungeling Empire. The player must collect the hostages and transport them safely to the nearby friendly base, all the while fighting off hostile tanks and other enemy combatants.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Choplifter-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19820701T000000</releasedate>
-    <developer>Dan Gorlin</developer>
-    <publisher>Broderbund Software, Inc.</publisher>
-    <genre>Action</genre>
-  </game>
-  <game>
-    <path>./pal/Commando.d64</path>
-    <name>Commando</name>
-    <desc>You are Super Joe the cracked combat soldier of the eighties battling against all odds to defeat the advancing rebel forces. Equipped with only an M60 machine gun and six hand-grenades you carry out your lone crusade, forcing your way into hostile territory. Mortars, grenades and dynamite rain from the skies and explode around you. Enemy bullets fly past you in all directions, trenches, cliffs and lakes block your path. Rebel forces appear from caves, strong holds and troop carriers to stop your progress. You must show no mercy. You must not retreat. You must keep pushing yourself further and further into enemy lines, collecting supplies of hand-grenades from defeated outposts, until you reach your final objective, the fortress.
+	<game>
+		<path>./pal/Centipede.crt</path>
+		<name>Centipede</name>
+		<desc>The player moves the character about the bottom area of the screen and fires laser shots at a centipede advancing from the top of the screen down through a field of mushrooms. Shooting any section of the centipede creates a mushroom; shooting one of the middle segments splits the centipede into two pieces at that point. Each piece then continues independently on its way down the board, with the first section of the rear piece becoming a new head. If the head is destroyed, the section behind it becomes the next head.</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Centipede-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830504T000000</releasedate>
+		<developer>Atarisoft</developer>
+		<publisher>Atarisoft</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./pal/Choplifter.crt</path>
+		<name>Choplifter</name>
+		<desc>In Choplifter, the player assumes the role of a combat helicopter pilot. The player attempts to save hostages being held in prisoner of war camps in territory ruled by the evil Bungeling Empire. The player must collect the hostages and transport them safely to the nearby friendly base, all the while fighting off hostile tanks and other enemy combatants.</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Choplifter-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19820701T000000</releasedate>
+		<developer>Dan Gorlin</developer>
+		<publisher>Broderbund Software, Inc.</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./pal/Commando.d64</path>
+		<name>Commando</name>
+		<desc>You are Super Joe the cracked combat soldier of the eighties battling against all odds to defeat the advancing rebel forces. Equipped with only an M60 machine gun and six hand-grenades you carry out your lone crusade, forcing your way into hostile territory. Mortars, grenades and dynamite rain from the skies and explode around you. Enemy bullets fly past you in all directions, trenches, cliffs and lakes block your path. Rebel forces appear from caves, strong holds and troop carriers to stop your progress. You must show no mercy. You must not retreat. You must keep pushing yourself further and further into enemy lines, collecting supplies of hand-grenades from defeated outposts, until you reach your final objective, the fortress.
 
 Have you got the skill and stamina to defeat the enemy?</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Commando-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19860217T000000</releasedate>
-    <developer>Elite</developer>
-    <publisher>Elite Systems Ltd.</publisher>
-    <genre>Shooter</genre>
-    <playcount>1</playcount>
-    <lastplayed>20190107T001852</lastplayed>
-  </game>
-  <game>
-    <path>./pal/Defender.crt</path>
-    <name>Defender</name>
-    <desc>Defender is an arcade video game developed and released by Williams Electronics in February 1981.[1] A shooting game featuring two-dimensional (2D) graphics, the game is set on a fictional planet where the player must defeat waves of invading aliens while protecting astronauts. Development was led by Eugene Jarvis, a pinball programmer at Williams; Defender was Jarvis' first video game project and drew inspiration from Space Invaders and Asteroids. Williams planned to display the game at the Amusement &amp; Music Operators Association (AMOA) trade show, though development delays resulted in the team working on the game up until the show started.
+		<image>~/.emulationstation/downloaded_images/c64/Commando-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19860217T000000</releasedate>
+		<developer>Elite</developer>
+		<publisher>Elite Systems Ltd.</publisher>
+		<genre>Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20190107T001852</lastplayed>
+	</game>
+	<game>
+		<path>./pal/Defender.crt</path>
+		<name>Defender</name>
+		<desc>Defender is an arcade video game developed and released by Williams Electronics in February 1981.[1] A shooting game featuring two-dimensional (2D) graphics, the game is set on a fictional planet where the player must defeat waves of invading aliens while protecting astronauts. Development was led by Eugene Jarvis, a pinball programmer at Williams; Defender was Jarvis' first video game project and drew inspiration from Space Invaders and Asteroids. Williams planned to display the game at the Amusement &amp; Music Operators Association (AMOA) trade show, though development delays resulted in the team working on the game up until the show started.
 
 Defender was one of the most important titles of the Golden Age of Video Arcade Games, selling over 55,000 units to become the company's best selling game and one of the highest-grossing arcade games ever. Praise among critics focused on the game's audio-visuals and gameplay. It is frequently listed as one of Jarvis' best contributions to the video game industry, as well as one of the most difficult video games. Defender was ported to numerous platforms, inspired the development of other games, and was followed by sequels and many imitations.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Defender-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19691231T160000</releasedate>
-  </game>
-  <game>
-    <path>./pal/Dig Dug.crt</path>
-    <name>Dig Dug</name>
-    <desc>The objective of Dig Dug is to eliminate underground-dwelling monsters. This can be done by inflating them until they pop or by dropping rocks on them. There are two kinds of enemies in the game: Pookas, round red monsters (said to be modeled after tomatoes) who wear yellow goggles, and Fygars, green dragons who can breathe fire. The player's character is Dig Dug, dressed in white and blue, and able to dig tunnels. Dig Dug is killed if he is caught by either Pooka or Fygar, burned by a Fygar's fire, or crushed by a rock.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Dig Dug-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19830101T000000</releasedate>
-    <developer>Namco</developer>
-    <publisher>Atarisoft</publisher>
-    <genre>Action</genre>
-  </game>
-  <game>
-    <path>./pal/Donkey Kong.crt</path>
-    <name>Donkey Kong</name>
-    <desc>In Donkey Kong, Jumpman must rescue a damsel in distress, Lady, from a giant ape named Donkey Kong. The hero and ape later became two of Nintendo's most popular characters.
+		<image>~/.emulationstation/downloaded_images/c64/Defender-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19691231T160000</releasedate>
+	</game>
+	<game>
+		<path>./pal/Dig Dug.crt</path>
+		<name>Dig Dug</name>
+		<desc>The objective of Dig Dug is to eliminate underground-dwelling monsters. This can be done by inflating them until they pop or by dropping rocks on them. There are two kinds of enemies in the game: Pookas, round red monsters (said to be modeled after tomatoes) who wear yellow goggles, and Fygars, green dragons who can breathe fire. The player's character is Dig Dug, dressed in white and blue, and able to dig tunnels. Dig Dug is killed if he is caught by either Pooka or Fygar, burned by a Fygar's fire, or crushed by a rock.</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Dig Dug-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atarisoft</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./pal/Donkey Kong.crt</path>
+		<name>Donkey Kong</name>
+		<desc>In Donkey Kong, Jumpman must rescue a damsel in distress, Lady, from a giant ape named Donkey Kong. The hero and ape later became two of Nintendo's most popular characters.
 
 The game is divided into four different one-screen stages. Each represents 25 meters of the structure Donkey Kong has climbed, one stage being 25 meters higher than the previous. The final screen occurs at 100 m.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Donkey Kong-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19860701T000000</releasedate>
-    <developer>Nintendo</developer>
-    <publisher>Ocean Software Ltd.</publisher>
-    <genre>Platform</genre>
-  </game>
-  <game>
-    <path>./pal/Ghostbusters.crt</path>
-    <name>Ghostbusters</name>
-    <desc>They're out there. Lurking behind every corner. Waiting to vaporize your city. Ghosts. Lead by Goza, the slimy Master of Destruction. Only you can stop them. So pack your weapons. And pack them fast. And never forget the Ghostbuster credo. If you can't see them. Blast them.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Ghostbusters-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19840801T000000</releasedate>
-    <developer>Activision</developer>
-    <publisher>Activision</publisher>
-    <genre>Adventure</genre>
-  </game>
-  <game>
-    <path>./pal/Gyroscope II.d64</path>
-    <name>Gyroscope II</name>
-    <desc>Failing to keep the gyroscope spinning freely as it navigates these costs you one of your seven lives. You are also playing within a time limit - losing a life sees you return to the start of a level without regaining lost time, but running out of time sees you lose a life, but be able to continue from where you were left with a new set of time.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Gyroscope II-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19691231T160000</releasedate>
-    <developer>Catalyst Coders</developer>
-    <publisher>Melbourne House</publisher>
-    <genre>Action, Puzzle</genre>
-  </game>
-  <game>
-    <path>./pal/Kickman.crt</path>
-    <name>Kickman</name>
-    <desc>In Kickman, you are a unicycle riding clown! Your job? Catch all the balloons on your head, without dropping any.  Kickman was originally released as simply "Kick." Later versions of the game came with a "Kickman" marquee, presumably in an attempt to capitalize on the popularity of Pac-Man, who appeared in the game.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Kickman-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19820701T000000</releasedate>
-    <developer>Midway</developer>
-    <publisher>Midway Games</publisher>
-    <genre>Action</genre>
-  </game>
-  <game>
-    <path>./pal/Mancopter.d64</path>
-    <name>Mancopter</name>
-    <desc>Mancopter is a side view horizontal game where the screen scrolls from right to left when you move, as you control your hero flying a primitive helicopter powered by pedal-power for a race over the ocean. You must fly and pass as many other competitors as you can as you try to get from the start-line to a finish-line a long distance away. To fly your helicopter you keep pressing the fire button to stay airborne and press left to move along the screen. If you stop pressing the fire button then you fall downwards towards the water, if you stop pressing left then your momentum keeps you going until you slowly come to a halt. The race is timed and you start with seventy seconds and this decreases as you race but passing buoys gives you forty extra seconds.
+		<image>~/.emulationstation/downloaded_images/c64/Donkey Kong-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19860701T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Ocean Software Ltd.</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./pal/Ghostbusters.crt</path>
+		<name>Ghostbusters</name>
+		<desc>They're out there. Lurking behind every corner. Waiting to vaporize your city. Ghosts. Lead by Goza, the slimy Master of Destruction. Only you can stop them. So pack your weapons. And pack them fast. And never forget the Ghostbuster credo. If you can't see them. Blast them.</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Ghostbusters-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19840801T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./pal/Gyroscope II.d64</path>
+		<name>Gyroscope II</name>
+		<desc>Failing to keep the gyroscope spinning freely as it navigates these costs you one of your seven lives. You are also playing within a time limit - losing a life sees you return to the start of a level without regaining lost time, but running out of time sees you lose a life, but be able to continue from where you were left with a new set of time.</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Gyroscope II-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19691231T160000</releasedate>
+		<developer>Catalyst Coders</developer>
+		<publisher>Melbourne House</publisher>
+		<genre>Action, Puzzle</genre>
+	</game>
+	<game>
+		<path>./pal/Kickman.crt</path>
+		<name>Kickman</name>
+		<desc>In Kickman, you are a unicycle riding clown! Your job? Catch all the balloons on your head, without dropping any.  Kickman was originally released as simply "Kick." Later versions of the game came with a "Kickman" marquee, presumably in an attempt to capitalize on the popularity of Pac-Man, who appeared in the game.</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Kickman-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19820701T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway Games</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./pal/Mancopter.d64</path>
+		<name>Mancopter</name>
+		<desc>Mancopter is a side view horizontal game where the screen scrolls from right to left when you move, as you control your hero flying a primitive helicopter powered by pedal-power for a race over the ocean. You must fly and pass as many other competitors as you can as you try to get from the start-line to a finish-line a long distance away. To fly your helicopter you keep pressing the fire button to stay airborne and press left to move along the screen. If you stop pressing the fire button then you fall downwards towards the water, if you stop pressing left then your momentum keeps you going until you slowly come to a halt. The race is timed and you start with seventy seconds and this decreases as you race but passing buoys gives you forty extra seconds.
 
 The other competitors fill the skies and you can avoid them or hit the top of their helicopter which sends them into the water but if you are hit from above then you fall into the sea. You are carrying four fish and every time you hit the water then a whale appears and lifts you onto it's head but at the loss of a fish and if you have no more fish when you hit the water then a shark appears and eats you. Pelicans fly in the air from left to right and if they have a fish in their mouth then when hit gives you the fish and you can carry up to eight. Hit a pelican without a fish and it takes one of yours and if you hit one without carrying any then you hit the water and get eaten once again.
 
 Other creatures to avoid are squids, dodos, and storm clouds which release lightning and if you are hit by any then a fish is lost. If you run out of time then a fish is lost but you are given five seconds to try to reach a buoy. Trees make an appearance and you are unable to pass the leaves and branches so you must fly underneath while avoiding hitting the water. During the race, rafts make an appearance and when landed on give you bonus points for time remaining and competitors passed. Hitting a competitor into the water doesn't count as a pass.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Mancopter-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19840102T000000</releasedate>
-    <developer>Datasoft, Inc.</developer>
-    <publisher>Datasoft, Inc.</publisher>
-    <genre>Racing</genre>
-  </game>
-  <game>
-    <path>./pal/Marble Madness.d64</path>
-    <name>Marble Madness</name>
-    <desc>Marble Madness is an isometric platform game where the player manipulates an onscreen marble from a third-person perspective. The player controls the marble's movements with a trackball, though most home versions use game controllers with directional pads. The aim of the game is for the player to traverse six maze-like, isometric courses before a set amount of time expires. Each course has its own time limit, with the remaining time left over from completing a course added to the succeeding one.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Marble Madness-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19691231T160000</releasedate>
-    <developer>Atari</developer>
-    <publisher>Atari, Inc.</publisher>
-    <genre>Platform</genre>
-  </game>
-  <game>
-    <path>./pal/Moon Patrol.crt</path>
-    <name>Moon Patrol</name>
-    <desc>The moon is under attack from a horde of aliens, and you must stop them in your armed buggy. Drive along the surface shooting the aliens and avoiding their bullets. The surface is not flat, there are craters and rocks to avoid contact with, and landmines on the surface. Flying saucers create new craters when they crash. The 25 restart points are letter-coded.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Moon Patrol-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19830906T000000</releasedate>
-    <developer>Irem Corp.</developer>
-    <publisher>Atarisoft</publisher>
-    <genre>Action</genre>
-    <players>2</players>
-  </game>
-  <game>
-    <path>./pal/Omega Race.crt</path>
-    <name>Omega Race</name>
-    <desc>This is a remake of a Bally-Midway arcade game. You control a spaceship and shoot down the enemy "Droid" ships that attack you. Your ship must survive Droid-dropped mines too--but you can shoot them too. The last ship of the Droid flights goes into a spiraling pattern.
+		<image>~/.emulationstation/downloaded_images/c64/Mancopter-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19840102T000000</releasedate>
+		<developer>Datasoft, Inc.</developer>
+		<publisher>Datasoft, Inc.</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./pal/Marble Madness.d64</path>
+		<name>Marble Madness</name>
+		<desc>Marble Madness is an isometric platform game where the player manipulates an onscreen marble from a third-person perspective. The player controls the marble's movements with a trackball, though most home versions use game controllers with directional pads. The aim of the game is for the player to traverse six maze-like, isometric courses before a set amount of time expires. Each course has its own time limit, with the remaining time left over from completing a course added to the succeeding one.</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Marble Madness-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19691231T160000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari, Inc.</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./pal/Moon Patrol.crt</path>
+		<name>Moon Patrol</name>
+		<desc>The moon is under attack from a horde of aliens, and you must stop them in your armed buggy. Drive along the surface shooting the aliens and avoiding their bullets. The surface is not flat, there are craters and rocks to avoid contact with, and landmines on the surface. Flying saucers create new craters when they crash. The 25 restart points are letter-coded.</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Moon Patrol-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830906T000000</releasedate>
+		<developer>Irem Corp.</developer>
+		<publisher>Atarisoft</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./pal/Omega Race.crt</path>
+		<name>Omega Race</name>
+		<desc>This is a remake of a Bally-Midway arcade game. You control a spaceship and shoot down the enemy "Droid" ships that attack you. Your ship must survive Droid-dropped mines too--but you can shoot them too. The last ship of the Droid flights goes into a spiraling pattern.
 
 There is no end to this game. Rather, it is a game in which you try to get the highest score, or complete the highest number of levels.
 
 You control a small triangle that is your ship. The ship can turn, move forward (with thrusters) and fire. Movement is one of the games challenges; once the ship is moving, it can only be slowed by turning the nose in the opposite direction and use the thrusters. While doing that, the ship is unable to fire toward anything it is in motion toward.
 
 Bouncing also comes into play during movement. When the ship hits the side of the screen, a wall of force appears, and the ship bounces. You don't have control over where the ship bounces, and must take time to regain control, before you run into an enemy ship and die.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Omega Race-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19820920T000000</releasedate>
-    <developer>Midway, Bally</developer>
-    <publisher>Commodore</publisher>
-    <genre>Action</genre>
-    <players>2</players>
-  </game>
-  <game>
-    <path>./ntsc/Archon II - Adept.d64</path>
-    <name>Archon II: Adept</name>
-    <desc>Archon 2 or also Adept is the successor of the successful Electronic Arts classic Archon. As already seen in Archon, an apocalyptic fight takes place in a fantasy surrounding, now not between "light" and "dark" but between "order" and "chaos". 
+		<image>~/.emulationstation/downloaded_images/c64/Omega Race-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19820920T000000</releasedate>
+		<developer>Midway, Bally</developer>
+		<publisher>Commodore</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./ntsc/Archon II - Adept.d64</path>
+		<name>Archon II: Adept</name>
+		<desc>Archon 2 or also Adept is the successor of the successful Electronic Arts classic Archon. As already seen in Archon, an apocalyptic fight takes place in a fantasy surrounding, now not between "light" and "dark" but between "order" and "chaos". 
 
 It all happens in a game area which is divided into 4 elemental layers. In the center is the earth layer, it is surrounded by the water layer and this is surrounded by the air layer. The outer layer is made of fire. 
 Opposite to its forerunner the players start in Adept only with one magician ("Adept") per layer. All the other creatures have to be conjured in the course of the game. Evocations and other spells cost energy, which is renewed by occupying energy points on the game area with your own creatures. The more points you occupy, the more energy you get. 
@@ -187,79 +173,57 @@ Every side possesses 4 own elemental beings, which have a special force when the
 When two figures meet on a field, here also the screen is zoomed and a fight for life and death starts. The winner claims the hard-fought field. 
 
 Dependent on the layer you are fighting on, the battlefield has different obstacles such as slowing-down lakes, shoot destracting swirls, flame walls or simply walls ready. The only exception are the two void fields, here no terrain is used</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Archon II - Adept-image.jpg</image>
-    <releasedate>19840401T000000</releasedate>
-    <developer>Free Fall Associates</developer>
-    <publisher>EA Games</publisher>
-    <genre>Action, Strategy</genre>
-    <players>2</players>
-  </game>
-  <game>
-    <path>./ntsc/Buggy Boy.d64</path>
-    <name>Buggy Boy</name>
-    <desc>The object of the game was to drive around one of five courses (Offroad, North, East, South or West) in the shortest time possible. Each course has five legs, each filled with obstacles such as boulders and brick walls. Points are awarded for driving through gates and collecting flags.
+		<image>~/.emulationstation/downloaded_images/c64/Archon II - Adept-image.jpg</image>
+		<releasedate>19840401T000000</releasedate>
+		<developer>Free Fall Associates</developer>
+		<publisher>EA Games</publisher>
+		<genre>Action, Strategy</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./ntsc/Buggy Boy.d64</path>
+		<name>Buggy Boy</name>
+		<desc>The object of the game was to drive around one of five courses (Offroad, North, East, South or West) in the shortest time possible. Each course has five legs, each filled with obstacles such as boulders and brick walls. Points are awarded for driving through gates and collecting flags.
 
 The player could also hit logs and tree stumps in order to jump the buggy over obstacles, gaining extra points while airborne. Extra points are also rewarded for driving the buggy on one wheel.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Buggy Boy-image.jpg</image>
-    <releasedate>19870401T000000</releasedate>
-    <developer>Tatsumi</developer>
-    <publisher>Elite Systems Ltd.</publisher>
-    <genre>Racing</genre>
-  </game>
-  <game>
-    <path>./ntsc/David's Midnight Magic.d64</path>
-    <name>Davids Midnight Magic</name>
-    <desc>written by David Snider and released by Br&amp;#xF8;derbund in 1982. The game was published in Europe by Ariolasoft.
+		<image>~/.emulationstation/downloaded_images/c64/Buggy Boy-image.jpg</image>
+		<releasedate>19870401T000000</releasedate>
+		<developer>Tatsumi</developer>
+		<publisher>Elite Systems Ltd.</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./ntsc/David's Midnight Magic.d64</path>
+		<name>Davids Midnight Magic</name>
+		<desc>written by David Snider and released by Br&#xF8;derbund in 1982. The game was published in Europe by Ariolasoft.
 
 David's Midnight Magic is closely modeled after the popular real-life pinball table Black Knight, released by Williams in 1980.[citation needed] The computer simulation, unlike Black Knight, contains bright colors such as green, pink, and blue (depending somewhat on the version of the game) in contrast to Black Knight's darker medieval theme.These colors were used to great advantage by illustrator Marc Ericksen as he produced for Broderbund one of his earliest game art efforts showing a pinball player's face reflected on a floating chrome pinball, with the pinball game surface floating over a ghostly desert scene. The same art was used in the Atari 2600 version, but the reflection of the player was removed.. Atari released a pinball game called Midnight Magic for the Atari 2600 that plays differently from the similarly named David's Midnight Magic.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/David's Midnight Magic-image.jpg</image>
-    <releasedate>19830913T000000</releasedate>
-    <publisher>Ariolasoft</publisher>
-  </game>
-  <game>
-    <path>./ntsc/OutRun (Side 1).d64</path>
-    <name>OutRun</name>
-    <desc>High action road racing adventure. Tests your driving technique, speed and distance travelled over a rich variety of courses. Race at top speed towards the finish line. Enjoy such realistic features as acceleration, lane changes, diversified terrain, sudden curves and much more. (For 1 player)</desc>
-    <image>~/.emulationstation/downloaded_images/c64/OutRun (Side 1)-image.jpg</image>
-    <releasedate>19870715T000000</releasedate>
-    <developer>U.S. Gold Ltd.</developer>
-    <publisher>Sega</publisher>
-    <genre>Racing</genre>
-  </game>
-  <game>
-    <path>./ntsc/OutRun (Side 2).d64</path>
-    <name>OutRun</name>
-    <desc>High action road racing adventure. Tests your driving technique, speed and distance travelled over a rich variety of courses. Race at top speed towards the finish line. Enjoy such realistic features as acceleration, lane changes, diversified terrain, sudden curves and much more. (For 1 player)</desc>
-    <image>~/.emulationstation/downloaded_images/c64/OutRun (Side 2)-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19870715T000000</releasedate>
-    <developer>U.S. Gold Ltd.</developer>
-    <publisher>Sega</publisher>
-    <genre>Racing</genre>
-    <hidden>true</hidden>
-  </game>
-  <game>
-    <path>./ntsc/Pac-Man.crt</path>
-    <name>Pac-Man</name>
-    <desc>The player controls Pac-Man through a maze, eating pac-dots. When all dots are eaten, Pac-Man is taken to the next stage, between some stages one of three intermission animations plays. Four enemies (Blinky, Pinky, Inky and Clyde) roam the maze, trying to catch Pac-Man.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Pac-Man-image.jpg</image>
-    <publisher>Thunder Mountain</publisher>
-    <genre>Action</genre>
-  </game>
-  <game>
-    <path>./ntsc/RoboCop.d64</path>
-    <name>RoboCop</name>
-    <desc>Based on the 1987 movie of the same name, RoboCop allows the player to control RoboCop. The majority of the game is a side scroller. RoboCop can punch unarmed citizens and shoot armed citizens. He can move left, right and duck but can not jump. Different weapons can be picked up from enemies, and power-ups to restore health and/or energy. Following levels, RoboCop will have to match a criminal's face to the proper mugshot and engage in a first-person shooting bonus round.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/RoboCop-image.jpg</image>
-    <releasedate>19880701T000000</releasedate>
-    <developer>Ocean Software Ltd., Ocean, Enigma Variations Ltd</developer>
-    <publisher>Ocean Software Ltd.</publisher>
-    <genre>Action</genre>
-  </game>
-  <game>
-    <path>./ntsc/Slam Dunk.d64</path>
-    <name>Slam Dunk</name>
-    <desc>Slam-Dunk is a two on two basketball game. Play against the computer or against another player. The game is divided into 4 quarters of three minutes each. The team with the highest score at the end of the final quarter wins. An overtime session can occur if the game ends in a tie.
+		<image>~/.emulationstation/downloaded_images/c64/David's Midnight Magic-image.jpg</image>
+		<releasedate>19830913T000000</releasedate>
+		<publisher>Ariolasoft</publisher>
+	</game>
+	<game>
+		<path>./ntsc/Pac-Man.crt</path>
+		<name>Pac-Man</name>
+		<desc>The player controls Pac-Man through a maze, eating pac-dots. When all dots are eaten, Pac-Man is taken to the next stage, between some stages one of three intermission animations plays. Four enemies (Blinky, Pinky, Inky and Clyde) roam the maze, trying to catch Pac-Man.</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Pac-Man-image.jpg</image>
+		<publisher>Thunder Mountain</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./ntsc/RoboCop.d64</path>
+		<name>RoboCop</name>
+		<desc>Based on the 1987 movie of the same name, RoboCop allows the player to control RoboCop. The majority of the game is a side scroller. RoboCop can punch unarmed citizens and shoot armed citizens. He can move left, right and duck but can not jump. Different weapons can be picked up from enemies, and power-ups to restore health and/or energy. Following levels, RoboCop will have to match a criminal's face to the proper mugshot and engage in a first-person shooting bonus round.</desc>
+		<image>~/.emulationstation/downloaded_images/c64/RoboCop-image.jpg</image>
+		<releasedate>19880701T000000</releasedate>
+		<developer>Ocean Software Ltd., Ocean, Enigma Variations Ltd</developer>
+		<publisher>Ocean Software Ltd.</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./ntsc/Slam Dunk.d64</path>
+		<name>Slam Dunk</name>
+		<desc>Slam-Dunk is a two on two basketball game. Play against the computer or against another player. The game is divided into 4 quarters of three minutes each. The team with the highest score at the end of the final quarter wins. An overtime session can occur if the game ends in a tie.
 
 The game provides a practice session. Here you can learn the moves and plays needed to beat your opponent.
 
@@ -268,311 +232,435 @@ You control one of your players on your team. Your teammate will be controlled b
 In this fast paced game, fouling can occur if defense plays too close or offense shoves its way into a defensive man. After five fouls, free throws will be shot. If you're shooting free throws, simply hit the button to take the shot. Made free throws count as one point.
 
 Keep an eye on the shot clock. Don't get caught holding the ball. Remember that any shot taken and made outside the three-point line is worth three points.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Slam Dunk-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19880615T000000</releasedate>
-    <developer>Sculptured Software, Inc.</developer>
-    <publisher>Mastertronic Ltd.</publisher>
-    <genre>Sports</genre>
-    <players>2</players>
-  </game>
-  <game>
-    <path>./ntsc/Space Harrier.d64</path>
-    <name>Space Harrier</name>
-    <desc>Space Harrier is set in the "Fantasy Zone", a surreal world composed of bright colors and a checkerboard-styled ground. The enemies are also unique, featuring prehistoric animals, Chinese dragons, and alien pods. The player is forced along the levels, running or flying around enemy fire, while shooting back with fireballs via the character's under-arm cannon (which doubles as a rocket-esque device allowing the character to fly).</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Space Harrier-image.jpg</image>
-    <releasedate>19870402T000000</releasedate>
-    <developer>Elite</developer>
-    <publisher>Elite Systems Ltd.</publisher>
-    <genre>Shooter</genre>
-  </game>
-  <game>
-    <path>./ntsc/Super Mario Bros. (Great Giana Sisters Hack).d64</path>
-    <name>Super Mario Bros. (Hack of The Great Giana Sisters)</name>
-    <desc>The Great Giana Sisters is a 2D side-scrolling arcade game like Nintendo's Super Mario Bros.
+		<image>~/.emulationstation/downloaded_images/c64/Slam Dunk-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19880615T000000</releasedate>
+		<developer>Sculptured Software, Inc.</developer>
+		<publisher>Mastertronic Ltd.</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./ntsc/Space Harrier.d64</path>
+		<name>Space Harrier</name>
+		<desc>Space Harrier is set in the "Fantasy Zone", a surreal world composed of bright colors and a checkerboard-styled ground. The enemies are also unique, featuring prehistoric animals, Chinese dragons, and alien pods. The player is forced along the levels, running or flying around enemy fire, while shooting back with fireballs via the character's under-arm cannon (which doubles as a rocket-esque device allowing the character to fly).</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Space Harrier-image.jpg</image>
+		<releasedate>19870402T000000</releasedate>
+		<developer>Elite</developer>
+		<publisher>Elite Systems Ltd.</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./ntsc/Super Mario Bros. (Great Giana Sisters Hack).d64</path>
+		<name>Super Mario Bros. (Hack of The Great Giana Sisters)</name>
+		<desc>The Great Giana Sisters is a 2D side-scrolling arcade game like Nintendo's Super Mario Bros.
 
 After a long and deep sleep, Giana finds herself in a mysterious and evil dreamworld where everything is strange and different.
 
 In 32 levels, Giana has to fight against bad monsters, huge spiders and lots of other creatures to find a magic diamond that makes it possible to return to her own world.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Super Mario Bros. (Great Giana Sisters Hack)-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19870101T000000</releasedate>
-    <developer>U.S. Gold Ltd.</developer>
-    <publisher>Rainbow Arts Software</publisher>
-    <genre>Platform</genre>
-    <playcount>1</playcount>
-    <lastplayed>20190721T175216</lastplayed>
-  </game>
-  <game>
-    <path>./ntsc/Who Framed Roger Rabbit (Side 1).d64</path>
-    <name>Who Framed Roger Rabbit</name>
-    <desc>Roger Rabbit has been framed for the murder of Marvin Acme, head of the Acme Corporation. Acme's will states that upon his death, Toon Town would be left ot the Toons, but the will is nowhere to be found. You have to find the will and save your wife, Jessica, from Judge Doom and his weasels.
-
-The game takes place in Hollywood, 1947, where Toons are alive. There are 4 levels in the game, 2 of which are driving levels (levels 1 &amp; 3). Roger and Benny the cab have to beat the weasels to the destination, while dodging cars, trams and Judge Doom's dip which is scattered on the road. There are pick-ups to help you on your way.
-
-Level 2 is the Ink &amp; Paint Club. The will is on one of the tables. Roger has to pick up all the pieces of paper the penguin waiters put down, whilst avoiding the alcohol and gorilla bouncer.
-
-Level 4 has you in Judge Dooms warehouse trying to save your wife, Jessica from the dip truck. You have to use gags to progress and make the weasels laugh themselves to death, literally!</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Who Framed Roger Rabbit (Side 1)-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19881001T000000</releasedate>
-    <developer>Silent Software</developer>
-    <publisher>Buena Vista Software</publisher>
-    <genre>Action</genre>
-  </game>
-  <game>
-    <path>./ntsc/Who Framed Roger Rabbit (Side 2).d64</path>
-    <name>Who Framed Roger Rabbit</name>
-    <desc>Roger Rabbit has been framed for the murder of Marvin Acme, head of the Acme Corporation. Acme's will states that upon his death, Toon Town would be left ot the Toons, but the will is nowhere to be found. You have to find the will and save your wife, Jessica, from Judge Doom and his weasels.
-
-The game takes place in Hollywood, 1947, where Toons are alive. There are 4 levels in the game, 2 of which are driving levels (levels 1 &amp; 3). Roger and Benny the cab have to beat the weasels to the destination, while dodging cars, trams and Judge Doom's dip which is scattered on the road. There are pick-ups to help you on your way.
-
-Level 2 is the Ink &amp; Paint Club. The will is on one of the tables. Roger has to pick up all the pieces of paper the penguin waiters put down, whilst avoiding the alcohol and gorilla bouncer.
-
-Level 4 has you in Judge Dooms warehouse trying to save your wife, Jessica from the dip truck. You have to use gags to progress and make the weasels laugh themselves to death, literally!</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Who Framed Roger Rabbit (Side 2)-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19881001T000000</releasedate>
-    <developer>Silent Software</developer>
-    <publisher>Buena Vista Software</publisher>
-    <genre>Action</genre>
-    <hidden>true</hidden>
-  </game>
-  <game>
-    <path>./pal/One Man And His Droid.d64</path>
-    <name>One Man and his Droid</name>
-    <desc>Control a droid on the planet Andromadous trying to herd Ramboids (alien sheep) into a teleporter. First the droid has to travel through a chamber filled with constantly moving Ramboids. Then the Ramboids must be herded towards the teleport receptor in a particular order. As well as the droid's standard movement mode, it can also tunnel or dig through the caverns. In later levels, the cavern designs become more complex and moving blocks create further problems.</desc>
-    <rating>0.6</rating>
-    <releasedate>19850101T000000</releasedate>
-    <developer>Mastertronic</developer>
-    <publisher>Mastertronic</publisher>
-    <genre>Action</genre>
-  </game>
-  <game>
-    <path>./pal/Paperboy.d64</path>
-    <name>Paperboy</name>
-    <desc>Hop on your bike for a free-wheeling ride up the avenues of not-so-typical suburbia. There are papers to be delivered, robbers to be foiled, and fame and fortune to be won as you brave the mean streets. Avoid motorcycles, tricycles, traffic, tires, gratings, curbs, dogs, skateboarders, breakdancers, bad guys, and other hazards as you deliver to your customers. Earn bonus points by hitting targets along the obstacle course at the end of your route. With superb animation and sound effects, Paperboy brings home all the thrills, spills, challenge, and excitement you loved in the arcades.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Paperboy-image.jpg</image>
-    <releasedate>19860501T000000</releasedate>
-    <developer>Elite</developer>
-    <publisher>Elite Systems Ltd.</publisher>
-    <genre>Action</genre>
-  </game>
-  <game>
-    <path>./pal/Pitstop.crt</path>
-    <name>Pitstop</name>
-    <desc>Pitstop is an action racing game featuring six different race tracks. Your goal is to earn as much money as possible by winning races in the Grand Circuit which consists of a race on each of the six tracks; each time a race is completed, you'll earn money based on how you placed and the number of laps completed before moving on. While you are racing, keep an eye on your tires and fuel; if your tires become too worn (causing a blowout) or you run out of fuel, the game will be over. To prevent this from happening, you'll need to make a pitstop. Here you control the pit crew and can replace tires and refuel. While in the pit the race is still going on, of course, so repairs need to be made as quickly as possible to get back into the race without losing too much ground. Several game options are available to control the level of difficulty and the number of laps. In addition to the Grand Circuit which is the full race, you can also practice a track in a single race or enter the mini circuit which consists of three races.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Pitstop-image.jpg</image>
-    <developer>Epyx</developer>
-    <publisher>Epyx, Inc.</publisher>
-    <genre>Racing</genre>
-  </game>
-  <game>
-    <path>./pal/Rastan.d64</path>
-    <name>Rastan</name>
-    <desc>Rastan features five levels or hacking and slashing gameplay with a boss at the end of each level. Numerous enemies assault you on your journey such as flying demons, chimeras, valkyries, piranhas, skeleton undead and more. Fight through to the end and save the land of Lograth from certain doom.
+		<image>~/.emulationstation/downloaded_images/c64/Super Mario Bros. (Great Giana Sisters Hack)-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>U.S. Gold Ltd.</developer>
+		<publisher>Rainbow Arts Software</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20190721T175216</lastplayed>
+	</game>
+	<game>
+		<path>./pal/Paperboy.d64</path>
+		<name>Paperboy</name>
+		<desc>Hop on your bike for a free-wheeling ride up the avenues of not-so-typical suburbia. There are papers to be delivered, robbers to be foiled, and fame and fortune to be won as you brave the mean streets. Avoid motorcycles, tricycles, traffic, tires, gratings, curbs, dogs, skateboarders, breakdancers, bad guys, and other hazards as you deliver to your customers. Earn bonus points by hitting targets along the obstacle course at the end of your route. With superb animation and sound effects, Paperboy brings home all the thrills, spills, challenge, and excitement you loved in the arcades.</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Paperboy-image.jpg</image>
+		<releasedate>19860501T000000</releasedate>
+		<developer>Elite</developer>
+		<publisher>Elite Systems Ltd.</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./pal/Pitstop.crt</path>
+		<name>Pitstop</name>
+		<desc>Pitstop is an action racing game featuring six different race tracks. Your goal is to earn as much money as possible by winning races in the Grand Circuit which consists of a race on each of the six tracks; each time a race is completed, you'll earn money based on how you placed and the number of laps completed before moving on. While you are racing, keep an eye on your tires and fuel; if your tires become too worn (causing a blowout) or you run out of fuel, the game will be over. To prevent this from happening, you'll need to make a pitstop. Here you control the pit crew and can replace tires and refuel. While in the pit the race is still going on, of course, so repairs need to be made as quickly as possible to get back into the race without losing too much ground. Several game options are available to control the level of difficulty and the number of laps. In addition to the Grand Circuit which is the full race, you can also practice a track in a single race or enter the mini circuit which consists of three races.</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Pitstop-image.jpg</image>
+		<developer>Epyx</developer>
+		<publisher>Epyx, Inc.</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./pal/Rastan.d64</path>
+		<name>Rastan</name>
+		<desc>Rastan features five levels or hacking and slashing gameplay with a boss at the end of each level. Numerous enemies assault you on your journey such as flying demons, chimeras, valkyries, piranhas, skeleton undead and more. Fight through to the end and save the land of Lograth from certain doom.
 
 The game features different weapons such axes, maces and fire swords, each with its own attributes like extended range or attack power. Armour can also be picked up in the forms shields, cloaks and armour, reducing the damage from enemy attacks. Other items include rings (increase the speed of your weapon) and jewelery for bonus points.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Rastan-image.jpg</image>
-    <releasedate>19880715T000000</releasedate>
-    <developer>Taito Corporation</developer>
-    <publisher>Imagine Software</publisher>
-    <genre>Action</genre>
-  </game>
-  <game>
-    <path>./pal/Shadow of the Beast.d64</path>
-    <name>Shadow of the Beast</name>
-    <desc>Shadow of the Beast is a side-scrolling platform video game produced by Reflections and published by Psygnosis in 1989. The original version was released for the Commodore Amiga, and was later ported to many other systems. Shadow of the Beast is considered revolutionary at the time, because of its graphics, with many more colours on screen and up to twelve levels of parallax scrolling backdrops, were of a level rarely if ever seen before in action games. It was also notable for its atmospheric score composed by David Whittaker that used high-quality instrument samples.
+		<image>~/.emulationstation/downloaded_images/c64/Rastan-image.jpg</image>
+		<releasedate>19880715T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>Imagine Software</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./pal/Shadow of the Beast.d64</path>
+		<name>Shadow of the Beast</name>
+		<desc>Shadow of the Beast is a side-scrolling platform video game produced by Reflections and published by Psygnosis in 1989. The original version was released for the Commodore Amiga, and was later ported to many other systems. Shadow of the Beast is considered revolutionary at the time, because of its graphics, with many more colours on screen and up to twelve levels of parallax scrolling backdrops, were of a level rarely if ever seen before in action games. It was also notable for its atmospheric score composed by David Whittaker that used high-quality instrument samples.
 
 Shadow of the Beast was followed by two sequels, Shadow of the Beast II in 1990 and Shadow of the Beast III in 1992. A remake is in development for the PlayStation 4.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Shadow of the Beast-image.jpg</image>
-    <developer>Ocean Software Ltd., Ocean, Enigma Variations Ltd</developer>
-    <publisher>Ocean Software Ltd.</publisher>
-    <genre>Action</genre>
-  </game>
-  <game>
-    <path>./pal/Spy Hunter.crt</path>
-    <name>Spy Hunter</name>
-    <desc>Spy Hunter is an action/driving game with the player in the role of a spy driving an armed sportscar. The object of the game is to travel the freeway destroying as many enemy vehicles as possible while protecting civilian vehicles. The game is a top-down vertical scroller.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Spy Hunter-image.jpg</image>
-    <releasedate>19830603T000000</releasedate>
-    <developer>Midway, Bally</developer>
-    <publisher>U.S. Gold Ltd.</publisher>
-    <genre>Action</genre>
-  </game>
-  <game>
-    <path>./pal/Subterranea.d64</path>
-    <name>Subterranea</name>
-    <desc>Played over sixteen levels. It is your task to rescue trapped miners and destroy rogue mining droids. Contact with the droids is deadly, so beware!</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Subterranea-image.jpg</image>
-    <releasedate>19880201T000000</releasedate>
-    <developer>Hewson Consulting</developer>
-    <publisher>Hewson Consultants Ltd.</publisher>
-    <genre>Action, Shooter</genre>
-  </game>
-  <game>
-    <path>./pal/Zaxxon.crt</path>
-    <name>Zaxxon</name>
-    <desc>The game gives the player the experience of flying a fighter craft through a fortress while shooting at enemy entities (missiles, enemy gunfire, etc.) The object of the game is to hit as many targets as possible without being shot down or running out of fuel - which can be replenished, paradoxically, by blowing up fuel drums.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Zaxxon-image.jpg</image>
-    <releasedate>19841205T000000</releasedate>
-    <developer>Synapse&amp;#xC2; Software&amp;#xC2; Corporation</developer>
-    <publisher>Sega</publisher>
-    <genre>Shooter</genre>
-    <players>2</players>
-  </game>
-  <game>
-    <path>./either/Super_Mario_Bros_64_-_Zeropaige.d64</path>
-    <name>Super Mario Bros. 64 by Zeropaige (Disk)</name>
-    <rating>0</rating>
-    <releasedate>19691231T160000</releasedate>
-  </game>
-  <game>
-    <path>./pal/Alien Syndrome (Side 2).d64</path>
-    <name>Alien Syndrome</name>
-    <desc>Two players control two soldiers named Ricky and Mary, who must fight their way through large eight-way scrolling levels rescuing their comrades who are being held by aliens. After they have rescued a certain number of hostages the exit opens and they can pass through it in order to fight the end-of-level guardian. If this monstrosity is defeated, they move onto the next stage. As well as two player simultaneous gameplay, Alien Syndrome features pick-ups which assist the player including better weapons and maps of the current level.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Alien Syndrome (Side 2)-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19691231T160000</releasedate>
-    <developer>Sega</developer>
-    <publisher>Sega</publisher>
-    <genre>Shooter</genre>
-    <players>2</players>
-    <hidden>true</hidden>
-    <playcount>3</playcount>
-    <lastplayed>20190721T172830</lastplayed>
-  </game>
-  <game>
-    <path>./ntsc/Afterburner.d64</path>
-    <name>After Burner</name>
-    <desc>You've played the arcade smash - now experience the white-knuckled realism of a supersonic dogfight at home! Using your heat-seeking missiles and laser anti-aircraft fire, can you be top gun against a seething supersonic swarm? Experience brain-numbing G-forces; bones rattling with the body-jarring pitch and yaw... scan with your radar, lock on your target and fire!</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Afterburner-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19691231T160000</releasedate>
-    <developer>Sega</developer>
-    <publisher>Activision</publisher>
-    <genre>Action</genre>
-  </game>
-  <game>
-    <path>./pal/Shoot_Em_Up_Construction_Kit_(Original)_(en)_Side_1.d64</path>
-    <name>Shoot_Em_Up_Construction_Kit_(Original)_(en)_Side_1</name>
-    <playcount>2</playcount>
-    <lastplayed>20190721T191255</lastplayed>
-  </game>
-  <game>
-    <path>./ntsc/Lazarian.crt</path>
-    <name>Lazarian</name>
-    <playcount>1</playcount>
-    <lastplayed>20190721T194136</lastplayed>
-  </game>
-  <game>
-    <path>./ntsc/Tooth Invaders.crt</path>
-    <name>Tooth Invaders</name>
-    <desc>In Tooth Invaders the player takes over the role of Plaqueman, the hero of clean teeth. Plaqueman takes over the fight against D.K. Germ Plaque, which constantly tries to stain wonderfully white teeth until they decay and finally fall out. Plaqueman is armed with dental floss and the combination of toothbrush and tooth paste which he needs to take care of eight safe teeth and defend them against the doings D.K. Germ Plaque.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Tooth Invaders-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19820101T000000</releasedate>
-    <developer>Commodore</developer>
-    <publisher>Commodore</publisher>
-    <genre>Action</genre>
-    <playcount>1</playcount>
-    <lastplayed>20190721T193644</lastplayed>
-  </game>
-  <game>
-    <path>./pal/Gyruss.crt</path>
-    <name>Gyruss</name>
-    <desc>The gameplay is very similar to that of Galaga but with an added twist: the game is presented in a forced 3D perspective, with the player's ship facing 'into' the screen and able to move around the perimeter of an implicit circle - essentially, Gyruss was Galaga mapped onto a Tempest-like cylinder. This gameplay style is called a tube shooter, and Gyruss is one of the very few examples that exist. The familiar scrolling starfield of earlier space shooter games was arranged to fit the 3D perspective, with the stars coming into view at the centre of the screen and flying outward, giving the impression of the player's ship moving very fast through space.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Gyruss-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19840506T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Parker Brothers</publisher>
-    <genre>Shooter</genre>
-    <playcount>1</playcount>
-    <lastplayed>20190721T200335</lastplayed>
-  </game>
-  <game>
-    <path>./pal/H.E.R.O.crt</path>
-    <name>H.E.R.O.</name>
-    <desc>The hardworking miners of "Mount Leone" have been locked in the lower pits of the cave system through sudden volcanic activities. Our hero "Roderrick Hero" now starts for the search of the missing persons with his special equipment (backpack helicopter, integrated helmet laser and dynamite). After a successful rescue you reach the next level.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/H.E.R.O-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19841203T000000</releasedate>
-    <developer>John Van Ryzin</developer>
-    <publisher>Activision</publisher>
-    <genre>Action, Platform</genre>
-    <playcount>1</playcount>
-    <lastplayed>20190721T194822</lastplayed>
-  </game>
-  <game>
-    <path>./pal/Jumpman Junior.crt</path>
-    <name>Jumpman Junior</name>
-    <desc>The object of the game is to defuse all bombs in a platform-filled screen. Jumpman defuses a bomb by touching it. According to the story, these are placed on Jupiter by terrorists. Jumpman can climb up and down ladders, and of course jump, and there are two kinds of rope each allowing a single direction of climbing only. Hazards include falling, "smart darts" (small bullets that fly slowly across the screen, but when orthogonally lined up with Jumpman, greatly speed up and shoot straight in his direction) and other hazards that are unique to a certain level.
+		<image>~/.emulationstation/downloaded_images/c64/Shadow of the Beast-image.jpg</image>
+		<developer>Ocean Software Ltd., Ocean, Enigma Variations Ltd</developer>
+		<publisher>Ocean Software Ltd.</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./pal/Spy Hunter.crt</path>
+		<name>Spy Hunter</name>
+		<desc>Spy Hunter is an action/driving game with the player in the role of a spy driving an armed sportscar. The object of the game is to travel the freeway destroying as many enemy vehicles as possible while protecting civilian vehicles. The game is a top-down vertical scroller.</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Spy Hunter-image.jpg</image>
+		<releasedate>19830603T000000</releasedate>
+		<developer>Midway, Bally</developer>
+		<publisher>U.S. Gold Ltd.</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./pal/Subterranea.d64</path>
+		<name>Subterranea</name>
+		<desc>Played over sixteen levels. It is your task to rescue trapped miners and destroy rogue mining droids. Contact with the droids is deadly, so beware!</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Subterranea-image.jpg</image>
+		<releasedate>19880201T000000</releasedate>
+		<developer>Hewson Consulting</developer>
+		<publisher>Hewson Consultants Ltd.</publisher>
+		<genre>Action, Shooter</genre>
+	</game>
+	<game>
+		<path>./pal/Zaxxon.crt</path>
+		<name>Zaxxon</name>
+		<desc>The game gives the player the experience of flying a fighter craft through a fortress while shooting at enemy entities (missiles, enemy gunfire, etc.) The object of the game is to hit as many targets as possible without being shot down or running out of fuel - which can be replenished, paradoxically, by blowing up fuel drums.</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Zaxxon-image.jpg</image>
+		<releasedate>19841205T000000</releasedate>
+		<developer>Synapse&#xC2; Software&#xC2; Corporation</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./either/Super_Mario_Bros_64_-_Zeropaige.d64</path>
+		<name>Super Mario Bros. 64 by Zeropaige (Disk)</name>
+		<rating>0</rating>
+		<releasedate>19691231T160000</releasedate>
+	</game>
+	<game>
+		<path>./ntsc/Afterburner.d64</path>
+		<name>After Burner</name>
+		<desc>You've played the arcade smash - now experience the white-knuckled realism of a supersonic dogfight at home! Using your heat-seeking missiles and laser anti-aircraft fire, can you be top gun against a seething supersonic swarm? Experience brain-numbing G-forces; bones rattling with the body-jarring pitch and yaw... scan with your radar, lock on your target and fire!</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Afterburner-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19691231T160000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./ntsc/Tooth Invaders.crt</path>
+		<name>Tooth Invaders</name>
+		<desc>In Tooth Invaders the player takes over the role of Plaqueman, the hero of clean teeth. Plaqueman takes over the fight against D.K. Germ Plaque, which constantly tries to stain wonderfully white teeth until they decay and finally fall out. Plaqueman is armed with dental floss and the combination of toothbrush and tooth paste which he needs to take care of eight safe teeth and defend them against the doings D.K. Germ Plaque.</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Tooth Invaders-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Commodore</developer>
+		<publisher>Commodore</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20190721T193644</lastplayed>
+	</game>
+	<game>
+		<path>./pal/Gyruss.crt</path>
+		<name>Gyruss</name>
+		<desc>The gameplay is very similar to that of Galaga but with an added twist: the game is presented in a forced 3D perspective, with the player's ship facing 'into' the screen and able to move around the perimeter of an implicit circle - essentially, Gyruss was Galaga mapped onto a Tempest-like cylinder. This gameplay style is called a tube shooter, and Gyruss is one of the very few examples that exist. The familiar scrolling starfield of earlier space shooter games was arranged to fit the 3D perspective, with the stars coming into view at the centre of the screen and flying outward, giving the impression of the player's ship moving very fast through space.</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Gyruss-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19840506T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20190721T200335</lastplayed>
+	</game>
+	<game>
+		<path>./pal/H.E.R.O.crt</path>
+		<name>H.E.R.O.</name>
+		<desc>The hardworking miners of "Mount Leone" have been locked in the lower pits of the cave system through sudden volcanic activities. Our hero "Roderrick Hero" now starts for the search of the missing persons with his special equipment (backpack helicopter, integrated helmet laser and dynamite). After a successful rescue you reach the next level.</desc>
+		<image>~/.emulationstation/downloaded_images/c64/H.E.R.O-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19841203T000000</releasedate>
+		<developer>John Van Ryzin</developer>
+		<publisher>Activision</publisher>
+		<genre>Action, Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20190721T194822</lastplayed>
+	</game>
+	<game>
+		<path>./pal/Jumpman Junior.crt</path>
+		<name>Jumpman Junior</name>
+		<desc>The object of the game is to defuse all bombs in a platform-filled screen. Jumpman defuses a bomb by touching it. According to the story, these are placed on Jupiter by terrorists. Jumpman can climb up and down ladders, and of course jump, and there are two kinds of rope each allowing a single direction of climbing only. Hazards include falling, "smart darts" (small bullets that fly slowly across the screen, but when orthogonally lined up with Jumpman, greatly speed up and shoot straight in his direction) and other hazards that are unique to a certain level.
 
 Points are awarded for each bomb defused, with bonus points available for completing a level quickly. Jumpman's game run-speed can be chosen by the player, with faster speeds being riskier but providing greater opportunity to earn bonus points.
 
 This is the cartridge version with less levels that the full disk version.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Jumpman Junior-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19831201T000000</releasedate>
-    <developer>Atari Games</developer>
-    <genre>Action, Platform</genre>
-    <playcount>1</playcount>
-    <lastplayed>20190721T200004</lastplayed>
-  </game>
-  <game>
-    <path>./pal/altered_beast.d64</path>
-    <name>Altered Beast</name>
-    <desc>Altered Beast is a side scrolling, platform, beat 'em up game that puts the player in control of a centurion who had died in battle. The centurion has been raised from the dead to rescue Zeus' daughter Athena from the demon Neff. The player battles undead and demonic hordes, controlling the shapeshifting hero. He must fight through several levels in order to save the kidnapped goddess.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/altered_beast-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19691231T160000</releasedate>
-    <developer>Sega</developer>
-    <publisher>Sega</publisher>
-    <genre>Action</genre>
-    <playcount>1</playcount>
-    <lastplayed>20190721T201805</lastplayed>
-  </game>
-  <game>
-    <path>./ntsc/Crystal Castles.d64</path>
-    <name>Crystal Castles</name>
-    <desc>Crystal Castles has nine levels with four castles each, and a tenth level which features a single castle &amp;#x2014; the clearing of which ends the game. Each of the 37 trimetric-projected castles consists of a maze of hallways filled with gems and bonus objects, and also includes stairs, elevators and tunnels that the player can use as shortcuts. The three-letter initials of the player with the highest score are used to form the first level's castle structure. When all gems in a castle have been collected, the player moves on to the next castle. The player can also skip some castles and acquire additional lives and points by using secret warps activated by making Bentley Bear jump at special locations.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Crystal Castles-image.jpg</image>
-    <rating>0</rating>
-    <releasedate>19830701T000000</releasedate>
-    <developer>Atari</developer>
-    <publisher>U.S. Gold Ltd.</publisher>
-    <genre>Action</genre>
-    <players>2</players>
-    <playcount>2</playcount>
-    <lastplayed>20190721T205017</lastplayed>
-  </game>
-  <game>
-    <path>./either/Super_Mario_Bros_64_-_Zeropaige.crt</path>
-    <name>Super Mario Bros. 64 by Zeropaige (Cartridge)</name>
-    <rating>0</rating>
-    <releasedate>19691231T160000</releasedate>
-    <playcount>1</playcount>
-    <lastplayed>20191104T210836</lastplayed>
-  </game>
-  <game>
-    <path>./ntsc/Jumpman.d64</path>
-    <name>Jumpman</name>
-    <desc>The object of the game is to defuse all bombs in a platform-filled screen. Jumpman defuses a bomb by touching it. According to the story, these are placed on Jupiter by terrorists. Jumpman can climb up and down ladders, and of course jump, and there are two kinds of rope each allowing a single direction of climbing only. Hazards include falling, "smart darts" (small bullets that fly slowly across the screen, but when orthogonally lined up with Jumpman, greatly speed up and shoot straight in his direction) and other hazards that are unique to a certain level.
+		<image>~/.emulationstation/downloaded_images/c64/Jumpman Junior-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19831201T000000</releasedate>
+		<developer>Atari Games</developer>
+		<genre>Action, Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20190721T200004</lastplayed>
+	</game>
+	<game>
+		<path>./pal/altered_beast.d64</path>
+		<name>Altered Beast</name>
+		<desc>Altered Beast is a side scrolling, platform, beat 'em up game that puts the player in control of a centurion who had died in battle. The centurion has been raised from the dead to rescue Zeus' daughter Athena from the demon Neff. The player battles undead and demonic hordes, controlling the shapeshifting hero. He must fight through several levels in order to save the kidnapped goddess.</desc>
+		<image>~/.emulationstation/downloaded_images/c64/altered_beast-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19691231T160000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20190721T201805</lastplayed>
+	</game>
+	<game>
+		<path>./ntsc/Crystal Castles.d64</path>
+		<name>Crystal Castles</name>
+		<desc>Crystal Castles has nine levels with four castles each, and a tenth level which features a single castle &#x2014; the clearing of which ends the game. Each of the 37 trimetric-projected castles consists of a maze of hallways filled with gems and bonus objects, and also includes stairs, elevators and tunnels that the player can use as shortcuts. The three-letter initials of the player with the highest score are used to form the first level's castle structure. When all gems in a castle have been collected, the player moves on to the next castle. The player can also skip some castles and acquire additional lives and points by using secret warps activated by making Bentley Bear jump at special locations.</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Crystal Castles-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830701T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>U.S. Gold Ltd.</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20190721T205017</lastplayed>
+	</game>
+	<game>
+		<path>./either/Super_Mario_Bros_64_-_Zeropaige.crt</path>
+		<name>Super Mario Bros. 64 by Zeropaige (Cartridge)</name>
+		<rating>0</rating>
+		<releasedate>19691231T160000</releasedate>
+		<playcount>1</playcount>
+		<lastplayed>20191104T210836</lastplayed>
+	</game>
+	<game>
+		<path>./ntsc/Jumpman.d64</path>
+		<name>Jumpman</name>
+		<desc>The object of the game is to defuse all bombs in a platform-filled screen. Jumpman defuses a bomb by touching it. According to the story, these are placed on Jupiter by terrorists. Jumpman can climb up and down ladders, and of course jump, and there are two kinds of rope each allowing a single direction of climbing only. Hazards include falling, "smart darts" (small bullets that fly slowly across the screen, but when orthogonally lined up with Jumpman, greatly speed up and shoot straight in his direction) and other hazards that are unique to a certain level.
 
 Points are awarded for each bomb defused, with bonus points available for completing a level quickly. Jumpman's game run-speed can be chosen by the player, with faster speeds being riskier but providing greater opportunity to earn bonus points.</desc>
-    <image>~/.emulationstation/downloaded_images/c64/Jumpman-image.jpg</image>
-    <releasedate>19830715T000000</releasedate>
-    <developer>Epyx</developer>
-    <publisher>Epyx, Inc.</publisher>
-    <genre>Platform</genre>
-    <playcount>1</playcount>
-    <lastplayed>20191104T210858</lastplayed>
-  </game>
-  <game>
-    <path>./pal/Castlevania (Side 1).d64</path>
-    <name>Castlevania (Side 1)</name>
-    <playcount>1</playcount>
-    <lastplayed>20191224T165638</lastplayed>
-  </game>
+		<image>~/.emulationstation/downloaded_images/c64/Jumpman-image.jpg</image>
+		<releasedate>19830715T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Epyx, Inc.</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20191104T210858</lastplayed>
+	</game>
+	<game>
+		<path>./ntsc/Archon.t64</path>
+		<name>Archon</name>
+		<desc>The light and the dark side (or the eternal confrontation). A magical, mediaeval field depicted as an overgrown chess board becomes apparent in front of you. Inside this mystical area there are mythical creatures as e.g. unicorns, sorceresses, golems, wizards or fire-breathing dragons. If one of those creatures moves to another field, so its life energy changes depending on the colour of the field. If two opponents meet on one square, the playing field turns into an arena.
+
+Your characters use their fantastic abilities to fight against banshees, goblins and wizards. They use spells, missiles and fists, they throw spears and fire. They even take over the look and the characteristics of the opponent. You will need all your skill, agility and intelligence to control and lead your side.
+
+Your magic rises and diminuishes with the light cycle of the board. The same way the light changes, so your abilities change. You need to keep an eye on the time and portion your strength effectively.
+
+Archon is a fight made of action and strategy, which is carried out between two oppositional armed forces, that consist of myths and legends. The light and the dark side consist of the same number of individuals and their strengths are roughly equal, but they are not made up of the same troup parts. Their goals are the same: every side exists to win. Either by destroying all the opposing armed forces or by conquering the five force fields.</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Archon-image.png</image>
+		<rating>0</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Free Fall Associates</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Board game</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./ntsc/Lazarian.crt</path>
+		<name>Lazarian</name>
+		<image>~/.emulationstation/downloaded_images/c64/Lazarian-image.png</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Commodore Electronics Ltd.</publisher>
+		<genre></genre>
+		<players></players>
+		<playcount>1</playcount>
+		<lastplayed>20190721T194136</lastplayed>
+	</game>
+	<game>
+		<path>./ntsc/OutRun (Side 1).d64</path>
+		<name>OutRun (Side 1)</name>
+		<desc>High action road racing adventure. Tests your driving technique, speed and distance travelled over a rich variety of courses. Race at top speed towards the finish line. Enjoy such realistic features as acceleration, lane changes, diversified terrain, sudden curves and much more. (For 1 player)</desc>
+		<image>~/.emulationstation/downloaded_images/c64/OutRun (Side 1)-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19870715T000000</releasedate>
+		<developer>U.S. Gold Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Racing</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210112T180522</lastplayed>
+	</game>
+	<game>
+		<path>./ntsc/OutRun (Side 2).d64</path>
+		<name>OutRun (Side 2)</name>
+		<desc>High action road racing adventure. Tests your driving technique, speed and distance travelled over a rich variety of courses. Race at top speed towards the finish line. Enjoy such realistic features as acceleration, lane changes, diversified terrain, sudden curves and much more. (For 1 player)</desc>
+		<image>~/.emulationstation/downloaded_images/c64/OutRun (Side 2)-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19870715T000000</releasedate>
+		<developer>U.S. Gold Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Racing</genre>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./ntsc/Who Framed Roger Rabbit (Side 1).d64</path>
+		<name>Who Framed Roger Rabbit (Side 1)</name>
+		<desc>Roger Rabbit has been framed for the murder of Marvin Acme, head of the Acme Corporation. Acme's will states that upon his death, Toon Town would be left ot the Toons, but the will is nowhere to be found. You have to find the will and save your wife, Jessica, from Judge Doom and his weasels.
+
+The game takes place in Hollywood, 1947, where Toons are alive. There are 4 levels in the game, 2 of which are driving levels (levels 1 &amp; 3). Roger and Benny the cab have to beat the weasels to the destination, while dodging cars, trams and Judge Doom's dip which is scattered on the road. There are pick-ups to help you on your way.
+
+Level 2 is the Ink &amp; Paint Club. The will is on one of the tables. Roger has to pick up all the pieces of paper the penguin waiters put down, whilst avoiding the alcohol and gorilla bouncer.
+
+Level 4 has you in Judge Dooms warehouse trying to save your wife, Jessica from the dip truck. You have to use gags to progress and make the weasels laugh themselves to death, literally!</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Who Framed Roger Rabbit (Side 1)-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19881001T000000</releasedate>
+		<developer>Silent Software</developer>
+		<publisher>Buena Vista Software</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./ntsc/Who Framed Roger Rabbit (Side 2).d64</path>
+		<name>Who Framed Roger Rabbit (Side 2)</name>
+		<desc>Roger Rabbit has been framed for the murder of Marvin Acme, head of the Acme Corporation. Acme's will states that upon his death, Toon Town would be left ot the Toons, but the will is nowhere to be found. You have to find the will and save your wife, Jessica, from Judge Doom and his weasels.
+
+The game takes place in Hollywood, 1947, where Toons are alive. There are 4 levels in the game, 2 of which are driving levels (levels 1 &amp; 3). Roger and Benny the cab have to beat the weasels to the destination, while dodging cars, trams and Judge Doom's dip which is scattered on the road. There are pick-ups to help you on your way.
+
+Level 2 is the Ink &amp; Paint Club. The will is on one of the tables. Roger has to pick up all the pieces of paper the penguin waiters put down, whilst avoiding the alcohol and gorilla bouncer.
+
+Level 4 has you in Judge Dooms warehouse trying to save your wife, Jessica from the dip truck. You have to use gags to progress and make the weasels laugh themselves to death, literally!</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Who Framed Roger Rabbit (Side 2)-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19881001T000000</releasedate>
+		<developer>Silent Software</developer>
+		<publisher>Buena Vista Software</publisher>
+		<genre>Action</genre>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./pal/Alien Syndrome (Side 1).d64</path>
+		<name>Alien Syndrome (Side 1)</name>
+		<desc>Two players control two soldiers named Ricky and Mary, who must fight their way through large eight-way scrolling levels rescuing their comrades who are being held by aliens. After they have rescued a certain number of hostages the exit opens and they can pass through it in order to fight the end-of-level guardian. If this monstrosity is defeated, they move onto the next stage. As well as two player simultaneous gameplay, Alien Syndrome features pick-ups which assist the player including better weapons and maps of the current level.</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Alien Syndrome (Side 1)-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19691231T160000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<playcount>10</playcount>
+		<lastplayed>20190721T172802</lastplayed>
+	</game>
+	<game>
+		<path>./pal/Alien Syndrome (Side 2).d64</path>
+		<name>Alien Syndrome (Side 2)</name>
+		<desc>Two players control two soldiers named Ricky and Mary, who must fight their way through large eight-way scrolling levels rescuing their comrades who are being held by aliens. After they have rescued a certain number of hostages the exit opens and they can pass through it in order to fight the end-of-level guardian. If this monstrosity is defeated, they move onto the next stage. As well as two player simultaneous gameplay, Alien Syndrome features pick-ups which assist the player including better weapons and maps of the current level.</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Alien Syndrome (Side 2)-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19691231T160000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<hidden>true</hidden>
+		<playcount>3</playcount>
+		<lastplayed>20190721T172830</lastplayed>
+	</game>
+	<game>
+		<path>./pal/Castlevania (Side 1).d64</path>
+		<name>Castlevania (Side 1)</name>
+		<desc>If you think it's scary on the outside, wait'll you see the basement! You're in for the longest night of your life. Ghosts, goblins, demons, wolves, bats - creatures lurking around every corner. As you descend deeper and deeper, they get thicker and thicker. Better stick close to the cavern floor - it's your only chance of finding a weapon or two. You're gonna need 'em. Because when you finally meet the Count, you know he'll be going for the jugular. So keep your courage up and your stake sharp. And say your prayers</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Castlevania (Side 1)-image.png</image>
+		<rating>0</rating>
+		<releasedate>19691231T160000</releasedate>
+		<developer>Unlimited Software Inc.</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20191224T165638</lastplayed>
+	</game>
+	<game>
+		<path>./pal/Castlevania (Side 2).d64</path>
+		<name>Castlevania (Side 2)</name>
+		<desc>If you think it's scary on the outside, wait'll you see the basement! You're in for the longest night of your life. Ghosts, goblins, demons, wolves, bats - creatures lurking around every corner. As you descend deeper and deeper, they get thicker and thicker. Better stick close to the cavern floor - it's your only chance of finding a weapon or two. You're gonna need 'em. Because when you finally meet the Count, you know he'll be going for the jugular. So keep your courage up and your stake sharp. And say your prayers</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Castlevania (Side 2)-image.png</image>
+		<rating>0</rating>
+		<releasedate>19691231T160000</releasedate>
+		<developer>Unlimited Software Inc.</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./pal/One Man And His Droid.d64</path>
+		<name>One Man and his Droid</name>
+		<desc>Control a droid on the planet Andromadous trying to herd Ramboids (alien sheep) into a teleporter. First the droid has to travel through a chamber filled with constantly moving Ramboids. Then the Ramboids must be herded towards the teleport receptor in a particular order. As well as the droid's standard movement mode, it can also tunnel or dig through the caverns. In later levels, the cavern designs become more complex and moving blocks create further problems.</desc>
+		<image>~/.emulationstation/downloaded_images/c64/One Man And His Droid-image.png</image>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Mastertronic</developer>
+		<publisher>Mastertronic</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./pal/Shoot_Em_Up_Construction_Kit_Demo_1_(Slap_and_Tickle).d64</path>
+		<name>SEUCK - Demo 1: Slap and Tickle</name>
+		<rating>0</rating>
+		<releasedate>19691231T160000</releasedate>
+	</game>
+	<game>
+		<path>./pal/Shoot_Em_Up_Construction_Kit_Demo_2_(Outlaw).d64</path>
+		<name>SEUCK - Demo 2: Outlaw</name>
+		<rating>0</rating>
+		<releasedate>19691231T160000</releasedate>
+	</game>
+	<game>
+		<path>./pal/Shoot_Em_Up_Construction_Kit_Demo_3_(Transputer_Man).d64</path>
+		<name>SEUCK - Demo 3: Transputer Man</name>
+		<rating>0</rating>
+		<releasedate>19691231T160000</releasedate>
+	</game>
+	<game>
+		<path>./pal/Shoot_Em_Up_Construction_Kit_(Original)_(en)_Side_1.d64</path>
+		<name>SEUCK - Shoot 'em-Up Construction Kit (Side 1)</name>
+		<desc>Shoot 'em Up Construction Kit is more of a utility than a game. It allows the user to create a huge variety of top down shooters with a simple set of utilities allowing the player to draw, animate and move all of the games sprites, create sound effects and backgrounds for many levels, and set up games rules.nnnnThe package comes complete with 4 games already made on it, to demonstrate the techniques involved. These include: "Slap and Tickle" (set in space), "Outlaw" (a wild west game) "Transputer Man" (with a strong sci-fi setting) and "Celebrity Squares".</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Shoot_Em_Up_Construction_Kit_(Original)_(en)_Side_1-image.png</image>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sensible Software</developer>
+		<publisher>Palace</publisher>
+		<genre>Various</genre>
+		<playcount>2</playcount>
+		<lastplayed>20190721T191255</lastplayed>
+	</game>
+	<game>
+		<path>./pal/Shoot_Em_Up_Construction_Kit_(Original)_(en)_Side_2.d64</path>
+		<name>SEUCK - Shoot 'em-Up Construction Kit (Side 2)</name>
+		<desc>Shoot 'em Up Construction Kit is more of a utility than a game. It allows the user to create a huge variety of top down shooters with a simple set of utilities allowing the player to draw, animate and move all of the games sprites, create sound effects and backgrounds for many levels, and set up games rules.nnnnThe package comes complete with 4 games already made on it, to demonstrate the techniques involved. These include: "Slap and Tickle" (set in space), "Outlaw" (a wild west game) "Transputer Man" (with a strong sci-fi setting) and "Celebrity Squares".</desc>
+		<image>~/.emulationstation/downloaded_images/c64/Shoot_Em_Up_Construction_Kit_(Original)_(en)_Side_2-image.png</image>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sensible Software</developer>
+		<publisher>Palace</publisher>
+		<genre>Various</genre>
+	</game>
+	<game>
+		<path>./pal/Shoot_Em_Up_Construction_Kit_Demo_4_(Celebrity_Squares).d64</path>
+		<name>SEUCK - Demo 4: Celebrity Squares</name>
+		<rating>0</rating>
+		<releasedate>19691231T160000</releasedate>
+	</game>
 </gameList>

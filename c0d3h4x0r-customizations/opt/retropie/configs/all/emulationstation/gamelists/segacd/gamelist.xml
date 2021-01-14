@@ -12,7 +12,7 @@
   </game>
   <game>
     <path>./Adventures of Batman &amp; Robin, The (U).cue</path>
-    <name>The Adventures of Batman &amp; Robin</name>
+    <name>Adventures of Batman &amp; Robin, The</name>
     <desc>Robin and Commissioner Gordon have mysteriously disappeared, and Batman suspects kidnapping. Have our two comrades succumb to the deadly beauty of Poison Ivy? Does the Riddler know the answer? Or will The Joker have the last laugh? Tune in on Sega CD to find out!</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Adventures of Batman &amp; Robin, The (U)-image.jpg</image>
     <releasedate>19950701T000000</releasedate>
@@ -22,7 +22,7 @@
   </game>
   <game>
     <path>./Adventures Of Willy Beamish, The (U).cue</path>
-    <name>The Adventures of Willy Beamish</name>
+    <name>Adventures of Willy Beamish, The</name>
     <desc>Willy Beamish is a kid who likes to goof off and have fun. Naturally all the grown-ups get in the way by making him go to school, making him clean his room, etc. But now that's school's out for the summer, Willy is determined to have a good time and maybe even have his pet frog win the frog jumping contest. However Willy has a habit of getting into trouble, and naturally that means it will be a challenge to get out of it.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Adventures Of Willy Beamish, The (U)-image.jpg</image>
     <releasedate>19930202T000000</releasedate>
@@ -44,7 +44,7 @@ Thunderstrike's graphics consist of scaled sprites arranged to create a 3D envir
   </game>
   <game>
     <path>./Amazing Spider-Man vs. The Kingpin, The (U).cue</path>
-    <name>The Amazing Spider-Man vs. The Kingpin</name>
+    <name>Amazing Spider-Man vs. The Kingpin, The</name>
     <desc>Enter a vicious web of danger and disaster! The Kingpin of Crime frames Spider-Man for planting a bomb in New York; and Spidey's only hope is to find the keys to the bomb's location before it explodes. Help Spider-Man stick it to the Kingpin and his horde of vicious assassins along the way. Enter hand-to-hand combat with Dr. Octopus! Put the Sandman to sleep! Use dazzling acrobatics to take on the Lizard, Hobgoblin and Venom! Dodge Electro's amped-up charge! Don't be fooled by the new trickery of Mysterio and the villainy of the Vulture! Take aim with Spidey's gadgets. Shoot webs! Stick to walls and ceilings! Swing from skyscrapers!</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Amazing Spider-Man vs. The Kingpin, The (U)-image.png</image>
     <releasedate>19931103T000000</releasedate>
@@ -301,7 +301,7 @@ Your job is to shoot down the enemies as you are flown through footage of New Yo
   </game>
   <game>
     <path>./Colors of Modern Rock, The (U).cue</path>
-    <name>The Colors of Modern Rock</name>
+    <name>Colors of Modern Rock, The</name>
     <desc>Demo disc: The best new rock comes alive in Virtual VCR</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Colors of Modern Rock, The (U)-image.jpg</image>
     <releasedate>19930101T000000</releasedate>
@@ -345,7 +345,7 @@ The game is played from a first-person perspective. Various zombies pop up in fr
   <game>
     <path>./Cyborg 009 (J).cue</path>
     <name>Cyborg 009</name>
-    <desc>Cyborg 009 (&amp;#x30B5;&amp;#x30A4;&amp;#x30DC;&amp;#x30FC;&amp;#x30B0;&amp;#xFF10;&amp;#xFF10;&amp;#xFF19;) is a Sega Mega-CD action game released exclusively in Japan.</desc>
+    <desc>Cyborg 009 (&#x30B5;&#x30A4;&#x30DC;&#x30FC;&#x30B0;&#xFF10;&#xFF10;&#xFF19;) is a Sega Mega-CD action game released exclusively in Japan.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Cyborg 009 (J)-image.jpg</image>
     <releasedate>19930730T000000</releasedate>
     <developer>Telenet Japan</developer>
@@ -450,7 +450,7 @@ DEMOLITION MAN...
   <game>
     <path>./Dynamic Country Club - 3D Golf Simulation (J).cue</path>
     <name>Dynamic Country Club: 3D Golf Simulation</name>
-    <desc>Dynamic Country Club (&amp;#x30C0;&amp;#x30A4;&amp;#x30CA;&amp;#x30DF;&amp;#x30C3;&amp;#x30AF;&amp;#x30AB;&amp;#x30F3;&amp;#x30C8;&amp;#x30EA;&amp;#x30FC;&amp;#x30AF;&amp;#x30E9;&amp;#x30D6;) is a 1991 arcade golf game by Sega released on Sega System 24 hardware. Both floppy disk-based and ROM board-based versions of the game exist. The game presents itself in a pseudo-3D setting a la T&amp;E Soft golf games like Pebble Beach Golf Links where the screen slowly redraws itself at certain intervals in your swing.
+    <desc>Dynamic Country Club (&#x30C0;&#x30A4;&#x30CA;&#x30DF;&#x30C3;&#x30AF;&#x30AB;&#x30F3;&#x30C8;&#x30EA;&#x30FC;&#x30AF;&#x30E9;&#x30D6;) is a 1991 arcade golf game by Sega released on Sega System 24 hardware. Both floppy disk-based and ROM board-based versions of the game exist. The game presents itself in a pseudo-3D setting a la T&amp;E Soft golf games like Pebble Beach Golf Links where the screen slowly redraws itself at certain intervals in your swing.
 
 A game with the same name for the Sega Mega-CD was produced, but only released in Japan. Whether or not this is the same game is unknown.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Dynamic Country Club - 3D Golf Simulation (J)-image.jpg</image>
@@ -506,7 +506,7 @@ Ecco travels to the sunken city of Atlantis, where he discovers the time machine
   <game>
     <path>./Egawa Suguru no Super League CD (J).cue</path>
     <name>Egawa Suguru no Super League CD</name>
-    <desc>Egawa Suguru no Super League CD (&amp;#x6C5F;&amp;#x5DDD;&amp;#x5353;&amp;#x306E;&amp;#x30B9;&amp;#x30FC;&amp;#x30D1;&amp;#x30FC;&amp;#x30EA;&amp;#x30FC;&amp;#x30B0;&amp;#xFF23;&amp;#xFF24;) is a baseball game released as part of the Super League and a sequel to Pro Yakyuu Super League CD (?).</desc>
+    <desc>Egawa Suguru no Super League CD (&#x6C5F;&#x5DDD;&#x5353;&#x306E;&#x30B9;&#x30FC;&#x30D1;&#x30FC;&#x30EA;&#x30FC;&#x30B0;&#xFF23;&#xFF24;) is a baseball game released as part of the Super League and a sequel to Pro Yakyuu Super League CD (?).</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Egawa Suguru no Super League CD (J)-image.jpg</image>
     <releasedate>19930806T000000</releasedate>
     <developer>Sega</developer>
@@ -574,7 +574,7 @@ The fighters range from different eras of Earth's History: Larcen, the cat burgl
   <game>
     <path>./F1 Circus CD (J).cue</path>
     <name>F1 Circus CD</name>
-    <desc>F1 Circus CD (&amp;#xFF26;&amp;#xFF11;&amp;#x30B5;&amp;#x30FC;&amp;#x30AB;&amp;#x30B9;&amp;#xFF23;&amp;#xFF24;) is a formula one racing game released for the Sega Mega-CD exclusively in Japan. It is the sequel to F1 Circus MD.</desc>
+    <desc>F1 Circus CD (&#xFF26;&#xFF11;&#x30B5;&#x30FC;&#x30AB;&#x30B9;&#xFF23;&#xFF24;) is a formula one racing game released for the Sega Mega-CD exclusively in Japan. It is the sequel to F1 Circus MD.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/F1 Circus CD (J)-image.jpg</image>
     <releasedate>19940308T000000</releasedate>
     <developer>Nichibutsu</developer>
@@ -655,7 +655,7 @@ The graphics in Beyond the Limit are created from scaled and rotated sprites tha
   <game>
     <path>./Heavy Nova (J).cue</path>
     <name>Heavy Nova</name>
-    <desc>Heavy Nova (&amp;#x30D8;&amp;#x30D3;&amp;#x30FC;&amp;#x30CE;&amp;#x30D0;) is a 1991 action game for the Sharp X68000 by Micronet. It was ported to the Sega Mega-CD as one of the system's two launch titles (the other being Wolf Team's Sol-Feace); the Mega-CD port was not released outside Japan. Micronet subsequently ported it to the Sega Mega Drive for an American release in 1992.
+    <desc>Heavy Nova (&#x30D8;&#x30D3;&#x30FC;&#x30CE;&#x30D0;) is a 1991 action game for the Sharp X68000 by Micronet. It was ported to the Sega Mega-CD as one of the system's two launch titles (the other being Wolf Team's Sol-Feace); the Mega-CD port was not released outside Japan. Micronet subsequently ported it to the Sega Mega Drive for an American release in 1992.
 
 You play as a giant mech beating up other mechs of various sizes. A punches and B kicks. Up rockets up for as long as the button is held; you will eventually come back down.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Heavy Nova (J)-image.jpg</image>
@@ -691,7 +691,7 @@ The first is Midgard (or Earth), the second is Utgard (the world of the giants) 
   <game>
     <path>./INXS - Make My Video (U).cue</path>
     <name>INXS: Make My Video</name>
-    <desc>Make My Video: INXS is a video game based on real-time editing of music video footage. The setup is that a pair of female friends is hanging around a bar and monopolizing the pool table. The game explores the duo's interpersonal interactions with other patrons at the bar: There's the Fly, an aloof cool guy; Ted and Gomez, braindead surfer dudes trying to pick up the ladies, and who are thinly-veiled parodies of Bill &amp; Ted; Poindexter, the nerd who is also trying to work up the courage to talk to the women; and Flo and Tiger, a pair of leather-clad tough chicks whose interest is beating the main subjects of the game so that they can control the bar music and play their Megadeth videotape. Each person or pair has own their ideas about what an ideal INXS video should or should not contain. The specifications normally come in the form of a set of pictures they either do or don't want to see, and perhaps some effects. The game features three INXS videos from which to choose: "Heaven Sent", "Not Enough Time", and "Baby Don&amp;#x2019;t Cry".</desc>
+    <desc>Make My Video: INXS is a video game based on real-time editing of music video footage. The setup is that a pair of female friends is hanging around a bar and monopolizing the pool table. The game explores the duo's interpersonal interactions with other patrons at the bar: There's the Fly, an aloof cool guy; Ted and Gomez, braindead surfer dudes trying to pick up the ladies, and who are thinly-veiled parodies of Bill &amp; Ted; Poindexter, the nerd who is also trying to work up the courage to talk to the women; and Flo and Tiger, a pair of leather-clad tough chicks whose interest is beating the main subjects of the game so that they can control the bar music and play their Megadeth videotape. Each person or pair has own their ideas about what an ideal INXS video should or should not contain. The specifications normally come in the form of a set of pictures they either do or don't want to see, and perhaps some effects. The game features three INXS videos from which to choose: "Heaven Sent", "Not Enough Time", and "Baby Don&#x2019;t Cry".</desc>
     <image>~/.emulationstation/downloaded_images/segacd/INXS - Make My Video (U)-image.jpg</image>
     <releasedate>19921015T000000</releasedate>
     <developer>Digital Pictures</developer>
@@ -756,7 +756,7 @@ The story takes place after the events of the movie/book. You are sent back to J
   <game>
     <path>./Keio Flying Squadron (U).cue</path>
     <name>Keio Flying Squadron</name>
-    <desc>Keio Flying Squadron (&amp;#x6176;&amp;#x5FDC;&amp;#x904A;&amp;#x6483;&amp;#x968A; Kei&amp;#x14D;y&amp;#x16B;gekitai?) is a scrolling shooter video game developed and published by Victor Entertainment in 1994 for the Sega/Mega CD in Japan, Europe, and North America. It is the first game of the Keio Flying Squadron series with a simple shoot-'em-up style of play.
+    <desc>Keio Flying Squadron (&#x6176;&#x5FDC;&#x904A;&#x6483;&#x968A; Kei&#x14D;y&#x16B;gekitai?) is a scrolling shooter video game developed and published by Victor Entertainment in 1994 for the Sega/Mega CD in Japan, Europe, and North America. It is the first game of the Keio Flying Squadron series with a simple shoot-'em-up style of play.
 Gameplay
 The game consists of the protagonist Rami riding on top of Spot, who can shoot fireballs at enemies. When Spot is not firing, two smaller dragons (Companion fighters) appear one after another to assist Rami and Spot. The lesser dragons shoot smaller fireballs and can be sacrificed to do larger damage, only to reappear when Spot ceases to shoot.
 Release
@@ -795,7 +795,7 @@ After receiving the video specifications, the player enters the video editing co
   </game>
   <game>
     <path>./Lawnmower Man, The (U).cue</path>
-    <name>The Lawnmower Man</name>
+    <name>Lawnmower Man, The</name>
     <desc>Based on the 1992 feature film, The Lawnmower Man is a collection of minigames based on the revolutionary virtual reality sequences seen in the movie. The plot parallels the central conflict - the player controls Dr. Angelo (Pierce Brosnan) as he heads into cyberspace to confront the psychotic digital god Jobe (Jeff Fahey) he has created.
 
 As the ruler of his digital domain, Jobe shifts and manipulates the virtual world into a series of challenges to test the player. These range from digital IQ tests, chase sequences requiring precision timing for jumping and ducking, and a tunnel flight as one of the virtual jets from the movie. Characters from the movie are also digitized by Jobe into willing henchmen, and must be defeated by the player in a series of quick time events.</desc>
@@ -953,7 +953,7 @@ The game was developed by Domark Software for the Sega Genesis, Sega CD, Sega Ga
   </game>
   <game>
     <path>./Masked Rider, The - Kamen Rider ZO (U).cue</path>
-    <name>The Masked Rider: Kamen Rider ZO</name>
+    <name>Masked Rider: Kamen Rider ZO, The</name>
     <desc>The Masked Rider is a Japanese super hero, a man who has become genetically altered to be a man/grasshopper who rides a motorcycle.
 
 This FMV game adapts scenes from the movie Masked Rider ZO, and creates a Dragon's Lair style experience. The game centers around 10 battles of the film's 3 main characters.
@@ -1099,9 +1099,9 @@ Aside from the licenses, the gameplay for this edition sees for the first time t
   <game>
     <path>./Night Striker (J).cue</path>
     <name>Night Striker</name>
-    <desc>Night Striker (&amp;#x30CA;&amp;#x30A4;&amp;#x30C8;&amp;#x30B9;&amp;#x30C8;&amp;#x30E9;&amp;#x30A4;&amp;#x30AB;&amp;#x30FC;) is an arcade game developed by Taito. It is a futuristic on-the-rails shooter which plays similarly to Sega's Space Harrier, though has you pilot a hover vehicle instead.
+    <desc>Night Striker (&#x30CA;&#x30A4;&#x30C8;&#x30B9;&#x30C8;&#x30E9;&#x30A4;&#x30AB;&#x30FC;) is an arcade game developed by Taito. It is a futuristic on-the-rails shooter which plays similarly to Sega's Space Harrier, though has you pilot a hover vehicle instead.
 
-The game was brought to the Sega Mega-CD in 1993, where graphically it was downscaled for the weaker hardware. It was also brought to the Sega Saturn as Night Striker S (&amp;#x30CA;&amp;#x30A4;&amp;#x30C8;&amp;#x30B9;&amp;#x30C8;&amp;#x30E9;&amp;#x30A4;&amp;#x30AB;&amp;#x30FC;&amp;#xFF33;) in 1996 - essentially the same game, but with an extra "Saturn Mode" and a few small enhancements. No versions have ever left Japan.</desc>
+The game was brought to the Sega Mega-CD in 1993, where graphically it was downscaled for the weaker hardware. It was also brought to the Sega Saturn as Night Striker S (&#x30CA;&#x30A4;&#x30C8;&#x30B9;&#x30C8;&#x30E9;&#x30A4;&#x30AB;&#x30FC;&#xFF33;) in 1996 - essentially the same game, but with an extra "Saturn Mode" and a few small enhancements. No versions have ever left Japan.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Night Striker (J)-image.jpg</image>
     <releasedate>19930528T000000</releasedate>
     <developer>Aisystem Tokyo, Taito Corporation</developer>
@@ -1110,8 +1110,8 @@ The game was brought to the Sega Mega-CD in 1993, where graphically it was downs
   </game>
   <game>
     <path>./Ninja Warriors, The (J).cue</path>
-    <name>The Ninja Warriors</name>
-    <desc>The Ninja Warriors (&amp;#x30CB;&amp;#x30F3;&amp;#x30B8;&amp;#x30E3;&amp;#x30A6;&amp;#x30A9;&amp;#x30FC;&amp;#x30EA;&amp;#x30A2;&amp;#x30FC;&amp;#x30BA;) is a beat-'em-up originally developed by Taito for the arcades. It was brought to the Sega Mega-CD in 1993 exclusively for Japan. To emulate the three-screen setup of the original arcade game (3 288x224 screens arranged in a horizontal line like with the Darius games), porters Aisystem Tokyo simply capped the screen resolution in software, resulting in the entire game running in a small window.
+    <name>Ninja Warriors, The</name>
+    <desc>The Ninja Warriors (&#x30CB;&#x30F3;&#x30B8;&#x30E3;&#x30A6;&#x30A9;&#x30FC;&#x30EA;&#x30A2;&#x30FC;&#x30BA;) is a beat-'em-up originally developed by Taito for the arcades. It was brought to the Sega Mega-CD in 1993 exclusively for Japan. To emulate the three-screen setup of the original arcade game (3 288x224 screens arranged in a horizontal line like with the Darius games), porters Aisystem Tokyo simply capped the screen resolution in software, resulting in the entire game running in a small window.
 
 Playable characters are two androids called Kunoichi (female ninja, red color) and Ninja (male ninja, blue color). Both characters play identically.
 
@@ -1205,7 +1205,7 @@ Prince of Persia is a 2D platformer with run and jump gameplay. Your hero must a
   <game>
     <path>./Pro Yakyuu Super League CD (J).cue</path>
     <name>Pro Yakyuu Super League CD</name>
-    <desc>Pro Yakyuu Super League CD (&amp;#x30D7;&amp;#x30ED;&amp;#x91CE;&amp;#x7403;&amp;#x30B9;&amp;#x30FC;&amp;#x30D1;&amp;#x30FC;&amp;#x30EA;&amp;#x30FC;&amp;#x30B0;&amp;#xFF23;&amp;#xFF24;) is a baseball game released as part of the Super League series for the Sega Mega-CD exclusively in Japan.</desc>
+    <desc>Pro Yakyuu Super League CD (&#x30D7;&#x30ED;&#x91CE;&#x7403;&#x30B9;&#x30FC;&#x30D1;&#x30FC;&#x30EA;&#x30FC;&#x30B0;&#xFF23;&#xFF24;) is a baseball game released as part of the Super League series for the Sega Mega-CD exclusively in Japan.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Pro Yakyuu Super League CD (J)-image.jpg</image>
     <releasedate>19921030T000000</releasedate>
     <developer>Sega</developer>
@@ -1332,7 +1332,7 @@ This game was released the same time with the famous 3DO Road Rash. And it borro
   </game>
   <game>
     <path>./Secret of Monkey Island, The (U).cue</path>
-    <name>The Secret of Monkey Island</name>
+    <name>Secret of Monkey Island, The</name>
     <desc>The Secret of Monkey Island is an adventure game that utilizes the command verb-based SCUMM interface first introduced in Maniac Mansion: the player constructs commands for Guybrush by selecting an appropriate verb and then combining it with an object or an inventory item. Objects that can be interacted with are highlighted when the player places a cursor over them. The game is the first LucasArts adventure in which it is impossible to get irrevocably stuck; like in Loom, the player character also cannot die. The branching dialogue system, where the player chooses between several available responses during conversations, allows the player to talk to characters in different ways without fearing a wrong choice, and is often used as a humorous device.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Secret of Monkey Island, The (U)-image.jpg</image>
     <releasedate>19920101T000000</releasedate>
@@ -1364,7 +1364,7 @@ Super Monaco GP</desc>
   <game>
     <path>./Sengoku Denshou (J).cue</path>
     <name>Sengoku Denshou</name>
-    <desc>Sengoku Denshou (&amp;#x6226;&amp;#x56FD;&amp;#x4F1D;&amp;#x627F;) is a beat-'em-up released for the Sega Mega-CD exclusively in Japan.</desc>
+    <desc>Sengoku Denshou (&#x6226;&#x56FD;&#x4F1D;&#x627F;) is a beat-'em-up released for the Sega Mega-CD exclusively in Japan.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Sengoku Denshou (J)-image.jpg</image>
     <releasedate>19931228T000000</releasedate>
     <developer>SNK</developer>
@@ -1423,7 +1423,7 @@ Super Monaco GP</desc>
   </game>
   <game>
     <path>./Smurfs, The (E).cue</path>
-    <name>The Smurfs</name>
+    <name>Smurfs, The</name>
     <desc>Gargamel has just perfected a terrible plot to kidnap ALL the Smurfs. Four of them have disappeared already. You will have to brave the Angry Smurfs and Buzz flies before smurfing the mountain riding on a sledge, travel on the back of a stork and finally challenge the infamous Gargamel!</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Smurfs, The (E)-image.png</image>
     <releasedate>19950505T000000</releasedate>
@@ -1484,7 +1484,7 @@ Super Monaco GP</desc>
   </game>
   <game>
     <path>./Space Adventure, The (U).cue</path>
-    <name>The Space Adventure</name>
+    <name>Space Adventure, The</name>
     <desc>While waiting in a bar for his partner, Cobra encounters a beautiful bounty hunter named Jane. Very soon he realizes that the bounty Jane has been hunting for is his own head, for which the Galaxy Patrol has put quite a reward. But everything changes when Crystal Boy, the head of the Pirate Guild and Cobra's archenemy, appears on the scene. Jane's father had apparently hidden a great treasure, encoding its location in tattoos on the backs of his triplet daughters. Crystal Boy wants this treasure, and is going after Jane and her sisters. Cobra and Jane decide to join forces in order to find Jane's sisters and to undermine Crystal Boy's plans.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Space Adventure, The (U)-image.jpg</image>
     <releasedate>19940101T000000</releasedate>
@@ -1579,7 +1579,7 @@ The game begins with Rookie One's training (you), followed by an attack on the S
   </game>
   <game>
     <path>./Terminator, The (U).cue</path>
-    <name>The Terminator</name>
+    <name>Terminator, The</name>
     <desc>Just like the movie, you assume the role of Kyle Reese, a traveller from the future who returns to modern-day L.A. to protect the life of Sarah Conner - the beautiful woman who holds the key to the survival of the human race. Your mission: Outwit and outmaneuver a brutal killing machine known as the Terminator. He's big, he's bad and he's virtually unstoppable - let's hope you're smarter! Featuring 10 huge main levels pumped up with hardcore weaponry and heavy-hitting adversaries.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Terminator, The (U)-image.png</image>
     <releasedate>19930308T000000</releasedate>
@@ -1590,7 +1590,7 @@ The game begins with Rookie One's training (you), followed by an attack on the S
   <game>
     <path>./Theme Park (E).cue</path>
     <name>Theme Park</name>
-    <desc>Theme Park (&amp;#x30C6;&amp;#x30FC;&amp;#x30DE;&amp;#x30D1;&amp;#x30FC;&amp;#x30AF;) is a management simulator developed by Bullfrog Productions and published by Electronic Arts in 1994. It was released for a variety of systems, including the Sega Mega Drive, Sega Mega-CD, Sega Saturn in the following year.
+    <desc>Theme Park (&#x30C6;&#x30FC;&#x30DE;&#x30D1;&#x30FC;&#x30AF;) is a management simulator developed by Bullfrog Productions and published by Electronic Arts in 1994. It was released for a variety of systems, including the Sega Mega Drive, Sega Mega-CD, Sega Saturn in the following year.
 
 Theme Park was the first successful theme park simulator, and would go on to inspire other Theme games and the RollerCoaster Tycoon series. Players are given a plot of land and are tasked with buying (and creating) rides, as well as organising the general layout of the park, staff and attempting to keep visitors happy without going bankrupt.
 
@@ -1780,7 +1780,7 @@ Climb in the ring with boxers in Dogsville and wailing alley cats in the Scrapya
   <game>
     <path>./WonderMega Collection (J).cue</path>
     <name>Wondermega Collection</name>
-    <desc>Wondermega Collection (&amp;#x30EF;&amp;#x30F3;&amp;#x30C0;&amp;#x30FC;&amp;#x30E1;&amp;#x30AC;&amp;#x3000;&amp;#x30B3;&amp;#x30EC;&amp;#x30AF;&amp;#x30B7;&amp;#x30E7;&amp;#x30F3;) is a sample disc bundled with Japanese Wondermega consoles. It contains four CD+G karaoke songs and Battle Fighter, Flicky, Pyramid Magic and Quiz Scramble as playable games.</desc>
+    <desc>Wondermega Collection (&#x30EF;&#x30F3;&#x30C0;&#x30FC;&#x30E1;&#x30AC;&#x3000;&#x30B3;&#x30EC;&#x30AF;&#x30B7;&#x30E7;&#x30F3;) is a sample disc bundled with Japanese Wondermega consoles. It contains four CD+G karaoke songs and Battle Fighter, Flicky, Pyramid Magic and Quiz Scramble as playable games.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/WonderMega Collection (J)-image.jpg</image>
     <releasedate>19920104T000000</releasedate>
     <developer>JVC</developer>
@@ -1825,7 +1825,7 @@ Do you have what it takes to escape this ring of steel? It's time to unleash the
   </game>
   <game>
     <path>./Dracula Unleashed (U) [Disc 1 of 2].cue</path>
-    <name>Dracula Unleashed (Disc 1/2)</name>
+    <name>Dracula Unleashed (Disc 1)</name>
     <desc>In Dracula Unleashed it is the year 1899, ten years after the destruction of count Dracula chronicled in Bram Stoker's novel. You take the role of Alexander Morris, the younger brother of Texan Quincey Morris who died defeating Dracula. Alexander has come to London to investigate the circumstances of his brother's death, but became sidetracked when he fell in love with and proposed to a local girl named Annisette.
 
 Now, the dawn of a new millennium approaches and an evil force is stalking the streets of London, draining victims of their blood and transforming innocent women into bloodthirsty vampiresses. With the aide of your brother's old friends, the survivors of Dracula's evil, you must uncover the identity of this new vampire and prevent him from transforming Annisette into his queen of the night. Do not fail her, or she will personally rip your throat out.</desc>
@@ -1838,7 +1838,7 @@ Now, the dawn of a new millennium approaches and an evil force is stalking the s
   </game>
   <game>
     <path>./Dracula Unleashed (U) [Disc 2 of 2].cue</path>
-    <name>Dracula Unleashed (Disc 2/2)</name>
+    <name>Dracula Unleashed (Disc 2)</name>
     <desc>In Dracula Unleashed it is the year 1899, ten years after the destruction of count Dracula chronicled in Bram Stoker's novel. You take the role of Alexander Morris, the younger brother of Texan Quincey Morris who died defeating Dracula. Alexander has come to London to investigate the circumstances of his brother's death, but became sidetracked when he fell in love with and proposed to a local girl named Annisette.
 
 Now, the dawn of a new millennium approaches and an evil force is stalking the streets of London, draining victims of their blood and transforming innocent women into bloodthirsty vampiresses. With the aide of your brother's old friends, the survivors of Dracula's evil, you must uncover the identity of this new vampire and prevent him from transforming Annisette into his queen of the night. Do not fail her, or she will personally rip your throat out.</desc>
@@ -1863,7 +1863,7 @@ Now, the dawn of a new millennium approaches and an evil force is stalking the s
   </game>
   <game>
     <path>./Ground Zero Texas (U) [Disc 1 of 2].cue</path>
-    <name>Ground Zero: Texas (Disc 1/2)</name>
+    <name>Ground Zero: Texas (Disc 1)</name>
     <desc>Space aliens are infiltrating the U.S. from a sleepy little town on the Texas/Mexico border, snatching bodies and paving the way for a greater invasion. Those they abduct return as Pod People-like drones, normal in appearance until they reveal themselves. The government's response is you - a technician driving custom-built gun cameras mounted around the town. Similar to Night Trap or Double Switch, you must monitor the town for alien activity, and respond to protect the lives of the citizens and your agents.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Ground Zero Texas (U) [Disc 1 of 2]-image.jpg</image>
     <rating>0</rating>
@@ -1874,7 +1874,7 @@ Now, the dawn of a new millennium approaches and an evil force is stalking the s
   </game>
   <game>
     <path>./Ground Zero Texas (U) [Disc 2 of 2].cue</path>
-    <name>Ground Zero: Texas (Disc 2/2)</name>
+    <name>Ground Zero: Texas (Disc 2)</name>
     <desc>Space aliens are infiltrating the U.S. from a sleepy little town on the Texas/Mexico border, snatching bodies and paving the way for a greater invasion. Those they abduct return as Pod People-like drones, normal in appearance until they reveal themselves. The government's response is you - a technician driving custom-built gun cameras mounted around the town. Similar to Night Trap or Double Switch, you must monitor the town for alien activity, and respond to protect the lives of the citizens and your agents.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Ground Zero Texas (U) [Disc 2 of 2]-image.jpg</image>
     <rating>0</rating>
@@ -1885,19 +1885,19 @@ Now, the dawn of a new millennium approaches and an evil force is stalking the s
   </game>
   <game>
     <path>./Johnny Mnemonic (U) (Unreleased) [Disc 1 of 2].cue</path>
-    <name>Johnny Mnemonic (Unreleased) (Disc 1/2)</name>
+    <name>Johnny Mnemonic (Unreleased) (Disc 1)</name>
     <rating>0</rating>
     <releasedate>19691231T160000</releasedate>
   </game>
   <game>
     <path>./Johnny Mnemonic (U) (Unreleased) [Disc 2 of 2].cue</path>
-    <name>Johnny Mnemonic (Unreleased) (Disc 2/2)</name>
+    <name>Johnny Mnemonic (Unreleased) (Disc 2)</name>
     <rating>0</rating>
     <releasedate>19691231T160000</releasedate>
   </game>
   <game>
     <path>./Night Trap (U) [Disc 1 of 2].cue</path>
-    <name>Night Trap (Disc 1/2)</name>
+    <name>Night Trap (Disc 1)</name>
     <desc>Five girls go to a party to a nice house on a lakeside. Five girls disappear without a trace... Now another five girls go there, in order to spend the vacation with the Martins, the owners of the house, in particular with the lovely Ms. Martin. This time, you should not let them die a gruesome death! Because "nice people" can sometimes turn out to be... yes, that's right - vampires. The whole house is full of traps, that are intended to catch the poor innocent girls, so that the vampires can suck their blood... ugh. Luckily, the brave adventurer is there in order to cease to be hunted and to become a hunter instead! Set the traps so that they will capture the villains themselves, using precise timing and good organization.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Night Trap (U) [Disc 1 of 2]-image.jpg</image>
     <rating>0</rating>
@@ -1908,7 +1908,7 @@ Now, the dawn of a new millennium approaches and an evil force is stalking the s
   </game>
   <game>
     <path>./Night Trap (U) [Disc 2 of 2].cue</path>
-    <name>Night Trap (Disc 2/2)</name>
+    <name>Night Trap (Disc 2)</name>
     <desc>Five girls go to a party to a nice house on a lakeside. Five girls disappear without a trace... Now another five girls go there, in order to spend the vacation with the Martins, the owners of the house, in particular with the lovely Ms. Martin. This time, you should not let them die a gruesome death! Because "nice people" can sometimes turn out to be... yes, that's right - vampires. The whole house is full of traps, that are intended to catch the poor innocent girls, so that the vampires can suck their blood... ugh. Luckily, the brave adventurer is there in order to cease to be hunted and to become a hunter instead! Set the traps so that they will capture the villains themselves, using precise timing and good organization.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Night Trap (U) [Disc 2 of 2]-image.jpg</image>
     <rating>0</rating>
@@ -1919,7 +1919,7 @@ Now, the dawn of a new millennium approaches and an evil force is stalking the s
   </game>
   <game>
     <path>./Penn &amp; Teller's Smoke and Mirrors (U) [Disc 1 of 2].cue</path>
-    <name>Penn &amp; Teller's Smoke and Mirrors (Disc 1/2)</name>
+    <name>Penn &amp; Teller's Smoke and Mirrors (Disc 1)</name>
     <desc>Penn &amp; Teller's Smoke and Mirrors is a Simulation game, developed and published by Absolute Entertainment, which was cancelled before it was released.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Penn &amp; Teller's Smoke and Mirrors (U) [Disc 1 of 2]-image.jpg</image>
     <rating>0</rating>
@@ -1930,7 +1930,7 @@ Now, the dawn of a new millennium approaches and an evil force is stalking the s
   </game>
   <game>
     <path>./Penn &amp; Teller's Smoke and Mirrors (U) [Disc 2 of 2].cue</path>
-    <name>Penn &amp; Teller's Smoke and Mirrors (Disc 2/2)</name>
+    <name>Penn &amp; Teller's Smoke and Mirrors (Disc 2)</name>
     <desc>Penn &amp; Teller's Smoke and Mirrors is a Simulation game, developed and published by Absolute Entertainment, which was cancelled before it was released.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Penn &amp; Teller's Smoke and Mirrors (U) [Disc 2 of 2]-image.jpg</image>
     <rating>0</rating>
@@ -1941,7 +1941,7 @@ Now, the dawn of a new millennium approaches and an evil force is stalking the s
   </game>
   <game>
     <path>./Prize Fighter (U) [Disc 1 of 2].cue</path>
-    <name>Prize Fighter (Disc 1/2)</name>
+    <name>Prize Fighter (Disc 1)</name>
     <desc>Prize Fighter is a FMV boxing game which puts the player in the body of a boxer known as "The Kid" and must face off against four opponents: Honeyboy Fernandez, Mega Joe Falco, Rex Hawkins, and, the ultimate challenge, Nuke "The Duke" Johnson, over the course of two CDs.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Prize Fighter (U) [Disc 1 of 2]-image.jpg</image>
     <rating>0</rating>
@@ -1952,7 +1952,7 @@ Now, the dawn of a new millennium approaches and an evil force is stalking the s
   </game>
   <game>
     <path>./Prize Fighter (U) [Disc 2 of 2].cue</path>
-    <name>Prize Fighter (Disc 2/2)</name>
+    <name>Prize Fighter (Disc 2)</name>
     <desc>Prize Fighter is a FMV boxing game which puts the player in the body of a boxer known as "The Kid" and must face off against four opponents: Honeyboy Fernandez, Mega Joe Falco, Rex Hawkins, and, the ultimate challenge, Nuke "The Duke" Johnson, over the course of two CDs.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Prize Fighter (U) [Disc 2 of 2]-image.jpg</image>
     <rating>0</rating>
@@ -1963,7 +1963,7 @@ Now, the dawn of a new millennium approaches and an evil force is stalking the s
   </game>
   <game>
     <path>./Sherlock Holmes - Consulting Detective Vol. II (U) [Disc 1 of 2].cue</path>
-    <name>Sherlock Holmes: Consulting Detective Vol. II (Disc 1/2)</name>
+    <name>Sherlock Holmes: Consulting Detective Vol. II (Disc 1)</name>
     <desc>The same structure brings a familiar look, inviting to channel all attention to the task of solving mysteries: your intelligence, skills and patience are required to find clues by listening to people, observing details, or even reading the London Times - but don't let yourself be misguided by a wrong hint.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Sherlock Holmes - Consulting Detective Vol. II (U) [Disc 1 of 2]-image.jpg</image>
     <rating>0</rating>
@@ -1974,7 +1974,7 @@ Now, the dawn of a new millennium approaches and an evil force is stalking the s
   </game>
   <game>
     <path>./Sherlock Holmes - Consulting Detective Vol. II (U) [Disc 2 of 2].cue</path>
-    <name>Sherlock Holmes: Consulting Detective Vol. II (Disc 2/2)</name>
+    <name>Sherlock Holmes: Consulting Detective Vol. II (Disc 2)</name>
     <desc>The same structure brings a familiar look, inviting to channel all attention to the task of solving mysteries: your intelligence, skills and patience are required to find clues by listening to people, observing details, or even reading the London Times - but don't let yourself be misguided by a wrong hint.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Sherlock Holmes - Consulting Detective Vol. II (U) [Disc 2 of 2]-image.jpg</image>
     <rating>0</rating>
@@ -1985,7 +1985,7 @@ Now, the dawn of a new millennium approaches and an evil force is stalking the s
   </game>
   <game>
     <path>./Slam City with Scottie Pippen (U) [Disc 1 of 4].cue</path>
-    <name>Slam City with Scottie Pippen (Disc 1/4)</name>
+    <name>Slam City with Scottie Pippen (Disc 1)</name>
     <desc>Slam City with Scottie Pippen is a Full-Motion-Video basketball game. It uses proprietary technology to allow switching from one scene to another without lag, which allows for smoother interactive video.
 The game features a total of 13 characters, 5 of which the player has an option to play against, all of which are played by real actors.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Slam City with Scottie Pippen (U) [Disc 1 of 4]-image.jpg</image>
@@ -1997,7 +1997,7 @@ The game features a total of 13 characters, 5 of which the player has an option 
   </game>
   <game>
     <path>./Slam City with Scottie Pippen (U) [Disc 2 of 4].cue</path>
-    <name>Slam City with Scottie Pippen (Disc 2/4)</name>
+    <name>Slam City with Scottie Pippen (Disc 2)</name>
     <desc>Slam City with Scottie Pippen is a Full-Motion-Video basketball game. It uses proprietary technology to allow switching from one scene to another without lag, which allows for smoother interactive video.
 The game features a total of 13 characters, 5 of which the player has an option to play against, all of which are played by real actors.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Slam City with Scottie Pippen (U) [Disc 2 of 4]-image.jpg</image>
@@ -2009,7 +2009,7 @@ The game features a total of 13 characters, 5 of which the player has an option 
   </game>
   <game>
     <path>./Slam City with Scottie Pippen (U) [Disc 3 of 4].cue</path>
-    <name>Slam City with Scottie Pippen (Disc 3/4)</name>
+    <name>Slam City with Scottie Pippen (Disc 3)</name>
     <desc>Slam City with Scottie Pippen is a Full-Motion-Video basketball game. It uses proprietary technology to allow switching from one scene to another without lag, which allows for smoother interactive video.
 The game features a total of 13 characters, 5 of which the player has an option to play against, all of which are played by real actors.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Slam City with Scottie Pippen (U) [Disc 3 of 4]-image.jpg</image>
@@ -2021,7 +2021,7 @@ The game features a total of 13 characters, 5 of which the player has an option 
   </game>
   <game>
     <path>./Slam City with Scottie Pippen (U) [Disc 4 of 4].cue</path>
-    <name>Slam City with Scottie Pippen (Disc 4/4)</name>
+    <name>Slam City with Scottie Pippen (Disc 4)</name>
     <desc>Slam City with Scottie Pippen is a Full-Motion-Video basketball game. It uses proprietary technology to allow switching from one scene to another without lag, which allows for smoother interactive video.
 The game features a total of 13 characters, 5 of which the player has an option to play against, all of which are played by real actors.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Slam City with Scottie Pippen (U) [Disc 4 of 4]-image.jpg</image>
@@ -2033,7 +2033,7 @@ The game features a total of 13 characters, 5 of which the player has an option 
   </game>
   <game>
     <path>./Supreme Warrior (U) [Disc 1 of 2].cue</path>
-    <name>Supreme Warrior (Disc 1/2)</name>
+    <name>Supreme Warrior (Disc 1)</name>
     <desc>Supreme Warrior is a full-motion video fighting game. The game, or interactive movie, is set in China hundreds of years ago. You are tasked with protecting half of a magical mask. The wearer of the mask will be granted untold power. Unfortunately, the villanous Wang Tu has the other half of the mask, and wants your half badly. So, you must fight off Wang Tu's minions, and eventually Fang Tu himself.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Supreme Warrior (U) [Disc 1 of 2]-image.jpg</image>
     <rating>0</rating>
@@ -2044,7 +2044,7 @@ The game features a total of 13 characters, 5 of which the player has an option 
   </game>
   <game>
     <path>./Supreme Warrior (U) [Disc 2 of 2].cue</path>
-    <name>Supreme Warrior (Disc 2/2)</name>
+    <name>Supreme Warrior (Disc 2)</name>
     <desc>Supreme Warrior is a full-motion video fighting game. The game, or interactive movie, is set in China hundreds of years ago. You are tasked with protecting half of a magical mask. The wearer of the mask will be granted untold power. Unfortunately, the villanous Wang Tu has the other half of the mask, and wants your half badly. So, you must fight off Wang Tu's minions, and eventually Fang Tu himself.</desc>
     <image>~/.emulationstation/downloaded_images/segacd/Supreme Warrior (U) [Disc 2 of 2]-image.jpg</image>
     <rating>0</rating>

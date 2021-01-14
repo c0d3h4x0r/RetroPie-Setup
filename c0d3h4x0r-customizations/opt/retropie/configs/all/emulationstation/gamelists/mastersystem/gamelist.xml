@@ -127,10 +127,10 @@ At the end of each zone, you will come across a boss that takes multiple hits to
     <path>./Back to the Future Part III (UE) [!].zip</path>
     <name>Back to the Future Part III</name>
     <desc>Back to the Future III is a collection of four arcade games. Marty McFly and Doc Brown have traveled back through time to the year 1885 - and they're soon deep in trouble when they face "Mad Dog" Tannen's gang and have to find a way to return to the present. This game takes four scenes from the Hollywood movie Back to the Future III and turns them into arcade sequences:
-&amp;#x2022;Buckboard Chase: Doc Brown goes horseback in an attempt to save Hill Valley's lovely school teacher Clara. This game of quick ducking, jumping and shooting alternates between a side-scrolling and a top-down perspective.
-&amp;#x2022;Shooting Gallery: The name says it all. A classic game of aim-and-shoot, spiced up by hidden extras and bonus targets.
-&amp;#x2022;Pie Throwing: Meet the Mad Dog gang. They have guns, and you have... cream pies. It's an isometric version of the shooting gallery, only with ammo. And the targets shoot back.
-&amp;#x2022;The Train: Basically a side-scrolling beat-em-up on train wagons with some ducking and jumping. Get rid of the mechanics and collect speed logs to push the engine to a magic 88 mph.</desc>
+&#x2022;Buckboard Chase: Doc Brown goes horseback in an attempt to save Hill Valley's lovely school teacher Clara. This game of quick ducking, jumping and shooting alternates between a side-scrolling and a top-down perspective.
+&#x2022;Shooting Gallery: The name says it all. A classic game of aim-and-shoot, spiced up by hidden extras and bonus targets.
+&#x2022;Pie Throwing: Meet the Mad Dog gang. They have guns, and you have... cream pies. It's an isometric version of the shooting gallery, only with ammo. And the targets shoot back.
+&#x2022;The Train: Basically a side-scrolling beat-em-up on train wagons with some ducking and jumping. Get rid of the mechanics and collect speed logs to push the engine to a magic 88 mph.</desc>
     <image>~/.emulationstation/downloaded_images/mastersystem/Back to the Future Part III (UE) [!]-image.jpg</image>
     <releasedate>19930101T000000</releasedate>
     <developer>Mirrorsoft</developer>
@@ -286,7 +286,7 @@ Some ports of the game offer alternate game modes as well. "Flash columns" invol
   </game>
   <game id="3057" source="theGamesDB.net">
     <path>./Cyber Shinobi (UE) [!].zip</path>
-    <name>The Cyber Shinobi</name>
+    <name>Cyber Shinobi, The</name>
     <desc>Cyber Zed is back! And they're stealing plutonium from every atomic power plant in the world! Every nation sent out its best forces to try to put and end to this disastrous situation, but none of them succeeded. There was one brave soul who dared to meet the challenge -- Joe Musashi. Be Joe Musashi and save our beautiful planet from destruction!</desc>
     <image>~/.emulationstation/downloaded_images/mastersystem/Cyber Shinobi (UE) [!]-image.jpg</image>
     <releasedate>19900101T000000</releasedate>
@@ -300,7 +300,7 @@ Some ports of the game offer alternate game modes as well. "Flash columns" invol
     <name>Cyborg Hunter</name>
     <desc>The Year: 2242. You're the toughest bounty hunter in the galaxy. You've amassed a fortune by defeating the most vicious creatures known to man. And now, deep inside the enemy Cyborg Fortress, you can almost taste your next paycheck. But there's a little work to be done before you cash in. Like blasting swarms of deadly Cyborgs with your powerful psycho gun. And a battle-to-the-death showdown with Vipron, the vile Cyborg leader. Prepare yourself for one explosive payday!
 
-El a&amp;#xF1;o: 2242. Eres el cazador de recompensas m&amp;#xE1;s duro de la galaxia. Has amasado una fortuna al derrotar a las criaturas m&amp;#xE1;s crueles conocidas por el hombre. Y ahora, en el interior de la fortaleza enemiga Cyborg, casi puedes saborear tu pr&amp;#xF3;ximo cheque de pago. Pero hay un poco de trabajo por hacer antes de cobrar. Como disparar enjambres de Cyborgs mortales con tu poderosa pistola psico. Y un enfrentamiento de batalla a la muerte con Vipron, el vil l&amp;#xED;der de Cyborg. &amp;#xA1;Prep&amp;#xE1;rate para un explosivo d&amp;#xED;a de pago!</desc>
+El a&#xF1;o: 2242. Eres el cazador de recompensas m&#xE1;s duro de la galaxia. Has amasado una fortuna al derrotar a las criaturas m&#xE1;s crueles conocidas por el hombre. Y ahora, en el interior de la fortaleza enemiga Cyborg, casi puedes saborear tu pr&#xF3;ximo cheque de pago. Pero hay un poco de trabajo por hacer antes de cobrar. Como disparar enjambres de Cyborgs mortales con tu poderosa pistola psico. Y un enfrentamiento de batalla a la muerte con Vipron, el vil l&#xED;der de Cyborg. &#xA1;Prep&#xE1;rate para un explosivo d&#xED;a de pago!</desc>
     <image>~/.emulationstation/downloaded_images/mastersystem/Cyborg Hunter (UE) [!]-image.jpg</image>
     <releasedate>19880101T000000</releasedate>
     <developer>Activision</developer>
@@ -450,7 +450,7 @@ Opa-Opa is sent to stop the invading army and discover who is behind it. In the 
   <game id="2752" source="theGamesDB.net">
     <path>./Galactic Protector (UE) [!].zip</path>
     <name>Galactic Protector</name>
-    <desc>Galactic Protector (&amp;#x30AE;&amp;#x30E3;&amp;#x30E9;&amp;#x30AF;&amp;#x30C6;&amp;#x30A3;&amp;#x30C3;&amp;#x30AF;&amp;#x30D7;&amp;#x30ED;&amp;#x30C6;&amp;#x30AF;&amp;#x30BF;&amp;#x30FC;) is a Sega Master System shoot-'em-up game developed and published by Sega. It stars Opa Opa of Fantasy Zone and Zillion fame, who must save various planets from enemies and debris hurtling towards them.
+    <desc>Galactic Protector (&#x30AE;&#x30E3;&#x30E9;&#x30AF;&#x30C6;&#x30A3;&#x30C3;&#x30AF;&#x30D7;&#x30ED;&#x30C6;&#x30AF;&#x30BF;&#x30FC;) is a Sega Master System shoot-'em-up game developed and published by Sega. It stars Opa Opa of Fantasy Zone and Zillion fame, who must save various planets from enemies and debris hurtling towards them.
 
 The game is built specifically for the Paddle Control, and therefore cannot be played on a standard Master System Control Pad. This also makes emulating the game tricky.
 
@@ -559,9 +559,9 @@ Everything is out to stop Mick from completing this tasks and making his way out
   <game id="2800" source="theGamesDB.net">
     <path>./Golden Axe Warrior (UE) [!].zip</path>
     <name>Golden Axe Warrior</name>
-    <desc>World peace is at stake! Death Adder, a wicked giant, has stolen the nine crystals from the kingdom of Firewood and has hidden them in nine labyrinths that he has created. These nine magic crystals protected the people from evil &amp;#x2013; especially from Death Adder's grasp. But now that the crystals are lost, the world is defenseless!
+    <desc>World peace is at stake! Death Adder, a wicked giant, has stolen the nine crystals from the kingdom of Firewood and has hidden them in nine labyrinths that he has created. These nine magic crystals protected the people from evil &#x2013; especially from Death Adder's grasp. But now that the crystals are lost, the world is defenseless!
 
-Someone must put an end to the fiend's realm of darkness, death and destruction! Do you have what it takes to bring back peace and happiness? Trek through deep, dark forests and sail across vast, stormy seas. Chop down trees with your Battle Axe and move rocks with your magic spells to find secret caves. When you take on Death Adder's gruesome monsters, think only of winning &amp;#x2013; or else you won't find the nine crystals. And when you do, you'll find the Golden Axe &amp;#x2013; the only weapon that can crush Death Adder!</desc>
+Someone must put an end to the fiend's realm of darkness, death and destruction! Do you have what it takes to bring back peace and happiness? Trek through deep, dark forests and sail across vast, stormy seas. Chop down trees with your Battle Axe and move rocks with your magic spells to find secret caves. When you take on Death Adder's gruesome monsters, think only of winning &#x2013; or else you won't find the nine crystals. And when you do, you'll find the Golden Axe &#x2013; the only weapon that can crush Death Adder!</desc>
     <image>~/.emulationstation/downloaded_images/mastersystem/Golden Axe Warrior (UE) [!]-image.jpg</image>
     <rating>0.7</rating>
     <releasedate>19910701T000000</releasedate>
@@ -633,7 +633,7 @@ Golvellius has a PASSWORD SAVE feature that lets you keep all your possessions. 
   <game id="2816" source="theGamesDB.net">
     <path>./Great Volleyball (UE) [!].zip</path>
     <name>Great Volleyball</name>
-    <desc>Great Volleyball (&amp;#x30B0;&amp;#x30EC;&amp;#x30FC;&amp;#x30C8;&amp;#x30D0;&amp;#x30EC;&amp;#x30FC;&amp;#x30DC;&amp;#x30FC;&amp;#x30EB;) is a sports game developed and published by Sega for the Sega Master System. It is part of the Great Sports series and was released internationally in 1987.</desc>
+    <desc>Great Volleyball (&#x30B0;&#x30EC;&#x30FC;&#x30C8;&#x30D0;&#x30EC;&#x30FC;&#x30DC;&#x30FC;&#x30EB;) is a sports game developed and published by Sega for the Sega Master System. It is part of the Great Sports series and was released internationally in 1987.</desc>
     <image>~/.emulationstation/downloaded_images/mastersystem/Great Volleyball (UE) [!]-image.jpg</image>
     <rating>1</rating>
     <releasedate>19870101T000000</releasedate>
@@ -793,7 +793,7 @@ One of the AD&amp;D games that takes a break from the usual RPG style.</desc>
   <game id="2884" source="theGamesDB.net">
     <path>./Legend of Illusion Starring Mickey Mouse (U) [!].zip</path>
     <name>Legend of Illusion Starring Mickey Mouse</name>
-    <desc>Legend of Illusion Starring Mickey Mouse, known in Japan as Mickey Mouse Densetsu no Oukoku (&amp;#x30DF;&amp;#x30C3;&amp;#x30AD;&amp;#x30FC;&amp;#x30DE;&amp;#x30A6;&amp;#x30B9; &amp;#x4F1D;&amp;#x8AAC;&amp;#x306E;&amp;#x738B;&amp;#x56FD;), is a Sega Master System and Sega Game Gear platform game featuring Disney's Mickey Mouse. It is the sequel to Land of Illusion. The Master System version was released exclusively in Brazil by Tectoy.</desc>
+    <desc>Legend of Illusion Starring Mickey Mouse, known in Japan as Mickey Mouse Densetsu no Oukoku (&#x30DF;&#x30C3;&#x30AD;&#x30FC;&#x30DE;&#x30A6;&#x30B9; &#x4F1D;&#x8AAC;&#x306E;&#x738B;&#x56FD;), is a Sega Master System and Sega Game Gear platform game featuring Disney's Mickey Mouse. It is the sequel to Land of Illusion. The Master System version was released exclusively in Brazil by Tectoy.</desc>
     <image>~/.emulationstation/downloaded_images/mastersystem/Legend of Illusion Starring Mickey Mouse (U) [!]-image.jpg</image>
     <releasedate>19950113T000000</releasedate>
     <developer>Aspect</developer>
@@ -919,7 +919,7 @@ Experience the baddest video game ever. Defy physics with Michael's dancing! You
   </game>
   <game id="3076" source="theGamesDB.net">
     <path>./Ninja, The (UE) [!].zip</path>
-    <name>The Ninja</name>
+    <name>Ninja, The</name>
     <desc>The time is Japan's colorful past. But right now you have your hands full of trouble and Ninja darts. The darts are your secret weapons. The trouble is caused by the arch-tyrant Gyokuro, a merciless warlord who holds a princess prisoner in the subterranean vaults of his Ohkami Castle. Can you save the princess? Defeat the cruel Gyokuro and his henchmen and bring peace to the Castle Country? You have your hands full. But you also have your darts, your Ninja combat skills, and your feeling that a Ninja is invincible. Remember, too, you are fighting for a beautiful princess!</desc>
     <image>~/.emulationstation/downloaded_images/mastersystem/Ninja, The (UE) [!]-image.jpg</image>
     <releasedate>19870101T000000</releasedate>
@@ -1364,7 +1364,7 @@ Fights ensue when both spies enter the same room. Find hidden weapons in the roo
 
 Depending on how well you're doing.
 
-Scramble from maze to maze &amp;#x2014; each more magnificent than the one before it &amp;#x2014; bumping off bugs, guppies, snails, dominos and more as you go.
+Scramble from maze to maze &#x2014; each more magnificent than the one before it &#x2014; bumping off bugs, guppies, snails, dominos and more as you go.
 
 Grab precious points for tennis shoes, teddy bears, snails, and other identifiable objects.
 
@@ -1425,7 +1425,7 @@ The colors are fantastic. Even the music is wild.</desc>
   <game id="3120" source="theGamesDB.net">
     <path>./WWF Wrestlemania Steel Cage Challenge (U) [!].zip</path>
     <name>WWF Wrestlemania: Steel Cage Challenge</name>
-    <desc>Accept the toughest challenge in all of wrestling: the WWF&amp;#xAE; Wrestlemania&amp;#xAE; Steel Cage Challenge&amp;#xAE;! You control every action-packed move and manoeuvre - Clothesline, Elbowdrops, Bodyslams, Dropkicks. When you're ready for the ultimate wrestling challenge, the steel cage is ready for you.
+    <desc>Accept the toughest challenge in all of wrestling: the WWF&#xAE; Wrestlemania&#xAE; Steel Cage Challenge&#xAE;! You control every action-packed move and manoeuvre - Clothesline, Elbowdrops, Bodyslams, Dropkicks. When you're ready for the ultimate wrestling challenge, the steel cage is ready for you.
 
 EU release.</desc>
     <image>~/.emulationstation/downloaded_images/mastersystem/WWF Wrestlemania Steel Cage Challenge (U) [!]-image.jpg</image>
@@ -1608,7 +1608,7 @@ The game was originally released for the Master System in February 1988. This ve
   <game>
     <path>./High School! Kimengumi (J) [T+Eng].zip</path>
     <name>High School! Kimengumi</name>
-    <desc>High School! Kimengumi (&amp;#x30CF;&amp;#x30A4;&amp;#x30B9;&amp;#x30AF;&amp;#x30FC;&amp;#x30EB;&amp;#xFF01; &amp;#x5947;&amp;#x9762;&amp;#x7D44;) is a Sega Master System game based upon the 1985 anime adaptation of High School! Kimengumi. Pony Canyon brought it to the MSX2 in 1987, though both copies were only released in Asia.</desc>
+    <desc>High School! Kimengumi (&#x30CF;&#x30A4;&#x30B9;&#x30AF;&#x30FC;&#x30EB;&#xFF01; &#x5947;&#x9762;&#x7D44;) is a Sega Master System game based upon the 1985 anime adaptation of High School! Kimengumi. Pony Canyon brought it to the MSX2 in 1987, though both copies were only released in Asia.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/mastersystem/High School! Kimengumi (J) [T+Eng]-image.png</image>
     <rating>0</rating>
     <releasedate>19860101T000000</releasedate>

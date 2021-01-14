@@ -54,7 +54,7 @@ Gameplay uses a simple 3-button layout, where the A button lobs the ball, B perf
   </game>
   <game id="4232" source="theGamesDB.net">
     <path>./Addams Family, The (UE) [!].zip</path>
-    <name>The Addams Family</name>
+    <name>Addams Family, The</name>
     <desc>The game takes place towards the end of the movie: the Addams Family has been evicted from their home by a court order issued by a backstabbing attorney (there's one for the books), Tully Alford. Even worse, the other Addamses: Morticia, Pugsley, Wednesday, Granny and Lurch have gone missing.
 
 As Gomez, you must tour the Addams mansion in search of your lost family, battling out mysterious monsters and evading traps, and eventually face your nemesis, Tully.</desc>
@@ -66,7 +66,7 @@ As Gomez, you must tour the Addams mansion in search of your lost family, battli
   </game>
   <game id="9415" source="theGamesDB.net">
     <path>./Adventures of Batman and Robin, The (U) [!].zip</path>
-    <name>The Adventures of Batman &amp; Robin</name>
+    <name>Adventures of Batman &amp; Robin, The</name>
     <desc>From the award winning animated TV series comes the most action-packed Batman adventure yet! The Dark Knight returns with Robin to battle the forces of evil. But wait... the iceman cometh!!! Mr. Freeze is about to unleash his super-powered ice cannon and has teamed up with the most notorious criminals to help him turn Gotham City into a diabolical winter wonderland!</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Adventures of Batman and Robin, The (U) [!]-image.jpg</image>
     <releasedate>19950210T000000</releasedate>
@@ -77,7 +77,7 @@ As Gomez, you must tour the Addams mansion in search of your lost family, battli
   </game>
   <game id="4235" source="theGamesDB.net">
     <path>./Adventures of Mighty Max, The (U) [!].zip</path>
-    <name>The Adventures of Mighty Max</name>
+    <name>Adventures of Mighty Max, The</name>
     <desc>Max is a kid who possesses a magic cap that allows you to travel across different world and to save people who get in trouble in other dimensions. But his archenemy, the demonic Skull Master, has recently locked all the portals Max was using for inter-dimensional travel. However, the Skull Master has kept some of the portals for himself, keeping there some of his destructive weapons. It's time to destroy those weapons and to stop Skull Master!</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Adventures of Mighty Max, The (U) [!]-image.jpg</image>
     <releasedate>19940101T000000</releasedate>
@@ -112,9 +112,9 @@ As Gomez, you must tour the Addams mansion in search of your lost family, battli
     <path>./Aerobiz Supersonic (U) [!].zip</path>
     <name>Aerobiz Supersonic</name>
     <desc>LEAD YOUR AIRLINE INTO THE FUTURE!
-It&amp;#x2019;s the beginning ofthe 21st century and competition in the airline industry is heating up. As a young, ambitious CEO, it&amp;#x2018;s up to you to make sure your airline is a survivor and not just another casualty. To succeed, you will have to make some tough decisions including where to fly, which planes to purchase and how to attract visitors to the cities you service. Your goal: to differentiate your airline from the rest while still turning a profit.
+It&#x2019;s the beginning ofthe 21st century and competition in the airline industry is heating up. As a young, ambitious CEO, it&#x2018;s up to you to make sure your airline is a survivor and not just another casualty. To succeed, you will have to make some tough decisions including where to fly, which planes to purchase and how to attract visitors to the cities you service. Your goal: to differentiate your airline from the rest while still turning a profit.
 
-ln Aerobiz Supersonic, fashion a powerful fleet of aircraft from more than 50 possible choices. organize routes to 89 global destinations and invest your profits in a variety of new services including amusement parks. ski resorts and airport shuttle services. And don&amp;#x2019;t target as CEO you're still responsible for ings like plane maintenance, advertisin and handling those periodic emergencles such as a plane crash or employee strike.
+ln Aerobiz Supersonic, fashion a powerful fleet of aircraft from more than 50 possible choices. organize routes to 89 global destinations and invest your profits in a variety of new services including amusement parks. ski resorts and airport shuttle services. And don&#x2019;t target as CEO you're still responsible for ings like plane maintenance, advertisin and handling those periodic emergencles such as a plane crash or employee strike.
 
 Get ready to make some tough decisions! If you make the right ones. your planes will dominate the skies of the 21st century.
 
@@ -186,9 +186,9 @@ The game is viewed from behind the plane with you fighting wave after wave of en
   <game id="2969" source="theGamesDB.net">
     <path>./Alien 3 (UE) (REV01) [!].zip</path>
     <name>Alien 3</name>
-    <desc>Alien&amp;#xB3; is a video game based on the movie of the same name. The plot of the movie picks up directly after the end of Aliens. Ellen Ripley, the main character of the Alien series, is in cryo-sleep aboard the space ship Sulaco. Unfortunately, an alien or two has stowed away on the Sulaco, and wreaked havoc within the ship. Thus, it crash lands on the prison colony planet Fiorina 161. Ripley and the unarmed prisoners have to figure out a way to survive the aliens terrorizing the colony until help arrives.
+    <desc>Alien&#xB3; is a video game based on the movie of the same name. The plot of the movie picks up directly after the end of Aliens. Ellen Ripley, the main character of the Alien series, is in cryo-sleep aboard the space ship Sulaco. Unfortunately, an alien or two has stowed away on the Sulaco, and wreaked havoc within the ship. Thus, it crash lands on the prison colony planet Fiorina 161. Ripley and the unarmed prisoners have to figure out a way to survive the aliens terrorizing the colony until help arrives.
 
-The gameplay of the various Alien&amp;#xB3; conversions varies from platform to platform. This version is a side-scrolling action game with large maze-like levels. In each level, you have to rescue all the trapped prisoners and then make your way to the exit, all while surviving multiple alien attacks.
+The gameplay of the various Alien&#xB3; conversions varies from platform to platform. This version is a side-scrolling action game with large maze-like levels. In each level, you have to rescue all the trapped prisoners and then make your way to the exit, all while surviving multiple alien attacks.
 [edit description</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Alien 3 (UE) (REV01) [!]-image.jpg</image>
     <rating>0.9</rating>
@@ -275,7 +275,7 @@ Three courts are available: Grass, Clay and Indoor (Sega versions  add a fourth,
   </game>
   <game id="4245" source="theGamesDB.net">
     <path>./Aquatic Games - Starring James Pond, The (UE) [!].zip</path>
-    <name>The Aquatic Games Starring James Pond and the Aquabats</name>
+    <name>Aquatic Games Starring James Pond and the Aquabats, The</name>
     <desc>James Pond is on a break from baddie bashing to compete in the Aquatic Games in Basselona. Play with Pond's fishy friends as they vie for the coveted Goldfish medal in 10 wet and wacky events. Practice all you want and qualify for the Official Games, or play with up to four friends in your own maritime match. Your porpoise - uh... purpose - is to be the first across the finish line, but you'll be hooked long before then!</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Aquatic Games - Starring James Pond, The (UE) [!]-image.jpg</image>
     <releasedate>19920601T000000</releasedate>
@@ -719,7 +719,7 @@ It game stars at the home of Beavis and Butt-head - and from there you can choos
   </game>
   <game id="4663" source="theGamesDB.net">
     <path>./Berenstain Bears', The - Camping Adventure (U) [!].zip</path>
-    <name>The Berenstain Bears': Camping Adventure</name>
+    <name>Berenstain Bears': Camping Adventure, The</name>
     <desc>You can play as either Sister or Brother Bear. From the beginning, you can access four different levels. Once you complete them, you'll unlock the final stage. The bears can jump, throw rocks at enemies, or swing a net to hit them. In each area there are a lot of things to gather - mostly food. After a level is completed, you'll be shown how much valuable stuff you have managed to get.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Berenstain Bears', The - Camping Adventure (U) [!]-image.jpg</image>
     <releasedate>19930101T000000</releasedate>
@@ -939,7 +939,7 @@ Halfway through the first of the 30 levels, you meet Squeak and the full nature 
 
 Bubble Mode is an equivalent of Super Mario mode - it allows you to jump higher, run faster and shoot more lethal weaponry (bubbles in this case). It is activated by placing a coin into a Bubblegum machine, and then jumping on Squeak's back.
 
-In between the main platform levels there are side-view shoot 'em up sections taking place underwater &amp;#x2013; completing these earns bonuses.</desc>
+In between the main platform levels there are side-view shoot 'em up sections taking place underwater &#x2013; completing these earns bonuses.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Bubble and Squeak (U) [!]-image.jpg</image>
     <releasedate>19940101T000000</releasedate>
     <developer>Fox Williams</developer>
@@ -1040,11 +1040,11 @@ Exclusive to the Genesis version is the ability to create your own All-Star team
   <game id="4300" source="theGamesDB.net">
     <path>./Bulls vs Lakers and the NBA Playoffs (UE) [!].zip</path>
     <name>Bulls vs Lakers and the NBA Playoffs</name>
-    <desc>The sequel to EA Sports' basketball title Lakers versus Celtics and the NBA Playoffs. The core gameplay of the original is supplemented with a variety of new features, including:&amp;#x2022;All 16 1992 NBA Playoff teams (up from 8 in Lakers vs. Celtics) plus the East and West All-Star Teams, plus courts with official team logos/colors. The rosters are based on the 1990/1991 season.
-&amp;#x2022; Player game stats updated while the game is in progress.
-&amp;#x2022;An Instant Replay mode.
-&amp;#x2022;New "signature moves" for star players.
-&amp;#x2022;Improved defense and passing controls and a foul shooting meter.</desc>
+    <desc>The sequel to EA Sports' basketball title Lakers versus Celtics and the NBA Playoffs. The core gameplay of the original is supplemented with a variety of new features, including:&#x2022;All 16 1992 NBA Playoff teams (up from 8 in Lakers vs. Celtics) plus the East and West All-Star Teams, plus courts with official team logos/colors. The rosters are based on the 1990/1991 season.
+&#x2022; Player game stats updated while the game is in progress.
+&#x2022;An Instant Replay mode.
+&#x2022;New "signature moves" for star players.
+&#x2022;Improved defense and passing controls and a foul shooting meter.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Bulls vs Lakers and the NBA Playoffs (UE) [!]-image.jpg</image>
     <releasedate>19920101T000000</releasedate>
     <developer>Electronic Arts</developer>
@@ -1184,7 +1184,7 @@ One part of the game is micro-managing your provinces. You set up tax rates and 
 
 The battle raged on for several days, spells and swords clashed, until the ultimate victor was very clear...Chakan. Because he defeated Death eventually, he was granted his "reward":
 
-&amp;#x201C;You are a tactful swordsman, so I will not renege on our wager. I grant you the kiss of eternal life, but, for your arrogance and pride I will temper my gift with this curse. You will be a mere shell of yourself as I strip you of most of your powers. Each nightfall, evils will be shown to you, and the pain of their victims will be your pain. You will never know rest as you wander this world searching to slay the horrors that haunt your sleeping world. You will suffer grievous wounds, but you will not die, and as eternity rolls on, you will crave my touch. Your face will bear my visage, and your eyes will burn with hellfire. But...let it not be said that I am without mercy. There shall be an end to your curse. If all the beasts of the dark are slain, then you may find rest."
+&#x201C;You are a tactful swordsman, so I will not renege on our wager. I grant you the kiss of eternal life, but, for your arrogance and pride I will temper my gift with this curse. You will be a mere shell of yourself as I strip you of most of your powers. Each nightfall, evils will be shown to you, and the pain of their victims will be your pain. You will never know rest as you wander this world searching to slay the horrors that haunt your sleeping world. You will suffer grievous wounds, but you will not die, and as eternity rolls on, you will crave my touch. Your face will bear my visage, and your eyes will burn with hellfire. But...let it not be said that I am without mercy. There shall be an end to your curse. If all the beasts of the dark are slain, then you may find rest."
 
 Chakan will live forever until he destroys the four supernatural evils of the terrestrial plane (Spider-Queen, Mantis, Elkenrod, and Dragonfly King) and the elemental plane (Parasite, Tundra Beast, the Last Dragon and the Leader of the Dragonfly Clan).</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Chakan - The Forever Man (UE) [!]-image.jpg</image>
@@ -1738,7 +1738,7 @@ IT BRINGS ...A WHOLE NEW MEANING TO DISARM YOUR ENEMY.
   </game>
   <game id="4664" source="theGamesDB.net">
     <path>./Death and Return of Superman, The (U) [!].zip</path>
-    <name>The Death and Return of Superman</name>
+    <name>Death and Return of Superman, The</name>
     <desc>Brace yourself for a hard-hitting fight to the finish that lets you relive the classic DC comic book series! As Superman, fight for your life against mighty Doomsday, the vile distributor of death and destruction! Then, control the destiny of the four Supermen - each claiming to be the one, true Superman! Explode through 10 levels of super-powered battles and fly at furious speeds - until only the real Superman is left standing!</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Death and Return of Superman, The (U) [!]-image.jpg</image>
     <releasedate>19940101T000000</releasedate>
@@ -1764,7 +1764,7 @@ The gameplay in Decapattack is of the side-scrolling platformer variety. You pla
   <game id="4334" source="theGamesDB.net">
     <path>./Demolition Man (UE) [!].zip</path>
     <name>Demolition Man</name>
-    <desc>Demolition Man is a game based on the 1993 movie by the same name. As with the movie, the game takes place in a dystopian Los Angeles, in 1996. John Spartan is the country&amp;#xB4;s most fearsome cop and hunts his nemesis, Simon Phoenix. However in doing so, he kills several innocent civilians and both characters are sentenced to cryostasis rehabilitation where they will be brainwashed for 30 years. However the brainwashing does not go as planned and upon waking up, Phoenix goes on a new crime spree. However in 30 years the world has also changed and Los Angeles has become San Angeles, a utopian and violence-free society. As a remnant of a more violent past, police officer John Spartan is once again sent to capture Phoenix.</desc>
+    <desc>Demolition Man is a game based on the 1993 movie by the same name. As with the movie, the game takes place in a dystopian Los Angeles, in 1996. John Spartan is the country&#xB4;s most fearsome cop and hunts his nemesis, Simon Phoenix. However in doing so, he kills several innocent civilians and both characters are sentenced to cryostasis rehabilitation where they will be brainwashed for 30 years. However the brainwashing does not go as planned and upon waking up, Phoenix goes on a new crime spree. However in 30 years the world has also changed and Los Angeles has become San Angeles, a utopian and violence-free society. As a remnant of a more violent past, police officer John Spartan is once again sent to capture Phoenix.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Demolition Man (UE) [!]-image.jpg</image>
     <releasedate>19950101T000000</releasedate>
     <developer>Alexandria</developer>
@@ -1918,7 +1918,7 @@ The game features a 3/4 pseudo-3D perspective similar to that available on the S
   <game id="4344" source="theGamesDB.net">
     <path>./Double Dribble - The Playoff Edition (U) [!].zip</path>
     <name>Double Dribble: The Playoff Edition</name>
-    <desc>The Playoff Edition expands dramatically on the original in a number of ways:&amp;#x2022;16 teams of 12 (fictitious) players each
+    <desc>The Playoff Edition expands dramatically on the original in a number of ways:&#x2022;16 teams of 12 (fictitious) players each
  - All players individually rated for various skills (Shooting %, Stamina, etc.)
  - Three play modes: Exhibition, Playoff (with password feature), and Multiplayer
  - 8-way multiplayer support with the Sega "Team Player" adapter</desc>
@@ -2322,7 +2322,7 @@ You can play a league or cup tournament, and practice your skills before playing
   </game>
   <game id="4665" source="theGamesDB.net">
     <path>./Faery Tale Adventure, The (UE) [!].zip</path>
-    <name>The Faery Tale Adventure</name>
+    <name>Faery Tale Adventure, The</name>
     <desc>The talisman is lost and an ancient evil threatens to shatter the land of Holm. You must fulfill the prophecy. Complete the eight fateful quests and defeat the Evil Necromancer. Only your sword and daring can bring you victory.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Faery Tale Adventure, The (UE) [!]-image.jpg</image>
     <rating>0.7</rating>
@@ -2485,7 +2485,7 @@ Tiger tries to catch Flicky by jumping on platforms or running, while Iggy owns 
   </game>
   <game id="4666" source="theGamesDB.net">
     <path>./Flintstones, The (U) [c][!].zip</path>
-    <name>The Flintstones</name>
+    <name>Flintstones, The</name>
     <desc>It's the weekend and Fred Flintstone returns home from work very excited about the Bedrock Super Bowl final tonight. As he arrives home Wilma reminds him of his promise to paint the living room before her mother arrives on Sunday. Wilma insists that Fred can only go bowling if he paints the living room. Reluctantly, Fred agrees, but he doesn't bargain for baby-sitting Pebbles and painting at the same time. Chaos, fun and the Flintstones humor is everywhere!</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Flintstones, The (U) [c][!]-image.jpg</image>
     <releasedate>19931022T000000</releasedate>
@@ -2844,7 +2844,7 @@ The game is a platformer, where Goofy must travel through various stages ranging
   </game>
   <game id="301" source="theGamesDB.net">
     <path>./Great Circus Mystery, The - Starring Mickey &amp; Minnie (U) [!].zip</path>
-    <name>The Great Circus Mystery Starring Mickey &amp; Minnie</name>
+    <name>Great Circus Mystery Starring Mickey &amp; Minnie, The</name>
     <desc>The Great Circus Mystery Starring Mickey and Minnie, later titled Disney's Magical Quest 2 Starring Mickey &amp; Minnie, was released for the Super Nintendo Entertainment System and Sega Genesis/Mega Drive in 1994 and for the Game Boy Advance in 2003. The game features Mickey Mouse and Minnie Mouse trying to figure out why everyone in the circus has disappeared, and includes four different types of outfits and six different levels. While the SNES and Genesis/Mega Drive versions were practically identical, the GBA re-release in 2003 included some new features. As its predecessor, it received praise for its graphics and outfit system and was criticized for not being challenging enough and short. Notably, it was the first game with Minnie Mouse in a video game role.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Great Circus Mystery, The - Starring Mickey &amp; Minnie (U) [!]-image.jpg</image>
     <releasedate>19940602T000000</releasedate>
@@ -2854,7 +2854,7 @@ The game is a platformer, where Goofy must travel through various stages ranging
   </game>
   <game id="4668" source="theGamesDB.net">
     <path>./Great Waldo Search, The (U) [!].zip</path>
-    <name>The Great Waldo Search</name>
+    <name>Great Waldo Search, The</name>
     <desc>When Whitebeard the wizard lost his powerful magic scrolls, he knew who to turn to for help - Waldo! Whitebeard asks his good friend to search the Realms of Enchantment to find his missing parchments. Well, you know Waldo's famous love of challenges... so he takes his walking stick, his trusty dog Woof and off he goes! Now it's your turn to help Waldo in his thrilling search across lands filled with hungry ogres, flaming dragons, massive castles, fire druids, wild beasts and plenty more! Find alarm clocks that give you a little extra time, Bonus Points that add to your score, and even Waldo's canine buddy who will take you on a magic carpet ride! All the fun and crazy cartoons are here for Waldo lovers everywhere!</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Great Waldo Search, The (U) [!]-image.jpg</image>
     <releasedate>19920101T000000</releasedate>
@@ -3087,7 +3087,7 @@ Home Alone 2 is an action platform game based loosely on the 1992 film of the sa
   </game>
   <game id="488" source="theGamesDB.net">
     <path>./Humans, The (U) [!].zip</path>
-    <name>The Humans</name>
+    <name>Humans, The</name>
     <desc>Your job in this action puzzler is to help prehistoric man to evolve by helping them discover tools, the wheel, weapons, or even fire. Each level in the game will have a given task to help in this, and you are allotted a number of characters who must accomplish the task. The player can switch from person to person while moving the characters around each scrolling puzzle, and teamwork is essential to success.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Humans, The (U) [!]-image.jpg</image>
     <releasedate>19920514T000000</releasedate>
@@ -3109,7 +3109,7 @@ Along the usual offering of lobs, volleys, passing shots, top spins and slashes,
   </game>
   <game id="489" source="theGamesDB.net">
     <path>./Immortal, The (UE) [!].zip</path>
-    <name>The Immortal</name>
+    <name>Immortal, The</name>
     <desc>The Immortal is an isometric action-adventure game.
 
 Your old mentor Mordamir has disappeared. Probably kidnapped. You're not too sure where he might be, but a dungeon is always a good place to look, so you seek out the nearest one and plunge into its depths. Beware: 8 levels of isometric death await.
@@ -3123,10 +3123,10 @@ The Immortal is the prototype of a trial-and-error game. Progress is made by enc
   </game>
   <game id="4669" source="theGamesDB.net">
     <path>./Incredible Crash Dummies, The (UE) [c][!].zip</path>
-    <name>The Incredible Crash Dummies</name>
-    <desc>At a time when computer games were being blamed for violence, bad language, epilepsy and everything else the &amp;#x2018;moral majority&amp;#x2019; needed a scapegoat for, Virgin gave us: The Road Safety Game. Or not, as this is a standard platform game with a twist of questionable taste and purpose.
+    <name>Incredible Crash Dummies, The</name>
+    <desc>At a time when computer games were being blamed for violence, bad language, epilepsy and everything else the &#x2018;moral majority&#x2019; needed a scapegoat for, Virgin gave us: The Road Safety Game. Or not, as this is a standard platform game with a twist of questionable taste and purpose.
 
-You play a crash test dummy, trying to progress through levels filled with hazards such as cars and fireballs, within the time limits. Contact with each of these loses you a limb, and once you have none left, contact means game over. Since the character isn&amp;#x2019;t handicapped by missing limbs in any way, in practical terms you can think of these as hit points especially as there are screwdrivers to pick up which restore one limb.</desc>
+You play a crash test dummy, trying to progress through levels filled with hazards such as cars and fireballs, within the time limits. Contact with each of these loses you a limb, and once you have none left, contact means game over. Since the character isn&#x2019;t handicapped by missing limbs in any way, in practical terms you can think of these as hit points especially as there are screwdrivers to pick up which restore one limb.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Incredible Crash Dummies, The (UE) [c][!]-image.jpg</image>
     <releasedate>19930101T000000</releasedate>
     <developer>Grey Matter</developer>
@@ -3135,7 +3135,7 @@ You play a crash test dummy, trying to progress through levels filled with hazar
   </game>
   <game id="1988" source="theGamesDB.net">
     <path>./Incredible Hulk, The (UE) [!].zip</path>
-    <name>The Incredible Hulk</name>
+    <name>Incredible Hulk, The</name>
     <desc>Take control of the Hulk/Dr. Banner through five levels of action. City and Construction Site, Tyrannus' Labyrinth, Leader's Fortress, Leader's Interior, and the Final Confrontation.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Incredible Hulk, The (UE) [!]-image.jpg</image>
     <releasedate>19940101T000000</releasedate>
@@ -3388,14 +3388,14 @@ The Genesis version features John Madden's digitized commentary speech and a bat
 
 FEATURING
 
-&amp;#x2022; 38 Championship teams plus 2 All Madden teams.
-&amp;#x2022; John's digitized commentary.
-&amp;#x2022; Tougher computer opponents; smarter offense, more aggressive defenses.
-&amp;#x2022; Battery back-up; no passwords needed.
-&amp;#x2022; Team and player stats saved throughout the playoffs.
-&amp;#x2022; QB Stop Clock play.
-&amp;#x2022; No huddle offense.
-&amp;#x2022; Split screen play calling.</desc>
+&#x2022; 38 Championship teams plus 2 All Madden teams.
+&#x2022; John's digitized commentary.
+&#x2022; Tougher computer opponents; smarter offense, more aggressive defenses.
+&#x2022; Battery back-up; no passwords needed.
+&#x2022; Team and player stats saved throughout the playoffs.
+&#x2022; QB Stop Clock play.
+&#x2022; No huddle offense.
+&#x2022; Split screen play calling.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/John Madden Football '93 - Championship Edition (U) [!]-image.jpg</image>
     <releasedate>19920101T000000</releasedate>
     <developer>Looking Glass Studios</developer>
@@ -3534,8 +3534,8 @@ Because of this threat, you're hired again to battle these two characters, follo
   </game>
   <game id="2576" source="theGamesDB.net">
     <path>./Jurassic Park 2 - The Lost World (U) [!].zip</path>
-    <name>The Lost World: Jurassic Park</name>
-    <desc>The player takes control of characters struggling to survive on INGen&amp;#x2019;s &amp;#x201C;Site B&amp;#x201D; populated by over 20 species of dinosaurs in an environment of escalating chaos. There are 5 characters in all to choose from, each with their own special abilities and attributes. While the game is in 3D, the game play resembles early 2D platformers in which you generically either go left or right, limiting the mobility of each character.</desc>
+    <name>Lost World: Jurassic Park, The</name>
+    <desc>The player takes control of characters struggling to survive on INGen&#x2019;s &#x201C;Site B&#x201D; populated by over 20 species of dinosaurs in an environment of escalating chaos. There are 5 characters in all to choose from, each with their own special abilities and attributes. While the game is in 3D, the game play resembles early 2D platformers in which you generically either go left or right, limiting the mobility of each character.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Jurassic Park 2 - The Lost World (U) [!]-image.jpg</image>
     <releasedate>19970101T000000</releasedate>
     <developer>Dreamworks Interactive</developer>
@@ -3557,7 +3557,7 @@ Because of this threat, you're hired again to battle these two characters, follo
   <game id="4475" source="theGamesDB.net">
     <path>./Ka-Ge-Ki - Fists of Steel (U) [!].zip</path>
     <name>Ka-Ge-Ki: Fists of Steel</name>
-    <desc>Ka&amp;#x2022;Ge&amp;#x2022;Ki is a slightly-angled 3rd person beat-'em-up set around underground fighting matches a la Pit-Fighter in which you must take down every member of a notorious biker gang. Each match begins with a showdown with several weaker henchmen and then moves on to next of the 9 gang members, who must be KO'd 3 times before moving on to the next round.
+    <desc>Ka&#x2022;Ge&#x2022;Ki is a slightly-angled 3rd person beat-'em-up set around underground fighting matches a la Pit-Fighter in which you must take down every member of a notorious biker gang. Each match begins with a showdown with several weaker henchmen and then moves on to next of the 9 gang members, who must be KO'd 3 times before moving on to the next round.
 
 The game allows you to move your character in any direction, provided he doesn't leave the confines of the arena, and allows you to attack via mostly a combination of button presses that also trigger dodges and parries depending on the button pressed.
 
@@ -3709,7 +3709,7 @@ Now Nigel, the Landstalker, journeys to this fantastic realm in search of the le
   <game id="4482" source="theGamesDB.net">
     <path>./Last Battle (UE) [!].zip</path>
     <name>Last Battle</name>
-    <desc>Last Battle is a side-scrolling beat 'em up released for the Sega Mega Drive in 1989 by Sega. It was one of the six launch titles for the U.S. Sega Genesis release. The Japanese version, titled Shin Seikimatsu Ky&amp;#x16B;seishu Densetsu Hokuto no Ken (&amp;#x65B0;&amp;#x4E16;&amp;#x7D00;&amp;#x672B;&amp;#x6551;&amp;#x4E16;&amp;#x4E3B;&amp;#x4F1D;&amp;#x8AAC; &amp;#x5317;&amp;#x6597;&amp;#x306E;&amp;#x62F3;?, "New Legend of the End-of-Century Savior: Fist of the North Star"), is based on the manga series Hokuto no Ken (Fist of the North Star in English). Since the international version did not retain the Hokuto no Ken license, the graphics and characters' names were altered. It was the second Hokuto no Ken game released by Sega, following the Mark III original (released internationally as Black Belt). Versions for the Commodore 64 and Amiga based upon Last Battle were developed and released by Elite in Europe in 1991.</desc>
+    <desc>Last Battle is a side-scrolling beat 'em up released for the Sega Mega Drive in 1989 by Sega. It was one of the six launch titles for the U.S. Sega Genesis release. The Japanese version, titled Shin Seikimatsu Ky&#x16B;seishu Densetsu Hokuto no Ken (&#x65B0;&#x4E16;&#x7D00;&#x672B;&#x6551;&#x4E16;&#x4E3B;&#x4F1D;&#x8AAC; &#x5317;&#x6597;&#x306E;&#x62F3;?, "New Legend of the End-of-Century Savior: Fist of the North Star"), is based on the manga series Hokuto no Ken (Fist of the North Star in English). Since the international version did not retain the Hokuto no Ken license, the graphics and characters' names were altered. It was the second Hokuto no Ken game released by Sega, following the Mark III original (released internationally as Black Belt). Versions for the Commodore 64 and Amiga based upon Last Battle were developed and released by Elite in Europe in 1991.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Last Battle (UE) [!]-image.jpg</image>
     <releasedate>19890101T000000</releasedate>
     <developer>Sega</developer>
@@ -3719,7 +3719,7 @@ Now Nigel, the Landstalker, journeys to this fantastic realm in search of the le
   </game>
   <game id="4671" source="theGamesDB.net">
     <path>./Lawnmower Man, The (UE) [!].zip</path>
-    <name>The Lawnmower Man</name>
+    <name>Lawnmower Man, The</name>
     <desc>The player takes control of Dr. Angelo or Carla Parkette (mother of Jobe's best friend) in typical side-scrolling shooting action. The player can collect better weapons or data discs, which after collecting a number of them allow to morph into the Virtual Suit, which gives protection against a first hit. The player visits several locations seen in the movie, such as the gas pump and the VSI headquarters.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Lawnmower Man, The (UE) [!]-image.jpg</image>
     <releasedate>19940101T000000</releasedate>
@@ -3819,7 +3819,7 @@ The action is usually shown on a single screen with enemies "popping out" from v
   </game>
   <game id="669" source="theGamesDB.net">
     <path>./Lion King, The (W) [!].zip</path>
-    <name>The Lion King</name>
+    <name>Lion King, The</name>
     <desc>The game is a side-scrolling platform game, with the controlled character having to leap, climb, run and descend from platform to platform. There is an exception during the level The Stampede, where Simba is running towards (or in the NES and Game Boy versions, running with the camera looking straight down on top of him) the camera dodging wildebeest and leaping over rocks.
 In most versions of the game two bars appear on the HUD. To the left is the roar meter, which must be fully charged for Simba's roar to be effective. To the right is the health bar which decreases when Simba is hurt. At the bottom left of the screen is a counter showing how many lives Simba has remaining. Health can be restored by collecting bugs which come in a variety of shapes and sizes. Some rare health-damaging bugs also exist.
 The player controls Simba (first as a cub, then later as an adult) in the main levels and either Timon or Pumbaa in the bonus levels.</desc>
@@ -3832,7 +3832,7 @@ The player controls Simba (first as a cub, then later as an adult) in the main l
   </game>
   <game id="544" source="theGamesDB.net">
     <path>./Lost Vikings, The (U) [!].zip</path>
-    <name>The Lost Vikings</name>
+    <name>Lost Vikings, The</name>
     <desc>In the game, the three Vikings get kidnapped by Tomator, emperor of the alien Croutonian empire, for an inter-galactic zoo and become lost in various periods of time. The purpose of the game is to control the three characters (who all have separate abilities) in order to solve puzzles to escape and get back home.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Lost Vikings, The (U) [!]-image.jpg</image>
     <releasedate>19920101T000000</releasedate>
@@ -4345,7 +4345,7 @@ Mortal Kombat 3 follows Mortal Kombat II and shares continuity with both Ultimat
   <game id="1958" source="theGamesDB.net">
     <path>./Ms. Pac-Man (U) [!].zip</path>
     <name>Ms. Pac-Man</name>
-    <desc>Ms. Pac-Man has 36 ways to drive you totally wild and crazy with more fun than you've ever imagined. She gets to run around in 36 unique, mind-boggling mazes! Some small ones. Some so big you'll have to scroll around. Some that are mighty strange. And some that are straight out of the arcades! Whether you choose Easy, Normal, Hard, or Crazy speeds, Ms. Pac-Man will have you running ragged! There's even a Pac Booster button to really let her shake those pesky ghosts. Play Ms. Pac-Man by yourself or take turns with a friend. Better yet, two can play at the same time&amp;#x2014;one as the divine Ms. Pac-Man; the other, as the original Pac-Man!</desc>
+    <desc>Ms. Pac-Man has 36 ways to drive you totally wild and crazy with more fun than you've ever imagined. She gets to run around in 36 unique, mind-boggling mazes! Some small ones. Some so big you'll have to scroll around. Some that are mighty strange. And some that are straight out of the arcades! Whether you choose Easy, Normal, Hard, or Crazy speeds, Ms. Pac-Man will have you running ragged! There's even a Pac Booster button to really let her shake those pesky ghosts. Play Ms. Pac-Man by yourself or take turns with a friend. Better yet, two can play at the same time&#x2014;one as the divine Ms. Pac-Man; the other, as the original Pac-Man!</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Ms. Pac-Man (U) [!]-image.jpg</image>
     <releasedate>19910101T000000</releasedate>
     <developer>Atari</developer>
@@ -4689,7 +4689,7 @@ Along with the PC, Mega Drive/Genesis and SNES versions, both the Sega Saturn an
 Features:
 
 A match in a process between Dallas Stars and Los Angeles Kings.
-NHL 98 took the NHL series ahead by introducing full national teams, although EA could not get the Nagano Olympic Tournament license due to lack of IIHF license, which Gremlin Interactive acquired. The Olympic hockey license itself was acquired by Midway Home Entertainment. Jim Hughson returns for play-by-play, this time joined by Daryl Reaugh, who provided color commentary. EA Sports also introduces 3Dfx Glide support for the first time in the NHL series. The SNES and the Genesis versions are the final games in the series to be released on 16-bit consoles. Desppite his career ending injury, Vladimir Konstantinov was futured on the game. The Sega Saturn version also has Mario Lemieux in it. He retired at the end of the 1996&amp;#x2013;97 NHL season, yet was still included in the game.</desc>
+NHL 98 took the NHL series ahead by introducing full national teams, although EA could not get the Nagano Olympic Tournament license due to lack of IIHF license, which Gremlin Interactive acquired. The Olympic hockey license itself was acquired by Midway Home Entertainment. Jim Hughson returns for play-by-play, this time joined by Daryl Reaugh, who provided color commentary. EA Sports also introduces 3Dfx Glide support for the first time in the NHL series. The SNES and the Genesis versions are the final games in the series to be released on 16-bit consoles. Desppite his career ending injury, Vladimir Konstantinov was futured on the game. The Sega Saturn version also has Mario Lemieux in it. He retired at the end of the 1996&#x2013;97 NHL season, yet was still included in the game.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/NHL 98 (U) [c][!]-image.jpg</image>
     <releasedate>19970101T000000</releasedate>
     <developer>High Score Productions</developer>
@@ -4818,7 +4818,7 @@ It includes 5 different types of sports - biathlon, alpine skiing (downhill, sla
   </game>
   <game id="2220" source="theGamesDB.net">
     <path>./Ooze, The (JU) [!].zip</path>
-    <name>The Ooze</name>
+    <name>Ooze, The</name>
     <desc>The evil Director has turned you into a green puddle of slime. Use your skills to ooze your way across many levels, drowning your enemies in green sludge and collecting the genetic pieces to restore yourself to human form and save the world.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Ooze, The (JU) [!]-image.jpg</image>
     <releasedate>19950401T000000</releasedate>
@@ -4998,7 +4998,7 @@ Throughout the game, Pac-Man is occasionally harassed by the four ghosts from th
   </game>
   <game id="4547" source="theGamesDB.net">
     <path>./Pagemaster, The (U) [!].zip</path>
-    <name>The Pagemaster</name>
+    <name>Pagemaster, The</name>
     <desc>The Pagemaster was released in conjunction with the Macaulay Culkin part action/part cartoon feature film released in 1994. Guide your character through a selection of levels based around themed books, ranging from Horror to Adventure and Fantasy worlds. You can use magic and stomp enemies to death by jumping on their head. Enemies include bats, flying books, giant hands, ghosts, pirates and many more.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Pagemaster, The (U) [!]-image.jpg</image>
     <rating>0.7</rating>
@@ -5051,7 +5051,7 @@ Throughout the game, Pac-Man is occasionally harassed by the four ghosts from th
   <game id="4552" source="theGamesDB.net">
     <path>./Pele! (UE) [!].zip</path>
     <name>Pele!</name>
-    <desc>Pel&amp;#xE9;! is a soccer game that lets the player take control of soccer legend Edson Arantes do Nascimento (better known as Pel&amp;#xE9;, the games namesake). There are forty different international teams to choose from and the game has a two separate single player modes. In Practice the player chooses the teams and learns the basic fundamentals of the game. In Season, the player competes in an 18 game season in order to compete for the championship.</desc>
+    <desc>Pel&#xE9;! is a soccer game that lets the player take control of soccer legend Edson Arantes do Nascimento (better known as Pel&#xE9;, the games namesake). There are forty different international teams to choose from and the game has a two separate single player modes. In Practice the player chooses the teams and learns the basic fundamentals of the game. In Season, the player competes in an 18 game season in order to compete for the championship.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Pele! (UE) [!]-image.jpg</image>
     <releasedate>19930101T000000</releasedate>
     <developer>Radical Entertainment</developer>
@@ -5061,7 +5061,7 @@ Throughout the game, Pac-Man is occasionally harassed by the four ghosts from th
   <game id="4553" source="theGamesDB.net">
     <path>./Pele's World Tournament Soccer (UE) [!].zip</path>
     <name>Pele II: World Tournament Soccer</name>
-    <desc>Edson Arantes do Nascimento, commonly known to us as football legend Pel&amp;#xE9;, licensed a second football game, featuring the 24 qualifiers for the 1994 World Cup, each with summaries and tactical advice from Pel&amp;#xE9;. These can play in either friendly matches or the full tournament. A five-a-side mode is included, taking place on a full-sized field.</desc>
+    <desc>Edson Arantes do Nascimento, commonly known to us as football legend Pel&#xE9;, licensed a second football game, featuring the 24 qualifiers for the 1994 World Cup, each with summaries and tactical advice from Pel&#xE9;. These can play in either friendly matches or the full tournament. A five-a-side mode is included, taking place on a full-sized field.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Pele's World Tournament Soccer (UE) [!]-image.jpg</image>
     <releasedate>19940101T000000</releasedate>
     <developer>Radical Entertainment</developer>
@@ -5176,7 +5176,7 @@ A standard Disney platformer.</desc>
   </game>
   <game id="712" source="theGamesDB.net">
     <path>./Pirates of Dark Water, The (U) [!].zip</path>
-    <name>The Pirates of Dark Water</name>
+    <name>Pirates of Dark Water, The</name>
     <desc>The Pirates of Dark Water is a side scrolling hack'n slash platformer with a few adventure elements.
 
 You take control of either Ren, Ioz or Tula who can jump, climb, attack and throw enemies. In most levels you are required to find keys to unlock doors and talk to NPCs who will give you hints. You will also find numerous useful items including throwing weapons, food to replenish your health, potions that have different effects such as temporary invincibility, money that is needed to pay certain NPCs and melons that can be fed to Niddler who will take you back to the map screen in turn.</desc>
@@ -5304,7 +5304,7 @@ Out of their ranks seven creatures emerge who wage war for control over the new 
 Prince of Persia is a 2D platformer with run and jump gameplay. Your hero must avoid deadly traps, solve some simple puzzles and engage in sword fights with the guards. The player has an infinite amount of lives, but has to restart at the beginning of a level each time he dies, and must complete the game within an hour. An especially noteworthy aspect of the game is the very fluent animation of your character.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Prince of Persia (U) [!]-image.jpg</image>
     <releasedate>19930101T000000</releasedate>
-    <developer>Br&amp;#xF8;derbund Software</developer>
+    <developer>Br&#xF8;derbund Software</developer>
     <publisher>Tengen</publisher>
     <genre>Adventure</genre>
     <players>1</players>
@@ -5333,7 +5333,7 @@ Prince of Persia is a 2D platformer with run and jump gameplay. Your hero must a
   </game>
   <game id="386" source="theGamesDB.net">
     <path>./Punisher, The (U) [!].zip</path>
-    <name>The Punisher</name>
+    <name>Punisher, The</name>
     <desc>Join Frank Castle's crusade for justice and revenge in this port of the arcade beat 'em up. Based on the Marvel comic of the same name, you play as the cold blooded vigilante or his pal Nick Fury (from S.H.I.E.L.D.) with your mission being to tear through the many rackets and underground criminal hotspots to cripple the Kingpin's criminal empire, and finally take down the man himself and bring peace to New York.
 
 The game plays as a standard side-scrolling beat 'em up with your objective being to clear all stages of enemies by attacking them with your arsenal of attacks or whatever weapons you can find. Features single and 2-player cooperative gameplay.</desc>
@@ -5380,7 +5380,7 @@ The game plays as a standard side-scrolling beat 'em up with your objective bein
   <game id="682" source="theGamesDB.net">
     <path>./RBI Baseball 4 (U) [!].zip</path>
     <name>R.B.I. Baseball 4</name>
-    <desc>R.B.I. Baseball 4 or R.B.I. 4 Baseball (&amp;#xFF32;.&amp;#xFF22;.&amp;#xFF29;.&amp;#xFF14;.&amp;#x30D9;&amp;#x30FC;&amp;#x30B9;&amp;#x30DC;&amp;#x30FC;&amp;#x30EB;) is a 1992 baseball game for the Sega Mega Drive by Tengen and the sequel to R.B.I. Baseball 3. It was followed by R.B.I. Baseball '93.</desc>
+    <desc>R.B.I. Baseball 4 or R.B.I. 4 Baseball (&#xFF32;.&#xFF22;.&#xFF29;.&#xFF14;.&#x30D9;&#x30FC;&#x30B9;&#x30DC;&#x30FC;&#x30EB;) is a 1992 baseball game for the Sega Mega Drive by Tengen and the sequel to R.B.I. Baseball 3. It was followed by R.B.I. Baseball '93.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/RBI Baseball 4 (U) [!]-image.jpg</image>
     <releasedate>19921218T000000</releasedate>
     <developer>Namco/Tengen</developer>
@@ -5495,7 +5495,7 @@ The majority of the game consists of air-to-ground attack while flying in the Ap
   </game>
   <game id="732" source="theGamesDB.net">
     <path>./Ren and Stimpy Show, The - Stimpy's Invention (U) [!].zip</path>
-    <name>The Ren &amp; Stimpy Show Presents: Stimpy's Invention</name>
+    <name>Ren &amp; Stimpy Show Presents: Stimpy's Invention, The</name>
     <desc>In one player the player controls either Ren or Stimpy and the computer controls the other character who will simply follow; however, the player can swap the character they control at almost any time during game play. In two player, players controls one character each, both within the same screen (no split screen). In one or two player several special moves can be performed by both characters standing close and a player pressing certain buttons simultaneously, the move differs depending on which buttons are pressed and whether the player is controlling Ren or Stimpy. The ability of swapping characters during game play in one player means the player can perform all the special moves not just those available for one character. The moves include: Stimpy throwing Ren to cover long distance such as over a hole.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Ren and Stimpy Show, The - Stimpy's Invention (U) [!]-image.jpg</image>
     <releasedate>19930101T000000</releasedate>
@@ -5506,7 +5506,7 @@ The majority of the game consists of air-to-ground attack while flying in the Ap
   </game>
   <game id="4673" source="theGamesDB.net">
     <path>./Revenge of Shinobi, The (W) (REV03) [!].zip</path>
-    <name>The Revenge of Shinobi</name>
+    <name>Revenge of Shinobi, The</name>
     <desc>You are Musashi, master ninja. You are one of the mystic warriors, who see and know all things. You are deadly! Now you must destroy the vicious army of Neo Zeed. If you fail, then Naoko, their beautiful prisoner, dies! Attack with a ninja sword and crossed daggers! Somersault over fences while hurling deadly knives! Ward off bullets, Death Stars, and junked cars by leaping, twisting, and kicking! The Neo Zeed are masters of disguise. But you are a master of Shinobi, the art of stealth. You'll stalk the Neo Zeed through 24 treacherous scenes, while they stalk you! Battle ninja, musclemen, deadly lasers, and the diabolical Boss! Outfight Kung Fu gangs and armies of machine gunners. The Neo Zeed is almost unstoppable, but you have a secret weapon - ninja magic!</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Revenge of Shinobi, The (W) (REV03) [!]-image.jpg</image>
     <rating>0.56667</rating>
@@ -5519,7 +5519,7 @@ The majority of the game consists of air-to-ground attack while flying in the Ap
   <game id="4594" source="theGamesDB.net">
     <path>./Richard Scarry's Busytown (U) [!].zip</path>
     <name>Richard Scarry's Busytown</name>
-    <desc>This early version is different from its PC counterpart with this version featuring six different stages to choose from and each with their own type of gameplay:&amp;#x2022;Bruno's Deli: The player takes control of Huckle the Cat as they help Bruno serve his customers by selecting the items they have requested on a conveyor belt.
+    <desc>This early version is different from its PC counterpart with this version featuring six different stages to choose from and each with their own type of gameplay:&#x2022;Bruno's Deli: The player takes control of Huckle the Cat as they help Bruno serve his customers by selecting the items they have requested on a conveyor belt.
 
 - Captain Salty: The player uses Huckle again and uses a crane to piece together Salty's ship by dropping them in the required spot which is marked.
 
@@ -5685,7 +5685,7 @@ Rings of Power is quite different from traditional console RPGs gameplay-wise, a
   </game>
   <game id="4234" source="theGamesDB.net">
     <path>./Rocky and Bullwinkle, The Adventures of (U) [!].zip</path>
-    <name>The Adventures of Rocky and Bullwinkle and Friends</name>
+    <name>Adventures of Rocky and Bullwinkle and Friends, The</name>
     <desc>The Adventures of Rocky and Bullwinkle is the video game adaptation of the 60's cartoon series staring Bullwinkle, a moose, and Rocky, a flying squirrel. The game plays out much like an episode of the show. The story begins at the dedication of the Frostbite Falls Rocky and Bullwinkle museum. Unfortunately, the not-so-nice Boris and Natasha have disguised themselves as security guards for the museum and managed to steal some of the priceless artifacts.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Rocky and Bullwinkle, The Adventures of (U) [!]-image.jpg</image>
     <releasedate>19930101T000000</releasedate>
@@ -6009,7 +6009,7 @@ After each stage completed (and some luck), a bonus stage will appear, as well a
   </game>
   <game id="4674" source="theGamesDB.net">
     <path>./Simpsons, The - Bart vs The Space Mutants (UE) (REV01) [!].zip</path>
-    <name>The Simpsons: Bart vs. The Space Mutants</name>
+    <name>Simpsons: Bart vs. The Space Mutants, The</name>
     <desc>Bart vs. The Space Mutants is a platform game where the player goes into the role of Bart Simpson (from the TV show The Simpsons) and must stop the Space Mutants from invading Springfield.
 
 On each of the five levels, Bart must collect (or get rid of) the ingredients that the Space Mutants are planning to use to build their machine, such as purple objects or balloons. He also has to collect enough "proof" of the aliens existence (brown coins left behind when they are jumped on), so his family members will help him when he meets a boss (characters such as Nelson and Sideshow Bob). This won't be easy since the Space Mutants are "using" human bodies as disguise. In order to discover who are the real Space Mutants, Bart must use his X-ray Specs.
@@ -6023,7 +6023,7 @@ The ways Bart can get rid of those objects sought by the Space Mutants are numer
   </game>
   <game id="4675" source="theGamesDB.net">
     <path>./Simpsons, The - Bart's Nightmare (UE) (REV02) [!].zip</path>
-    <name>The Simpsons: Bart's Nightmare</name>
+    <name>Simpsons: Bart's Nightmare, The</name>
     <desc>Bart's Nightmare is an action game based on the TV cartoon show The Simpsons. The player navigates Bart through the side-scrolling overworld, collecting pages of his homework while avoiding various enemies modeled after characters from the show. For example, his sister Lisa would occasionally turn him into a frog, Principal Skinner may force him to wear a Sunday school uniform (slowing his movement), etc. Bart can repel enemies by blowing a bubble gum at them.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Simpsons, The - Bart's Nightmare (UE) (REV02) [!]-image.jpg</image>
     <releasedate>19930101T000000</releasedate>
@@ -6532,7 +6532,7 @@ Challenge world class athletes in eight formidable events including Equestrian, 
   <game id="695" source="theGamesDB.net">
     <path>./Sunset Riders (U) [!].zip</path>
     <name>Sunset Riders</name>
-    <desc>The game, which is set in a fanciful version of the American Old West, revolves around four bounty hunters who are out to claim rewards given for eliminating the most wanted outlaws in the West. There is no true "storyline" aside from collecting progressively larger rewards. At the beginning of each level the player is shown a wanted poster, showing the criminal, the reward for stopping them, and the clich&amp;#xE9; line "Wanted dead or alive".</desc>
+    <desc>The game, which is set in a fanciful version of the American Old West, revolves around four bounty hunters who are out to claim rewards given for eliminating the most wanted outlaws in the West. There is no true "storyline" aside from collecting progressively larger rewards. At the beginning of each level the player is shown a wanted poster, showing the criminal, the reward for stopping them, and the clich&#xE9; line "Wanted dead or alive".</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Sunset Riders (U) [!]-image.jpg</image>
     <releasedate>19910904T000000</releasedate>
     <developer>Konami</developer>
@@ -6702,11 +6702,11 @@ The titular Sword of Vermilion is the most powerful weapon at the end of the gam
     <name>Syd of Valis</name>
     <desc>Yuko Ahso looks like an ordinary grammar school student, but she is actually the Valis Warrior.
 
-"I defeated King Rogles of the Dark World with the Valis sword which was given to me by Queen Valia, but my friend Reiko died in the process" Yuko went home by train after that terrible fight. She didn&amp;#x2019;t have the slightest idea that she would be summoned to fight again.
+"I defeated King Rogles of the Dark World with the Valis sword which was given to me by Queen Valia, but my friend Reiko died in the process" Yuko went home by train after that terrible fight. She didn&#x2019;t have the slightest idea that she would be summoned to fight again.
 
-"Yuko..." said a familiar voice. &amp;#x201C;Reiko," said Yuko, "is that you? But I thought you..." Reiko quickly admonished, &amp;#x201C;Go and see Queen Valia, Yuko. Emperor Megas has threatened Dream World and our friend Vecanti.
+"Yuko..." said a familiar voice. &#x201C;Reiko," said Yuko, "is that you? But I thought you..." Reiko quickly admonished, &#x201C;Go and see Queen Valia, Yuko. Emperor Megas has threatened Dream World and our friend Vecanti.
 
-When Yuko was told of Vecanti&amp;#x2019;s great danger, a burning desire moved Yuko to action. She has risen to crush Megas&amp;#x2019; ambition!</desc>
+When Yuko was told of Vecanti&#x2019;s great danger, a burning desire moved Yuko to action. She has risen to crush Megas&#x2019; ambition!</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Syd of Valis (U) [!]-image.jpg</image>
     <releasedate>19921120T000000</releasedate>
     <developer>ISC</developer>
@@ -6815,11 +6815,11 @@ Fighting for the OPTOF (Outer Planet Treaty Organization Force),you pilot the As
   <game id="4654" source="theGamesDB.net">
     <path>./Technocop (U) [!].zip</path>
     <name>Techno Cop</name>
-    <desc>&amp;#x201C;I OPERATE ALONE&amp;#x2026; the D.O.A. Punks are out to stop me, but I&amp;#x2019;ve got orders to bring them in or drop &amp;#x2018;em dead.
+    <desc>&#x201C;I OPERATE ALONE&#x2026; the D.O.A. Punks are out to stop me, but I&#x2019;ve got orders to bring them in or drop &#x2018;em dead.
 
 To entice their cooperation, my VMAX TWIN-TURBO Interceptor is equipped with APACHE Side-Mounted cannons and PULSE long-range nuclear torpedoes.
 
-Packing a .95 AutoMag, designed for internal explosion of human targets and a TONARI snare gun&amp;#x2026; I play to win.&amp;#x201D; &amp;#x2013;TECHNOCOP</desc>
+Packing a .95 AutoMag, designed for internal explosion of human targets and a TONARI snare gun&#x2026; I play to win.&#x201D; &#x2013;TECHNOCOP</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Technocop (U) [!]-image.jpg</image>
     <releasedate>19900715T000000</releasedate>
     <developer>Gray Matter</developer>
@@ -6905,11 +6905,11 @@ Thus Taz becomes fascinated and leaves in search of one of those eggs before his
   <game id="20535" source="theGamesDB.net">
     <path>./Tecmo World Cup '93 (U) [!].zip</path>
     <name>Tecmo World Cup</name>
-    <desc>Tecmo World Cup '92 (&amp;#x30C6;&amp;#x30AF;&amp;#x30E2;&amp;#x30EF;&amp;#x30FC;&amp;#x30EB;&amp;#x30C9;&amp;#x30AB;&amp;#x30C3;&amp;#x30D7;'&amp;#xFF19;&amp;#xFF12;) is a 1992 port of Tecmo's 1990 NES game Tecmo World Cup Soccer to the Sega Mega Drive by SIMS. The American release, distributed by Atlus, is called simply Tecmo World Cup.
+    <desc>Tecmo World Cup '92 (&#x30C6;&#x30AF;&#x30E2;&#x30EF;&#x30FC;&#x30EB;&#x30C9;&#x30AB;&#x30C3;&#x30D7;'&#xFF19;&#xFF12;) is a 1992 port of Tecmo's 1990 NES game Tecmo World Cup Soccer to the Sega Mega Drive by SIMS. The American release, distributed by Atlus, is called simply Tecmo World Cup.
 
 The game is a conventional pseudo-3D soccer game. A and C pass the ball; B kicks.
 
-Sega was also in the process of making a Sega Master System port which would become Tecmo World Cup '93 &amp;#x2014; a prototype ROM of that with the name Tecmo World Cup '92 circulates.</desc>
+Sega was also in the process of making a Sega Master System port which would become Tecmo World Cup '93 &#x2014; a prototype ROM of that with the name Tecmo World Cup '92 circulates.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Tecmo World Cup '93 (U) [!]-image.jpg</image>
     <releasedate/>
     <developer>SIMS</developer>
@@ -6951,7 +6951,7 @@ Sega was also in the process of making a Sega Master System port which would bec
   </game>
   <game id="4677" source="theGamesDB.net">
     <path>./Terminator, The (U) [!].zip</path>
-    <name>The Terminator</name>
+    <name>Terminator, The</name>
     <desc>Kyle Reese, a lone warrior from the future, returns to the past to protect the one woman who holds the key to the survival of the human race. Together they must face not only everything Los Angeles has to throw at them, but also the terrifying might of a cyborg known as the Terminator... who will stop at nothing to kill them both!</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Terminator, The (U) [!]-image.jpg</image>
     <releasedate>19910101T000000</releasedate>
@@ -6962,7 +6962,7 @@ Sega was also in the process of making a Sega Master System port which would bec
   </game>
   <game id="1908" source="theGamesDB.net">
     <path>./Test Drive II - The Duel (U) [!].zip</path>
-    <name>The Duel: Test Drive II</name>
+    <name>Duel: Test Drive II, The</name>
     <desc>In the sequel to Test Drive, you can play against the time or the computer. Choose between a Ferrari F-40 and a Porsche 959, and take on your opponent, who is in the other car. There is also traffic to avoid. Each stage has a different setting, including forests and mountains, with a wide range of hazards to dodge. The game is designed to allow for scenario disks. To finish a stage, you must stop at the gas station by yourself, which allows you to refuel.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Test Drive II - The Duel (U) [!]-image.jpg</image>
     <releasedate>19890101T000000</releasedate>
@@ -7033,7 +7033,7 @@ Walk through the levels and destroy enemies using your knife and defeat the end-
   </game>
   <game id="4678" source="theGamesDB.net">
     <path>./Tick, The (U) [!].zip</path>
-    <name>The Tick</name>
+    <name>Tick, The</name>
     <desc>Get ready to put your blue skin-tight tights on. Ninjas need beating-up, bosses need clobbering! You run around the levels avoiding sharp flying objects and fighting any enemies that get in your way, including the numerous bosses. If your in a tight spot you can call Arthur to help defeat any enemies that are on-screen.</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Tick, The (U) [!]-image.jpg</image>
     <rating>0.55</rating>
@@ -7493,7 +7493,7 @@ The gameplay is the standard fighting game, using one of the three different Tro
     <desc>Somewhere in the Dark World, evil rears its ugly head once again...
 A black-hearted man named Glames, possessor of a sword named Leethus, threatens the Human World, the Dream World, and the Dark World with complete and utter destruction. A young girl from the Dark World named Cham escapes from Glames, and seeks help to destroy him.
 
-She comes to the Human World, searching for the Valis Warrior, Y&amp;#x16B;ko Asou, and more importantly, the Valis Sword.
+She comes to the Human World, searching for the Valis Warrior, Y&#x16B;ko Asou, and more importantly, the Valis Sword.
 
 Yuko must now help Cham defeat Glames before the three worlds are torn apart!</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Valis III (U) [!]-image.jpg</image>
@@ -7792,7 +7792,7 @@ Note: Laid the groundwork for Soul Edge (1995)--the first of the Souls games. Vi
     <desc>Carmen Sandiego and her gang are loose once again, and it is the players job to capture her! This time round the player not only has to find where she is, but also when she is. Traveling to various locations, they need to assemble clues by questioning witnesses and searching locations to close in and capture Carmen Sandiego. Included with the game is The New America Desk Encyclopedia to help make clues more meaningful (and act as a form of copy protection!).</desc>
     <image>~/.emulationstation/downloaded_images/megadrive/Where in Time is Carmen Sandiego (UE) (M5) [!]-image.jpg</image>
     <releasedate>19920101T000000</releasedate>
-    <developer>Br&amp;#xF8;derbund Software</developer>
+    <developer>Br&#xF8;derbund Software</developer>
     <publisher>Electronic Arts</publisher>
     <genre>Puzzle</genre>
     <players>1</players>
@@ -8178,12 +8178,12 @@ In order to eliminate the other shapes, you must point your piece at it and 'fir
     <path>./Genesis 6-Pak (U) [!].zip</path>
     <name>6-Pak</name>
     <desc>6-PAK is a compilation of six of SEGA's most popular "franchise" games released in the early days of the Genesis. Included are the following:
- &amp;#x2022;Columns
- &amp;#x2022;Golden Axe
- &amp;#x2022;Revenge of Shinobi
- &amp;#x2022;Sonic the Hedgehog
- &amp;#x2022;Streets of Rage
- &amp;#x2022;Super Hang-On</desc>
+ &#x2022;Columns
+ &#x2022;Golden Axe
+ &#x2022;Revenge of Shinobi
+ &#x2022;Sonic the Hedgehog
+ &#x2022;Streets of Rage
+ &#x2022;Super Hang-On</desc>
     <image>/home/pi/.emulationstation/downloaded_images/megadrive/Genesis 6-Pak (U) [!]-image.jpg</image>
     <releasedate>19960101T000000</releasedate>
     <developer>Compilation</developer>
@@ -8272,7 +8272,7 @@ But now one of the biggest criminals in the city, Wilson Fisk, a.k.a. The Kingpi
   <game>
     <path>./Sorcerian (J) [T+Eng10%_NaflignsEgo].zip</path>
     <name>Sorcerian</name>
-    <desc>Sorcerian (&amp;#x30BD;&amp;#x30FC;&amp;#x30B5;&amp;#x30EA;&amp;#x30A2;&amp;#x30F3;) is the fifth main game in Falcom's Dragon Slayer series of RPGs, first released for the NEC PC-88 in 1987 before being ported to a variety of other systems. Sega ported it to the Sega Mega Drive in 1990 &amp;#x2014; this port was not released outside Japan (the IBM PC port was the only port of the time to be released outside Japan, published by Sierra) and unlike the other Mega Drive Dragon Slayer games, is not a product of the later Sega Falcom partnership.
+    <desc>Sorcerian (&#x30BD;&#x30FC;&#x30B5;&#x30EA;&#x30A2;&#x30F3;) is the fifth main game in Falcom's Dragon Slayer series of RPGs, first released for the NEC PC-88 in 1987 before being ported to a variety of other systems. Sega ported it to the Sega Mega Drive in 1990 &#x2014; this port was not released outside Japan (the IBM PC port was the only port of the time to be released outside Japan, published by Sierra) and unlike the other Mega Drive Dragon Slayer games, is not a product of the later Sega Falcom partnership.
 
 In the main series, Sorcerian was followed by Dragon Slayer: Eiyuu Densetsu. However, as with other main series entries, Sorcerian received a number of its own sequels on Japanese home computers, including the Dreamcast game Sorcerian: Shichisei Mahou no Shito.</desc>
     <image>/home/pi/.emulationstation/downloaded_images/megadrive/Sorcerian (J) [T+Eng10%_NaflignsEgo]-image.jpg</image>
