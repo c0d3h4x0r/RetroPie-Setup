@@ -200,11 +200,22 @@ for file in $gamelist_files; do
       clean_gamelist="$original_gamelist"
       original_gamelist="$backup_gamelist"
     fi
-    
-    # use a temp file to convert &#39; to single quotes and "&" to "&amp: on the whole gamelist.xml even if the file has both "&" and "&amp;"
-    # also replace Windows-style EOLs with UNIX-style EOLs to avoid displaying garbage characters in the emulationstation UI
+
+    # We're going to use sed to clean some things up
     temp_gamelist="/tmp/gamelist-$system.xml"
-    sed "s/\&/&amp;/g; s/;amp;/;/g; s/&amp;#39;/'/g; s/\r//g" "$original_gamelist" > "$temp_gamelist"
+
+    # Convert &#39; to single quotes
+    sed_cmd=("s/&amp;#39;/'/g;")
+
+    # Convert literal "&" (not already used as part of a character encoding) to "&amp;"
+    sed_cmd+=('s/&([^ ;]+);/LITERAL_AMPERSAND\1;/g; s/&/\&amp;/g; s/LITERAL_AMPERSAND([^ ;]+);/\&\1;/g;')
+
+    # Replace Windows-style EOLs with UNIX-style EOLs
+    sed_cmd+=("s/\r//g;")
+
+    # Now do it
+    sed -E "${sed_cmd[*]}" "$original_gamelist" > "$temp_gamelist"
+
     original_gamelist=$(readlink -e "$temp_gamelist")
     cat "$original_gamelist" > "$clean_gamelist"
 
