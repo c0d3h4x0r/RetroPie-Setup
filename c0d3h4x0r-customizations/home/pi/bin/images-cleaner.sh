@@ -128,6 +128,9 @@ function images_loop() {
         gamelist_directory="$GAMELISTS_DIR/$sys"
     fi
 
+    [[ -d "$images_directory" ]] || return 0
+    [[ "$(ls -A "$images_directory")" ]] || return 0
+
     # Loop over all the images in the system
     for file in "$images_directory"/*
         do
