@@ -2,6 +2,7 @@
 # http://rpf.io/configtxt
 # Some settings may impact device functionality. See link above for details
 
+[all]
 # uncomment if you get no picture on HDMI for a default "safe" mode
 #hdmi_safe=1
 
@@ -113,7 +114,9 @@ gpu_mem=256
 # Temperature at which the clocks and voltages auto-revert to default
 # for overheat protection.  Values over 85 are clamped to 85.
 #temp_limit=75
+[all]
 
+[pi3]
 # Disable on-board Bluetooth (inteferes with on-board WiFi)
 dtoverlay=pi3-disable-bt
 
