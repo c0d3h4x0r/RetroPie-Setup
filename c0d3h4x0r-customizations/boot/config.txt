@@ -113,10 +113,11 @@ gpu_mem=256
 # Temperature at which the clocks and voltages auto-revert to default
 # for overheat protection.  Values over 85 are clamped to 85.
 #temp_limit=75
-# Disable on-board Bluetooth (piss-poor reception)
+
+# Disable on-board Bluetooth (inteferes with on-board WiFi)
 dtoverlay=pi3-disable-bt
 
-# Disable on-board WiFi (interferes with Bluetooth)
+# Disable on-board WiFi (interferes with on-board Bluetooth)
 #dtoverlay=pi3-disable-wifi
 [all]
 
@@ -124,4 +125,10 @@ dtoverlay=pi3-disable-bt
 # Enable DRM VC4 V3D driver on top of the dispmanx display stack
 dtoverlay=vc4-fkms-v3d
 max_framebuffers=2
+
+# Disable on-board Bluetooth
+dtoverlay=disable-bt (interferes with on-board WiFi)
+
+# Disable on-board WiFi
+#dtoverlay=disable-wifi (interferes with on-board Bluetooth)
 [all]

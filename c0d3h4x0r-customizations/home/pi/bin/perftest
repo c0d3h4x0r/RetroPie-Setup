@@ -1,5 +1,15 @@
 #!/usr/bin/env bash
 
+if ! command -v sysbench >/dev/null; then
+    echo "error: 'sysbench' not found"
+    if ! apt list --installed sysbench >/dev/null 2>&1; then
+        echo "error: sysbench not installed, please run 'sudo apt-get install sysbench'"
+    else
+        echo "error: ensure 'sysbench' is in your Path"
+    fi
+    exit 1
+fi
+
 function print_system_status()
 {
     cpuFreqHz=$(cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq)
@@ -45,5 +55,5 @@ function run_sysbench_and_report()
 }
 
 print_system_status
-#run_sysbench_and_report "1000" "force CPU to ramp up to Turbo speed"
-#run_sysbench_and_report "50000" "test stability and thermals"
+run_sysbench_and_report "1000" "force CPU to ramp up to Turbo speed"
+run_sysbench_and_report "50000" "test stability and thermals"
