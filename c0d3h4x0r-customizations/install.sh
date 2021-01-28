@@ -32,6 +32,7 @@ apt-get install -y bc  # for hw_status
 sed --in-place 's/ quiet//g; s/$/ quiet/g' /boot/cmdline.txt
 
 # ensure CPU governor is always set to performance
+[ -e /etc/init.d/raspi-config ] && rm /etc/init.d/raspi-config
 sed -z -i -E 's/raspi-config //g; s/raspi-config: [^\n]*\n//g' .depend.boot
 sed -z -i -E 's/raspi-config //g; s/raspi-config: [^\n]*\n//g' .depend.start
 SYS_CPU_GOVERNOR=/sys/devices/system/cpu/cpu0/cpufreq/scaling_governor

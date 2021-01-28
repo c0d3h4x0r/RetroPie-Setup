@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
 
-curl https://download.argon40.com/argon1.sh > ~/bin/argon1.sh
-bash ~/bin/argon1.sh
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
+
+curl https://download.argon40.com/argon1.sh > "$SCRIPT_DIR/argon1.sh"
+bash "$SCRIPT_DIR/argon1.sh"
