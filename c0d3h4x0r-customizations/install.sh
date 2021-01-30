@@ -38,4 +38,4 @@ sed -z -i -E 's/raspi-config //g; s/raspi-config: [^\n]*\n//g' .depend.start
 SYS_CPU_GOVERNOR=/sys/devices/system/cpu/cpu0/cpufreq/scaling_governor
 [ -e "$SYS_CPU_GOVERNOR" ] && echo "performance" > "$SYS_CPU_GOVERNOR"
 
-echo "Remember to run argoneone-install and argonone-config if you are using an Argon ONE case."
+echo "Remember to run argoneone-install if you are using an Argon ONE case."
